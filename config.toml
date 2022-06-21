@@ -2,5 +2,34 @@ baseURL = 'https://freshlymarried.com'
 languageCode = 'en-us'
 title = 'Freshly Married'
 theme = "ananke"
+
 [permalinks]
   posts = '/:title/'
+
+sectionPagesMenu = "main"
+paginate = 20
+enableRobotsTXT = true
+
+[sitemap]
+  changefreq = "monthly"
+  priority = 0.5
+  filename = "sitemap.xml"
+
+[params]
+  author = "Amy Miller"
+  favicon = "/images/favicon.png"
+  site_logo = "/images/logo.png"
+  description = "Keepin' marriage fresh"
+  recent_posts_number = 20
+
+[[params.ananke_socials]]
+name = "facebook"
+url = "https://www.facebook.com/freshlymarriedadventures/"
+
+[[params.ananke_socials]]
+name = "instagram"
+url = "https://instagram.com/freshlymarried"
+
+[[params.ananke_socials]]
+name = "twitter"
+url = "https://twitter.com/freshly_married"
