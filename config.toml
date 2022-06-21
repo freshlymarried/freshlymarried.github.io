@@ -6,7 +6,6 @@ sectionPagesMenu = "main"
 paginate = 20
 googleAnalytics = "UA-46767990-1"
 enableRobotsTXT = true
-copyright = "Freshly Married, LLC. All rights reserved. This site does not provide medical or mental health counseling advice, diagnosis or treatment. Freshly Married is a for-profit website, meaning that it may contain paid advertisements, sponsored posts and giveaways, and affiliate links. Sponsored content will be labeled as such. The products and companies that I share are ones that can somehow benefit your family relationships, as that’s what Freshly Married’s mission is. Opinions are my own. Freshly Married is a participant in the Amazon Services LLC Associates Program, an affiliate advertising program designed to provide a means for sites to earn advertising fees by advertising and linking to amazon.com."
 
 [permalinks]
   posts = '/:title/'
@@ -22,6 +21,7 @@ copyright = "Freshly Married, LLC. All rights reserved. This site does not provi
   site_logo = "/images/logo.png"
   description = "Keepin' marriage fresh"
   recent_posts_number = 20
+  disclaimer = "This site does not provide medical or mental health counseling advice, diagnosis or treatment. Freshly Married is a for-profit website, meaning that it may contain paid advertisements, sponsored posts and giveaways, and affiliate links. Sponsored content will be labeled as such. The products and companies that I share are ones that can somehow benefit your family relationships, as that’s what Freshly Married’s mission is. Opinions are my own. Freshly Married is a participant in the Amazon Services LLC Associates Program, an affiliate advertising program designed to provide a means for sites to earn advertising fees by advertising and linking to amazon.com."
 
 [[params.ananke_socials]]
 name = "facebook"
