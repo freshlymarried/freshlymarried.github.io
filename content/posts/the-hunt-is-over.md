@@ -1,7 +1,7 @@
 ---
 title: "The Hunt Is Over"
 date: "2015-07-23"
-categories: 
+tags:
   - "all"
   - "celebrate"
   - "engagement"

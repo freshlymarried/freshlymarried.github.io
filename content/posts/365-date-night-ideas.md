@@ -1,7 +1,7 @@
 ---
 title: "365 Date Night Ideas"
 date: "2014-03-06"
-categories: 
+tags:
   - "all"
   - "dates"
   - "friendship"

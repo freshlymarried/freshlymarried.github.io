@@ -1,7 +1,7 @@
 ---
 title: "An Affair is an Extremely Stupid Idea"
 date: "2015-08-23"
-categories: 
+tags:
   - "all"
   - "conflict"
   - "forgiveness"

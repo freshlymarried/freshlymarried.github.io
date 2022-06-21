@@ -1,7 +1,7 @@
 ---
 title: "The Difference a Picture Can Make"
 date: "2015-01-29"
-categories: 
+tags:
   - "all"
   - "celebrate"
   - "effort"

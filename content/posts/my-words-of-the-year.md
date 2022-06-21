@@ -1,7 +1,7 @@
 ---
 title: "My Words of The Year"
 date: "2019-01-18"
-categories: 
+tags:
   - "all"
   - "celebrate"
   - "children"

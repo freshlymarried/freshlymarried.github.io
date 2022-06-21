@@ -1,7 +1,7 @@
 ---
 title: "Spotlight: Marriage and Medical School"
 date: "2016-08-17"
-categories: 
+tags:
   - "all"
   - "spotlights"
 featured_image: "/images/raquel-blog-size-spotlight.png"

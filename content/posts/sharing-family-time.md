@@ -1,7 +1,7 @@
 ---
 title: "6 Tips For Sharing Time Between Families"
 date: "2015-01-21"
-categories: 
+tags:
   - "all"
   - "communication"
   - "effort"

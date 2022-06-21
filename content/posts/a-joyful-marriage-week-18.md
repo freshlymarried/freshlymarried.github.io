@@ -1,7 +1,7 @@
 ---
 title: "A Joyful Marriage - Week 18"
 date: "2017-05-08"
-categories: 
+tags:
   - "ajoyfulmarriage"
   - "all"
   - "journal"

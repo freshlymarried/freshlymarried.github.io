@@ -1,7 +1,7 @@
 ---
 title: "The Key to Finding Your Romantic Spark Again"
 date: "2017-01-11"
-categories: 
+tags:
   - "all"
   - "dates"
   - "effort"

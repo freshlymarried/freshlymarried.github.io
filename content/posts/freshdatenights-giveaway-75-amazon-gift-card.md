@@ -1,7 +1,7 @@
 ---
 title: "#freshdatenights Giveaway: $75 Amazon Gift Card!"
 date: "2016-03-19"
-categories: 
+tags:
   - "all"
   - "celebrate"
   - "dates"

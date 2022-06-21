@@ -1,7 +1,7 @@
 ---
 title: "The Married Journal"
 date: "2016-06-20"
-categories: 
+tags:
   - "all"
   - "celebrate"
   - "communication"

@@ -1,7 +1,7 @@
 ---
 title: "How to Try New Techniques, Even If Your Spouse Won't"
 date: "2016-07-13"
-categories: 
+tags:
   - "all"
   - "communication"
   - "conflict"

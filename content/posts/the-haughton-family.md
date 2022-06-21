@@ -1,7 +1,7 @@
 ---
 title: "The Haughton Family"
 date: "2014-02-12"
-categories: 
+tags:
   - "all"
   - "spotlights"
 featured_image: "/images/image.jpg"

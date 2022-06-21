@@ -1,7 +1,7 @@
 ---
 title: "LDS Weddings 101: The Planning"
 date: "2013-07-29"
-categories: 
+tags:
   - "all"
   - "celebrate"
   - "engagement"

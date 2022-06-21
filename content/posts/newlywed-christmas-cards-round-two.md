@@ -1,7 +1,7 @@
 ---
 title: "Newlywed Christmas Cards: Round Two"
 date: "2015-12-27"
-categories: 
+tags:
   - "all"
   - "celebrate"
   - "journal"

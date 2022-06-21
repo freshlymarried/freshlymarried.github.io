@@ -1,7 +1,7 @@
 ---
 title: "When You View Your Spouse as an Obstacle"
 date: "2017-07-25"
-categories: 
+tags:
   - "all"
   - "effort"
   - "forgiveness"

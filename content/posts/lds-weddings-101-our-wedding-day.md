@@ -1,7 +1,7 @@
 ---
 title: "LDS Weddings 101: Our Wedding Day"
 date: "2013-07-29"
-categories: 
+tags:
   - "all"
   - "celebrate"
   - "engagement"

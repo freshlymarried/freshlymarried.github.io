@@ -1,7 +1,7 @@
 ---
 title: "Love is Like The North Star"
 date: "2016-02-14"
-categories: 
+tags:
   - "all"
   - "goals"
   - "quotes"

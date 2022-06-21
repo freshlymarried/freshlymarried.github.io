@@ -1,7 +1,7 @@
 ---
 title: "A Joyful Marriage - Week 37"
 date: "2017-09-18"
-categories: 
+tags:
   - "ajoyfulmarriage"
   - "all"
   - "funny"

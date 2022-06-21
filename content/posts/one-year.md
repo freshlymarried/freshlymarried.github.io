@@ -1,7 +1,7 @@
 ---
 title: "One Year"
 date: "2014-05-25"
-categories: 
+tags:
   - "all"
   - "celebrate"
   - "friendship"

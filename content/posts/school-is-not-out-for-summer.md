@@ -1,7 +1,7 @@
 ---
 title: "School is Not Out For Summer"
 date: "2014-06-03"
-categories: 
+tags:
   - "all"
   - "effort"
   - "techniques"

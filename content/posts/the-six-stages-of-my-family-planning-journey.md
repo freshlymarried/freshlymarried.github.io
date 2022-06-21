@@ -1,7 +1,7 @@
 ---
 title: "The Six Stages of My Family Planning Journey"
 date: "2016-01-25"
-categories: 
+tags:
   - "all"
   - "children"
   - "friendship"

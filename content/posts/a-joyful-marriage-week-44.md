@@ -1,7 +1,7 @@
 ---
 title: "A Joyful Marriage - Week 44"
 date: "2017-11-06"
-categories: 
+tags:
   - "ajoyfulmarriage"
   - "all"
   - "dates"

@@ -1,7 +1,7 @@
 ---
 title: "#freshfridays: What Will You Do This Anniversary to Keep Your Marriage Fresh?"
 date: "2016-06-04"
-categories: 
+tags:
   - "freshfridays"
   - "all"
   - "effort"

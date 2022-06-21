@@ -1,7 +1,7 @@
 ---
 title: "The Game Manual For Marriage"
 date: "2019-06-12"
-categories: 
+tags:
   - "all"
   - "communication"
   - "conflict"

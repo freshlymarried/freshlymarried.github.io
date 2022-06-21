@@ -1,7 +1,7 @@
 ---
 title: "9 Misconceptions About Therapy"
 date: "2017-02-01"
-categories: 
+tags:
   - "all"
   - "conflict"
   - "effort"

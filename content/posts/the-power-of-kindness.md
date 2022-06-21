@@ -1,7 +1,7 @@
 ---
 title: "The Power of Kindness"
 date: "2015-10-02"
-categories: 
+tags:
   - "all"
   - "conflict"
   - "effort"

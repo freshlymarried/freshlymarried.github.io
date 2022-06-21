@@ -1,7 +1,7 @@
 ---
 title: "The Compromise Of 2013"
 date: "2013-10-27"
-categories: 
+tags:
   - "all"
   - "communication"
   - "conflict"

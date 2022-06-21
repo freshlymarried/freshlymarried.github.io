@@ -1,7 +1,7 @@
 ---
 title: "Phone-a-Friend"
 date: "2015-12-17"
-categories: 
+tags:
   - "all"
   - "communication"
   - "conflict"

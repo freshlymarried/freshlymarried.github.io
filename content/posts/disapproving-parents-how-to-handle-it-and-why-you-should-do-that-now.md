@@ -1,7 +1,7 @@
 ---
 title: "Disapproving Parents: How to Handle it and Why You Should Do That Now"
 date: "2017-01-18"
-categories: 
+tags:
   - "all"
   - "conflict"
   - "quotes"

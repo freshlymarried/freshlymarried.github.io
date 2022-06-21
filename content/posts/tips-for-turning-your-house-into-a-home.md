@@ -1,7 +1,7 @@
 ---
 title: "Tips For Turning Your House Into a HOME"
 date: "2017-06-07"
-categories: 
+tags:
   - "all"
   - "home"
   - "journal"

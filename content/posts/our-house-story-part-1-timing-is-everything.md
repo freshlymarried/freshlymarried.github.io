@@ -1,7 +1,7 @@
 ---
 title: "Our House Story Part 1: Timing is Everything"
 date: "2014-07-27"
-categories: 
+tags:
   - "all"
   - "celebrate"
   - "goals"

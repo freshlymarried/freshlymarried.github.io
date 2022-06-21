@@ -1,7 +1,7 @@
 ---
 title: "How Life Changes Your Grocery Budget"
 date: "2016-04-21"
-categories: 
+tags:
   - "all"
   - "dates"
   - "finances"

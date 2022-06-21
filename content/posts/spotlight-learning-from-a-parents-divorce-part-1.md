@@ -1,7 +1,7 @@
 ---
 title: "Spotlight: Learning From a Parents' Divorce (Part 1)"
 date: "2017-10-11"
-categories: 
+tags:
   - "all"
   - "conflict"
   - "spotlights"

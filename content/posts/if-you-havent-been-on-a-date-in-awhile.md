@@ -1,7 +1,7 @@
 ---
 title: "If You Haven't Been On a Date in Awhile..."
 date: "2016-04-28"
-categories: 
+tags:
   - "all"
   - "children"
   - "dates"

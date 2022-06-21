@@ -1,7 +1,7 @@
 ---
 title: "The Three Month Milestone"
 date: "2013-08-04"
-categories: 
+tags:
   - "all"
   - "communication"
   - "effort"

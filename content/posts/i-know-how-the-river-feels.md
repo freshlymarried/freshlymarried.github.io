@@ -1,7 +1,7 @@
 ---
 title: "I Know How The River Feels"
 date: "2014-05-18"
-categories: 
+tags:
   - "all"
   - "journal"
   - "quotes"

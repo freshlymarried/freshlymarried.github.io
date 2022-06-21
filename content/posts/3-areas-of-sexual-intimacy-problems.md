@@ -1,7 +1,7 @@
 ---
 title: "3 Areas of Sexual Intimacy Problems"
 date: "2018-04-30"
-categories: 
+tags:
   - "all"
   - "conflict"
   - "sex"

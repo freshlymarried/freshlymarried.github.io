@@ -1,7 +1,7 @@
 ---
 title: "Valentine's Day Giveaway"
 date: "2014-02-10"
-categories: 
+tags:
   - "all"
   - "celebrate"
   - "dates"

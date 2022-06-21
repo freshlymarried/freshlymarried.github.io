@@ -1,7 +1,7 @@
 ---
 title: "Bringing More Creativity to Your Relationship"
 date: "2019-04-14"
-categories: 
+tags:
   - "all"
   - "dates"
   - "effort"

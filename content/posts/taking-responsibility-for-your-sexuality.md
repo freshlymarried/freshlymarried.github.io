@@ -1,7 +1,7 @@
 ---
 title: "Taking Responsibility For Your Sexuality"
 date: "2017-03-15"
-categories: 
+tags:
   - "all"
   - "giveaways"
   - "quotes"

@@ -1,7 +1,7 @@
 ---
 title: "Submit Your Own Spotlight"
 date: "2014-01-19"
-categories: 
+tags:
   - "all"
   - "spotlights"
 featured_image: "/images/spotlight.png"

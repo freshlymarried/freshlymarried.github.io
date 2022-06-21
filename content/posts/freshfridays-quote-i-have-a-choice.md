@@ -1,7 +1,7 @@
 ---
 title: "#freshfridays Quote: I Have a Choice"
 date: "2016-08-19"
-categories: 
+tags:
   - "freshfridays"
   - "all"
   - "conflict"

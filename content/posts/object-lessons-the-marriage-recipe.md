@@ -1,7 +1,7 @@
 ---
 title: "Object Lessons: The Marriage Recipe"
 date: "2016-07-25"
-categories: 
+tags:
   - "all"
   - "effort"
   - "friendship"

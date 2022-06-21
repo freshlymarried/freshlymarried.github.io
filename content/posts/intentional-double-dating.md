@@ -1,7 +1,7 @@
 ---
 title: "Intentional Double Dating"
 date: "2016-05-18"
-categories: 
+tags:
   - "all"
   - "communication"
   - "dates"

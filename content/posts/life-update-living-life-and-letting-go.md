@@ -1,7 +1,7 @@
 ---
 title: "Life Update: Living Life and Letting Go"
 date: "2020-01-29"
-categories: 
+tags:
   - "all"
   - "children"
   - "dates"

@@ -1,7 +1,7 @@
 ---
 title: "Freshly Married Videos: Good Advice From Our Wedding Day"
 date: "2016-05-06"
-categories: 
+tags:
   - "all"
   - "communication"
   - "conflict"

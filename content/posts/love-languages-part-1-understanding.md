@@ -1,7 +1,7 @@
 ---
 title: "Love Languages Part 1: Understanding"
 date: "2016-02-02"
-categories: 
+tags:
   - "all"
   - "communication"
   - "conflict"

@@ -1,7 +1,7 @@
 ---
 title: "Meant to be"
 date: "2016-06-24"
-categories: 
+tags:
   - "all"
   - "engagement"
   - "goals"

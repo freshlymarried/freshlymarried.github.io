@@ -1,7 +1,7 @@
 ---
 title: "My Best Friend's Wedding(s)"
 date: "2013-07-02"
-categories: 
+tags:
   - "all"
   - "celebrate"
   - "dates"

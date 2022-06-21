@@ -1,7 +1,7 @@
 ---
 title: "New Year's Resolutions: Married-Style"
 date: "2015-01-07"
-categories: 
+tags:
   - "all"
   - "celebrate"
   - "goals"

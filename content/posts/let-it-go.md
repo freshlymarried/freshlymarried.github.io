@@ -1,7 +1,7 @@
 ---
 title: "Let It Go"
 date: "2016-03-04"
-categories: 
+tags:
   - "all"
   - "conflict"
   - "effort"

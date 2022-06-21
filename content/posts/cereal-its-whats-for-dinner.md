@@ -1,7 +1,7 @@
 ---
 title: "Cereal: It's What's For Dinner"
 date: "2014-03-12"
-categories: 
+tags:
   - "all"
   - "funny"
   - "journal"

@@ -1,7 +1,7 @@
 ---
 title: "A Joyful Marriage - Week 23"
 date: "2017-06-12"
-categories: 
+tags:
   - "ajoyfulmarriage"
   - "all"
   - "finances"

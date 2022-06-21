@@ -1,7 +1,7 @@
 ---
 title: "Marriage is \"Hard Work\""
 date: "2016-09-12"
-categories: 
+tags:
   - "all"
   - "effort"
   - "goals"

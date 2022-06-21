@@ -1,7 +1,7 @@
 ---
 title: "Newlywed Christmas Cards"
 date: "2014-12-30"
-categories: 
+tags:
   - "all"
   - "celebrate"
   - "funny"

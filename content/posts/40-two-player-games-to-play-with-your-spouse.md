@@ -1,7 +1,7 @@
 ---
 title: "40 Two-Player Games to Play With Your Spouse"
 date: "2016-12-08"
-categories: 
+tags:
   - "all"
   - "dates"
   - "friendship"

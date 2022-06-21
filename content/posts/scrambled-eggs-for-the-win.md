@@ -1,7 +1,7 @@
 ---
 title: "Scrambled Eggs For the Win"
 date: "2016-03-24"
-categories: 
+tags:
   - "all"
   - "celebrate"
   - "funny"

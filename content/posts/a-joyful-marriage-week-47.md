@@ -1,7 +1,7 @@
 ---
 title: "A Joyful Marriage - Week 47"
 date: "2017-11-27"
-categories: 
+tags:
   - "all"
 featured_image: "/images/ajm-week-47.png"
 ---

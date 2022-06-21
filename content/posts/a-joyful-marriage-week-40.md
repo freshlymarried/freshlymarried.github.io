@@ -1,7 +1,7 @@
 ---
 title: "A Joyful Marriage - Week 40"
 date: "2017-10-10"
-categories: 
+tags:
   - "ajoyfulmarriage"
   - "all"
   - "journal"

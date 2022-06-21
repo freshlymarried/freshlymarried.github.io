@@ -1,7 +1,7 @@
 ---
 title: "Fire-Wife Life"
 date: "2015-12-09"
-categories: 
+tags:
   - "all"
   - "friendship"
   - "goals"

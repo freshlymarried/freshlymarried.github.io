@@ -1,7 +1,7 @@
 ---
 title: "A Joyful Marriage - Week 42"
 date: "2017-10-23"
-categories: 
+tags:
   - "ajoyfulmarriage"
   - "all"
   - "journal"

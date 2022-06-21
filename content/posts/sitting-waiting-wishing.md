@@ -1,7 +1,7 @@
 ---
 title: "Sitting, Waiting, Wishing"
 date: "2014-10-23"
-categories: 
+tags:
   - "all"
   - "religious"
 featured_image: "/images/IMG_0316.jpg"

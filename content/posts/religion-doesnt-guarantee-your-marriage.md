@@ -1,7 +1,7 @@
 ---
 title: "Religion Doesn't Guarantee A Lasting Marriage"
 date: "2016-04-13"
-categories: 
+tags:
   - "all"
   - "effort"
   - "goals"

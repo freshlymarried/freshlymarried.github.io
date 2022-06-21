@@ -1,7 +1,7 @@
 ---
 title: "3 Ways to Keep Video Gaming From Harming Your Marriage"
 date: "2016-09-13"
-categories: 
+tags:
   - "all"
   - "conflict"
   - "friendship"

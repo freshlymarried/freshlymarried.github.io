@@ -1,7 +1,7 @@
 ---
 title: "Love is Spelled T-I-M-E"
 date: "2016-07-24"
-categories: 
+tags:
   - "all"
   - "effort"
   - "quotes"

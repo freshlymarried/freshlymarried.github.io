@@ -1,7 +1,7 @@
 ---
 title: "Dentist Dilemma"
 date: "2013-08-11"
-categories: 
+tags:
   - "all"
   - "conflict"
   - "funny"

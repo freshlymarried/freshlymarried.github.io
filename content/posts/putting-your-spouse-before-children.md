@@ -1,7 +1,7 @@
 ---
 title: "Prioritizing My Spouse"
 date: "2015-04-21"
-categories: 
+tags:
   - "all"
   - "children"
   - "communication"

@@ -1,7 +1,7 @@
 ---
 title: "Scissors and Glue"
 date: "2014-05-05"
-categories: 
+tags:
   - "all"
   - "communication"
   - "conflict"

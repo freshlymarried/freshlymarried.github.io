@@ -1,7 +1,7 @@
 ---
 title: "2 Crucial Words for Handling Different Opinions in Marriage"
 date: "2016-10-20"
-categories: 
+tags:
   - "all"
   - "communication"
   - "conflict"

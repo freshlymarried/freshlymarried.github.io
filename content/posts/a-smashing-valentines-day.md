@@ -1,7 +1,7 @@
 ---
 title: "A Smashing Valentine's Day"
 date: "2016-02-12"
-categories: 
+tags:
   - "all"
   - "celebrate"
   - "dates"

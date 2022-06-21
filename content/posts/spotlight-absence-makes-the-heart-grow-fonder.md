@@ -1,7 +1,7 @@
 ---
 title: "Spotlight: Absence Makes the Heart Grow Fonder"
 date: "2017-05-31"
-categories: 
+tags:
   - "all"
   - "spotlights"
 featured_image: "/images/sydneys-spotlight-1.png"

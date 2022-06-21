@@ -1,7 +1,7 @@
 ---
 title: "Important Thoughts on Success and Failure in Marriage"
 date: "2017-10-25"
-categories: 
+tags:
   - "all"
   - "conflict"
   - "quotes"

@@ -1,7 +1,7 @@
 ---
 title: "Marriage Goals: 3 Reasons Why It's Important"
 date: "2015-12-30"
-categories: 
+tags:
   - "all"
   - "effort"
   - "goals"

@@ -1,7 +1,7 @@
 ---
 title: "What is Mine is Yours"
 date: "2014-01-29"
-categories: 
+tags:
   - "all"
   - "communication"
   - "conflict"

@@ -1,7 +1,7 @@
 ---
 title: "10 Ways to Journal Your Life Together"
 date: "2016-06-21"
-categories: 
+tags:
   - "all"
   - "celebrate"
   - "communication"

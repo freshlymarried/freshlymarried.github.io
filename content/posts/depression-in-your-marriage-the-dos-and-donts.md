@@ -1,7 +1,7 @@
 ---
 title: "Depression in Your Marriage: The Do's and Don'ts"
 date: "2016-08-03"
-categories: 
+tags:
   - "all"
   - "communication"
   - "effort"

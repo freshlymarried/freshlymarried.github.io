@@ -1,7 +1,7 @@
 ---
 title: "4 Mistakes We Make When a Friend’s Marriage is Struggling"
 date: "2017-08-02"
-categories: 
+tags:
   - "all"
   - "conflict"
   - "friendship"

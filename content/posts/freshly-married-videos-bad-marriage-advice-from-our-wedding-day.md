@@ -1,7 +1,7 @@
 ---
 title: "Freshly Married Videos: Bad Marriage Advice From Our Wedding Day"
 date: "2016-05-05"
-categories: 
+tags:
   - "all"
   - "communication"
   - "friendship"

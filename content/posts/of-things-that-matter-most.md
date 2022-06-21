@@ -1,7 +1,7 @@
 ---
 title: "Of Things That Matter Most"
 date: "2014-02-05"
-categories: 
+tags:
   - "all"
   - "communication"
   - "goals"

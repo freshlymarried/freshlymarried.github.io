@@ -1,7 +1,7 @@
 ---
 title: "Our House Story Part 2: You Can Learn a Lot in Four Days"
 date: "2014-07-30"
-categories: 
+tags:
   - "all"
   - "celebrate"
   - "goals"

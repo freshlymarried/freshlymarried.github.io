@@ -1,7 +1,7 @@
 ---
 title: "Five Tips To Financial Peace In Marriage"
 date: "2013-10-10"
-categories: 
+tags:
   - "all"
   - "communication"
   - "finances"

@@ -1,7 +1,7 @@
 ---
 title: "The Yin and Yang Of Marriage"
 date: "2013-12-18"
-categories: 
+tags:
   - "all"
   - "friendship"
   - "journal"

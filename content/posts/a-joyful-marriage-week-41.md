@@ -1,7 +1,7 @@
 ---
 title: "A Joyful Marriage - Week 41"
 date: "2017-10-16"
-categories: 
+tags:
   - "ajoyfulmarriage"
   - "all"
   - "journal"

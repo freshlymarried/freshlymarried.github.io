@@ -1,7 +1,7 @@
 ---
 title: "A Perfectly Imperfect Reminder"
 date: "2016-10-25"
-categories: 
+tags:
   - "all"
   - "celebrate"
   - "conflict"

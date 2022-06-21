@@ -1,7 +1,7 @@
 ---
 title: "Spotlight: Staying Strong Through Unemployment"
 date: "2016-12-14"
-categories: 
+tags:
   - "all"
   - "spotlights"
 featured_image: "/images/Staying-strong-through-unemployment-5.png"

@@ -1,7 +1,7 @@
 ---
 title: "Freshly Married 4-Year Anniversary Giveaway!"
 date: "2017-06-23"
-categories: 
+tags:
   - "all"
   - "giveaways"
 featured_image: "/images/blog-SIZE-FM-4-year-giveaway.png"

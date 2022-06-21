@@ -1,7 +1,7 @@
 ---
 title: "A Sudden Date Night"
 date: "2014-07-16"
-categories: 
+tags:
   - "all"
   - "dates"
   - "journal"

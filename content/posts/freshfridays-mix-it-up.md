@@ -1,7 +1,7 @@
 ---
 title: "#freshfridays Quote: Mix it Up"
 date: "2016-04-22"
-categories: 
+tags:
   - "freshfridays"
   - "effort"
   - "quotes"

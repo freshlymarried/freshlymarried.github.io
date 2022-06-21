@@ -1,7 +1,7 @@
 ---
 title: "We Wash You A Happy Holiday!"
 date: "2018-12-13"
-categories: 
+tags:
   - "all"
   - "celebrate"
   - "home"

@@ -1,7 +1,7 @@
 ---
 title: "A Joyful Marriage - Week 6"
 date: "2017-02-12"
-categories: 
+tags:
   - "ajoyfulmarriage"
   - "all"
   - "journal"

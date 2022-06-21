@@ -1,7 +1,7 @@
 ---
 title: "Myth: Watching a Romantic Movie Together Will Resolve Our Issue"
 date: "2016-08-30"
-categories: 
+tags:
   - "all"
 featured_image: "/images/Freshly-Married-19.jpg"
 ---

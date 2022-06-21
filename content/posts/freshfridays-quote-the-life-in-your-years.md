@@ -1,7 +1,7 @@
 ---
 title: "#freshfridays Quote: The Life In Your Years"
 date: "2016-04-29"
-categories: 
+tags:
   - "freshfridays"
   - "all"
   - "effort"

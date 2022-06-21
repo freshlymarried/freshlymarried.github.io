@@ -1,7 +1,7 @@
 ---
 title: "Unboxing Video: \"Blind Date\" from Date Night In"
 date: "2018-03-28"
-categories: 
+tags:
   - "all"
   - "dates"
   - "friendship"

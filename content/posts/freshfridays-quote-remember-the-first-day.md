@@ -1,7 +1,7 @@
 ---
 title: "#freshfridays Quote: Remember The First Day"
 date: "2016-06-25"
-categories: 
+tags:
   - "freshfridays"
   - "all"
   - "effort"

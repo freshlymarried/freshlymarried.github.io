@@ -1,7 +1,7 @@
 ---
 title: "Happy Opportunities"
 date: "2014-02-17"
-categories: 
+tags:
   - "all"
   - "celebrate"
   - "children"

@@ -1,7 +1,7 @@
 ---
 title: "When One Spouse Wants Sex More Than The Other"
 date: "2017-09-05"
-categories: 
+tags:
   - "all"
   - "communication"
   - "conflict"

@@ -1,7 +1,7 @@
 ---
 title: "Monday Morning Pick-Me-Ups"
 date: "2015-10-18"
-categories: 
+tags:
   - "all"
   - "communication"
   - "effort"

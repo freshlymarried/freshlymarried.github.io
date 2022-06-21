@@ -1,7 +1,7 @@
 ---
 title: "The Four Horsemen"
 date: "2014-09-14"
-categories: 
+tags:
   - "all"
   - "communication"
   - "conflict"

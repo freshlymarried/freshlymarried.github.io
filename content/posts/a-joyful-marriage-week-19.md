@@ -1,7 +1,7 @@
 ---
 title: "A Joyful Marriage - Week 19"
 date: "2017-05-15"
-categories: 
+tags:
   - "ajoyfulmarriage"
   - "all"
   - "celebrate"

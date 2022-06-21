@@ -1,7 +1,7 @@
 ---
 title: "Selflessness: The Key to Great Emotional & Physical Intimacy"
 date: "2017-03-07"
-categories: 
+tags:
   - "all"
   - "romance"
   - "sex"

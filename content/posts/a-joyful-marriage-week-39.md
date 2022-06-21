@@ -1,7 +1,7 @@
 ---
 title: "A Joyful Marriage - Week 39"
 date: "2017-10-02"
-categories: 
+tags:
   - "ajoyfulmarriage"
   - "all"
   - "journal"

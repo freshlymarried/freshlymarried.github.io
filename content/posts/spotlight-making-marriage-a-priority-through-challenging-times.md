@@ -1,7 +1,7 @@
 ---
 title: "Spotlight: Making Marriage a Priority Through Challenging Times"
 date: "2017-07-06"
-categories: 
+tags:
   - "all"
   - "effort"
   - "spotlights"

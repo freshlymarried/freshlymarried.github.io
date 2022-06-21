@@ -1,7 +1,7 @@
 ---
 title: "#freshfridays: What Will You Do Today"
 date: "2016-08-26"
-categories: 
+tags:
   - "freshfridays"
   - "all"
   - "effort"

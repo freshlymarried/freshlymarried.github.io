@@ -1,7 +1,7 @@
 ---
 title: "A Joyful Marriage - Week 43"
 date: "2017-10-30"
-categories: 
+tags:
   - "ajoyfulmarriage"
   - "all"
   - "journal"

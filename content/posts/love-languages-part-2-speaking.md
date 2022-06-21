@@ -1,7 +1,7 @@
 ---
 title: "Love Languages Part 2: Speaking"
 date: "2016-02-04"
-categories: 
+tags:
   - "all"
   - "communication"
   - "effort"

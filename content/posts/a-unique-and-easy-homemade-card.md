@@ -1,7 +1,7 @@
 ---
 title: "A Unique and Easy Homemade Card"
 date: "2017-02-10"
-categories: 
+tags:
   - "all"
   - "celebrate"
   - "romance"

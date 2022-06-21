@@ -1,7 +1,7 @@
 ---
 title: "Wife Life T-shirt Giveaway on Instagram"
 date: "2017-02-21"
-categories: 
+tags:
   - "all"
   - "giveaways"
 featured_image: "/images/Copy-of-5-wife-life-giveaways.png"

@@ -1,7 +1,7 @@
 ---
 title: "Life is Sweet in The Belly of The Beast"
 date: "2015-09-20"
-categories: 
+tags:
   - "all"
   - "celebrate"
   - "friendship"

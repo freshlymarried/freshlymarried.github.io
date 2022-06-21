@@ -1,7 +1,7 @@
 ---
 title: "A Joyful Marriage - Week 10"
 date: "2017-03-12"
-categories: 
+tags:
   - "ajoyfulmarriage"
   - "all"
   - "journal"

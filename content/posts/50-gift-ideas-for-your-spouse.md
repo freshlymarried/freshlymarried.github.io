@@ -1,7 +1,7 @@
 ---
 title: "50 Gift Ideas for Your Spouse"
 date: "2018-06-11"
-categories: 
+tags:
   - "all"
   - "celebrate"
   - "dates"

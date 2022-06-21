@@ -1,7 +1,7 @@
 ---
 title: "Marriage Is The Best"
 date: "2013-07-12"
-categories: 
+tags:
   - "all"
   - "celebrate"
   - "engagement"

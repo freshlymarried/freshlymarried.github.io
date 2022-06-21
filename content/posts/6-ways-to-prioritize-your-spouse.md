@@ -1,7 +1,7 @@
 ---
 title: "6 Ways to Prioritize Your Spouse"
 date: "2016-06-30"
-categories: 
+tags:
   - "all"
   - "celebrate"
   - "children"

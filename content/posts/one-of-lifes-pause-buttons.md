@@ -1,7 +1,7 @@
 ---
 title: "Surgery: One Of Life's Pause Buttons"
 date: "2013-09-14"
-categories: 
+tags:
   - "all"
   - "journal"
   - "romance"

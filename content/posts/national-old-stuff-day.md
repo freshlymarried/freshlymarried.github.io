@@ -1,7 +1,7 @@
 ---
 title: "National Old Stuff Day"
 date: "2014-03-03"
-categories: 
+tags:
   - "all"
   - "celebrate"
   - "funny"

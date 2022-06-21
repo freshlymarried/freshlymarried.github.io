@@ -1,7 +1,7 @@
 ---
 title: "A Joyful Marriage - Week 8"
 date: "2017-02-27"
-categories: 
+tags:
   - "ajoyfulmarriage"
   - "all"
   - "journal"

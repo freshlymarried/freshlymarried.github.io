@@ -1,7 +1,7 @@
 ---
 title: "Marriage is like a hiking trip"
 date: "2015-01-14"
-categories: 
+tags:
   - "all"
   - "communication"
   - "conflict"

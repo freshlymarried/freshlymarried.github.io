@@ -1,7 +1,7 @@
 ---
 title: "Pray Together, Stay Together"
 date: "2016-05-22"
-categories: 
+tags:
   - "all"
   - "conflict"
   - "effort"

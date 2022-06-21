@@ -1,7 +1,7 @@
 ---
 title: "#freshfridays quote: In The Middle of Difficulty"
 date: "2016-11-18"
-categories: 
+tags:
   - "freshfridays"
   - "all"
   - "conflict"

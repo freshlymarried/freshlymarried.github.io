@@ -1,7 +1,7 @@
 ---
 title: "My 2017 Marriage Goal(s)"
 date: "2017-01-05"
-categories: 
+tags:
   - "all"
   - "effort"
   - "goals"

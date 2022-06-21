@@ -1,7 +1,7 @@
 ---
 title: "#freshfridays Quote: We Were Together"
 date: "2016-09-03"
-categories: 
+tags:
   - "freshfridays"
   - "all"
 featured_image: "/images/IMG_0330.jpg"

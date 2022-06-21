@@ -1,7 +1,7 @@
 ---
 title: "The Honeymoon phase"
 date: "2014-11-25"
-categories: 
+tags:
   - "all"
   - "communication"
   - "conflict"

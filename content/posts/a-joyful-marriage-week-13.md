@@ -1,7 +1,7 @@
 ---
 title: "A Joyful Marriage - Week 13"
 date: "2017-04-04"
-categories: 
+tags:
   - "ajoyfulmarriage"
   - "all"
   - "journal"

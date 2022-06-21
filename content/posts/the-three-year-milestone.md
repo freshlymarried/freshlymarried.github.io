@@ -1,7 +1,7 @@
 ---
 title: "The Three-Year Milestone"
 date: "2016-05-31"
-categories: 
+tags:
   - "all"
   - "celebrate"
   - "communication"

@@ -1,7 +1,7 @@
 ---
 title: "A Joyful Marriage - Week 32"
 date: "2017-08-14"
-categories: 
+tags:
   - "ajoyfulmarriage"
   - "all"
   - "journal"

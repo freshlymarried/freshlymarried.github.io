@@ -1,7 +1,7 @@
 ---
 title: "Spotlight: Marriage, Parenthood, and Postpartum Depression"
 date: "2017-03-22"
-categories: 
+tags:
   - "all"
   - "children"
   - "spotlights"

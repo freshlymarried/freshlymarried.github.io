@@ -1,7 +1,7 @@
 ---
 title: "Wife Life is The Best Life"
 date: "2016-08-29"
-categories: 
+tags:
   - "all"
   - "celebrate"
 featured_image: "/images/IMG_0672-1-1.jpg"

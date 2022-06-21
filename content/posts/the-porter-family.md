@@ -1,7 +1,7 @@
 ---
 title: "The Porter Family"
 date: "2014-01-25"
-categories: 
+tags:
   - "all"
   - "spotlights"
 featured_image: "/images/Porter-Family.jpg"

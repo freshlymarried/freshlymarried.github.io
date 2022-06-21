@@ -1,7 +1,7 @@
 ---
 title: "The Music to Our Marriage"
 date: "2014-07-01"
-categories: 
+tags:
   - "all"
   - "friendship"
   - "journal"

@@ -1,7 +1,7 @@
 ---
 title: "Spotlight: Enjoy the Roses"
 date: "2017-04-26"
-categories: 
+tags:
   - "all"
   - "spotlights"
 featured_image: "/images/blog-post-enjoy-the-roses-spotlight-1.png"

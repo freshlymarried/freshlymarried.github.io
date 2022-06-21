@@ -1,7 +1,7 @@
 ---
 title: "Cheddar Garlic Biscuits"
 date: "2013-10-20"
-categories: 
+tags:
   - "all"
 featured_image: "/images/BiscuitsTHUMB.jpg"
 ---

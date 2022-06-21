@@ -1,7 +1,7 @@
 ---
 title: "2 Big Tips When Resolving Conflicts"
 date: "2017-05-03"
-categories: 
+tags:
   - "all"
   - "communication"
   - "conflict"

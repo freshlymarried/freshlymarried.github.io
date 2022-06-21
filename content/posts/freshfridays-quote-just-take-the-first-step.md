@@ -1,7 +1,7 @@
 ---
 title: "#freshfridays Quote: Just Take the First Step"
 date: "2016-05-30"
-categories: 
+tags:
   - "freshfridays"
   - "all"
   - "effort"

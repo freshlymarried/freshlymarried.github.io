@@ -1,7 +1,7 @@
 ---
 title: "Do Your Best"
 date: "2014-11-19"
-categories: 
+tags:
   - "all"
   - "effort"
   - "friendship"

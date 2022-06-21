@@ -1,7 +1,7 @@
 ---
 title: "The Greatest Love Story Ever Told is Your Own"
 date: "2016-05-17"
-categories: 
+tags:
   - "all"
   - "communication"
   - "effort"

@@ -1,7 +1,7 @@
 ---
 title: "Is Your Marriage on Cruise Control?"
 date: "2016-11-02"
-categories: 
+tags:
   - "all"
   - "communication"
   - "effort"

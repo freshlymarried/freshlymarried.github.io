@@ -1,7 +1,7 @@
 ---
 title: "The Power of Empathy"
 date: "2016-07-31"
-categories: 
+tags:
   - "all"
   - "communication"
   - "conflict"

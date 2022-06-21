@@ -1,7 +1,7 @@
 ---
 title: "Object Lessons: Puzzles"
 date: "2016-07-19"
-categories: 
+tags:
   - "all"
   - "communication"
   - "goals"

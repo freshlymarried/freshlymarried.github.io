@@ -1,7 +1,7 @@
 ---
 title: "The Thing About Provo"
 date: "2014-07-09"
-categories: 
+tags:
   - "all"
   - "celebrate"
   - "journal"

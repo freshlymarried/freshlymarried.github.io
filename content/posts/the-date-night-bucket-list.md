@@ -1,7 +1,7 @@
 ---
 title: "The Date Night Bucket List"
 date: "2015-04-26"
-categories: 
+tags:
   - "all"
   - "dates"
   - "effort"

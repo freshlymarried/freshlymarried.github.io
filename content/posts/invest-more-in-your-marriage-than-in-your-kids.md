@@ -1,7 +1,7 @@
 ---
 title: "Invest More in Your Marriage Than in Your Kids"
 date: "2016-06-26"
-categories: 
+tags:
   - "all"
   - "communication"
   - "effort"

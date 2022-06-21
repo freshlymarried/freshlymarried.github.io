@@ -1,7 +1,7 @@
 ---
 title: "Family is Everything"
 date: "2016-01-29"
-categories: 
+tags:
   - "all"
   - "goals"
   - "journal"

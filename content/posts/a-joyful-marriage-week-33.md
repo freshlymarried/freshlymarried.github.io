@@ -1,7 +1,7 @@
 ---
 title: "A Joyful Marriage - Week 33"
 date: "2017-08-21"
-categories: 
+tags:
   - "ajoyfulmarriage"
   - "all"
   - "journal"

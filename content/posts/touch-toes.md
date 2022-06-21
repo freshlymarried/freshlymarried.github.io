@@ -1,7 +1,7 @@
 ---
 title: "Touch Toes"
 date: "2016-09-23"
-categories: 
+tags:
   - "all"
   - "communication"
   - "conflict"

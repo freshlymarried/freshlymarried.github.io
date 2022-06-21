@@ -1,7 +1,7 @@
 ---
 title: "#freshfridays Quote: The Six-Second Kiss"
 date: "2017-03-10"
-categories: 
+tags:
   - "freshfridays"
   - "all"
   - "quotes"

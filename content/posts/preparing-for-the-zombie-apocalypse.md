@@ -1,7 +1,7 @@
 ---
 title: "Preparing For The Zombie Apocalypse"
 date: "2013-08-05"
-categories: 
+tags:
   - "all"
   - "effort"
   - "finances"

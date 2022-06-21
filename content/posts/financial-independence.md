@@ -1,7 +1,7 @@
 ---
 title: "Financial Independence"
 date: "2016-03-21"
-categories: 
+tags:
   - "all"
   - "celebrate"
   - "effort"

@@ -1,7 +1,7 @@
 ---
 title: "Giveaway: Wife Life is the Best Life T-shirts"
 date: "2016-09-22"
-categories: 
+tags:
   - "all"
   - "giveaways"
 featured_image: "/images/IMG_1847.jpg"

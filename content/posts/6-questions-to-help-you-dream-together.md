@@ -1,7 +1,7 @@
 ---
 title: "6 Questions to Help You Dream Together"
 date: "2019-02-20"
-categories: 
+tags:
   - "all"
   - "communication"
   - "dates"

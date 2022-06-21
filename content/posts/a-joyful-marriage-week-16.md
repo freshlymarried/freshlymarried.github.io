@@ -1,7 +1,7 @@
 ---
 title: "A Joyful Marriage - Week 16"
 date: "2017-04-24"
-categories: 
+tags:
   - "ajoyfulmarriage"
   - "all"
   - "children"

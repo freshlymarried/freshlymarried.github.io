@@ -1,7 +1,7 @@
 ---
 title: "Stars and Butterflies"
 date: "2014-04-06"
-categories: 
+tags:
   - "all"
   - "communication"
   - "conflict"

@@ -1,7 +1,7 @@
 ---
 title: "The Acker Family"
 date: "2013-12-04"
-categories: 
+tags:
   - "all"
   - "spotlights"
 featured_image: "/images/ackers.jpg"

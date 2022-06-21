@@ -1,7 +1,7 @@
 ---
 title: "Christmas Card to Your Spouse!"
 date: "2018-12-20"
-categories: 
+tags:
   - "all"
   - "celebrate"
   - "funny"

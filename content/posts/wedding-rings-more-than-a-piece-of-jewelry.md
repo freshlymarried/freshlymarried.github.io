@@ -1,7 +1,7 @@
 ---
 title: "Wedding Rings: More Than a Piece of Jewelry"
 date: "2016-02-01"
-categories: 
+tags:
   - "all"
   - "engagement"
   - "goals"

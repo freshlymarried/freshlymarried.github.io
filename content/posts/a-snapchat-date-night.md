@@ -1,7 +1,7 @@
 ---
 title: "A Snapchat Date Night"
 date: "2016-10-11"
-categories: 
+tags:
   - "all"
   - "dates"
 featured_image: "/images/photo-1463265305631-8a25b1e5b887.jpeg"

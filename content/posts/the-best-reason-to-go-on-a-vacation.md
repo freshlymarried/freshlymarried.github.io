@@ -1,7 +1,7 @@
 ---
 title: "The Best Reason to go on a Vacation"
 date: "2016-05-27"
-categories: 
+tags:
   - "all"
   - "celebrate"
   - "friendship"

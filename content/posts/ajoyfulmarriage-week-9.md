@@ -1,7 +1,7 @@
 ---
 title: "A Joyful Marriage - Week 9"
 date: "2017-03-06"
-categories: 
+tags:
   - "ajoyfulmarriage"
   - "all"
   - "journal"

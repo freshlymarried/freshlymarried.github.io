@@ -1,7 +1,7 @@
 ---
 title: "Who Wears The Pants"
 date: "2016-02-18"
-categories: 
+tags:
   - "all"
   - "communication"
   - "funny"

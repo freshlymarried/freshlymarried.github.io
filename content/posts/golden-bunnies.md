@@ -1,7 +1,7 @@
 ---
 title: "The Easter Bunny"
 date: "2014-04-18"
-categories: 
+tags:
   - "all"
   - "celebrate"
   - "funny"

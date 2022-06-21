@@ -1,7 +1,7 @@
 ---
 title: "Couch Potatoes"
 date: "2014-03-24"
-categories: 
+tags:
   - "all"
   - "dates"
   - "friendship"

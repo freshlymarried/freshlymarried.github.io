@@ -1,7 +1,7 @@
 ---
 title: "So Predictable"
 date: "2014-04-23"
-categories: 
+tags:
   - "all"
   - "communication"
   - "dates"

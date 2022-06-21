@@ -1,7 +1,7 @@
 ---
 title: "A Traditional Christmas"
 date: "2013-12-11"
-categories: 
+tags:
   - "all"
   - "celebrate"
   - "journal"

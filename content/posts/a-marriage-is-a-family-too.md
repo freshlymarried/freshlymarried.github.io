@@ -1,7 +1,7 @@
 ---
 title: "A Marriage is a Family, Too"
 date: "2016-06-26"
-categories: 
+tags:
   - "all"
   - "effort"
   - "goals"

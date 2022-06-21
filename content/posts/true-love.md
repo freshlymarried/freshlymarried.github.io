@@ -1,7 +1,7 @@
 ---
 title: "True Love"
 date: "2014-09-05"
-categories: 
+tags:
   - "all"
   - "communication"
   - "effort"

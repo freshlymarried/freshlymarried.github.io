@@ -1,7 +1,7 @@
 ---
 title: "#freshfridays Quote: Marriage is Like Home Maintenance"
 date: "2016-07-22"
-categories: 
+tags:
   - "freshfridays"
   - "all"
   - "conflict"

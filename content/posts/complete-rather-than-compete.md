@@ -1,7 +1,7 @@
 ---
 title: "Complete Rather Than Compete"
 date: "2015-09-13"
-categories: 
+tags:
   - "all"
   - "celebrate"
   - "communication"

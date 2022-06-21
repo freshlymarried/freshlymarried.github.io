@@ -1,7 +1,7 @@
 ---
 title: "A Joyful Marriage - Week 24"
 date: "2017-06-19"
-categories: 
+tags:
   - "ajoyfulmarriage"
   - "all"
   - "funny"

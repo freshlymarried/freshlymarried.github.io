@@ -1,7 +1,7 @@
 ---
 title: "I'm Allergic to Milk, Not My Spouse's Support"
 date: "2016-02-09"
-categories: 
+tags:
   - "all"
   - "goals"
   - "journal"

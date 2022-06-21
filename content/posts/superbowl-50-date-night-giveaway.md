@@ -1,7 +1,7 @@
 ---
 title: "Superbowl $50 Date Night Giveaway"
 date: "2016-02-08"
-categories: 
+tags:
   - "all"
   - "dates"
   - "giveaways"

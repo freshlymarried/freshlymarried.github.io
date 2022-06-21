@@ -1,7 +1,7 @@
 ---
 title: "Good Things Come"
 date: "2016-02-11"
-categories: 
+tags:
   - "all"
   - "effort"
   - "funny"

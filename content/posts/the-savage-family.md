@@ -1,7 +1,7 @@
 ---
 title: "The Savage Family"
 date: "2014-01-15"
-categories: 
+tags:
   - "all"
   - "spotlights"
 featured_image: "/images/More-phone-pics-248-589x442-2.jpg"

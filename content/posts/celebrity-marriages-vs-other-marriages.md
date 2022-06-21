@@ -1,7 +1,7 @@
 ---
 title: "Celebrity Marriages vs. Other Marriages"
 date: "2015-08-09"
-categories: 
+tags:
   - "all"
   - "celebrate"
   - "conflict"

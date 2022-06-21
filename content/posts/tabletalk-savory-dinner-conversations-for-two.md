@@ -1,7 +1,7 @@
 ---
 title: "#TableTalk -- Savory Dinner Conversations for Two"
 date: "2018-08-16"
-categories: 
+tags:
   - "all"
   - "dates"
   - "friendship"

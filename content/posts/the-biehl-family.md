@@ -1,7 +1,7 @@
 ---
 title: "The Biehl Family"
 date: "2014-04-01"
-categories: 
+tags:
   - "all"
   - "spotlights"
 featured_image: "/images/a-and-j-e1396325377282.jpg"

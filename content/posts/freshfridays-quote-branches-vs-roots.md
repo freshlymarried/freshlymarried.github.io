@@ -1,7 +1,7 @@
 ---
 title: "#freshfridays Quote: Branches vs. Roots"
 date: "2016-10-14"
-categories: 
+tags:
   - "freshfridays"
   - "all"
   - "conflict"

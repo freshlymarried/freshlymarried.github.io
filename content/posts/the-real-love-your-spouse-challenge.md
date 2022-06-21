@@ -1,7 +1,7 @@
 ---
 title: "The Real 'Love Your Spouse' Challenge"
 date: "2016-08-22"
-categories: 
+tags:
   - "all"
   - "celebrate"
   - "funny"

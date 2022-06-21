@@ -1,7 +1,7 @@
 ---
 title: "#freshfridays: What Will You Do Today to Keep Your Marriage Fresh?"
 date: "2016-03-18"
-categories: 
+tags:
   - "freshfridays"
   - "effort"
 featured_image: "/images/IMG_0002.jpg"

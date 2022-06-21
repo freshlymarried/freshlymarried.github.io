@@ -1,7 +1,7 @@
 ---
 title: "4 Reasons You Should Write a Will & How to do it"
 date: "2017-06-21"
-categories: 
+tags:
   - "all"
   - "children"
 featured_image: "/images/IMG_0067.jpg"

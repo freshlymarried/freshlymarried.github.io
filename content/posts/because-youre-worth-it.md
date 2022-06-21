@@ -1,7 +1,7 @@
 ---
 title: "Because You're Worth It"
 date: "2016-01-19"
-categories: 
+tags:
   - "all"
   - "engagement"
   - "goals"

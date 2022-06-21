@@ -1,7 +1,7 @@
 ---
 title: "Note To Self"
 date: "2013-07-22"
-categories: 
+tags:
   - "all"
   - "funny"
   - "goals"

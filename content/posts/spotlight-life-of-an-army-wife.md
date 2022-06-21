@@ -1,7 +1,7 @@
 ---
 title: "Spotlight: Life of an Army Wife"
 date: "2018-05-10"
-categories: 
+tags:
   - "all"
   - "spotlights"
 featured_image: "/images/1.png"

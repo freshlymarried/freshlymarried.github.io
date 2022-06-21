@@ -1,7 +1,7 @@
 ---
 title: "The Iron: Part 2"
 date: "2015-07-01"
-categories: 
+tags:
   - "all"
   - "celebrate"
   - "funny"

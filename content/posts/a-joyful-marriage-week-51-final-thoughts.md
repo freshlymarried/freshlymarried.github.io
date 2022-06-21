@@ -1,7 +1,7 @@
 ---
 title: "A Joyful Marriage - Week 51 (Final Thoughts)"
 date: "2017-12-30"
-categories: 
+tags:
   - "ajoyfulmarriage"
   - "all"
   - "effort"

@@ -1,7 +1,7 @@
 ---
 title: "The Iron"
 date: "2013-06-24"
-categories: 
+tags:
   - "all"
   - "effort"
   - "funny"

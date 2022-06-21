@@ -1,7 +1,7 @@
 ---
 title: "A Joyful Marriage - Week 15"
 date: "2017-04-17"
-categories: 
+tags:
   - "ajoyfulmarriage"
   - "all"
 featured_image: "/images/joyful-marriage-week-11-4.png"

@@ -1,7 +1,7 @@
 ---
 title: "Quiet Love"
 date: "2014-01-22"
-categories: 
+tags:
   - "all"
   - "journal"
   - "romance"

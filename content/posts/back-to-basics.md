@@ -1,7 +1,7 @@
 ---
 title: "Back to Basics"
 date: "2015-11-05"
-categories: 
+tags:
   - "all"
   - "communication"
   - "conflict"

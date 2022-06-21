@@ -1,7 +1,7 @@
 ---
 title: "Wife Life Workshop Recap - January 20, 2018"
 date: "2018-02-12"
-categories: 
+tags:
   - "all"
   - "workshops"
 featured_image: "/images/blog-dimensins.png"

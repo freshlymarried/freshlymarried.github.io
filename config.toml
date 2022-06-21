@@ -2,14 +2,13 @@ baseURL = 'https://freshlymarried.com'
 languageCode = 'en-us'
 title = 'Freshly Married'
 theme = "ananke"
-
-[permalinks]
-  posts = '/:title/'
-
 sectionPagesMenu = "main"
 paginate = 20
 googleAnalytics = "UA-46767990-1"
 enableRobotsTXT = true
+
+[permalinks]
+  posts = '/:title/'
 
 [sitemap]
   changefreq = "monthly"

@@ -1,7 +1,7 @@
 ---
 title: "#freshfridays Quote: Taking Turns"
 date: "2017-03-03"
-categories: 
+tags:
   - "freshfridays"
   - "all"
   - "effort"

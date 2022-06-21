@@ -1,7 +1,7 @@
 ---
 title: "A Joyful Marriage - Week 45"
 date: "2017-11-13"
-categories: 
+tags:
   - "ajoyfulmarriage"
   - "all"
   - "journal"

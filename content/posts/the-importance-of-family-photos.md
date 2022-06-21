@@ -1,7 +1,7 @@
 ---
 title: "The Importance of Family Photos"
 date: "2016-04-07"
-categories: 
+tags:
   - "all"
   - "celebrate"
   - "friendship"

@@ -1,7 +1,7 @@
 ---
 title: "A Joyful Marriage - Week 28"
 date: "2017-07-17"
-categories: 
+tags:
   - "ajoyfulmarriage"
   - "all"
   - "journal"

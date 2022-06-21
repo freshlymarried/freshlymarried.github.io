@@ -1,7 +1,7 @@
 ---
 title: "Anniversary Gifts"
 date: "2014-05-11"
-categories: 
+tags:
   - "all"
   - "celebrate"
   - "friendship"

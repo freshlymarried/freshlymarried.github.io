@@ -1,7 +1,7 @@
 ---
 title: "A Joyful Marriage - Week 7"
 date: "2017-02-20"
-categories: 
+tags:
   - "ajoyfulmarriage"
   - "all"
   - "journal"

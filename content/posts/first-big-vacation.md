@@ -1,7 +1,7 @@
 ---
 title: "First Big Vacation"
 date: "2016-06-16"
-categories: 
+tags:
   - "all"
   - "celebrate"
   - "friendship"

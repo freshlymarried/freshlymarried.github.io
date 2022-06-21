@@ -1,7 +1,7 @@
 ---
 title: "A Joyful Marriage - Week 20"
 date: "2017-05-21"
-categories: 
+tags:
   - "ajoyfulmarriage"
   - "all"
 featured_image: "/images/joyful-marriage-week-20.png"

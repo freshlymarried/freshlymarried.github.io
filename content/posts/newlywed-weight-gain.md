@@ -1,7 +1,7 @@
 ---
 title: "Newlywed Weight Gain"
 date: "2015-01-12"
-categories: 
+tags:
   - "all"
   - "effort"
   - "journal"

@@ -1,7 +1,7 @@
 ---
 title: "Object Lessons: An Imperfect Quilt"
 date: "2016-09-18"
-categories: 
+tags:
   - "all"
   - "conflict"
   - "forgiveness"

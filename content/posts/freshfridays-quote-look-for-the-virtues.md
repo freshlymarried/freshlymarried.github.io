@@ -1,7 +1,7 @@
 ---
 title: "#freshfridays Quote: Look For The Virtues"
 date: "2016-07-08"
-categories: 
+tags:
   - "freshfridays"
   - "all"
   - "effort"

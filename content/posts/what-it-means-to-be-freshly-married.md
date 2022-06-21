@@ -1,7 +1,7 @@
 ---
 title: "What it Means to be Freshly Married"
 date: "2016-01-29"
-categories: 
+tags:
   - "all"
   - "goals"
   - "techniques"

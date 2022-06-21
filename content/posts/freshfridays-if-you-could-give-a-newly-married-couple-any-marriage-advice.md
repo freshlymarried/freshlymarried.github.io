@@ -1,7 +1,7 @@
 ---
 title: "#freshfridays: If You Could Give a Newly-Married Couple Any Marriage Advice"
 date: "2016-05-07"
-categories: 
+tags:
   - "freshfridays"
   - "all"
   - "effort"

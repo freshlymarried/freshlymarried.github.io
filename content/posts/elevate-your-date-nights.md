@@ -1,7 +1,7 @@
 ---
 title: "Elevate Your Date Nights"
 date: "2017-07-12"
-categories: 
+tags:
   - "all"
   - "dates"
   - "effort"

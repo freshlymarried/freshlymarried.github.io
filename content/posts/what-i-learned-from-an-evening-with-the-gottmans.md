@@ -1,7 +1,7 @@
 ---
 title: "What I Learned From an Evening With The Gottmans"
 date: "2019-09-22"
-categories: 
+tags:
   - "all"
 featured_image: "/images/IMG_0946.jpg"
 ---

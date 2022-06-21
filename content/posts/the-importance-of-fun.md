@@ -1,7 +1,7 @@
 ---
 title: "The Importance of Fun"
 date: "2014-06-11"
-categories: 
+tags:
   - "all"
   - "dates"
   - "friendship"

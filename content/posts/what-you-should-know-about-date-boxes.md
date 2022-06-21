@@ -1,7 +1,7 @@
 ---
 title: "What You Should Know About Date Boxes"
 date: "2017-05-16"
-categories: 
+tags:
   - "all"
   - "dates"
   - "romance"

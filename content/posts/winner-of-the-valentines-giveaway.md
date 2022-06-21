@@ -1,7 +1,7 @@
 ---
 title: "Winner of the Valentine's Giveaway"
 date: "2014-02-12"
-categories: 
+tags:
   - "all"
   - "celebrate"
   - "giveaways"

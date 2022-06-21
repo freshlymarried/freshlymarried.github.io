@@ -1,7 +1,7 @@
 ---
 title: "Be Thankful and Count the Blessings"
 date: "2015-11-24"
-categories: 
+tags:
   - "all"
   - "celebrate"
   - "conflict"

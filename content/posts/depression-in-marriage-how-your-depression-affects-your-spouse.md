@@ -1,7 +1,7 @@
 ---
 title: "Depression in Marriage: How Your Depression Affects Your Spouse"
 date: "2016-08-03"
-categories: 
+tags:
   - "all"
   - "communication"
   - "effort"

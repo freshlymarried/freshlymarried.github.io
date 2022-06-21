@@ -1,7 +1,7 @@
 ---
 title: "The Little Victories"
 date: "2015-07-16"
-categories: 
+tags:
   - "all"
   - "celebrate"
   - "effort"

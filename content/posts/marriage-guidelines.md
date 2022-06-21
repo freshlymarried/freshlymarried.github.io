@@ -1,7 +1,7 @@
 ---
 title: "Marriage Guidelines"
 date: "2013-10-31"
-categories: 
+tags:
   - "all"
   - "communication"
   - "effort"

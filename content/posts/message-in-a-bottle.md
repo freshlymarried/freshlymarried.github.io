@@ -1,7 +1,7 @@
 ---
 title: "Message In a Bottle"
 date: "2016-06-13"
-categories: 
+tags:
   - "all"
   - "celebrate"
   - "journal"

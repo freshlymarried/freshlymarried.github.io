@@ -1,7 +1,7 @@
 ---
 title: "The Forgiveness Metaphor"
 date: "2016-03-07"
-categories: 
+tags:
   - "all"
   - "conflict"
   - "effort"

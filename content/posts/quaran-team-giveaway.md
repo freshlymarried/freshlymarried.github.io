@@ -1,7 +1,7 @@
 ---
 title: "Quaran-team Giveaway!"
 date: "2020-04-24"
-categories: 
+tags:
   - "all"
   - "giveaways"
 featured_image: "/images/2.png"

@@ -1,7 +1,7 @@
 ---
 title: "10 Tips to Help Your Marriage Emotionally Survive COVID-19"
 date: "2020-04-07"
-categories: 
+tags:
   - "all"
   - "communication"
   - "conflict"

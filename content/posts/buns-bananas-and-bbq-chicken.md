@@ -1,7 +1,7 @@
 ---
 title: "Buns, Bananas, And BBQ Chicken"
 date: "2013-06-27"
-categories: 
+tags:
   - "all"
   - "dates"
   - "friendship"

@@ -1,7 +1,7 @@
 ---
 title: "A Joyful Marriage - Week 11"
 date: "2017-03-20"
-categories: 
+tags:
   - "ajoyfulmarriage"
   - "all"
   - "celebrate"

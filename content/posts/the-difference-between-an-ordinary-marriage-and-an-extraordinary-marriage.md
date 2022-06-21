@@ -1,7 +1,7 @@
 ---
 title: "The Difference Between an Ordinary Marriage and an Extraordinary Marriage"
 date: "2015-12-07"
-categories: 
+tags:
   - "all"
   - "effort"
   - "goals"

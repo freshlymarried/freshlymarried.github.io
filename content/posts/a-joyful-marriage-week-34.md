@@ -1,7 +1,7 @@
 ---
 title: "A Joyful Marriage - Week 34"
 date: "2017-08-29"
-categories: 
+tags:
   - "ajoyfulmarriage"
   - "all"
   - "journal"

@@ -1,7 +1,7 @@
 ---
 title: "A Joyful Marriage - Week 25"
 date: "2017-06-26"
-categories: 
+tags:
   - "ajoyfulmarriage"
   - "all"
   - "dates"

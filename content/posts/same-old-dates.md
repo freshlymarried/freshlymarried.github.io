@@ -1,7 +1,7 @@
 ---
 title: "Same Old Dates"
 date: "2017-03-28"
-categories: 
+tags:
   - "all"
   - "dates"
   - "friendship"

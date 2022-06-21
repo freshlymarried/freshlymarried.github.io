@@ -1,7 +1,7 @@
 ---
 title: "Don't Be Intimidated: 4 Misunderstandings About Relationship Education"
 date: "2018-01-04"
-categories: 
+tags:
   - "all"
   - "conflict"
   - "effort"

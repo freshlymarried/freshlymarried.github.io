@@ -1,7 +1,7 @@
 ---
 title: "Being a Married College Student"
 date: "2016-05-01"
-categories: 
+tags:
   - "all"
   - "celebrate"
   - "friendship"

@@ -1,7 +1,7 @@
 ---
 title: "Pornography: A Huge Threat To Marriage"
 date: "2013-11-22"
-categories: 
+tags:
   - "all"
   - "conflict"
   - "effort"

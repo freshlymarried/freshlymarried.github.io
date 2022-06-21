@@ -1,7 +1,7 @@
 ---
 title: "Our First Apartment"
 date: "2014-08-27"
-categories: 
+tags:
   - "all"
   - "celebrate"
   - "friendship"

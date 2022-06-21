@@ -1,7 +1,7 @@
 ---
 title: "Grocery Budgeting"
 date: "2015-03-02"
-categories: 
+tags:
   - "all"
   - "effort"
   - "finances"

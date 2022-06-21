@@ -1,7 +1,7 @@
 ---
 title: "Cafe Rio Date Night Giveaway"
 date: "2016-08-09"
-categories: 
+tags:
   - "all"
   - "dates"
   - "giveaways"

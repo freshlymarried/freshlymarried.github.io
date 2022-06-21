@@ -1,7 +1,7 @@
 ---
 title: "On The Defense."
 date: "2014-04-27"
-categories: 
+tags:
   - "all"
   - "communication"
   - "effort"

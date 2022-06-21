@@ -1,7 +1,7 @@
 ---
 title: "What Food Storage is For"
 date: "2014-08-06"
-categories: 
+tags:
   - "all"
   - "finances"
   - "goals"

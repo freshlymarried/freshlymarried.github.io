@@ -1,7 +1,7 @@
 ---
 title: "An OK Cliche"
 date: "2015-04-17"
-categories: 
+tags:
   - "all"
   - "celebrate"
   - "journal"

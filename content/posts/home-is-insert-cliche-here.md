@@ -1,7 +1,7 @@
 ---
 title: "Home is {insert cliche here}"
 date: "2014-07-21"
-categories: 
+tags:
   - "all"
   - "celebrate"
   - "goals"

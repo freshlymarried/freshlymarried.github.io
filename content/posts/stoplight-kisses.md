@@ -1,7 +1,7 @@
 ---
 title: "Stoplight Kisses"
 date: "2016-02-23"
-categories: 
+tags:
   - "all"
   - "friendship"
   - "goals"

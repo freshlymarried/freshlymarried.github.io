@@ -1,7 +1,7 @@
 ---
 title: "Save it For Your Husband - Part Two"
 date: "2014-09-23"
-categories: 
+tags:
   - "all"
   - "goals"
   - "romance"

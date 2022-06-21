@@ -1,7 +1,7 @@
 ---
 title: "Video: Books I Recommend For Sexual Intimacy Help"
 date: "2017-04-05"
-categories: 
+tags:
   - "all"
   - "sex"
   - "videos"

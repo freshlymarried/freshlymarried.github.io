@@ -1,7 +1,7 @@
 ---
 title: "A Joyful Marriage - Week 49"
 date: "2017-12-12"
-categories: 
+tags:
   - "ajoyfulmarriage"
   - "all"
   - "journal"

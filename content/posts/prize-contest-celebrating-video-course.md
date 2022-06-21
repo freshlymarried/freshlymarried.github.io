@@ -1,7 +1,7 @@
 ---
 title: "Prize Contest Celebrating Video Course!"
 date: "2018-03-13"
-categories: 
+tags:
   - "all"
   - "giveaways"
   - "videos"

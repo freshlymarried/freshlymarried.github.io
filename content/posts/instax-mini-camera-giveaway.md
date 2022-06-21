@@ -1,7 +1,7 @@
 ---
 title: "Instax Mini Camera Giveaway"
 date: "2016-06-20"
-categories: 
+tags:
   - "all"
   - "dates"
   - "giveaways"

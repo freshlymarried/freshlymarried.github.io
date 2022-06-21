@@ -1,7 +1,7 @@
 ---
 title: "You Are The Most Beautiful Creature On Planet Earth"
 date: "2013-11-06"
-categories: 
+tags:
   - "all"
   - "journal"
   - "romance"

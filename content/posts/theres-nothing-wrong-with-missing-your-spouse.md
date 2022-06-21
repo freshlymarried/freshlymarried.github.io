@@ -1,7 +1,7 @@
 ---
 title: "There's Nothing Wrong With Missing Your Spouse"
 date: "2015-05-11"
-categories: 
+tags:
   - "all"
   - "communication"
   - "journal"

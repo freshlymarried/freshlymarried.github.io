@@ -1,7 +1,7 @@
 ---
 title: "Six Month Anniversary - Let's Commemorate Something"
 date: "2013-11-25"
-categories: 
+tags:
   - "all"
   - "celebrate"
   - "journal"

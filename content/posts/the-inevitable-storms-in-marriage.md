@@ -1,7 +1,7 @@
 ---
 title: "The Inevitable Storms in Marriage"
 date: "2016-02-28"
-categories: 
+tags:
   - "all"
   - "conflict"
   - "goals"

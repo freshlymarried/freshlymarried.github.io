@@ -1,7 +1,7 @@
 ---
 title: "10 Tips for Going Through Fertility Treatments"
 date: "2019-04-28"
-categories: 
+tags:
   - "all"
   - "children"
   - "goals"

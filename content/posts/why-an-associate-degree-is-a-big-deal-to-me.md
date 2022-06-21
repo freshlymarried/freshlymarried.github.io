@@ -1,7 +1,7 @@
 ---
 title: "Why An Associate Degree Is a Big Deal To Me"
 date: "2015-05-28"
-categories: 
+tags:
   - "all"
   - "celebrate"
   - "effort"

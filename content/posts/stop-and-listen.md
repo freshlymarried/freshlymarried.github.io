@@ -1,7 +1,7 @@
 ---
 title: "#freshfridays: Stop And Listen"
 date: "2016-09-09"
-categories: 
+tags:
   - "all"
   - "communication"
   - "effort"

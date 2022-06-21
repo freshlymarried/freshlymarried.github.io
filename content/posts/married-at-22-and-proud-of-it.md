@@ -1,7 +1,7 @@
 ---
 title: "Married at 22, And Proud of It"
 date: "2014-01-11"
-categories: 
+tags:
   - "all"
   - "celebrate"
   - "engagement"

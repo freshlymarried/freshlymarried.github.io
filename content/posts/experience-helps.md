@@ -1,7 +1,7 @@
 ---
 title: "Experience Helps"
 date: "2014-09-07"
-categories: 
+tags:
   - "all"
   - "communication"
   - "effort"

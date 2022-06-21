@@ -1,7 +1,7 @@
 ---
 title: "Twin Baby Registry"
 date: "2019-06-24"
-categories: 
+tags:
   - "all"
   - "celebrate"
   - "children"

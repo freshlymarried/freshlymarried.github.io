@@ -1,7 +1,7 @@
 ---
 title: "My Struggle With Social Media: Part 2"
 date: "2015-03-06"
-categories: 
+tags:
   - "all"
   - "communication"
   - "conflict"

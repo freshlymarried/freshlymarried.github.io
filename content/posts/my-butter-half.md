@@ -1,7 +1,7 @@
 ---
 title: "My Butter Half"
 date: "2016-01-22"
-categories: 
+tags:
   - "all"
   - "funny"
   - "quotes"

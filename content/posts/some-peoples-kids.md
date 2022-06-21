@@ -1,7 +1,7 @@
 ---
 title: "Some People's Kids"
 date: "2013-09-09"
-categories: 
+tags:
   - "all"
   - "children"
   - "funny"

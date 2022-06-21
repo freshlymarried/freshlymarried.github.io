@@ -1,7 +1,7 @@
 ---
 title: "10 Things You Share in Marriage"
 date: "2014-05-09"
-categories: 
+tags:
   - "all"
   - "friendship"
   - "funny"

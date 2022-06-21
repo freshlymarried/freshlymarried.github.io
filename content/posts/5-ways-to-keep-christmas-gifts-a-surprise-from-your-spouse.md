@@ -1,7 +1,7 @@
 ---
 title: "5 Ways to Keep Christmas Gifts a Surprise From Your Spouse"
 date: "2015-11-30"
-categories: 
+tags:
   - "all"
   - "celebrate"
   - "finances"

@@ -1,7 +1,7 @@
 ---
 title: "The Three Week Milestone"
 date: "2013-07-22"
-categories: 
+tags:
   - "all"
   - "celebrate"
   - "dates"

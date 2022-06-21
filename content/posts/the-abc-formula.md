@@ -1,7 +1,7 @@
 ---
 title: "The ABC Formula"
 date: "2016-07-07"
-categories: 
+tags:
   - "all"
   - "communication"
   - "conflict"

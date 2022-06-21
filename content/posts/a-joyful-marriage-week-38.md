@@ -1,7 +1,7 @@
 ---
 title: "A Joyful Marriage - Week 38"
 date: "2017-09-26"
-categories: 
+tags:
   - "ajoyfulmarriage"
   - "all"
   - "effort"

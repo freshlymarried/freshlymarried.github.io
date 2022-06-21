@@ -1,7 +1,7 @@
 ---
 title: "Top 10 Cheap Date Ideas"
 date: "2013-07-27"
-categories: 
+tags:
   - "all"
   - "dates"
   - "friendship"

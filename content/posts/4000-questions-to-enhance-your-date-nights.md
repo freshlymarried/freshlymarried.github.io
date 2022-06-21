@@ -1,7 +1,7 @@
 ---
 title: "4000 Questions to Enhance Your Date Nights"
 date: "2016-01-28"
-categories: 
+tags:
   - "all"
   - "communication"
   - "dates"

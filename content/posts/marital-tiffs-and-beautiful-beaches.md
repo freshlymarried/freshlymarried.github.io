@@ -1,7 +1,7 @@
 ---
 title: "Marital Tiffs and Beautiful Beaches"
 date: "2016-06-05"
-categories: 
+tags:
   - "all"
   - "communication"
   - "conflict"

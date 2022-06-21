@@ -1,7 +1,7 @@
 ---
 title: "The 5 to 1 Ratio"
 date: "2016-07-10"
-categories: 
+tags:
   - "all"
   - "communication"
   - "effort"

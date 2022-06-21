@@ -1,7 +1,7 @@
 ---
 title: "Yelling is Not Cool"
 date: "2016-01-23"
-categories: 
+tags:
   - "all"
   - "communication"
   - "conflict"

@@ -1,7 +1,7 @@
 ---
 title: "The Pressures of Newlywed Bucket Lists"
 date: "2015-11-09"
-categories: 
+tags:
   - "all"
   - "celebrate"
   - "children"

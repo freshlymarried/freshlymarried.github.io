@@ -1,7 +1,7 @@
 ---
 title: "A Joyful Marriage - Week 29"
 date: "2017-07-24"
-categories: 
+tags:
   - "ajoyfulmarriage"
   - "all"
   - "journal"

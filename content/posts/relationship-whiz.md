@@ -1,7 +1,7 @@
 ---
 title: "Relationship Whiz?"
 date: "2014-12-03"
-categories: 
+tags:
   - "all"
   - "communication"
   - "conflict"

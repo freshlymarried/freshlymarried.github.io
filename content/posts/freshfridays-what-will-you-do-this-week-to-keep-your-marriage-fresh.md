@@ -1,7 +1,7 @@
 ---
 title: "#freshfridays: What Will You do This Week to Keep Your Marriage Fresh?"
 date: "2016-02-27"
-categories: 
+tags:
   - "freshfridays"
   - "all"
   - "effort"

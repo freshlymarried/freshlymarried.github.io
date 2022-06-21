@@ -1,7 +1,7 @@
 ---
 title: "Relationship Enhancement Workshop"
 date: "2015-02-18"
-categories: 
+tags:
   - "all"
   - "communication"
   - "conflict"

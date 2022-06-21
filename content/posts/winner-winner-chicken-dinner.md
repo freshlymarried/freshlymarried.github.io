@@ -1,7 +1,7 @@
 ---
 title: "Winner Winner, Chicken Dinner"
 date: "2013-08-19"
-categories: 
+tags:
   - "all"
   - "dates"
   - "giveaways"

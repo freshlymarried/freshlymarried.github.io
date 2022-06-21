@@ -1,7 +1,7 @@
 ---
 title: "6 Ideas For Safeguarding Your Marriage on Social Media"
 date: "2016-02-22"
-categories: 
+tags:
   - "all"
   - "communication"
   - "conflict"

@@ -1,7 +1,7 @@
 ---
 title: "Defending Motherhood"
 date: "2014-08-03"
-categories: 
+tags:
   - "all"
   - "children"
   - "conflict"

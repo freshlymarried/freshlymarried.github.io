@@ -1,7 +1,7 @@
 ---
 title: "A Joyful Marriage - Week 4"
 date: "2017-01-29"
-categories: 
+tags:
   - "ajoyfulmarriage"
   - "all"
   - "journal"

@@ -1,7 +1,7 @@
 ---
 title: "The Working Family"
 date: "2014-04-09"
-categories: 
+tags:
   - "all"
   - "conflict"
   - "goals"

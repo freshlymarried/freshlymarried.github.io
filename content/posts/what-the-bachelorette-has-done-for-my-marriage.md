@@ -1,7 +1,7 @@
 ---
 title: "What \"The Bachelorette\" Has Done For My Marriage"
 date: "2015-07-29"
-categories: 
+tags:
   - "all"
   - "effort"
   - "goals"

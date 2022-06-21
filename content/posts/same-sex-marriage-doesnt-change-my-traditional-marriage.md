@@ -1,7 +1,7 @@
 ---
 title: "Same-sex Marriage Doesn't Change My Traditional Marriage"
 date: "2015-06-28"
-categories: 
+tags:
   - "all"
   - "conflict"
   - "effort"

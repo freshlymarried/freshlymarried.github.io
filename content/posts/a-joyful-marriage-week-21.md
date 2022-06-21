@@ -1,7 +1,7 @@
 ---
 title: "A Joyful Marriage - Week 21"
 date: "2017-05-29"
-categories: 
+tags:
   - "ajoyfulmarriage"
   - "all"
   - "journal"

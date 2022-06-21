@@ -1,7 +1,7 @@
 ---
 title: "#freshfridays Quotes: hopes, not fears"
 date: "2016-09-30"
-categories: 
+tags:
   - "freshfridays"
   - "all"
   - "quotes"

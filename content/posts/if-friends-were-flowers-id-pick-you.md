@@ -1,7 +1,7 @@
 ---
 title: "If Friends Were Flowers, I'd Pick You"
 date: "2014-08-20"
-categories: 
+tags:
   - "all"
   - "effort"
   - "friendship"

@@ -1,7 +1,7 @@
 ---
 title: "Stir Fry"
 date: "2013-10-04"
-categories: 
+tags:
   - "all"
 featured_image: "/images/StirFryTHUMB.jpg"
 ---

@@ -1,7 +1,7 @@
 ---
 title: "A Joyful Marriage - Week 17"
 date: "2017-05-01"
-categories: 
+tags:
   - "ajoyfulmarriage"
   - "all"
   - "journal"

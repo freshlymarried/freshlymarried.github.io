@@ -1,7 +1,7 @@
 ---
 title: "I Love Love Notes"
 date: "2013-08-09"
-categories: 
+tags:
   - "all"
   - "communication"
   - "friendship"

@@ -1,7 +1,7 @@
 ---
 title: "Quotation Marks"
 date: "2013-09-29"
-categories: 
+tags:
   - "all"
   - "quotes"
   - "romance"

@@ -1,7 +1,7 @@
 ---
 title: "#freshfridays Quote: A New Ending"
 date: "2016-04-01"
-categories: 
+tags:
   - "freshfridays"
   - "all"
   - "effort"

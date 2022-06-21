@@ -1,7 +1,7 @@
 ---
 title: "The Hadley Family"
 date: "2014-07-11"
-categories: 
+tags:
   - "all"
   - "spotlights"
 featured_image: "/images/photo-5.jpg"

@@ -1,7 +1,7 @@
 ---
 title: "Loving at Arms-Length"
 date: "2015-02-23"
-categories: 
+tags:
   - "all"
   - "effort"
   - "friendship"

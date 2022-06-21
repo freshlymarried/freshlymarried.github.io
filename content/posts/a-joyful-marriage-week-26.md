@@ -1,7 +1,7 @@
 ---
 title: "A Joyful Marriage - Week 26"
 date: "2017-07-03"
-categories: 
+tags:
   - "ajoyfulmarriage"
   - "all"
   - "celebrate"

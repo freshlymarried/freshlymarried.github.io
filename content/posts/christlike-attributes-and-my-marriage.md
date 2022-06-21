@@ -1,7 +1,7 @@
 ---
 title: "Christlike Attributes and My Marriage"
 date: "2016-03-27"
-categories: 
+tags:
   - "all"
   - "conflict"
   - "forgiveness"

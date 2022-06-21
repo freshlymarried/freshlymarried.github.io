@@ -1,7 +1,7 @@
 ---
 title: "3 Tips For Preventing Holiday Stress From Affecting Your Marriage"
 date: "2017-11-20"
-categories: 
+tags:
   - "all"
   - "celebrate"
   - "conflict"

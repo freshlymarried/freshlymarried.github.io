@@ -1,7 +1,7 @@
 ---
 title: "Spotlight: The Unique Marriage of Living With Mental Illness"
 date: "2017-08-23"
-categories: 
+tags:
   - "all"
   - "conflict"
   - "spotlights"

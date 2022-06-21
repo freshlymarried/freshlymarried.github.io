@@ -1,7 +1,7 @@
 ---
 title: "The Married Student Ward Experience"
 date: "2014-08-29"
-categories: 
+tags:
   - "all"
   - "celebrate"
   - "journal"

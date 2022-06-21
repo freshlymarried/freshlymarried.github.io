@@ -1,7 +1,7 @@
 ---
 title: "365 Days of Love"
 date: "2014-01-06"
-categories: 
+tags:
   - "all"
   - "celebrate"
   - "dates"

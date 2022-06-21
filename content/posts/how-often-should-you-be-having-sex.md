@@ -1,7 +1,7 @@
 ---
 title: "How Often Should You Be Having Sex?"
 date: "2017-04-19"
-categories: 
+tags:
   - "all"
   - "communication"
   - "romance"

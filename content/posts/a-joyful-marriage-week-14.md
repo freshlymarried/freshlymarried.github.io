@@ -1,7 +1,7 @@
 ---
 title: "A Joyful Marriage - Week 14"
 date: "2017-04-10"
-categories: 
+tags:
   - "ajoyfulmarriage"
   - "all"
   - "journal"

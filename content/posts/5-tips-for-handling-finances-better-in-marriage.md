@@ -1,7 +1,7 @@
 ---
 title: "5 Tips for Handling Finances Better in Marriage"
 date: "2018-11-13"
-categories: 
+tags:
   - "all"
   - "communication"
   - "effort"

@@ -1,7 +1,7 @@
 ---
 title: "A Joyful Marriage - Week 48"
 date: "2017-12-05"
-categories: 
+tags:
   - "ajoyfulmarriage"
   - "all"
   - "religious"

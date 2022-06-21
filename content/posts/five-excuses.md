@@ -1,7 +1,7 @@
 ---
 title: "Five Excuses"
 date: "2014-05-01"
-categories: 
+tags:
   - "all"
   - "friendship"
   - "journal"

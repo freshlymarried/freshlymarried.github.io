@@ -1,7 +1,7 @@
 ---
 title: "Gender Reveal!"
 date: "2019-03-18"
-categories: 
+tags:
   - "all"
   - "celebrate"
   - "children"

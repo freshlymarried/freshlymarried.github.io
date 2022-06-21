@@ -1,7 +1,7 @@
 ---
 title: "The Barker Family"
 date: "2013-11-18"
-categories: 
+tags:
   - "all"
   - "spotlights"
 featured_image: "/images/the-barkers.jpg"

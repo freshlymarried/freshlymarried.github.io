@@ -1,7 +1,7 @@
 ---
 title: "25 White Elephant Gift Ideas"
 date: "2018-12-04"
-categories: 
+tags:
   - "all"
   - "celebrate"
   - "funny"

@@ -1,7 +1,7 @@
 ---
 title: "February Date Night Giveaway Winner"
 date: "2016-02-09"
-categories: 
+tags:
   - "all"
   - "dates"
   - "giveaways"

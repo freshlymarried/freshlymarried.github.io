@@ -1,7 +1,7 @@
 ---
 title: "Learning From Mistakes"
 date: "2016-03-07"
-categories: 
+tags:
   - "all"
   - "communication"
   - "conflict"

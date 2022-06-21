@@ -1,7 +1,7 @@
 ---
 title: "The Grass is Green Where You Water it"
 date: "2015-09-27"
-categories: 
+tags:
   - "all"
   - "communication"
   - "effort"

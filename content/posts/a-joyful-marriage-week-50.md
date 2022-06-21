@@ -1,7 +1,7 @@
 ---
 title: "A Joyful Marriage - Week 50"
 date: "2017-12-20"
-categories: 
+tags:
   - "all"
 featured_image: "/images/a-joyful-marriage-week-50.png"
 ---

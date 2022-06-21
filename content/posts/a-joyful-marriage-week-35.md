@@ -1,7 +1,7 @@
 ---
 title: "A Joyful Marriage - Week 35"
 date: "2017-09-04"
-categories: 
+tags:
   - "ajoyfulmarriage"
   - "all"
   - "journal"

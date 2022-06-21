@@ -1,7 +1,7 @@
 ---
 title: "Decision-Making: The Three-Legged Race in Marriage"
 date: "2018-01-30"
-categories: 
+tags:
   - "all"
   - "communication"
   - "conflict"

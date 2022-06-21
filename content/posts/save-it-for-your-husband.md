@@ -1,7 +1,7 @@
 ---
 title: "Save It For Your Husband"
 date: "2014-06-04"
-categories: 
+tags:
   - "all"
   - "goals"
   - "romance"

@@ -1,7 +1,7 @@
 ---
 title: "A Joyful Marriage - Week 30"
 date: "2017-07-31"
-categories: 
+tags:
   - "ajoyfulmarriage"
   - "all"
   - "journal"

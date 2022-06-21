@@ -1,7 +1,7 @@
 ---
 title: "A Joyful Marriage - Week 46"
 date: "2017-11-21"
-categories: 
+tags:
   - "ajoyfulmarriage"
   - "all"
   - "journal"

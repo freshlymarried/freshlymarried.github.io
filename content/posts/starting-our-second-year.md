@@ -1,7 +1,7 @@
 ---
 title: "Starting Our Second Year"
 date: "2014-06-23"
-categories: 
+tags:
   - "all"
   - "celebrate"
   - "friendship"

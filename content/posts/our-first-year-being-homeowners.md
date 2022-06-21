@@ -1,7 +1,7 @@
 ---
 title: "Our First Year Being Homeowners"
 date: "2015-08-31"
-categories: 
+tags:
   - "all"
   - "celebrate"
   - "goals"

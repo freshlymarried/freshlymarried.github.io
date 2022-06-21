@@ -1,7 +1,7 @@
 ---
 title: "The Door Handle Trick"
 date: "2016-02-12"
-categories: 
+tags:
   - "all"
   - "communication"
   - "effort"

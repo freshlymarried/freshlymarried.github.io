@@ -1,7 +1,7 @@
 ---
 title: "The Shock Family"
 date: "2014-02-24"
-categories: 
+tags:
   - "all"
   - "spotlights"
 featured_image: "/images/engagement-picha.jpg"

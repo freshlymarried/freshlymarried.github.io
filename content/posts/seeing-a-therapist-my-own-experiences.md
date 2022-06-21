@@ -1,7 +1,7 @@
 ---
 title: "Seeing a Therapist: My Own Experiences"
 date: "2017-02-01"
-categories: 
+tags:
   - "all"
   - "conflict"
   - "effort"

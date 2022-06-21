@@ -1,7 +1,7 @@
 ---
 title: "3 Ways Couples Therapy Can Empower Marriage, Even Before The First Session"
 date: "2017-02-01"
-categories: 
+tags:
   - "all"
   - "conflict"
   - "effort"

@@ -1,7 +1,7 @@
 ---
 title: "A Joyful Marriage - Week 22"
 date: "2017-06-05"
-categories: 
+tags:
   - "ajoyfulmarriage"
   - "all"
   - "children"

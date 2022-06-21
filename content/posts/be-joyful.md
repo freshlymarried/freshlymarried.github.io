@@ -1,7 +1,7 @@
 ---
 title: "Be Joyful"
 date: "2016-12-20"
-categories: 
+tags:
   - "all"
   - "celebrate"
   - "effort"

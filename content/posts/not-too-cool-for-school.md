@@ -1,7 +1,7 @@
 ---
 title: "Not Too Cool for School"
 date: "2014-04-16"
-categories: 
+tags:
   - "all"
   - "celebrate"
   - "goals"

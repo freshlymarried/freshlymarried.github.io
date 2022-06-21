@@ -1,7 +1,7 @@
 ---
 title: "The Future is as Bright as Your Faith"
 date: "2016-04-25"
-categories: 
+tags:
   - "all"
   - "engagement"
   - "goals"

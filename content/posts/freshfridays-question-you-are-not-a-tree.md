@@ -1,7 +1,7 @@
 ---
 title: "#freshfridays Quote: You Are Not a Tree"
 date: "2016-04-08"
-categories: 
+tags:
   - "freshfridays"
   - "all"
   - "effort"

@@ -1,7 +1,7 @@
 ---
 title: "The Berecz Family"
 date: "2014-03-17"
-categories: 
+tags:
   - "all"
   - "spotlights"
 featured_image: "/images/Tom-and-Petra.jpg"

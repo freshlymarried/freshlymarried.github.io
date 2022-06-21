@@ -1,7 +1,7 @@
 ---
 title: "Hug More, Kiss More"
 date: "2016-01-09"
-categories: 
+tags:
   - "all"
   - "effort"
   - "goals"

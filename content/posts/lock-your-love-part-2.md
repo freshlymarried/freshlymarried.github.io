@@ -1,7 +1,7 @@
 ---
 title: "Lock Your Love - Part 2"
 date: "2016-01-07"
-categories: 
+tags:
   - "all"
   - "celebrate"
   - "journal"

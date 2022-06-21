@@ -1,7 +1,7 @@
 ---
 title: "Date Night Pressures"
 date: "2016-08-11"
-categories: 
+tags:
   - "all"
   - "dates"
   - "romance"

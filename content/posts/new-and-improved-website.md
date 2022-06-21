@@ -1,7 +1,7 @@
 ---
 title: "New And Improved Website"
 date: "2014-01-04"
-categories: 
+tags:
   - "all"
   - "celebrate"
 featured_image: "/images/logo-and-doodle-promo.png"

@@ -1,7 +1,7 @@
 ---
 title: "Love Notes: The Lifelong Love Letter"
 date: "2016-02-17"
-categories: 
+tags:
   - "all"
   - "dates"
   - "effort"

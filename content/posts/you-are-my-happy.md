@@ -1,7 +1,7 @@
 ---
 title: "You Are My Happy"
 date: "2015-05-20"
-categories: 
+tags:
   - "all"
   - "effort"
   - "goals"

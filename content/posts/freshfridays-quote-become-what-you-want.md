@@ -1,7 +1,7 @@
 ---
 title: "#freshfridays Quote: Become What You Want"
 date: "2016-07-15"
-categories: 
+tags:
   - "all"
   - "effort"
 featured_image: "/images/remaining-what-we-are.png"

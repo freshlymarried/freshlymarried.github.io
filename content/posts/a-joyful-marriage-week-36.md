@@ -1,7 +1,7 @@
 ---
 title: "A Joyful Marriage - Week 36"
 date: "2017-09-11"
-categories: 
+tags:
   - "ajoyfulmarriage"
   - "all"
   - "friendship"

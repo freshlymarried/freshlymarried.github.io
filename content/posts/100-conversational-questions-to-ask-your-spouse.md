@@ -1,7 +1,7 @@
 ---
 title: "100 Conversational Questions to Ask Your Spouse"
 date: "2017-05-10"
-categories: 
+tags:
   - "all"
   - "dates"
   - "friendship"

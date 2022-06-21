@@ -1,7 +1,7 @@
 ---
 title: "Reaching Your Health Goals: Together or Individually?"
 date: "2016-05-03"
-categories: 
+tags:
   - "all"
   - "effort"
   - "friendship"

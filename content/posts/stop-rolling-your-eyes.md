@@ -1,7 +1,7 @@
 ---
 title: "Stop Rolling Your Eyes"
 date: "2016-04-19"
-categories: 
+tags:
   - "all"
   - "celebrate"
   - "effort"

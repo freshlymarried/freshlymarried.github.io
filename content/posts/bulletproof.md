@@ -1,7 +1,7 @@
 ---
 title: "Why Your Marriage is Not Bulletproof"
 date: "2016-03-31"
-categories: 
+tags:
   - "all"
   - "conflict"
   - "effort"

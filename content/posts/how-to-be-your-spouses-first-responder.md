@@ -1,7 +1,7 @@
 ---
 title: "How To Be Your Spouse's First Responder"
 date: "2017-04-11"
-categories: 
+tags:
   - "all"
   - "conflict"
   - "techniques"

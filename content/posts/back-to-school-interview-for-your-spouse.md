@@ -1,7 +1,7 @@
 ---
 title: "Back to School Interview For Your Spouse"
 date: "2017-08-16"
-categories: 
+tags:
   - "all"
   - "celebrate"
   - "goals"

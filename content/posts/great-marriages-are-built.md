@@ -1,7 +1,7 @@
 ---
 title: "Great Marriages Are Built Brick by Brick"
 date: "2016-04-05"
-categories: 
+tags:
   - "all"
   - "communication"
   - "conflict"

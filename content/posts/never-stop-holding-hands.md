@@ -1,7 +1,7 @@
 ---
 title: "Never Stop Holding Hands"
 date: "2013-10-13"
-categories: 
+tags:
   - "all"
   - "goals"
   - "journal"
