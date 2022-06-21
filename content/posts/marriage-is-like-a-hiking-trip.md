@@ -104,7 +104,7 @@ Back in college I had to do an assignment relating marriage and relationships to
 
 * * *
 
-![Marriage metaphors, marriage and hiking, marriage is like a hike, newlywed adventures, marriage adventures, hiking adventures, hiking in relationships](images/photo-1436918671239-a2b72ace4880.jpeg)
+![Marriage metaphors, marriage and hiking, marriage is like a hike, newlywed adventures, marriage adventures, hiking adventures, hiking in relationships](/images/photo-1436918671239-a2b72ace4880.jpeg)
 
 Relationships are tough, sometimes like a rocky hike! We all know this. Being a newlywed, I saw how things really do feel like pure happiness in the beginning. It's still happiness, but it isn't that every second! Haha, we all know this too. Though our adventure is difficult at times, I love climbing it with Trevor. He waits for me to catch up to him. He doesn't complain when I'm a slowpoke!. He fills up my canteen without being asked. He gives me balance when I hold his hand when my footing is not secure. And he carries me up the mountain when my body is physically suffering.
 

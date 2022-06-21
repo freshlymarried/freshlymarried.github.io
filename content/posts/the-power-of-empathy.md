@@ -40,7 +40,7 @@ Another easy mistake we can make is talking about ourselves too much, thinking t
 
 Below are some of my fav quotes from her discussion that I love, and can have a powerful impact if we remember them! Stay tuned this week for more blog posts on how important empathy can be in your marriage when it comes to having a spouse or both of you, suffering from depression.
 
-# ![empathy, empathy video, brene brown, brene brown quotes, empathy and sympathy, difference between empathy and sympathy, empathy in marriage, showing empathy, marriage advice, marriage help, relationship help, relationship advice, marriage quotes](images/empathy-and-sympathy-brene-brown.png)
+# ![empathy, empathy video, brene brown, brene brown quotes, empathy and sympathy, difference between empathy and sympathy, empathy in marriage, showing empathy, marriage advice, marriage help, relationship help, relationship advice, marriage quotes](/images/empathy-and-sympathy-brene-brown.png)
 
 * * *
 
@@ -50,7 +50,7 @@ Below are some of my fav quotes from her discussion that I love, and can have a 
 
 * * *
 
-![empathy, empathy video, brene brown, brene brown quotes, empathy and sympathy, difference between empathy and sympathy, empathy in marriage, showing empathy, marriage advice, marriage help, relationship help, relationship advice, marriage quotes](images/silver-lining-brene-brown-quote.png)
+![empathy, empathy video, brene brown, brene brown quotes, empathy and sympathy, difference between empathy and sympathy, empathy in marriage, showing empathy, marriage advice, marriage help, relationship help, relationship advice, marriage quotes](/images/silver-lining-brene-brown-quote.png)
 
 > * * *
 > 
@@ -62,4 +62,4 @@ Below are some of my fav quotes from her discussion that I love, and can have a 
 
 For more awesome Brene Brown thoughts, check out some of her books like, ["_Rising Strong."_](https://amzn.to/2K5xV6T)
 
-![](images/517BgzwEnLL._SX322_BO1204203200_-195x300.jpg)
+![](/images/517BgzwEnLL._SX322_BO1204203200_-195x300.jpg)

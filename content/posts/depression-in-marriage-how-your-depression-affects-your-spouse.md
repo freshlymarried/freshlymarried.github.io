@@ -12,7 +12,7 @@ coverImage: "photo-1445762467354-d6c921f33b14.jpeg"
 
 It's not easy being a spouse to someone who suffers from a depression disorder or anxiety disorder. There's much patience required and it might be harder to understand if you have never experienced it before. Some spouses go into marriage with someone who suffers from depression not knowing how much of a mental and physical toll it can also have on themselves. And sadly, many couples go into marriage thinking that because they are so in love with their soulmate, their depression is gone. But as I stated in this **previous post**, you can't depend on your spouse for your total happiness, or expect them to "fix" your depression.
 
-\[caption id="attachment\_5635" align="aligncenter" width="589"\]![depression in marriage, depression quotes, dealing with depression in your marriage, spouse has depression, how to help spouse with depression, marriage advice, marriage help, stress in marriage, marriage specialist, handling depression, ](images/IMG_0074.jpg) by Nicholette photography\[/caption\]
+\[caption id="attachment\_5635" align="aligncenter" width="589"\]![depression in marriage, depression quotes, dealing with depression in your marriage, spouse has depression, how to help spouse with depression, marriage advice, marriage help, stress in marriage, marriage specialist, handling depression, ](/images/IMG_0074.jpg) by Nicholette photography\[/caption\]
 
 * * *
 
@@ -31,7 +31,7 @@ I want to be sensitive here because I don't want to discount how hard it is to t
 
 Management could be finding new hobbies or interest to be involved in, reprioritizing your responsibilities, doing more of what makes you happy, and/or asking for help. Help can come in the form of reading books, talking to your doctor, seeking a therapist, asking your spouse, family, or friends for help. It isn't easy accepting that you need help. People view it as a weakness. However, I choose to look at it this way: **asking for help doesn't mean you are weak, it means you are wise.** You recognize that something is broken and you take steps towards repairing it.
 
-![depression in marriage, depression quotes, dealing with depression in your marriage, spouse has depression, how to help spouse with depression, marriage advice, marriage help, stress in marriage, marriage specialist, handling depression, ](images/IMG_0602.jpg)
+![depression in marriage, depression quotes, dealing with depression in your marriage, spouse has depression, how to help spouse with depression, marriage advice, marriage help, stress in marriage, marriage specialist, handling depression, ](/images/IMG_0602.jpg)
 
 * * *
 
@@ -39,7 +39,7 @@ Management could be finding new hobbies or interest to be involved in, repriorit
 
 The ways that I have asked for help have been through both getting on medication, and counseling with a therapist a few times since I was 16. I feel like I need to share my experiences with some of you out there, because unlike the negative stigma medication and therapy get, I feel like I have a good handle on managing my anxiety and depression, and have done it in ways that don't take over my life.
 
-\[caption id="attachment\_5634" align="aligncenter" width="589"\]![depression in marriage, depression quotes, dealing with depression in your marriage, spouse has depression, how to help spouse with depression, marriage advice, marriage help, stress in marriage, marriage specialist, handling depression, ](images/102.jpg) Little 17 year old me!\[/caption\]
+\[caption id="attachment\_5634" align="aligncenter" width="589"\]![depression in marriage, depression quotes, dealing with depression in your marriage, spouse has depression, how to help spouse with depression, marriage advice, marriage help, stress in marriage, marriage specialist, handling depression, ](/images/102.jpg) Little 17 year old me!\[/caption\]
 
 Depressive disorder ran in my family and instead of denying that it got passed onto me, I accepted it and started managing it early on. Many people don't want pills to always be the answer, but sometimes they are necessary. When I was 17 and again when I was 19, I went off my medication for a few months because I didn't want to depend on it. After this didn't work out both times, I realized that anxiety medication was actually helping me and that I did great on it. It takes a few types of medication to find what works for you, so understand there might be some trial and error. I have been taking the same medication since then and am grateful for it helping my brain balance out.
 
@@ -51,7 +51,7 @@ Since I've struggled with this for nearly ten years, I have become pretty self-a
 
 I recently went back again to my therapist about something I have complained about frequently and was affecting my self-esteem consistently. After realizing that my venting to Trevor was not effective at helping me feel better, and it was instead bringing him down with me, we decided I should go back in and see if she could help me get over it. She was the one who helped me understand that I was harming my marriage by carrying this around and bringing it up all the time. So again, this was something that had been happening for a few months in my own head that I couldn't fix on my own. It was my problem that had nothing to do with our marriage, and yet it was harmful to it. If this sounds familiar to you, consider getting help. Because that's exactly what it is-- help!
 
-![get help, depression in marriage, depression quotes, dealing with depression in your marriage, spouse has depression, how to help spouse with depression, marriage advice, marriage help, stress in marriage, marriage specialist, handling depression, ](images/IMG_0429.jpg)
+![get help, depression in marriage, depression quotes, dealing with depression in your marriage, spouse has depression, how to help spouse with depression, marriage advice, marriage help, stress in marriage, marriage specialist, handling depression, ](/images/IMG_0429.jpg)
 
 * * *
 

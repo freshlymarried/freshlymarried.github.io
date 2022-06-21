@@ -21,7 +21,7 @@ Every couple has to decide how they handle uncomfortable situations that might c
 
 * * *
 
-![safeguarding your marriage from social media, social media in marriage, navigating social media, using social media safely, dangers of social media in marriage, respecting the opposite sex when married, connections with men while married, connections with women while married, friends on social media, being friends with exes, social media affects on marriage, gordon b hinckley, be fiercely loyal, loyalty in marriage,](images/ideas-for-safeguarding-your-marriage-on-social-media.jpg)
+![safeguarding your marriage from social media, social media in marriage, navigating social media, using social media safely, dangers of social media in marriage, respecting the opposite sex when married, connections with men while married, connections with women while married, friends on social media, being friends with exes, social media affects on marriage, gordon b hinckley, be fiercely loyal, loyalty in marriage,](/images/ideas-for-safeguarding-your-marriage-on-social-media.jpg)
 
 1\. **The "friend-sweep."** You can delete the connections on your social media of people you think could potentially cause issues with your marriage (exes). If you feel it needs to come to it, delete any people of the opposite sex outside of family and close friends. Even if it doesn't bother you, it can give your spouse a piece of mind. Trevor has done this kind of friend-sweep and he not only feels more comfortable, but it helps him waste less time not having his newsfeed filled with updates from so many people. 
 
@@ -51,6 +51,6 @@ After talking with my husband and thinking about it, I decided it was best for m
 > 
 > \-Gordon B. Hinckley
 
-![safeguarding your marriage from social media, social media in marriage, navigating social media, using social media safely, dangers of social media in marriage, respecting the opposite sex when married, connections with men while married, connections with women while married, friends on social media, being friends with exes, social media affects on marriage, gordon b hinckley, be fiercely loyal, loyalty in marriage,](images/be-fiercely-loyal-one-to-another-1.png)
+![safeguarding your marriage from social media, social media in marriage, navigating social media, using social media safely, dangers of social media in marriage, respecting the opposite sex when married, connections with men while married, connections with women while married, friends on social media, being friends with exes, social media affects on marriage, gordon b hinckley, be fiercely loyal, loyalty in marriage,](/images/be-fiercely-loyal-one-to-another-1.png)
 
 I love that phrasing "fiercely loyal!" **When you put your spouse above everything and everyone and even what they might think, that is what "fiercely loyal" means in my eyes.** If being fiercely loyal means having a joint facebook account to some couples, then that is great! We may not agree with the boundaries couples have established when it comes to communicating with the opposite sex. But that's for each individual marriage to decide, not the peanut gallery. Figure out what being "fiercely loyal" means to your marriage and just do your best to abide by it.

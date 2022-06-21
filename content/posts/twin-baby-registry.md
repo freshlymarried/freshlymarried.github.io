@@ -18,7 +18,7 @@ Also, we chose to exclusively go with one baby registry at Amazon. So at the end
 
 I hope this is helpful for anyone in the twin situation, or who are curious about how things differ with twins. (not like I’m a pro twin mom yet by any means!) 
 
-![twin registry, twin baby registry items, baby registry items, twin boys registry, how to create a twin registry, preparing for baby, preparing for twins, what we did for our twins, ](images/miller007-683x1024.jpg)
+![twin registry, twin baby registry items, baby registry items, twin boys registry, how to create a twin registry, preparing for baby, preparing for twins, what we did for our twins, ](/images/miller007-683x1024.jpg)
 
 Taken by the AMAZING Rosalyn photography!
 
@@ -36,7 +36,7 @@ _8-MONTH UPDATE: So far we have only needed one! We don’t get out much where w
 
 **[My Brest Friend Supportive Nursing Pillow for Twins, $65.](https://amzn.to/2RqiEkX)** It looks like a contraption I have to wear, haha, but it looks like it's gonna make breastfeeding at the same time so much easier. I had two other twin moms recommend this to me.
 
-![](images/DCBDEFF2-5760-45DD-87B7-190A5E21EA0B-2-768x1024.jpeg)
+![](/images/DCBDEFF2-5760-45DD-87B7-190A5E21EA0B-2-768x1024.jpeg)
 
 _8-MONTH UPDATE: Nursing did not work out for my boys and I after the first three weeks. However, this pillow still was very helpful in bottle-feeding my twins at the same time. I put one on this pillow around my waist like the picture shown, and had the other baby in a Boppy right next to me. It was also helpful for little kids holding them as it helped support their weight._ 
 
@@ -46,21 +46,21 @@ _8-MONTH UPDATE: Nursing did not work out for my boys and I after the first thre
 
 We initially wanted to get this [**Joovy Twin Roo+ Car Seat Stroller, $97**,](https://amzn.to/2WLh4et) but we ran the dimensions once it’s folded up and it wouldn’t fit in the back of my Tucson. So we switched to get this stroller that was a part of the same system as our car seats. [**The Graco DuoGlider Click Connect Stroller, $136**](https://www.amazon.com/Graco-DuoGlider-Connect-Stroller-Glacier/dp/B01GHVJHMW/ref=sr_1_1?keywords=graco+duoglider+click+connect+stroller&qid=1560462360&s=gateway&sr=8-1)
 
-![](images/91dwoBmSshL._SX522_.jpg)
+![](/images/91dwoBmSshL._SX522_.jpg)
 
 It works with our **[Graco SnugRide SnugLock 35 Infant Car Seat with an adjustable base, $159.](https://www.amazon.com/Graco-SnugRide-SnugLock-Infant-adjustable/dp/B01MTM3I9M/ref=sr_1_3?keywords=graco+snugride+snuglock+35+infant+car+seat&qid=1560462305&s=gateway&sr=8-3)** No particular rhyme or reason we chose these over other ones.
 
-![](images/91bIwQYniaL._SL1500_-791x1024.jpg)
+![](/images/91bIwQYniaL._SL1500_-791x1024.jpg)
 
 * * *
 
 [](https://www.amazon.com/My-Brest-Friend-Supportive-Plus-Size/dp/B0032Z81M4/ref=as_li_ss_il?keywords=my+brest+friend+supportive+nursing+pillow+for+twins&qid=1560462391&s=gateway&sr=8-1-spons&psc=1&linkCode=li2&tag=freshlymarrie-20&linkId=973d4138f870586c67f086b581897446&language=en_US)These are the cribs we chose. They are called [**Graco Travel Lite Crib With Stages, $94**](https://www.amazon.com/Graco-Travel-Lite-Stages-Manor/dp/B00HAZUJLI/ref=sr_1_3?keywords=travel%2Blite%2Bcrib&qid=1560461995&s=gateway&sr=8-3&th=1) but we grabbed them from Walmart because Amazon was out of stock at the time we purchased. The idea is that you move the bed panel lower with each stage it suggests so that these can be used from newborn to about a 2-year-old (up to 35" tall or if they can climb out). They were pretty easy to set up, they are up to the safety standards for cribs with the mesh siding to avoid SIDS, and they work for traveling, even if just to grandma's house for Christmas. These were the best choice for us and our twins because it would have been very cramped with two normal size cribs in their room, and we can wheel them from our bedroom to their own room in a smooth transition when that time comes. We just felt like these were the cheapest route instead of having to buy bassinets AND cribs.
 
-![twin registry, twin baby registry items, baby registry items, twin boys registry, how to create a twin registry, preparing for baby, preparing for twins, what we did for our twins,](images/IMG_0116.jpg)
+![twin registry, twin baby registry items, baby registry items, twin boys registry, how to create a twin registry, preparing for baby, preparing for twins, what we did for our twins,](/images/IMG_0116.jpg)
 
 And yes, we did get two more for our main floor living room! It made sense for us because we can just lay them down safely in their own crib when I need to do chores or something but can keep an eye on them. It also will allow our cute dog Oli to roam free without me worrying he is licking their faces since it' too high for him to get into.
 
-![](images/IMG_0120.jpg)
+![](/images/IMG_0120.jpg)
 
 _8-MONTH UPDATE: We have totally used all 4 of these cribs as much as we thought we would and even more! The only drawbacks are that because you don’t put sheets on it, it makes noise with each movement of your baby. We have since upgraded them to convertible cribs for them, so we plan to keep these at grandparents’ houses, for traveling times_, _but have still kept the two in the living room for when I need to contain them ;)_
 
@@ -104,7 +104,7 @@ I am planning on breastfeeding and hoping that works fully. But for times when t
 
 It’s a little more expensive than other options but we don’t have to have a million bottles around the house and constantly have to clean them. Instead, we got 4 of these bottle casings, and then a large number of nipples to cycle through the sterilizer. This company had a free trial pack deal going on so we got that first to make sure we understood how it worked and if we wanted to proceed with this option, and we liked it even more.
 
-![](images/6E5AB075-9DC1-40A5-B00A-83C663A9A719-1-768x1024.jpeg)
+![](/images/6E5AB075-9DC1-40A5-B00A-83C663A9A719-1-768x1024.jpeg)
 
 _8-MONTH UPDATE: We have loved this bottle system! Not only is it great for making their bottles ahead of time, but I have found it’s especially perfect for traveling with. When you have two babies and will be away from the house during 2-3 feedings, that means you’ll have to pack 4-6 bottles in your small diaper bag until you can properly wash and sterilize them. With twins, our diaper bag is already super small so having disposable pouches and just two bottle casings has been a huge convenience. P.S. We have two bottle casings in the diaper bag, two bottle casings for middle of the night/morning feedings in their room, and two more for our main floor. I haven’t felt a need for more.\]_
 
@@ -114,13 +114,13 @@ _8-MONTH UPDATE: We have loved this bottle system! Not only is it great for maki
 
 We also got a **[Nest Camera, $169](https://amzn.to/2KoDKzF)** for their room that sits over both their cribs. We already use the Nest security system for our home so we just needed one more.
 
-![](images/IMG_0104-1.jpg)
+![](/images/IMG_0104-1.jpg)
 
 **Oh and HEY! You get to see their names!**
 
 _8-MONTH UPDATE: We sold our nest camera for [Logitech cameras](https://amzn.to/2Jp8Y77) because these Logitech cameras work with the rest of our apple home system. (We are an apple family!) They actually have better audiovisuals than our nest cameras did. The cool thing is I’ve been able to download scenes from the app from our cameras of cute moments we have had with the boys. I’ve already made a few video compilations from what it captures, haha!_
 
-![](images/AF69296C-C6FB-4DA4-B1C9-857CB52287BB.jpeg)
+![](/images/AF69296C-C6FB-4DA4-B1C9-857CB52287BB.jpeg)
 
 We love their new cribs by the way! It's been so fun choosing cute sheets to match!
 
@@ -132,7 +132,7 @@ We love their new cribs by the way! It's been so fun choosing cute sheets to mat
 
 [](https://www.amazon.com/Fridababy-NoseFrida-Aspirator-Hygiene-Filters/dp/B00RP0GHBO/ref=as_li_ss_il?keywords=nose+frida&qid=1560887640&s=gateway&sr=8-4&th=1&linkCode=li2&tag=freshlymarrie-20&linkId=fa8c54d647e9d26f69629489d80debab&language=en_US)NoseFrida everything. Specifically this **[NoseFrida Snotsucker, $19.](https://amzn.to/2WRAZ05)** We got gifted two of these and we think both will come in handy really well :) I’m guessing one will be enough but who knows, I might be telling you in six months that it’s necessary for twins!
 
-[![](images/miller076-1-687x1024.jpg)](https://rosalynphotography.com/baby-and-belly/miller-draper-ut/)
+[![](/images/miller076-1-687x1024.jpg)](https://rosalynphotography.com/baby-and-belly/miller-draper-ut/)
 
 Taken by the AMAZING Rosalyn Photography
 

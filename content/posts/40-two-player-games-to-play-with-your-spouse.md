@@ -51,7 +51,7 @@ P.S. This post contains affiliate links.
 - [Ticket to Ride](https://amzn.to/2JQCEZZ)
     - You're trying to create railroads from one destination to another. The length can be short or long, depends on the cards you are dealt! It takes a tiny bit of strategy but mostly super fun! It also comes in the Europe option, which could be a nice trip down memory lane if you just got back from a trip there :)
 
-![](images/IMG_0225-1.jpeg)
+![](/images/IMG_0225-1.jpeg)
 
 * * *
 
@@ -95,7 +95,7 @@ P.S. This post contains affiliate links.
 - [Five Crowns](https://amzn.to/2EOPhAN)
     - There are five suits and colors instead of a typical deck of cards. It's one of those games where you try and get four of a kind, or a run, etc. And it goes in phases like Phase 10.
 
-![letterpress app game, letterpress game, lord of the rings monopoloy, woudl you rather, two person games, games to play as newlyweds, newlywed games, two person games, two-person games, two-player games, a list of two-player games, a list of two-person games, games to play as a couple, couple games, app games for two players, app games to play with your spouse, board games to play with your spouse, boardless games to play with your spouse, two-person board games, two-person app games, two-person boardless games, funnest two-person games, games in marriage, having fun in marriage, playing games in marriage, date night ideas, date night game night ideas, game night ideas, game night in marriage, marriage advice, marriage help, christmas gift ideas, christmas gift ideas for your marriage, gift ideas for your marriage, gift ideas for your spouse, anniversary gift ideas](images/IMG_1521-768x1024.jpg)
+![letterpress app game, letterpress game, lord of the rings monopoloy, woudl you rather, two person games, games to play as newlyweds, newlywed games, two person games, two-person games, two-player games, a list of two-player games, a list of two-person games, games to play as a couple, couple games, app games for two players, app games to play with your spouse, board games to play with your spouse, boardless games to play with your spouse, two-person board games, two-person app games, two-person boardless games, funnest two-person games, games in marriage, having fun in marriage, playing games in marriage, date night ideas, date night game night ideas, game night ideas, game night in marriage, marriage advice, marriage help, christmas gift ideas, christmas gift ideas for your marriage, gift ideas for your marriage, gift ideas for your spouse, anniversary gift ideas](/images/IMG_1521-768x1024.jpg)
 
 * * *
 
@@ -121,7 +121,7 @@ P.S. I won't put "quick" on these because you either play by levels and can paus
 
 * * *
 
-### ![letterpress app game, letterpress game, lord of the rings monopoloy, woudl you rather, two person games, games to play as newlyweds, newlywed games, two person games, two-person games, two-player games, a list of two-player games, a list of two-person games, games to play as a couple, couple games, app games for two players, app games to play with your spouse, board games to play with your spouse, boardless games to play with your spouse, two-person board games, two-person app games, two-person boardless games, funnest two-person games, games in marriage, having fun in marriage, playing games in marriage, date night ideas, date night game night ideas, game night ideas, game night in marriage, marriage advice, marriage help, christmas gift ideas, christmas gift ideas for your marriage, gift ideas for your marriage, gift ideas for your spouse, anniversary gift ideas](images/Copy-of-trust-is-built-in-small-moments-quote.png)
+### ![letterpress app game, letterpress game, lord of the rings monopoloy, woudl you rather, two person games, games to play as newlyweds, newlywed games, two person games, two-person games, two-player games, a list of two-player games, a list of two-person games, games to play as a couple, couple games, app games for two players, app games to play with your spouse, board games to play with your spouse, boardless games to play with your spouse, two-person board games, two-person app games, two-person boardless games, funnest two-person games, games in marriage, having fun in marriage, playing games in marriage, date night ideas, date night game night ideas, game night ideas, game night in marriage, marriage advice, marriage help, christmas gift ideas, christmas gift ideas for your marriage, gift ideas for your marriage, gift ideas for your spouse, anniversary gift ideas](/images/Copy-of-trust-is-built-in-small-moments-quote.png)
 
 ### Four reasons why I love these activities in marriage:
 

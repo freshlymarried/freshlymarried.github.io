@@ -19,7 +19,7 @@ I've been doing some research the past little while on newlywed divorce. The fir
 
 So I'm here, making it a big deal, because as my husband put it, "It's like we served a [mission](http://www.mormon.org/faq/topic/missionaries) together!" For those of you who have served that 2-year mission, or anyone who has known someone to be gone for two years serving a mission, we know that is an accomplishment! I joke back to him: "Except for I'm the best kind of mission companion - the one that you actually get along with and don't have to separate from every few months!" :) I really have been blessed to have him as my FOREVER companion on this mission through life. He is awesome and sketched this little surprise for me:
 
-[![celebrating second wedding anniversary, anniversary sketch, ](images/IMG_1531.jpg)](http://freshlymarried.com/wp-content/uploads/2015/05/IMG_1531.jpg)
+[![celebrating second wedding anniversary, anniversary sketch, ](/images/IMG_1531.jpg)](http://freshlymarried.com/wp-content/uploads/2015/05/IMG_1531.jpg)
 
 I love you Trevor!
 

@@ -22,7 +22,7 @@ I am a huge believer in love languages! Gary Chapman is most well-known for this
 
 - Between our 3rd and 4th date I made Trevor a gift basket of brownies and a nice card to say thank you for the great weekend of dates I had with him. This act really changed how he felt about me, because apparently he wasn’t sure how I felt about him, and was needing to hear it in order to know if he should keep pursuing me. **My words of affirmation were literally pivotal in our relationship, so it's VERY important that we let our spouse know we love them in the way they need to feel it.** **Even if you think they should know it deep down, sometimes they don’t know you love them until you tell them, touch them, or show them!**
 
-# ![the five love languages, understanding the five love languages, gary chapman, the five love languages test, newlyweds and the five love languages, understanding the five love languages for newlyweds, the five love languages for newlyweds, words of affirmation, quality time, physical touch, acts of service, receiving gifts, speaking your partner's love language, speaking your partner's love language effectively, speaking your partner's love language correctly](images/5K1A4927.jpg)
+# ![the five love languages, understanding the five love languages, gary chapman, the five love languages test, newlyweds and the five love languages, understanding the five love languages for newlyweds, the five love languages for newlyweds, words of affirmation, quality time, physical touch, acts of service, receiving gifts, speaking your partner's love language, speaking your partner's love language effectively, speaking your partner's love language correctly](/images/5K1A4927.jpg)
 
 * * *
 
@@ -51,7 +51,7 @@ I am a huge believer in love languages! Gary Chapman is most well-known for this
 
 * * *
 
-### ![the five love languages, understanding the five love languages, gary chapman, the five love languages test, newlyweds and the five love languages, understanding the five love languages for newlyweds, the five love languages for newlyweds, words of affirmation, quality time, physical touch, acts of service, receiving gifts, speaking your partner's love language, speaking your partner's love language effectively, speaking your partner's love language correctly](images/762A2688-139.jpg)
+### ![the five love languages, understanding the five love languages, gary chapman, the five love languages test, newlyweds and the five love languages, understanding the five love languages for newlyweds, the five love languages for newlyweds, words of affirmation, quality time, physical touch, acts of service, receiving gifts, speaking your partner's love language, speaking your partner's love language effectively, speaking your partner's love language correctly](/images/762A2688-139.jpg)
 
 ### THINGS TO REMEMBER
 
@@ -81,6 +81,6 @@ Take the time to think about this, take the test, and discuss with your partner.
 
 And I suggest grabbing the book for yourself [here](https://amzn.to/2HItBf8)!
 
-![](images/51ItBwnbJ6L._SX322_BO1204203200_-195x300.jpg)
+![](/images/51ItBwnbJ6L._SX322_BO1204203200_-195x300.jpg)
 
-![the five love languages, understanding the five love languages, gary chapman, the five love languages test, newlyweds and the five love languages, understanding the five love languages for newlyweds, the five love languages for newlyweds, words of affirmation, quality time, physical touch, acts of service, receiving gifts, speaking your partner's love language, speaking your partner's love language effectively, speaking your partner's love language correctly, keys to successful marriages, marriage advice, marriage help, ideas to serve your spouse](images/gary-chapman-quote-instagram-site.png)
+![the five love languages, understanding the five love languages, gary chapman, the five love languages test, newlyweds and the five love languages, understanding the five love languages for newlyweds, the five love languages for newlyweds, words of affirmation, quality time, physical touch, acts of service, receiving gifts, speaking your partner's love language, speaking your partner's love language effectively, speaking your partner's love language correctly, keys to successful marriages, marriage advice, marriage help, ideas to serve your spouse](/images/gary-chapman-quote-instagram-site.png)

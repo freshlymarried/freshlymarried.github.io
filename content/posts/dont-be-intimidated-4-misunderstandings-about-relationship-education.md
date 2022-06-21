@@ -20,7 +20,7 @@ Most people don't know the underlying reason for Freshly Married being here. It'
 
 > Programs, campaigns, and informational materials that teach relationship enhancing skills and principles that promote healthy interpersonal relationships.
 
-## ![https://www.eventbrite.com/e/wife-life-workshop-tickets-39643091554](images/christiana-rivers-258740.jpg)
+## ![https://www.eventbrite.com/e/wife-life-workshop-tickets-39643091554](/images/christiana-rivers-258740.jpg)
 
 ## Misunderstandings:
 
@@ -32,7 +32,7 @@ Most people don't know the underlying reason for Freshly Married being here. It'
 
 **Misunderstanding #4: While people probably go for their marriage most often, it can be on relationships with ANYONE.** There are several kinds of interpersonal relationships, aren't there? So there are all kinds of classes and helpful material on the various kinds of relationships we will have in life. For example, I am certified to teach 7 different kinds of family education classes ranging from dating curriculum to fatherhood-focused curriculum.
 
-![relationship education, why relationship education is important, marriage education, marriage education classes, relationship classes flu shot, relationship flu shot, wife life workshops, preventative relationship education, relationship enhancement](images/fullsizeoutput_17f3.jpeg)
+![relationship education, why relationship education is important, marriage education, marriage education classes, relationship classes flu shot, relationship flu shot, wife life workshops, preventative relationship education, relationship enhancement](/images/fullsizeoutput_17f3.jpeg)
 
 * * *
 
@@ -40,7 +40,7 @@ Most people don't know the underlying reason for Freshly Married being here. It'
 
 I just hope that more people realize that relationship education is not a negative mark on your marriage. It doesn't mean that one of you feels like your relationship is terrible! **It's OK to want improvement in your marriage and it's OK to do something about it.** I really think the best mentality to have towards relationship classes/workshops/events/courses is: _"You know I feel like we are doing pretty good right now, even though we have our struggles in this one area. But maybe this class can teach us how to better understand it and work on it together. And maybe we will learn some other skills that can be useful to our relationship."_
 
-![relationship education, why relationship education is important, marriage education, marriage education classes, relationship classes flu shot, relationship flu shot, wife life workshops, preventative relationship education, relationship enhancement](images/2.png)
+![relationship education, why relationship education is important, marriage education, marriage education classes, relationship classes flu shot, relationship flu shot, wife life workshops, preventative relationship education, relationship enhancement](/images/2.png)
 
 * * *
 

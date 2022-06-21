@@ -13,17 +13,17 @@ coverImage: "IMG_0226.jpg"
 
 I recently looked through the scrapbook I made of our first year together, and it was fun taking this trip down memory lane, again! How special it is to look back through journals, or scrapbooks, and other mementos, and recover a taste of a memorable moment. One of those memories is this one that I made a scrapbook page out of :) It was the day we moved into our first apartment!
 
-![10 ideas on how to journal, recording memories, journaling, memory keeping, journaling your life, documenting your marriage, documenting your life, marriage fun, memories in marriage, journaling, ways to journal, ways to scrapbook, scrapbook ideas, marriage ideas, marriage advice, marriage help, newlyweds, newlywed life, marriage specialist](images/IMG_0575.jpg)
+![10 ideas on how to journal, recording memories, journaling, memory keeping, journaling your life, documenting your marriage, documenting your life, marriage fun, memories in marriage, journaling, ways to journal, ways to scrapbook, scrapbook ideas, marriage ideas, marriage advice, marriage help, newlyweds, newlywed life, marriage specialist](/images/IMG_0575.jpg)
 
 or Like this one:
 
-![10 ideas on how to journal, recording memories, journaling, memory keeping, journaling your life, documenting your marriage, documenting your life, marriage fun, memories in marriage, journaling, ways to journal, ways to scrapbook, scrapbook ideas, marriage ideas, marriage advice, marriage help, newlyweds, newlywed life, marriage specialist](images/20130921_193129.jpg)
+![10 ideas on how to journal, recording memories, journaling, memory keeping, journaling your life, documenting your marriage, documenting your life, marriage fun, memories in marriage, journaling, ways to journal, ways to scrapbook, scrapbook ideas, marriage ideas, marriage advice, marriage help, newlyweds, newlywed life, marriage specialist](/images/20130921_193129.jpg)
 
 Why was this a significant moment? There wasn't a special occasion or event taking place. We were just at the park cuddling and reading books together, but we were happy. These quiet, happy, everyday moments are the ones that matter most to me. What's even more important, though, is writing down **_why_** it feels significant to me.
 
 * * *
 
-![marriage journaling, journaling, digital journaling, journaling marriage moments](images/10_ways_to_journal.jpg)
+![marriage journaling, journaling, digital journaling, journaling marriage moments](/images/10_ways_to_journal.jpg)
 
 Recording your life can seem like such a daunting task, especially for those of us who don’t enjoy writing, or scrapbooking. However, there are so many ways to accomplish it, especially now with all of the technology available to us! I have listed 10 options for you of how to journal your life in the hands-on approach, or the digital route!
 
@@ -37,7 +37,7 @@ Recording your life can seem like such a daunting task, especially for those of 
 4. **Married journal:** Co-author this journal with your spouse, to make it more fun from both points of view. (There is an entire post about this, so [check out the previous post](http://freshlymarried.com/the-married-journal/ "the married journal.")!) Also, [these two journals for husband](https://amzn.to/2qCoJ0G) and [wife](https://amzn.to/2HICy61), quoting each other, are so stinkin' cute!
 5. **Scrapbook**: Do a full on crafty scrapbook with all the trimmings of photos, captions and stories. You can even simplify it like I do, by adhering photos into a blank-paged book and write your journal entries that go along with it.
 
-![Recording your life can seem like such a daunting task, especially for those of us who don’t enjoy writing, or scrapbooking. However, there are so many ways to accomplish it, especially now with all of the technology available to us! I have listed ten ideas for how to journal, that may help you!](images/IMG_1587.jpg)
+![Recording your life can seem like such a daunting task, especially for those of us who don’t enjoy writing, or scrapbooking. However, there are so many ways to accomplish it, especially now with all of the technology available to us! I have listed ten ideas for how to journal, that may help you!](/images/IMG_1587.jpg)
 
 ## Five ways to journal through the digital route:
 

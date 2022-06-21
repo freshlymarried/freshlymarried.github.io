@@ -18,7 +18,7 @@ I've split up their interviews into two different Spotlight posts that are comin
 
 This first perspective comes from Brooke, whose parents divorced when she was 13. But the fighting and stress didn’t end there, making it anything but easy to experience.
 
-![divorce, lds divorce, divorce affects on children, how divorce affects teenagers, how divorce affects adults, how divorce affects your views on marriage, divorce struggles, divorce accounts, marriage advice, marriage help](images/brookes-spotlight-learning-from-a-parents-divorce.png)
+![divorce, lds divorce, divorce affects on children, how divorce affects teenagers, how divorce affects adults, how divorce affects your views on marriage, divorce struggles, divorce accounts, marriage advice, marriage help](/images/brookes-spotlight-learning-from-a-parents-divorce.png)
 
 In asking Brooke what helped her get through it, she told about her older married siblings who gave her better examples of marriage and gave her “a sense of family.” She also attributed help in turning to God. Brooke said, _“I discovered that his love allowed us to be here and a chance to be with Him again. I learned that if He wants us here, he wanted us to be able to feel those feelings of family and love. He wouldn't send us here to be alone and empty- that a 'true love' could really happen. Just like He wanted us to be happy and live with Him again, he wanted us to be able to love here. I worked hard my entire life to get myself through school and get good grades, buy a car, move away from home, graduate cosmetology school while graduating from high school and I just knew that if I could work to accomplish all that, I could work to find love here and keep it alive and well.”_
 
@@ -32,7 +32,7 @@ _"He had to work hard to gain my trust and commitment originally and he wants to
 
 The other shared experience comes from Kristin, who was a young teenager when her parents separated primarily due to abuse. In talking about the difficult separation and having to be admitted into a safe house for victims of abuse, she said, _“I remember recognizing that this was a TERRIBLE situation for everyone involved (including extended family that were affected). **I remember being angry that I wasn't lucky enough to be part of a happy loving home, and promising myself that I would never be in a relationship that wasn't full of love…”**_
 
-![divorce, lds divorce, divorce affects on children, how divorce affects teenagers, how divorce affects adults, how divorce affects your views on marriage, divorce struggles, divorce accounts, marriage advice, marriage help](images/spotlight-learning-from-a-parents-divorce-kristin.png)
+![divorce, lds divorce, divorce affects on children, how divorce affects teenagers, how divorce affects adults, how divorce affects your views on marriage, divorce struggles, divorce accounts, marriage advice, marriage help](/images/spotlight-learning-from-a-parents-divorce-kristin.png)
 
 As you can imagine, navigating this new family life wasn’t easy for Kristin. Not only was there a burden felt of the cycle of abuse creeping into her own relationships in high school, but she felt the burden of responsibility for her younger siblings; specifically having to be the middleman between her parents’ communications. However, time has passed and she has been married since, and she continues to navigate family life.  She says, _“Now that I've gone through counseling and have been married for 6 years, I've been incredibly supported in setting boundaries (what I am and am not willing to talk about, what kind of language I'm willing to listen to, etc.) and have been incredibly firm and consistent in reinforcing those boundaries. I feel like I have a somewhat good relationship with both parents. At times it still feels very forced, as I have to make a conscious effort to call and catch up. It has gotten easier since having my daughter and they also call me to check in on her, and I truly want to share her with them.”_
 
@@ -52,7 +52,7 @@ _That being said, there are definitely relationships where the people involved a
 
  
 
-![divorce, lds divorce, divorce affects on children, how divorce affects teenagers, how divorce affects adults, how divorce affects your views on marriage, divorce struggles, divorce accounts, marriage advice, marriage help](images/anne-edgar-119383-e1507693032549.jpg)
+![divorce, lds divorce, divorce affects on children, how divorce affects teenagers, how divorce affects adults, how divorce affects your views on marriage, divorce struggles, divorce accounts, marriage advice, marriage help](/images/anne-edgar-119383-e1507693032549.jpg)
 
 * * *
 

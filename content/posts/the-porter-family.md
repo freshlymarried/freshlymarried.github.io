@@ -7,7 +7,7 @@ categories:
 coverImage: "Porter-Family.jpg"
 ---
 
-\[caption id="attachment\_2465" align="aligncenter" width="450"\]![The Porter Family, newlywed advice, newlywed spotlight, newlywed advice, relationship help, relationship advice](images/Porter-Family-300x199.jpg) My guy and I first met June 27, 2010 with no intent of dating and just being buddies. However, with a summer filled with fireworks, fairs, and bbq's we realized we were much more than friends.\[/caption\]
+\[caption id="attachment\_2465" align="aligncenter" width="450"\]![The Porter Family, newlywed advice, newlywed spotlight, newlywed advice, relationship help, relationship advice](/images/Porter-Family-300x199.jpg) My guy and I first met June 27, 2010 with no intent of dating and just being buddies. However, with a summer filled with fireworks, fairs, and bbq's we realized we were much more than friends.\[/caption\]
 
 We spent the following two years dating, enjoying life, and spending as much time together as possible. August 18, 2012 my sweet love and I were sealed in the Mt. Timpanogos Temple. We chose that temple because it was the first temple we ever visited together making our day that much more sweet.
 

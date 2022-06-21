@@ -15,13 +15,13 @@ How many times do we eat dinner together at home in front of the television, wit
 
 The importance of having dinner conversations is why I’m so excited to finally share this date box as it’s my first box as a contributor to [Date Night In Box](https://frstre.com/go/?a=19136-4863f8&s=110370-e6b059&tap_s=110370-e6b059)! The creative minds over there at DNIB felt that there should be even more opportunities for couples to connect, so they created a new section of the date called #TableTalk in conjunction with the dinner portion! #Tabletalk is a short article that corresponds with the theme of each box and provides talking points of conversation for you and your partner!
 
-![aloha, date box, date night, date night in, date night in box, july date box, aloha date box, tropical date box, lei it on me, creative date ideas, tropical date ideas, date night ideas, table talk, sweet and salty, marriage articles, marriage help](images/IMG_3703.jpg)
+![aloha, date box, date night, date night in, date night in box, july date box, aloha date box, tropical date box, lei it on me, creative date ideas, tropical date ideas, date night ideas, table talk, sweet and salty, marriage articles, marriage help](/images/IMG_3703.jpg)
 
 This "Aloha" themed box from July is the first date I got to do the #TableTalk insert for, and I'm so happy with how it turned out! I don't want to share what that entire portion said, but I want to help you understand how this coordinates with the theme, with dating each other and enhancing your relationship!
 
 Marina from [Marina Makes](https://marinamakesblog.com/) created a menu that was so tropical and tantalizing that I knew I needed to create a conversation that went right with it. So I did :) Oddly enough, it includes a Wendy's reference of dipping fries in the chocolate frosty as well as some questions that make you think deeper about your relationship and what makes it sweet and savory :)
 
-![aloha, date box, date night, date night in, date night in box, july date box, aloha date box, tropical date box, lei it on me, creative date ideas, tropical date ideas, date night ideas, table talk, sweet and salty, marriage articles, marriage help](images/IMG_3708-2.jpg)
+![aloha, date box, date night, date night in, date night in box, july date box, aloha date box, tropical date box, lei it on me, creative date ideas, tropical date ideas, date night ideas, table talk, sweet and salty, marriage articles, marriage help](/images/IMG_3708-2.jpg)
 
 ## Food for thought when it comes to date boxes
 

@@ -23,7 +23,7 @@ _We have a 2-year-old boy named Will who is the biggest blessing to us and bring
 
 _Mike and I travel a lot in our marriage, and it’s usually separate from each other which keeps things pretty interesting. Mike is a sourcing manager for his company with factories that are based in Asia. He uses his Chinese when he travels there for around 1-2 weeks at a time, about every 2 months. I am a singer/keyboardist in a national touring band (The National Parks) and we go on tour every other month for around 2 weeks at a time all over the country. Sometimes Mike and I are gone the same time, sometimes we are gone at separate times, and on occasion, we overlap by only 1 or 2 days, so it ends up being almost 4 weeks without seeing each other. This has been a huge opportunity and challenge for us to stay close during these hard times._
 
-![newlywed advice, newlywed help, relating to newlyweds, relating to other couples, other couples' stories, stories from couples, learning from married couples, learning from couples, marriage advice, marriage help, marriage inspiration, the national parks, the national parks band, sydney macfarlane, brady parks, life in a band, married life in a band](images/img_2586.jpg)
+![newlywed advice, newlywed help, relating to newlyweds, relating to other couples, other couples' stories, stories from couples, learning from married couples, learning from couples, marriage advice, marriage help, marriage inspiration, the national parks, the national parks band, sydney macfarlane, brady parks, life in a band, married life in a band](/images/img_2586.jpg)
 
 * * *
 

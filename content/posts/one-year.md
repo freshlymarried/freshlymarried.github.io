@@ -21,7 +21,7 @@ For those of you who are married, think about how your first year of marriage we
 
 This is similar to how our first year of marriage went. We learned a lot about each other, in a good way. We encountered bumps and hills that were stressful to overcome, but we worked through it together. And I know that as we establish this pattern of overcoming these first bumps, it is building us to overcome more bumps and hills that we may encounter later on. If we don't understand how each other handles stressful situations, and know how to work through them together, then I think those hills become harder to climb. This is what I came to know the most about our first year of marriage.
 
-![important years in marriage, first year of marriage, things to learn in the first year of marriage, celebrating one year anniversary](images/20140522_061841-1.jpg)
+![important years in marriage, first year of marriage, things to learn in the first year of marriage, celebrating one year anniversary](/images/20140522_061841-1.jpg)
 
 Trevor and I aren't perfect at handling our arguments quite yet, haha. I don't know a lot of couples that are perfect at it. However, our arguments have become easier to handle because we now understand each other better. I think we'll continue to understand each other better, as our second year comes, as well. In our second year of marriage, I hope to know Trevor even more. I hope to understand him even more. I hope that we make even more great memories, and love each other even more.
 

@@ -13,7 +13,7 @@ The smoke detectors in our house have slowly been going off over the past few mo
 
 ANYWAYS. That was just a funny story to prep you for the metaphor I'm about to set up between marriage and home maintenance...
 
-![fixing the smoke detector, the smoke detector, object lessons in marriage, marriage lessons, marriage metaphors, metaphors in marriage, marriage quotes, quotes in marriage, a marriage is like a house, a marriage is like, smoke detectors in marriage, fixing your marriage, don't give up in marriage, not giving up in marriage, marriage advice, marriage help, relationship education, relationship advice, newlywed advice, issues in marriage, struggles in marriage quotes](images/home-maintenance-fix-it-quote.png)
+![fixing the smoke detector, the smoke detector, object lessons in marriage, marriage lessons, marriage metaphors, metaphors in marriage, marriage quotes, quotes in marriage, a marriage is like a house, a marriage is like, smoke detectors in marriage, fixing your marriage, don't give up in marriage, not giving up in marriage, marriage advice, marriage help, relationship education, relationship advice, newlywed advice, issues in marriage, struggles in marriage quotes](/images/home-maintenance-fix-it-quote.png)
 
 * * *
 

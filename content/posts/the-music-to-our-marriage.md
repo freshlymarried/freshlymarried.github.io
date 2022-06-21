@@ -23,6 +23,6 @@ Here's a story that goes along with one of those songs. Trevor and I had been da
 
 As I thought about this time, and other countless memories we have linked to music, I have realized how much all of this means to me. Each band and each song has become a part of our marriage, and I love it. Soooo I am going to write it all down! I have started a project that will help me record all of those feelings and special lyrics that mean something to our relationship. I only have three pages done so far but it's like a scrapbook of lyrics of songs that mean something to our relationship :) I get to mix three of my favorite things: Trevor, music, and art! I plan on adding to it as the years go by, as something to look back on when I start to forget.
 
-![IMG_6619](images/IMG_6619.jpg)
+![IMG_6619](/images/IMG_6619.jpg)
 
 Meanwhile, I want to hear what songs mean something to your relationship! Please comment because I truly want to know the songs and the stories behind their significance. It makes me feel romantic and cheesy, but also lets me know that I'm not crazy :)

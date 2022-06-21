@@ -18,7 +18,7 @@ The idea of growing apart happens gradually over time. When you think about it, 
 
 * * *
 
-![family isn't it about time, making time for family, making time for spouse, ways to prioritize your spouse, prioritizing your spouse, prioritizing your marriage](images/blog-size-3-little-ways-to-prioritize-your-spouse.png)
+![family isn't it about time, making time for family, making time for spouse, ways to prioritize your spouse, prioritizing your spouse, prioritizing your marriage](/images/blog-size-3-little-ways-to-prioritize-your-spouse.png)
 
 ## The Littles:
 
@@ -28,7 +28,7 @@ The idea of growing apart happens gradually over time. When you think about it, 
 
 - **Find a healthy praise ratio of child and spouse.** I had a friend who posted so many pictures of her and her daughter on Instagram with almost no pictures of her husband, that it actually made me wonder if they were even together, still! That's sad. Children go through so many little milestones that make us happy and want to brag about! But maybe our spouse deserves to be praised for eating all their vegetables, too! haha. But seriously, some spouses can feel neglected, especially with the first baby, so we need to continually appreciate and even brag about them, too!
 
-![family isn't it about time, making time for family, making time for spouse, ways to prioritize your spouse, prioritizing your spouse, prioritizing your marriage](images/blog-size-3-big-ways-to-prioritize-your-spouse.png)
+![family isn't it about time, making time for family, making time for spouse, ways to prioritize your spouse, prioritizing your spouse, prioritizing your marriage](/images/blog-size-3-big-ways-to-prioritize-your-spouse.png)
 
 ## The Bigs:
 

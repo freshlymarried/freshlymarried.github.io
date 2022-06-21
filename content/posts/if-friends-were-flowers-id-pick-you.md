@@ -24,7 +24,7 @@ Of course, I had a few friends that it still worked out with, but one friend in 
 
 I liked that we had this unsaid understanding that if we hadn't talked to each other in a month or two, we could catch up with each other effortlessly and it was fine. Our friendship was able to stay afloat, with the understanding that though our lives were going in different directions, we still cared about each other. What is interesting, is that this was actually the same way I kept in touch with my married friends, and it has worked out great for us too.
 
-\[caption id="attachment\_3101" align="aligncenter" width="225"\]![changing friendships, when friendships change, friendships changing with marriage, a friend is getting married, single friends, married friends](images/IMG_0438-225x300.jpg) -------------> I could travel the world, but I might never find a friend like you. <--------------\[/caption\]
+\[caption id="attachment\_3101" align="aligncenter" width="225"\]![changing friendships, when friendships change, friendships changing with marriage, a friend is getting married, single friends, married friends](/images/IMG_0438-225x300.jpg) -------------> I could travel the world, but I might never find a friend like you. <--------------\[/caption\]
 
 #### The phone rings both ways
 

@@ -31,6 +31,6 @@ In times like these it's good to remember that our successes are shared in marri
 > 
 > \- Linda K. Burton
 
-![domo, new job, sharing successes in marriage, complete rather than compete, linda k burton quotes, linda k. burton quotes, lds quotes, lds quote on marriage,](images/complete-rather-than-compete.png)
+![domo, new job, sharing successes in marriage, complete rather than compete, linda k burton quotes, linda k. burton quotes, lds quotes, lds quote on marriage,](/images/complete-rather-than-compete.png)
 
 I may not have landed the job I wanted but it was a great learning experience for me. I still get to finish graduation and complete an internship that I know will be very fulfilling in my life. I also get the chance to be there for Trevor in this new adventure he is starting, just as he has been there for me, and as he will be there for my future successes. :)

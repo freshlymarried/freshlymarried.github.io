@@ -12,7 +12,7 @@ I've been so focused on what items to buy for my husband that I forgot about the
 
 I made this [Christmas Card Set](https://freshlymarried.com/wp-content/uploads/2018/12/Christmas-Punny-Cards-1.pdf) last year as a freebie for newsletter subscribers, and I loved putting it on the gifts to my husband! You can attach it to their gifts under the tree, or put it in their stocking.
 
-[![christmas cards, christmas, christmas puns, christmas card sets, christmas puns, gifts to your spouse, christmas gift to your spouse, writing a letter to your spouse, notes to your spouse, loving your spouse, ](images/IMG_0354.jpg)](https://freshlymarried.com/wp-content/uploads/2018/12/IMG_0354.jpg)
+[![christmas cards, christmas, christmas puns, christmas card sets, christmas puns, gifts to your spouse, christmas gift to your spouse, writing a letter to your spouse, notes to your spouse, loving your spouse, ](/images/IMG_0354.jpg)](https://freshlymarried.com/wp-content/uploads/2018/12/IMG_0354.jpg)
 
 I came across some more fun holiday puns this year and felt like creating another set to give you a few more fun options for doing this little gift to your spouse :)
 
@@ -22,6 +22,6 @@ Click on the individual Christmas Card sets and it will open up a PDF file for y
 
 [CHRISTMAS CARD SET #2](https://freshlymarried.com/wp-content/uploads/2018/12/Christmas-Card-Set-2.pdf)
 
-[![https://freshlymarried.com/wp-content/uploads/2018/12/Christmas-Card-Set-2.pdf ](images/Screen-Shot-2018-12-19-at-8.37.02-PM.png)](https://freshlymarried.com/wp-content/uploads/2018/12/Christmas-Card-Set-2.pdf)
+[![https://freshlymarried.com/wp-content/uploads/2018/12/Christmas-Card-Set-2.pdf ](/images/Screen-Shot-2018-12-19-at-8.37.02-PM.png)](https://freshlymarried.com/wp-content/uploads/2018/12/Christmas-Card-Set-2.pdf)
 
 Merry Christmas and Happy Holidays to you all!

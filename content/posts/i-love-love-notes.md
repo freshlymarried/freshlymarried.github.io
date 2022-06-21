@@ -17,7 +17,7 @@ Actually, pretty much all the time :)
 
 One of the goofy things we do is call each other "mine." I came home to a note on the table today that said "mine."
 
-![love note from my wife that says "mine"](images/mine-300x225.jpg)
+![love note from my wife that says "mine"](/images/mine-300x225.jpg)
 
 I love my wife. I am very thankful for the nice little notes that she leaves me around our apartment, on our bathroom mirror, on the fridge, through text messages, and through voicemails.
 

@@ -19,7 +19,7 @@ This date box was purchased on my own, and my opinions are my own. The best part
 
 # Datelivery theme:"Be a Kid Again"
 
-### ![date night boxes, date boxes, datelivery date boxes, datelivery, datelivery review, date box review, are date boxes worth it, are date boxes fun, date boxes for couples, creative dates for couples, creative date night boxes for couples, best date boxes, date box recommendations, newlyweds, newlywed life, creative date ideas](images/Screen-Shot-2017-05-16-at-12.57.57-PM.png)
+### ![date night boxes, date boxes, datelivery date boxes, datelivery, datelivery review, date box review, are date boxes worth it, are date boxes fun, date boxes for couples, creative dates for couples, creative date night boxes for couples, best date boxes, date box recommendations, newlyweds, newlywed life, creative date ideas](/images/Screen-Shot-2017-05-16-at-12.57.57-PM.png)
 
 ### **INCLUDED:**
 
@@ -35,7 +35,7 @@ Fun intro and instructions, Playdoh Pictionary game, exactly like what you think
 - The puzzle package had already been opened, too, and ended up missing a piece, which made it seem less professional and less put together. It's possible I misplaced it, but with the package opened already, it increased the risk of me losing it.
 - It did come with a lot of hands-on physical contents though! Some of the other boxes' activities were mostly on cards and this one provided lots of things to do.
 
-\[caption id="attachment\_6766" align="alignnone" width="1000"\]![date night boxes, date boxes, datelivery date boxes, datelivery, datelivery review, date box review, are date boxes worth it, are date boxes fun, date boxes for couples, creative dates for couples, creative date night boxes for couples, best date boxes, date box recommendations, newlyweds, newlywed life, creative date ideas](images/IMG_1727.jpg) look how perfectly timed this pic was to get Hades' scary face in it! haha\[/caption\]
+\[caption id="attachment\_6766" align="alignnone" width="1000"\]![date night boxes, date boxes, datelivery date boxes, datelivery, datelivery review, date box review, are date boxes worth it, are date boxes fun, date boxes for couples, creative dates for couples, creative date night boxes for couples, best date boxes, date box recommendations, newlyweds, newlywed life, creative date ideas](/images/IMG_1727.jpg) look how perfectly timed this pic was to get Hades' scary face in it! haha\[/caption\]
 
 * * *
 

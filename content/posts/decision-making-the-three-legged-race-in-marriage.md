@@ -23,7 +23,7 @@ When it comes to tackling this difficult thing that even veteran married couples
 
 **Making decisions together as a married couple is like a three-legged race with your spouse.** When you are first married you tend to stumble a little bit in figuring out how to make decisions and of course other things, right?! The same thing happens if you are competing in a three-legged race with your spouse as your partner! The first steps can be shaky and out of rhythm, but then you come up with a strategy of how to walk jointly and make it to the finish line. This kind of race requires arms around each other, holding each other up for balance and support! It takes a little bit of extra time and effort, in the beginning, to get your strategy working, but when you both get into a unified rhythm, the rest of the race runs much more smoothly.
 
-![unity, decision making in marriage, making decisions, help in making decisions, tips for making decisions, tips for feeling uncertain about decisions, tips for marriage, marriage help, decisions in marriage, tips for successful decision making, object lessons with thee-legged race](images/dani-vivanco-444384.jpg)
+![unity, decision making in marriage, making decisions, help in making decisions, tips for making decisions, tips for feeling uncertain about decisions, tips for marriage, marriage help, decisions in marriage, tips for successful decision making, object lessons with thee-legged race](/images/dani-vivanco-444384.jpg)
 
 ### Trial and Error
 
@@ -33,7 +33,7 @@ We make so many decisions every day, as independent people and as a couple. It h
 
 Some people might see it as a sign of weakness when a husband says, "Well I'll need to talk to my wife about that first." The annoying people will usually respond with, "What dude, are you whipped?" However, I see it as the complete opposite! I think it actually shows a whole lot of strength, respect, and ultimately, UNITY!
 
-![unity, decision making in marriage, making decisions, help in making decisions, tips for making decisions, tips for feeling uncertain about decisions, tips for marriage, marriage help, decisions in marriage, tips for successful decision making, object lessons with thee-legged race](images/pablo-heimplatz-382459.jpg)
+![unity, decision making in marriage, making decisions, help in making decisions, tips for making decisions, tips for feeling uncertain about decisions, tips for marriage, marriage help, decisions in marriage, tips for successful decision making, object lessons with thee-legged race](/images/pablo-heimplatz-382459.jpg)
 
 * * *
 
@@ -47,7 +47,7 @@ Remember those first steps you take when you have your legs tied? They are out o
 
 Below are some tips for what we did to handle my uncertainty, and other tips that can be helpful for when this happens in your marriage.
 
-![unity, decision making in marriage, making decisions, help in making decisions, tips for making decisions, tips for feeling uncertain about decisions, tips for marriage, marriage help, decisions in marriage, tips for successful decision making, object lessons with thee-legged race](images/ben-white-146950.jpg)
+![unity, decision making in marriage, making decisions, help in making decisions, tips for making decisions, tips for feeling uncertain about decisions, tips for marriage, marriage help, decisions in marriage, tips for successful decision making, object lessons with thee-legged race](/images/ben-white-146950.jpg)
 
 * * *
 

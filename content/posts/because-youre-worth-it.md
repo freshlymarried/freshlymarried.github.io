@@ -12,7 +12,7 @@ coverImage: "Engagement_-_Hug.jpg"
 
 Three years ago yesterday, Trevor asked me to be his wife! That was obviously a big moment for us, just as it is for any relationship. However, there were other things leading up to that moment that were also big in our relationship.
 
-![sacrifices in marriage, marriage, making sacrifices in relationships, marriage tips, marriage advice, marriage help, engagement, cute engagement pictures, vintage ring, getting engaged story, freshly married, relationship goals](images/Engagement_-_Smiles_2-225x300.jpg)
+![sacrifices in marriage, marriage, making sacrifices in relationships, marriage tips, marriage advice, marriage help, engagement, cute engagement pictures, vintage ring, getting engaged story, freshly married, relationship goals](/images/Engagement_-_Smiles_2-225x300.jpg)
 
 #### Story Time
 
@@ -22,7 +22,7 @@ Interestingly enough, Trevor was experiencing a crossroads himself during this t
 
 **Relationships take sacrifice no matter how difficult or emotional the sacrifice might be**. By me showing him I was ready to take that leap again into a different place to live and a different job because I believed in our relationship, he then felt the courage to give me a ring :) The following weekend  after he proposed I made the move to be with him in Provo and I'm so glad I did! That whole month leading up to it was very eventful and decisional, and it ultimately began with a sacrifice which then lead to the both of us willing to make more sacrifices. I believe this set the tone for our life together because we continue to love each other enough to sacrifice both the little and big things.
 
-[![sacrifices in marriage, marriage, making sacrifices in relationships, marriage tips, marriage advice, marriage help, engagement, cute engagement pictures, vintage ring, getting engaged story, freshly married, relationship goals](images/762A2576-85.jpg)](http://freshlymarried.com/wp-content/uploads/2016/01/762A2576-85.jpg)
+[![sacrifices in marriage, marriage, making sacrifices in relationships, marriage tips, marriage advice, marriage help, engagement, cute engagement pictures, vintage ring, getting engaged story, freshly married, relationship goals](/images/762A2576-85.jpg)](http://freshlymarried.com/wp-content/uploads/2016/01/762A2576-85.jpg)
 
 * * *
 

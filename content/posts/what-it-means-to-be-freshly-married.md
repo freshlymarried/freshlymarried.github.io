@@ -10,7 +10,7 @@ coverImage: "photo-1475721042966-f829c9b42aab.jpeg"
 
 I wanted to help you understand why I always sign my posts with 'Keepin' marriage fresh," and stress how cool this idea is to marriages. A while ago I was looking at the definitions of "fresh" and "freshening," and "freshen." I really loved some of the definitions Webster's dictionary provided. These are the definitions that I found for FRESH, and FRESHEN, and I'm going to tell you how I interrupt and apply this to marriages.
 
-![freshen your marriage, freshen up your marriage, keep your marriage fresh, how to keep your marriage fresh, how to be like newlyweds, what it means to be fresh, definition of fresh, definition of freshen,, become fresh in appearance or vitality](images/IMG_0011.jpg)
+![freshen your marriage, freshen up your marriage, keep your marriage fresh, how to keep your marriage fresh, how to be like newlyweds, what it means to be fresh, definition of fresh, definition of freshen,, become fresh in appearance or vitality](/images/IMG_0011.jpg)
 
 ## fresh
 
@@ -26,7 +26,7 @@ I wanted to help you understand why I always sign my posts with 'Keepin' marriag
 
 * * *
 
-![IMG_0012](images/IMG_0012.jpg)
+![IMG_0012](/images/IMG_0012.jpg)
 
 ## FRESHEN
 

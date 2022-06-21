@@ -26,7 +26,7 @@ The thing that bothers me is that so many real life couples tend to play-out tho
 > 
 > \- F. Burton Howard
 
-[![if you want something to last forever, you treat it differently, newlywed photo shoot, photo shoot at provo castle, engagement pictures at provo castle, f. burton howard quote, treating your marriage differently, making your marriage extraordinary](images/IMG_3761.jpg)](http://freshlymarried.com/wp-content/uploads/2015/12/IMG_3761.jpg)
+[![if you want something to last forever, you treat it differently, newlywed photo shoot, photo shoot at provo castle, engagement pictures at provo castle, f. burton howard quote, treating your marriage differently, making your marriage extraordinary](/images/IMG_3761.jpg)](http://freshlymarried.com/wp-content/uploads/2015/12/IMG_3761.jpg)
 
 I don’t want my marriage to be like the ones I see on TV, who behave in a way that makes it seem like they are living in an unhappy marriage all the time. Television couples are fictitious anyways, even if they are supposedly on a "reality" show. Whether scripted or unscripted though, we shouldn’t look at these examples as the norm. And even if it was the norm, don’t we want ours to be extraordinary instead? With the hard work required in marriage, I don't plan on putting all my efforts towards only a "common" or "ordinary" marriage.
 

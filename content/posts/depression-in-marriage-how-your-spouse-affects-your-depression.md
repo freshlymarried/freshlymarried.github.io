@@ -20,13 +20,13 @@ BUT just because your spouse has the power to strengthen your spirit, it doesn't
 
 **With that being said, you cannot depend on your spouse to be your entire happiness.** **Their love and encouragement can help you manage your depression better, but it won't fix it.** Having that burden on your spouse's shoulders also sets your marriage up for stress. Your spouse might feel they have to do everything right all the time and that they can't address marital issues or else you will go into a depression. That's not fair.
 
-![depression in marriage, depression quotes, dealing with depression in your marriage, spouse has depression, how to help spouse with depression, marriage advice, marriage help, stress in marriage, marriage specialist, handling depression, ](images/IMG_0601.jpg)
+![depression in marriage, depression quotes, dealing with depression in your marriage, spouse has depression, how to help spouse with depression, marriage advice, marriage help, stress in marriage, marriage specialist, handling depression, ](/images/IMG_0601.jpg)
 
 * * *
 
  
 
-![depression in marriage, depression quotes, dealing with depression in your marriage, spouse has depression, how to help spouse with depression, marriage advice, marriage help, stress in marriage, marriage specialist, handling depression, ](images/IMG_0065.jpg)
+![depression in marriage, depression quotes, dealing with depression in your marriage, spouse has depression, how to help spouse with depression, marriage advice, marriage help, stress in marriage, marriage specialist, handling depression, ](/images/IMG_0065.jpg)
 
 I'm always grateful that Trevor and I have each other in general, but I'm also grateful we have each other to get through our episodes of anxiety and depression. We know each other's history in that it's a mental struggle we've been passed down through our families. For the most part, we understand how the other feels it and why. This helps us empathize better, but I still have to remind myself that we each have our own fears and anxieties that the other doesn't have, and we need to respect those anxieties.
 

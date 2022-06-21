@@ -21,7 +21,7 @@ The fact that he recognizes it and is doing something about it despite the press
 
 * * *
 
-![chris pratt, actor chris pratt, marriage advice from chris pratt, marriage advice chris pratt, marriage advice from hollywood, at least touch toes, never go to bed angry, chris pratt stops acting, chris pratt taking time off, chris pratt article, marriage advice, marriage specialist, security in marriage, reassurance in marriage, getting reassurance in marriage, marriage help, marriage goals, relationship goals](images/IMG_1852.jpg)
+![chris pratt, actor chris pratt, marriage advice from chris pratt, marriage advice chris pratt, marriage advice from hollywood, at least touch toes, never go to bed angry, chris pratt stops acting, chris pratt taking time off, chris pratt article, marriage advice, marriage specialist, security in marriage, reassurance in marriage, getting reassurance in marriage, marriage help, marriage goals, relationship goals](/images/IMG_1852.jpg)
 
 **2\. “At least touch toes.” I LOVE THIS MARRIAGE ADVICE FROM HIM.**
 

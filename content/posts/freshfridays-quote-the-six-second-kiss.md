@@ -9,7 +9,7 @@ categories:
 coverImage: "jordan-bauer-172942-1.jpg"
 ---
 
-![six-second kiss, a 6 second kiss, longest kiss, kissing in marriage, john gottman quotes, john gottman quotes on kissing, john gottman advice, john gottman marriage advice, marriage advice, newlywed advice, marriage quotes, love quotes](images/six-second-kiss-quote-1.jpg)
+![six-second kiss, a 6 second kiss, longest kiss, kissing in marriage, john gottman quotes, john gottman quotes on kissing, john gottman advice, john gottman marriage advice, marriage advice, newlywed advice, marriage quotes, love quotes](/images/six-second-kiss-quote-1.jpg)
 
 #freshfridays quote asking "Have you had your six-second kiss today?"
 

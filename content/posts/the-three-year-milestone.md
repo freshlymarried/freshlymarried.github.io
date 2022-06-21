@@ -16,7 +16,7 @@ If you've been following along from the beginning, you'll remember that I wrote 
 
 Obviously, we have grown a lot since those first three months of us only truly learning the basics of marriage! By now I've learned more specifics about marriage and OUR marriage in particular. So here are my main three things I have a strong understanding of and am trying to master. I have definitely found more things I have come to _realize_ within three years of marriage but have yet to _overcome_ or _master_! I'm sure that's the case for all of us :) I'm OK with this because my motto is "there is always something to work on in marriage", and I know that in another three years I'll have fully learned just a few more things :)
 
-![three things I learned in three years of marriage, newlyweds, being newlyweds, newlyweds for three years, newlywed life, things I learned as a newlywed, lds newlywed life, being a newlywed, things to learn in marriage, progression in marriage, comparisons in marriage, comparing your marriage, simple solutions in marriage, resolutions in marriage, team work in marriage, being a team in marriage, married responsibilities](images/IMG_0519.jpg)
+![three things I learned in three years of marriage, newlyweds, being newlyweds, newlyweds for three years, newlywed life, things I learned as a newlywed, lds newlywed life, being a newlywed, things to learn in marriage, progression in marriage, comparisons in marriage, comparing your marriage, simple solutions in marriage, resolutions in marriage, team work in marriage, being a team in marriage, married responsibilities](/images/IMG_0519.jpg)
 
 * * *
 
@@ -52,4 +52,4 @@ Unfortunately, because I got caught up in comparisons, I was so worried about ma
 
 What are the three things YOU learned in your first three years of marriage?!
 
-![three things I learned in three years of marriage, newlyweds, being newlyweds, newlyweds for three years, newlywed life, things I learned as a newlywed, lds newlywed life, being a newlywed, things to learn in marriage, progression in marriage, comparisons in marriage, comparing your marriage, simple solutions in marriage, resolutions in marriage, team work in marriage, being a team in marriage, married responsibilities](images/762A3092-1-Edit-1.jpg)
+![three things I learned in three years of marriage, newlyweds, being newlyweds, newlyweds for three years, newlywed life, things I learned as a newlywed, lds newlywed life, being a newlywed, things to learn in marriage, progression in marriage, comparisons in marriage, comparing your marriage, simple solutions in marriage, resolutions in marriage, team work in marriage, being a team in marriage, married responsibilities](/images/762A3092-1-Edit-1.jpg)

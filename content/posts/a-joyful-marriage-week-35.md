@@ -12,4 +12,4 @@ coverImage: "Copy-of-ajm-week-35.png"
 
 **Another joy is trying new things together.** I have shared this joy before, and I'm glad that it's been a repeating joy here and there because it's important to try new things in your marriage! Trevor spontaneously decided to play chess with me and teach me. So we have played twice now, including this picture of us playing at our own little spot at the lake for date night :) I'm sure it's annoying for him to wait so long for me to come up with a move, but maybe one day I'll get good enough to actually be a challenge for him ;) Feeling grateful for the little family that I have been blessed with.
 
-![a joyful marriage, finding joy, finding joy in marriage, living joyfully, be joyful, marriage advice, marriage help, king charles, cavalier king charles spaniel](images/IMG_1260-768x1024.jpg)
+![a joyful marriage, finding joy, finding joy in marriage, living joyfully, be joyful, marriage advice, marriage help, king charles, cavalier king charles spaniel](/images/IMG_1260-768x1024.jpg)

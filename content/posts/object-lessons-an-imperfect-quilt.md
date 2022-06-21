@@ -13,9 +13,9 @@ After about a month of plotting, pinteresting, sketching, researching, purchasin
 
  
 
-![quilt for husband, making a quilt for husband, beginner quilt, quilt for husband, manly quilt, making a manly quilt, gift for husbands, making a gift for hubby, homemade gifts, homemade gifts for husband, wifey gifts, gift giving in marriage, marriage advice, marriage lessons, learning from quilts, sewing, marriage inspiration, marriage ideas, object lessons in marriage](images/IMG_1253-1.jpg)
+![quilt for husband, making a quilt for husband, beginner quilt, quilt for husband, manly quilt, making a manly quilt, gift for husbands, making a gift for hubby, homemade gifts, homemade gifts for husband, wifey gifts, gift giving in marriage, marriage advice, marriage lessons, learning from quilts, sewing, marriage inspiration, marriage ideas, object lessons in marriage](/images/IMG_1253-1.jpg)
 
-![quilt for husband, making a quilt for husband, beginner quilt, quilt for husband, manly quilt, making a manly quilt, gift for husbands, making a gift for hubby, homemade gifts, homemade gifts for husband, wifey gifts, gift giving in marriage, marriage advice, marriage lessons, learning from quilts, sewing, marriage inspiration, marriage ideas, object lessons in marriage](images/IMG_1252.jpg)
+![quilt for husband, making a quilt for husband, beginner quilt, quilt for husband, manly quilt, making a manly quilt, gift for husbands, making a gift for hubby, homemade gifts, homemade gifts for husband, wifey gifts, gift giving in marriage, marriage advice, marriage lessons, learning from quilts, sewing, marriage inspiration, marriage ideas, object lessons in marriage](/images/IMG_1252.jpg)
 
 * * *
 
@@ -29,9 +29,9 @@ Last year my MIL made me a beautiful triangle quilt, and it's been so comfy and 
 
 This quilt reflects my marriage so nicely, as well as marriage in general. The stitching is so skewed, the cutting wasn't totally squared up, and the rows aren't all equal size! **My husband saw those mistakes and imperfections, yet he loved and accepted it (me) anyways.** He saw how amazing the quilt was as a whole instead of solely focusing on the tiny details in specific areas. He has seen and acknowledged my efforts in trying to fix those little imperfections and appreciates me for it. He doesn't nit-pick at the little things I do that aren't up to par. And after all of it, he still looks forward to snuggling with me every night in that quilt, getting to hold him close, keeping him warm, and comforting him.
 
-![quilt for husband, making a quilt for husband, beginner quilt, quilt for husband, manly quilt, making a manly quilt, gift for husbands, making a gift for hubby, homemade gifts, homemade gifts for husband, wifey gifts, gift giving in marriage, marriage advice, marriage lessons, learning from quilts, sewing, marriage inspiration, marriage ideas, object lessons in marriage](images/IMG_1211.jpg)
+![quilt for husband, making a quilt for husband, beginner quilt, quilt for husband, manly quilt, making a manly quilt, gift for husbands, making a gift for hubby, homemade gifts, homemade gifts for husband, wifey gifts, gift giving in marriage, marriage advice, marriage lessons, learning from quilts, sewing, marriage inspiration, marriage ideas, object lessons in marriage](/images/IMG_1211.jpg)
 
-![quilt for husband, making a quilt for husband, beginner quilt, quilt for husband, manly quilt, making a manly quilt, gift for husbands, making a gift for hubby, homemade gifts, homemade gifts for husband, wifey gifts, gift giving in marriage, marriage advice, marriage lessons, learning from quilts, sewing, marriage inspiration, marriage ideas, object lessons in marriage](images/IMG_1251-e1473736509820.jpg)
+![quilt for husband, making a quilt for husband, beginner quilt, quilt for husband, manly quilt, making a manly quilt, gift for husbands, making a gift for hubby, homemade gifts, homemade gifts for husband, wifey gifts, gift giving in marriage, marriage advice, marriage lessons, learning from quilts, sewing, marriage inspiration, marriage ideas, object lessons in marriage](/images/IMG_1251-e1473736509820.jpg)
 
 * * *
 
@@ -42,4 +42,4 @@ This quilt reflects my marriage so nicely, as well as marriage in general. The s
 
 I think these are on-going struggles we as couples will have as long as we are married, haha. Which is why I'm grateful to have this quilt because it's kind of poetic that every night we get to be wrapped up in something that reminds us of this lesson and reminder :)
 
-![quilt for husband, making a quilt for husband, beginner quilt, quilt for husband, manly quilt, making a manly quilt, gift for husbands, making a gift for hubby, homemade gifts, homemade gifts for husband, wifey gifts, gift giving in marriage, marriage advice, marriage lessons, learning from quilts, sewing, marriage inspiration, marriage ideas, object lessons in marriage](images/IMG_1212-1.jpg)
+![quilt for husband, making a quilt for husband, beginner quilt, quilt for husband, manly quilt, making a manly quilt, gift for husbands, making a gift for hubby, homemade gifts, homemade gifts for husband, wifey gifts, gift giving in marriage, marriage advice, marriage lessons, learning from quilts, sewing, marriage inspiration, marriage ideas, object lessons in marriage](/images/IMG_1212-1.jpg)

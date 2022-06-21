@@ -12,7 +12,7 @@ coverImage: "purple.jpg"
 
 Today is a special day :) Four years ago on October 25th, Trevor and I made our relationship official. See, it was declared on facebook so it was official ... haha
 
-![love, marriage moments, memories, dating memories, read your journals, the dating years, memory lane, boyfriend and girlfriend, when we were boyfriend and girlfriend, marriage advice, marriage inspiration, marriage encouragement, marriage is not stars and butterflies](images/IMG_1318-2.jpg)
+![love, marriage moments, memories, dating memories, read your journals, the dating years, memory lane, boyfriend and girlfriend, when we were boyfriend and girlfriend, marriage advice, marriage inspiration, marriage encouragement, marriage is not stars and butterflies](/images/IMG_1318-2.jpg)
 
 This morning I went through my old journal from that time we were first dating and it was so special to go back and read all of that. I obviously knew our timeline and the words we said but there was something so tender about reading about it all, and especially my feelings during the rise of our relationship. AND OF COURSE, I learned something that I felt important to share.
 
@@ -32,7 +32,7 @@ What is interesting, though, is that I did find a legitimate reason to not want 
 
 So even though I get sad that I had a freak-out moment that put a damper on the beginning of our relationship, I'm grateful for it. It proved to me that we could make it. That if Trevor could turn around these fears and worries I had right then, he could do it in the future. And he's been doing that ever since :)
 
-![love, marriage moments, memories, dating memories, read your journals, the dating years, memory lane, boyfriend and girlfriend, when we were boyfriend and girlfriend, marriage advice, marriage inspiration, marriage encouragement, marriage is not stars and butterflies](images/cray_crafts.jpg)
+![love, marriage moments, memories, dating memories, read your journals, the dating years, memory lane, boyfriend and girlfriend, when we were boyfriend and girlfriend, marriage advice, marriage inspiration, marriage encouragement, marriage is not stars and butterflies](/images/cray_crafts.jpg)
 
 * * *
 

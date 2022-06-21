@@ -18,7 +18,7 @@ You're on a much-needed date night out, away from work, home, and the kids (if y
 
 I think we’ve all found ourselves in one of these situations on our date nights before. And it’s taught us that...
 
-![date night, date night questions, questions to ask your spouse, 100 questions to ask someone, 100 get to know you questions, get to know you questions, get to know you questions for your spouse, marriage, marriage advice, newlywed help, date night ideas, date night, date ideas, fun date ideas, dinner date questions](images/what-you-talk-about-on-date-night-1-e1494390299890.png)
+![date night, date night questions, questions to ask your spouse, 100 questions to ask someone, 100 get to know you questions, get to know you questions, get to know you questions for your spouse, marriage, marriage advice, newlywed help, date night ideas, date night, date ideas, fun date ideas, dinner date questions](/images/what-you-talk-about-on-date-night-1-e1494390299890.png)
 
 I’ve shared in previous blog posts like, [“The Importance of Fun,"](https://freshlymarried.com/the-importance-of-fun/) how I have made mistakes in the past of bringing up business stuff like chores and the to-do list, and how it has dampened the fun of our dates. **It helped me realize how important it is to keep this time focused on having fun with each other, getting away from the stresses of life, and strengthening our emotional intimacy.**
 
@@ -32,7 +32,7 @@ If you’re like me and my husband, you have searched online for different quest
 
 So Trevor suggested that I write a blog post of my own consisting of great conversational questions that were light-hearted and engaging! Ones that are perfect for married couples to ask on date night, road trips, or during any other quality time spent together! So here are 100 different questions you can ask your spouse while you're just sitting there waiting for your food to come!
 
-![date night, date night questions, questions to ask your spouse, 100 questions to ask someone, 100 get to know you questions, get to know you questions, get to know you questions for your spouse, marriage, marriage advice, newlywed help, date night ideas, date night, date ideas, fun date ideas, dinner date questions](images/rawpixel-com-423663-unsplash.jpg)
+![date night, date night questions, questions to ask your spouse, 100 questions to ask someone, 100 get to know you questions, get to know you questions, get to know you questions for your spouse, marriage, marriage advice, newlywed help, date night ideas, date night, date ideas, fun date ideas, dinner date questions](/images/rawpixel-com-423663-unsplash.jpg)
 
 * * *
 
@@ -145,7 +145,7 @@ So Trevor suggested that I write a blog post of my own consisting of great conve
 
 [Cornhole](https://amzn.to/2M7R3kT) is a great game to play while asking questions! [![](//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B0183K3W80&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=freshlymarrie-20)](https://www.amazon.com/dp/B0183K3W80/ref=as_li_ss_il?ie=UTF8&linkCode=li3&tag=freshlymarrie-20&linkId=b4aeea670cce8840ce31d5418253e742)![](https://ir-na.amazon-adsystem.com/e/ir?t=freshlymarrie-20&l=li3&o=1&a=B0183K3W80)Or this big version of [Connect Four](https://amzn.to/2JTNCSd)!
 
-[![](//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B014PZ36NS&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=freshlymarrie-20)](https://www.amazon.com/Yard-Games-Giant-Connect-Row/dp/B014PZ36NS/ref=as_li_ss_il?ie=UTF8&qid=1529444366&sr=8-16&keywords=yard+games&linkCode=li3&tag=freshlymarrie-20&linkId=b3072037ee89d8b2c06759201fda9342)![](https://ir-na.amazon-adsystem.com/e/ir?t=freshlymarrie-20&l=li3&o=1&a=B014PZ36NS) [![](images/5aba7417c24d3.jpg)](https://frstre.com/go/?a=19136-4863f8&s=110370-e6b059&tap_s=110370-e6b059)
+[![](//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B014PZ36NS&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=freshlymarrie-20)](https://www.amazon.com/Yard-Games-Giant-Connect-Row/dp/B014PZ36NS/ref=as_li_ss_il?ie=UTF8&qid=1529444366&sr=8-16&keywords=yard+games&linkCode=li3&tag=freshlymarrie-20&linkId=b3072037ee89d8b2c06759201fda9342)![](https://ir-na.amazon-adsystem.com/e/ir?t=freshlymarrie-20&l=li3&o=1&a=B014PZ36NS) [![](/images/5aba7417c24d3.jpg)](https://frstre.com/go/?a=19136-4863f8&s=110370-e6b059&tap_s=110370-e6b059)
 
 Or while you're [building your own video game](https://amzn.to/2livBht).... What?! Yes! Or even just while simply eating a yummy treat like this [skillet cookie kit](https://amzn.to/2M1weY7).
 

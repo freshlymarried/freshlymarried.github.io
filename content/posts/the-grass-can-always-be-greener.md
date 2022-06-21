@@ -16,7 +16,7 @@ I love love love this thought because **it's a great reminder to me that it take
 
 It reminds me of the two flower pots I have growing outside on my porch. Somehow I have made them live for 2 months, but they've definitely been on the verge of death more than once! Guess why? Because I'll go days without watering them. Hmmm, let's think about this Amy... This is a key element to their survival! So no wonder they are struggling! The best part, though, is that after a few days of consistent watering they are back to looking that luscious bright purple color they are supposed to look like :)
 
-![the grass is greener, the grass is green where you water it, nourishing your marriage, working at your marriage, marriage advice, the grass is green quotes, marriage quotes, marriage advice, marriage help, competition in marriage, jealous of other marriages, ](images/IMG_0078-2.jpg)
+![the grass is greener, the grass is green where you water it, nourishing your marriage, working at your marriage, marriage advice, the grass is green quotes, marriage quotes, marriage advice, marriage help, competition in marriage, jealous of other marriages, ](/images/IMG_0078-2.jpg)
 
 * * *
 

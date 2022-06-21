@@ -45,6 +45,6 @@ I realize that this is her opinion, as immature, and one-sided as it is, especia
 
 * * *
 
-![sacrifices in marriage, marriage, making sacrifices in relationships, marriage tips, marriage advice, marriage help, engagement, cute engagement pictures, vintage ring, getting engaged story, freshly married, relationship goals, married at 22, married at 22 and proud of it, young marriage](images/Engagement_-_Kiss.jpg)
+![sacrifices in marriage, marriage, making sacrifices in relationships, marriage tips, marriage advice, marriage help, engagement, cute engagement pictures, vintage ring, getting engaged story, freshly married, relationship goals, married at 22, married at 22 and proud of it, young marriage](/images/Engagement_-_Kiss.jpg)
 
 Not once have I ever regretted my decision to marry Trevor. I was at a point in life where I could not progress any further without my eternal companion, and I believe this life is all about progression. As another person who responded to this article stated, "I do not believe there is an “appropriate” age to get married, only an appropriate mindset." Not all of us are in that mindset at 22, 23, 35, or even 47. Obviously she is not. And that is fine. Whether you were married young, or you are still living the single life, just enjoy it! Make a fun list of the things you want to do, whether it's courageously on your own, or running side by side with your spouse! Just don't tell someone their life-changing decisions were terrible, just because they aren't your own.

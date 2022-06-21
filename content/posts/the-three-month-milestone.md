@@ -16,4 +16,4 @@ coverImage: "blog-size-First-3-months-being-married.png"
 - **To take a deep breath and be patient.**
 - **You can gain weight quickly as a newlywed! (Yikes!)**
 
-![freshly married, newlyweds, newlywed milestones, three months of marriage, marriage as newlyweds, ](images/PhotoGrid_1388724632007-300x300.jpg)
+![freshly married, newlyweds, newlywed milestones, three months of marriage, marriage as newlyweds, ](/images/PhotoGrid_1388724632007-300x300.jpg)

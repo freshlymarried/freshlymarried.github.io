@@ -20,7 +20,7 @@ I wish I could say the transition for us into our families was smooth sailing, b
 
 **I actually don't think there are many couples who can say they haven't had any struggles with their parents or in-laws after getting married!** For those families who don't get passed the struggles, though, EVEN YEARS LATER, it can be a huge detriment to all their current family relationships, and even the future ones with grandchildren. Not only that but it can be detrimental to their son or daughter's marital happiness, as well. Again, I get it if there are valid doubts pertaining to their son or daughter's safety and security. But the only other way I can see their side of it is if these disapproving parents truly aren't aware of the harm they are doing.
 
-![mark 10:9 , mark scriptures on man and wife, scriptures on man and wife, cleave to his wife, mark 10: 7-9, marriage quotes, biblical quotes about marriage, disapproving parents, disapproving parents of son in law, disapproving parents of daughter in law, how to deal with in laws, struggles with in laws, disrespectful in laws, marriage advice, extended family in marriage, dealing with extended family in marriage, healthy extended family relationships, newlywed help,](images/zss1s9df5aq-thomas-curryer.jpg)
+![mark 10:9 , mark scriptures on man and wife, scriptures on man and wife, cleave to his wife, mark 10: 7-9, marriage quotes, biblical quotes about marriage, disapproving parents, disapproving parents of son in law, disapproving parents of daughter in law, how to deal with in laws, struggles with in laws, disrespectful in laws, marriage advice, extended family in marriage, dealing with extended family in marriage, healthy extended family relationships, newlywed help,](/images/zss1s9df5aq-thomas-curryer.jpg)
 
 * * *
 
@@ -42,7 +42,7 @@ Get this figured out on your own doing or through a professional before these im
 
 #### mark 10: 7-9
 
-![mark 10:9 , mark scriptures on man and wife, scriptures on man and wife, cleave to his wife, mark 10: 7-9, marriage quotes, biblical quotes about marriage, disapproving parents, disapproving parents of son in law, disapproving parents of daughter in law, how to deal with in laws, struggles with in laws, disrespectful in laws, marriage advice, extended family in marriage, dealing with extended family in marriage, healthy extended family relationships, newlywed help,](images/design-option-for-quotes.png)
+![mark 10:9 , mark scriptures on man and wife, scriptures on man and wife, cleave to his wife, mark 10: 7-9, marriage quotes, biblical quotes about marriage, disapproving parents, disapproving parents of son in law, disapproving parents of daughter in law, how to deal with in laws, struggles with in laws, disrespectful in laws, marriage advice, extended family in marriage, dealing with extended family in marriage, healthy extended family relationships, newlywed help,](/images/design-option-for-quotes.png)
 
 For both parties who need a better understanding religiously, remember this scripture above. This is a great way of saying: Your son or daughter was meant to leave you to be with their spouse and to be united as one. And God doesn't want you to divide this marriage.
 

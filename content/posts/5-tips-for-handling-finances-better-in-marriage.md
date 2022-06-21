@@ -12,7 +12,7 @@ coverImage: "handling-finances-better-blog-size.png"
 
 When I originally wrote this draft blog post about 4 years ago, I mentioned that our way of doing things with our finances has been very successful for us, and that we didn't have issues between us due to finances... WELL, then we bought a house, and cars, and started investing in retirement, got fun medical bills, doing our own side businesses, etc. So our finances got a little more complex, and therefore the responsibilities of managing them got a little bit more intense. So now I'm making a revision that _**yep, finances have caused contention for us!**_ All I had to do was wait until the real world hit apparently, haha.
 
-![financial tips, finance quotes, inspiring money quotes, quotes about money, quotes about money management, quotes about finances, quotes about finances in marriage, managing finances in marriage, marriage and finances, finances reason for divorce, tips for money, handling money better, marriage help, marriage tips, marriage101](images/finances.png)
+![financial tips, finance quotes, inspiring money quotes, quotes about money, quotes about money management, quotes about finances, quotes about finances in marriage, managing finances in marriage, marriage and finances, finances reason for divorce, tips for money, handling money better, marriage help, marriage tips, marriage101](/images/finances.png)
 
 ### Is Money to blame?
 
@@ -22,7 +22,7 @@ Because of this theory of mine, I think it's important we evaluate and consider 
 
 \*\*As you read these tips, I encourage you to evaluate your own money management process. Talk about these ideas with your partner, see what their thoughts on how things are being done currently. Decide if any of these tips are something you should implement if you aren't already.
 
-![financial tips, managing finances in marriage, marriage and finances, finances reason for divorce, tips for money, handling money better, marriage help, marriage tips, marriage101](images/rawpixel-741658-unsplash.jpg)
+![financial tips, managing finances in marriage, marriage and finances, finances reason for divorce, tips for money, handling money better, marriage help, marriage tips, marriage101](/images/rawpixel-741658-unsplash.jpg)
 
 * * *
 
@@ -72,7 +72,7 @@ Some things to talk about if you haven't already:
 
 Whatever it is, communicate it.
 
-![financial tips, managing finances in marriage, marriage and finances, finances reason for divorce, tips for money, handling money better, marriage help, marriage tips, marriage101](images/rawpixel-602154-unsplash.jpg)
+![financial tips, managing finances in marriage, marriage and finances, finances reason for divorce, tips for money, handling money better, marriage help, marriage tips, marriage101](/images/rawpixel-602154-unsplash.jpg)
 
 * * *
 

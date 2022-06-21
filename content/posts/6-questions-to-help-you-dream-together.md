@@ -20,7 +20,7 @@ There are also great benefits that sharing your hopes and dreams can have on you
 
 For some couples, sharing your hopes and dreams together can come naturally, and maybe it has from the very beginning. For others, maybe it hasn't been as easy to discuss these together.
 
-![marriage, marriage talks, communication in marriage, dream together, how to dream together as a couple, talking about goals with your spouse, bucket list in marriage, how to make a bucket list in marriage, marriage bucket list, date night ideas, dream catcher date, achieving goals in marriage](images/glenn-carstens-peters-190592-unsplash.jpg)
+![marriage, marriage talks, communication in marriage, dream together, how to dream together as a couple, talking about goals with your spouse, bucket list in marriage, how to make a bucket list in marriage, marriage bucket list, date night ideas, dream catcher date, achieving goals in marriage](/images/glenn-carstens-peters-190592-unsplash.jpg)
 
 * * *
 
@@ -30,7 +30,7 @@ One fun and easy way to dream together is through “bucket lists,” or creatin
 
 I think most people have things floating in the back of their mind about what they would put on a bucket list. However, **are we sharing them with our partners? Are we including our partners in the experiences we want to have and in the goals we want to achieve? Are these items on your list something you can include your partner on?**
 
-![emotionally intelligent couples, gottman quote, john gottman quote, familiar with each other's world. dreaming together, marriage, marriage advice, marriage help, marriage questions, questions to ask your spouse](images/emotionally-intelligent-quote.jpg)
+![emotionally intelligent couples, gottman quote, john gottman quote, familiar with each other's world. dreaming together, marriage, marriage advice, marriage help, marriage questions, questions to ask your spouse](/images/emotionally-intelligent-quote.jpg)
 
 If you feel that you could be better at this, or want to have a fun conversation about your hopes and dreams with your partner, I encourage you to do the following exercise:
 
@@ -55,7 +55,7 @@ _**EXERCISE:**_ Discuss items on your “bucket list” with each other. Share 
 
 - > Which item on your list would you like to do in the coming year?
     
-    ![marriage, marriage talks, communication in marriage, dream together, how to dream together as a couple, talking about goals with your spouse, bucket list in marriage, how to make a bucket list in marriage, marriage bucket list, date night ideas, dream catcher date, achieving goals in marriage](images/dyaa-eldin-103-unsplash.jpg)
+    ![marriage, marriage talks, communication in marriage, dream together, how to dream together as a couple, talking about goals with your spouse, bucket list in marriage, how to make a bucket list in marriage, marriage bucket list, date night ideas, dream catcher date, achieving goals in marriage](/images/dyaa-eldin-103-unsplash.jpg)
 
 * * *
 

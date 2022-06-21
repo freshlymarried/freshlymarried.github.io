@@ -34,7 +34,7 @@ I wouldn't say there's one ultimate question to whether or not this project was 
 
 **To combat this feeling of vulnerability, I would suggest doing this project on your own, like in a journal!** It became a great way to document different events and thoughts in our marriage this year, for sure! So it was a way for me to keep up with that kind of journaling. I think when you know no one but you and/or your spouse is going to see those personal joys you've written down, you can get more from this exercise. You dig a little deeper and express yourself better.
 
-![a joyful marriage, finding more joy, joy in 2017, finding more joy in 2017, joyful projects, projects on joy, live joyfully, marriage advice, marriage help, lds newlyweds, newlywed help](images/IMG_0091.jpg)
+![a joyful marriage, finding more joy, joy in 2017, finding more joy in 2017, joyful projects, projects on joy, live joyfully, marriage advice, marriage help, lds newlyweds, newlywed help](/images/IMG_0091.jpg)
 
 * * *
 

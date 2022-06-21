@@ -26,7 +26,7 @@ I had an early dinner with a program, for about 65+ guests consisting of our clo
 
 Many people don’t like having a traditional wedding cake because it doesn’t taste that great, or people don’t end up eating it all. We realized that we were paying $400 for cake that wasn’t our favorite dessert, and was so expensive. After looking over alternatives, I changed it up with a reduced-size, three-tiered cake, having the bottom and top layers be thinner, and the top layer be brownie for only Trevor and I! We loved it. We took the top one on our honeymoon to devour, and all the cake got eaten by the end of the night. What a win-win situation that was.
 
-![lds weddings, understanding lds weddings, how to make the most of your wedding day, wedding planning help, cute lds weddings](images/decorations-1024x682.jpg)
+![lds weddings, understanding lds weddings, how to make the most of your wedding day, wedding planning help, cute lds weddings](/images/decorations-1024x682.jpg)
 
 ### Reception
 
@@ -34,10 +34,10 @@ A reception was held about 45 minutes later at the same location. All we had to 
 
 **The things I remember the most about my wedding day, were not things. They were people, and the words that were said**. **I remember the many looks on my new husband’s face, throughout the happiness of our day. I remember the words that were said to us in our ceremony. I remember the people who attended, and who were outside waiting for us with smiling, happy faces. I remember how much fun we had dancing on stage, and reminiscing with family and friends we hadn’t seen in awhile. I remember the laughs shared, tears cried, and warm hugs. The special moments, to us, are what will make your wedding day the best day ever.**
 
-![TrevorAmy_reception_JDA_0189](images/TrevorAmy_reception_JDA_0189.jpg)
+![TrevorAmy_reception_JDA_0189](/images/TrevorAmy_reception_JDA_0189.jpg)
 
-![lds weddings, understanding lds weddings, how to make the most of your wedding day, wedding planning help, cute lds weddings](images/TrevorAmy_reception_JDA_0098-Copy.jpg)
+![lds weddings, understanding lds weddings, how to make the most of your wedding day, wedding planning help, cute lds weddings](/images/TrevorAmy_reception_JDA_0098-Copy.jpg)
 
-![TrevorAmy_wedding_JDA_0036](images/TrevorAmy_wedding_JDA_0036.jpg)
+![TrevorAmy_wedding_JDA_0036](/images/TrevorAmy_wedding_JDA_0036.jpg)
 
-![lds weddings, understanding lds weddings, how to make the most of your wedding day, wedding planning help, cute lds weddings](images/TrevorAmy_reception_JDA_0290.jpg)
+![lds weddings, understanding lds weddings, how to make the most of your wedding day, wedding planning help, cute lds weddings](/images/TrevorAmy_reception_JDA_0290.jpg)

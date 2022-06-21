@@ -23,9 +23,9 @@ Many people think they need to get pictures and decor up on the walls as soon as
 
 I also developed a better sense of what style I wanted overtime, so I wasn’t wasting money buying things and then realizing I didn’t totally like it later on. Over the past three years, I’ve moved a few things around and added a few new pieces, as you can see in the two pictures below. Yes it was more work, but it's fine. I did try and minimize the work by repurposing frames I removed into other rooms or function as something else like a tray. 
 
-\[caption id="attachment\_6812" align="alignnone" width="1000"\]![nate berkus, nate berkus designer, nate berkus target, nate berkus quotes, quotes about the home, creating a home, home decor tips, home furnishing tips, joanna gaines tips, suggestions for home decor, what to hang up in house, suggestions for first-time home buyers, first time home buyers, daybreak home, daybreak utah home, daybreak utah solitude home, daybreak solitiude home, david weekly homes](images/Circa-Summer-2015-.png) We then added another bookcase and put them on both sides of the TV to utilize that empty wall space, upgraded a TV, so I re-did the wall collage, then we got an armchair for the corner to make it a cozy reading nook! **(see below pic)**\[/caption\]
+\[caption id="attachment\_6812" align="alignnone" width="1000"\]![nate berkus, nate berkus designer, nate berkus target, nate berkus quotes, quotes about the home, creating a home, home decor tips, home furnishing tips, joanna gaines tips, suggestions for home decor, what to hang up in house, suggestions for first-time home buyers, first time home buyers, daybreak home, daybreak utah home, daybreak utah solitude home, daybreak solitiude home, david weekly homes](/images/Circa-Summer-2015-.png) We then added another bookcase and put them on both sides of the TV to utilize that empty wall space, upgraded a TV, so I re-did the wall collage, then we got an armchair for the corner to make it a cozy reading nook! **(see below pic)**\[/caption\]
 
-![nate berkus, nate berkus designer, nate berkus target, nate berkus quotes, quotes about the home, creating a home, home decor tips, home furnishing tips, joanna gaines tips, suggestions for home decor, what to hang up in house, suggestions for first-time home buyers, first time home buyers, daybreak home, daybreak utah home, daybreak utah solitude home, daybreak solitiude home, david weekly homes](images/Copy-of-Circa-Summer-2015-.png)
+![nate berkus, nate berkus designer, nate berkus target, nate berkus quotes, quotes about the home, creating a home, home decor tips, home furnishing tips, joanna gaines tips, suggestions for home decor, what to hang up in house, suggestions for first-time home buyers, first time home buyers, daybreak home, daybreak utah home, daybreak utah solitude home, daybreak solitiude home, david weekly homes](/images/Copy-of-Circa-Summer-2015-.png)
 
 ## Have a realistic idea of costs
 
@@ -36,7 +36,7 @@ I remember thinking how cool it was that we could afford a house, but I forgot a
 3. Decorate with more inexpensive items that you know you’ll replace later when you can afford more stuff.  (This might not be the most cost-effective option)
 4. Buy things for one room at a time, like I did, that way you’re spending is spaced out, and less of a burden.
 
-![nate berkus, nate berkus designer, nate berkus target, nate berkus quotes, quotes about the home, creating a home, home decor tips, home furnishing tips, joanna gaines tips, suggestions for home decor, what to hang up in house, suggestions for first-time home buyers, first time home buyers, ](images/nate-berkus-quote.png)
+![nate berkus, nate berkus designer, nate berkus target, nate berkus quotes, quotes about the home, creating a home, home decor tips, home furnishing tips, joanna gaines tips, suggestions for home decor, what to hang up in house, suggestions for first-time home buyers, first time home buyers, ](/images/nate-berkus-quote.png)
 
 ## Focus on a feeling
 
@@ -48,7 +48,7 @@ Another priority was to make sure we had pictures of us up, which seems obvious 
 
 I remember how the first few months we lived in our house was absolutely barren of any pictures of us or any kind of artwork, and when we finally put up some pictures in our main living room, I pretty quickly noticed a different feeling in our home. It felt more home-y and comfortable, seeing pictures of us to remind me of our love.
 
-![nate berkus, nate berkus designer, nate berkus target, nate berkus quotes, quotes about the home, creating a home, home decor tips, home furnishing tips, joanna gaines tips, suggestions for home decor, what to hang up in house, suggestions for first-time home buyers, first time home buyers, daybreak home, daybreak utah home, daybreak utah solitude home, daybreak solitiude home, david weekly homes](images/IMG_0185.jpg)
+![nate berkus, nate berkus designer, nate berkus target, nate berkus quotes, quotes about the home, creating a home, home decor tips, home furnishing tips, joanna gaines tips, suggestions for home decor, what to hang up in house, suggestions for first-time home buyers, first time home buyers, daybreak home, daybreak utah home, daybreak utah solitude home, daybreak solitiude home, david weekly homes](/images/IMG_0185.jpg)
 
 ## Suggestions for things to include and not include in your home decor:
 
@@ -56,7 +56,7 @@ I remember how the first few months we lived in our house was absolutely barren 
 - Another tip for newlywed wives especially, **don’t overwhelm your walls with your own bridal photos!** I’ve been to people’s houses where it feels like a shrine to themselves with all their pictures of them in their wedding dress! I get it; you look absolutely gorgeous, and what an exciting time in life! However, one picture will do. Variety is more visually interesting.
 - **Incorporate some of your wedding decor pieces** to remember that special time :) One of the colors for my wedding was what I planned to use in our apartment and home in the future, which was smart because so much of that decor ended up fitting in perfectly with our home! As you can see in our bedroom, we have these two minty blue doors and the banner hanging over the headboard which was used at our wedding reception where we stood for our receiving line :) I LOVE getting this happy memory DAILY.
 
-![nate berkus, nate berkus designer, nate berkus target, nate berkus quotes, quotes about the home, creating a home, home decor tips, home furnishing tips, joanna gaines tips, suggestions for home decor, what to hang up in house, suggestions for first-time home buyers, first time home buyers, daybreak home, daybreak utah home, daybreak utah solitude home, daybreak solitiude home, david weekly homes](images/IMG_0184.jpg)
+![nate berkus, nate berkus designer, nate berkus target, nate berkus quotes, quotes about the home, creating a home, home decor tips, home furnishing tips, joanna gaines tips, suggestions for home decor, what to hang up in house, suggestions for first-time home buyers, first time home buyers, daybreak home, daybreak utah home, daybreak utah solitude home, daybreak solitiude home, david weekly homes](/images/IMG_0184.jpg)
 
 ## Miscellaneous Tips:
 
@@ -66,6 +66,6 @@ I remember how the first few months we lived in our house was absolutely barren 
 - If you love a piece of furniture but it needs to be more cohesive with the rest of your decor and furnishings, find little ways to customize it. For example, I bought two nightstands for us that were the perfect color, functionality, and pricing for us, and just replaced the drawer knobs with ones from Hobby Lobby that could make it more cohesive with everything else in the room.
 - **The paper on the wall idea for planning your collages is truly a fantastic trick!** It gives you the freedom to move the paper pieces around until you like the pattern enough to hang things on the wall more permanently. Don’t know what I’m talking about? See this picture below :)
 
-![nate berkus, nate berkus designer, nate berkus target, nate berkus quotes, quotes about the home, creating a home, home decor tips, home furnishing tips, joanna gaines tips, suggestions for home decor, what to hang up in house, suggestions for first-time home buyers, first time home buyers, daybreak home, daybreak utah home, daybreak utah solitude home, daybreak solitiude home, david weekly homes](images/IMG_0095-1.jpg)
+![nate berkus, nate berkus designer, nate berkus target, nate berkus quotes, quotes about the home, creating a home, home decor tips, home furnishing tips, joanna gaines tips, suggestions for home decor, what to hang up in house, suggestions for first-time home buyers, first time home buyers, daybreak home, daybreak utah home, daybreak utah solitude home, daybreak solitiude home, david weekly homes](/images/IMG_0095-1.jpg)
 
 What are some tips YOU have for decorating and furnishing a home to make it feel like HOME?

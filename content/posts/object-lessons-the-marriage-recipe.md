@@ -15,7 +15,7 @@ Watch the video, then proceed to the rest of the post below :)
 
 * * *
 
-![john gottman, how to make a relationship last, lasting relationship, advice for a lasting relationship, couples advice, relationship advice, marriage advice, relating marriage to baking, marriage object lessons, marriage advice, marriage specialist, marriage help, relationship education, how to strengthen your marriage, cookies and marriage](images/to-make-a-relationship-last-quote.jpg)
+![john gottman, how to make a relationship last, lasting relationship, advice for a lasting relationship, couples advice, relationship advice, marriage advice, relating marriage to baking, marriage object lessons, marriage advice, marriage specialist, marriage help, relationship education, how to strengthen your marriage, cookies and marriage](/images/to-make-a-relationship-last-quote.jpg)
 
 ## Making your own marriage recipe
 

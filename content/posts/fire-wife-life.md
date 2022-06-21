@@ -27,7 +27,7 @@ We have been married for only 3 years now so I'm no expert, but it's important t
 
 We have become so blessed with Kyle being in the fire service. We have acquired a second family and holidays/birthdays get to be celebrated at the station. This life isn't always the easiest and may seem a little crazy, but my husband is fulfilling his calling to help people and I support him 100%. We are and always will be fire strong!
 
-[![firewife, being a fire-wife, fire-wife, spouse of a firefighter, support for firefighter spouses, support for policemen spouses, support for service men and women, military wife support, firefighter wife support, police officer spousal support, different marital experiences, struggles of being a firefighter, struggles of being a firefighter spouse](images/12226738_860870200693659_1431950533_n.jpg)](http://freshlymarried.com/wp-content/uploads/2015/11/12226738_860870200693659_1431950533_n.jpg)
+[![firewife, being a fire-wife, fire-wife, spouse of a firefighter, support for firefighter spouses, support for policemen spouses, support for service men and women, military wife support, firefighter wife support, police officer spousal support, different marital experiences, struggles of being a firefighter, struggles of being a firefighter spouse](/images/12226738_860870200693659_1431950533_n.jpg)](http://freshlymarried.com/wp-content/uploads/2015/11/12226738_860870200693659_1431950533_n.jpg)
 
 * * *
 

@@ -33,12 +33,12 @@ Although the list could go on and on, here are some other little victories in ma
 - Figuring out the complexities of health insurance (am I right?!)
 - Or even just making your husband LOL because you got silly mustache straws for sippin' beverages on the porch hehehe  (I knew you were wondering why that picture was up there!)
 
-#### ![little victories, little victories in life, little victories in marriage, looking at the positive in marriage, little things become the big things, positive in marriage, focusing on the positive in marriage, looking for the good in marriage, the little things in marriage, marriage advice, marriage enocuragement, marriage inspiration, give yourself more credit](images/762A3525-86-2.jpg)
+#### ![little victories, little victories in life, little victories in marriage, looking at the positive in marriage, little things become the big things, positive in marriage, focusing on the positive in marriage, looking for the good in marriage, the little things in marriage, marriage advice, marriage enocuragement, marriage inspiration, give yourself more credit](/images/762A3525-86-2.jpg)
 
 #### Little things can be more significant than big things
 
 When I regularly remember these little victories I tend to not be so hard on myself when I make a mistake or fall short. And the difficult moments in my marriage aren't viewed with hopelessness because I can say, _"Hey we are working on_ this _though, and have actually come a long way"_ or _"He appreciated me for doing this yesterday, so I'll be OK that he didn't mention it today."_ I totally believe that appreciating the little positives can change what we think it means to be successful, or have a successful marriage for that matter.
 
-![little victories, little victories in life, little victories in marriage, looking at the positive in marriage, little things become the big things, positive in marriage, focusing on the positive in marriage, looking for the good in marriage, the little things in marriage, marriage advice, marriage enocuragement, marriage inspiration, give yourself more credit in marriage](images/oprah-winfrey-quote.png)
+![little victories, little victories in life, little victories in marriage, looking at the positive in marriage, little things become the big things, positive in marriage, focusing on the positive in marriage, looking for the good in marriage, the little things in marriage, marriage advice, marriage enocuragement, marriage inspiration, give yourself more credit in marriage](/images/oprah-winfrey-quote.png)
 
 Yep I just quoted Oprah. We seriously just gotta fist-pump our way through life or we will never endure it! Oprah didn't say that one.

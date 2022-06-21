@@ -22,7 +22,7 @@ I hate the "manhood" card, and they play it foolishly here. When people make fun
 
 Shouldn't you be excited to show people that you found someone you want to be with forever? Shouldn't you show the respect your spouse deserves by wearing that symbol of commitment to them, AND doing it proudly? Sometimes we take off our rings for the night, or during a task and we forget to put it back on. However, **I think that when you don't wear your ring for a lengthy time and there aren't legitimate reasons for doing so, it shows a lack of commitment to your spouse.** Yeah, I just said that.
 
-![wedding rings, importance of wedding rings, what wedding rings mean, symbolism of wedding rings, purpose of wedding rings, duck dynasty and wedding rings, jase robertson wedding ring, why I wear my wedding ring](images/TrevorAmy_reception_JDA_0020.jpg)
+![wedding rings, importance of wedding rings, what wedding rings mean, symbolism of wedding rings, purpose of wedding rings, duck dynasty and wedding rings, jase robertson wedding ring, why I wear my wedding ring](/images/TrevorAmy_reception_JDA_0020.jpg)
 
 #### What a wedding ring means symbolically
 
@@ -34,7 +34,7 @@ I have definitely shared my opinions above of wedding rings and what they should
 
 I told Trevor what I thought I wanted in a ring, and showed him pictures, we didn't go to stores together. When I saw the ring for the first time I realized how much he nailed it on the head! He listened to my desires and even went extra miles to make it something I would cherish forever. This told me that my thoughts and my heart were a priority to him. It told me that he wanted me to be happy. And the specific inscription he had engraved on the inside of the ring told me he had been paying close attention from our very first date :)
 
-![he%2527s_engaged%2521%2521](images/he2527s_engaged25212521.jpg)
+![he%2527s_engaged%2521%2521](/images/he2527s_engaged25212521.jpg)
 
 I surprised Trevor with his ring while we were engaged and he absolutely loved it! I tricked him telling him it wouldn't be ready for awhile so he was very pleasantly surprised :) We realized it was uncommon for him to wear a ring before the wedding day, but those BYU girls just couldn't keep their eyes off of my man! For reals though, and Trevor didn't tell me this until after I gave it to him, lol. He told me that he had been wanting to wear a ring badly because multiple girls had been full on flirting with him and he wanted them to know he was taken :) His excited and handsome face told me that he was relieved to have something to fight off those flirts :) And it told me that not only did he _want_ to be fully committed to me, but he also was fully _ready_ to be.
 

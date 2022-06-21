@@ -16,9 +16,9 @@ My husband put together a well-researched presentation about the idea of getting
 
 And then in our search for the right dog,  we came across this little guy, and just instantly fell in love! Crazy enough, we both were thinking the name Oliver (Oli for short) without even discussing it previously! It felt meant to be, so we put the deposit down on him that night.
 
-![a joyful marriage, oli, king charles, cavalier king charles dog, king charles dog, cute king charles dog, family of 3 picture, oli dog name, oli, finding joy, find joy, joy in marriage, marriage advice, marriage experiences, newlywed life](images/IMG_0049.jpg)
+![a joyful marriage, oli, king charles, cavalier king charles dog, king charles dog, cute king charles dog, family of 3 picture, oli dog name, oli, finding joy, find joy, joy in marriage, marriage advice, marriage experiences, newlywed life](/images/IMG_0049.jpg)
 
-\[caption id="attachment\_6796" align="alignnone" width="1000"\]![a joyful marriage, oli, king charles, cavalier king charles dog, king charles dog, cute king charles dog, family of 3 picture, oli dog name, oli, finding joy, find joy, joy in marriage, marriage advice, marriage experiences, newlywed life](images/IMG_0041.jpg) Up close of his cute little face!\[/caption\]
+\[caption id="attachment\_6796" align="alignnone" width="1000"\]![a joyful marriage, oli, king charles, cavalier king charles dog, king charles dog, cute king charles dog, family of 3 picture, oli dog name, oli, finding joy, find joy, joy in marriage, marriage advice, marriage experiences, newlywed life](/images/IMG_0041.jpg) Up close of his cute little face!\[/caption\]
 
 * * *
 

@@ -18,7 +18,7 @@ _**\*\*\*P.S. these three "guidelines" are so applicable to any hobby or past ti
 
 * * *
 
-![video gaming, video gaming spouses, video gamers husband and wife, husbands who play video games, trouble with husband playing video games, addicted to video games, video games and relationships, video games cause problems in marriage, newlywed life, marrying someone who plays video games, problem with video games, how to handle your spouse playing video games, video games in marriage, marriage advice, marriage help, marriage support, marriage specialist](images/IMG_1110.jpg)
+![video gaming, video gaming spouses, video gamers husband and wife, husbands who play video games, trouble with husband playing video games, addicted to video games, video games and relationships, video games cause problems in marriage, newlywed life, marrying someone who plays video games, problem with video games, how to handle your spouse playing video games, video games in marriage, marriage advice, marriage help, marriage support, marriage specialist](/images/IMG_1110.jpg)
 
 #### He doesn't ignore his priorities
 
@@ -39,7 +39,7 @@ _**\*\*\*P.S. these three "guidelines" are so applicable to any hobby or past ti
 
 * * *
 
-![https://freshlymarried.com/3-ways-to-keep-video-gaming-from-harming-your-marriage/](images/video-games-ruined-my-life-new-quote.jpg)
+![https://freshlymarried.com/3-ways-to-keep-video-gaming-from-harming-your-marriage/](/images/video-games-ruined-my-life-new-quote.jpg)
 
 ### Last pieces of advice
 

@@ -11,7 +11,7 @@ coverImage: "IMG_0295.jpg"
 
 I had a good luck charm apparently for this St. Patricks Day because I "won" some amazing seats to the Jazz game that night! I say "won" because an old friend couldn't use them so they did a little drawing for people interested and I got them :) What's better than a fun date night to an NBA game? A FREE ONE, haha. It was double-y awesome because Trevor and I had never been to a game together yet. So we got something checked off our bucket list!
 
-![utah jazz, jazznation, jazz vs. suns game, jazz 2015, jazz game dates, jazz game date nights, giveaways, amazon giveaways, amazon gift card giveaways, date night giveaways, date night ideas, money for date nights, monthly date nights, monthly date night giveaways, project life cards, project life card layouts, using project life cards, marriage tips, marriage advice, encouraging date nights](images/IMG_0294.jpg)
+![utah jazz, jazznation, jazz vs. suns game, jazz 2015, jazz game dates, jazz game date nights, giveaways, amazon giveaways, amazon gift card giveaways, date night giveaways, date night ideas, money for date nights, monthly date nights, monthly date night giveaways, project life cards, project life card layouts, using project life cards, marriage tips, marriage advice, encouraging date nights](/images/IMG_0294.jpg)
 
 * * *
 
@@ -19,7 +19,7 @@ Since I was in a winning mood, and because I love encouraging date nights for co
 
 ## March #Freshdatenights giveaway
 
-\[caption id="attachment\_4800" align="aligncenter" width="589"\]![utah jazz, jazznation, jazz vs. suns game, jazz 2015, jazz game dates, jazz game date nights, giveaways, amazon giveaways, amazon gift card giveaways, date night giveaways, date night ideas, money for date nights, monthly date nights, monthly date night giveaways, project life cards, project life card layouts, using project life cards, marriage tips, marriage advice, encouraging date nights](images/IMG_0297.jpg) $75 AMAZON GIFT CARD, HANDMADE CARd from me to you (BECAUSE OF THE CRAFTER INSIDE ME). A COPY OF THE FRESHLY MARRIED MASTER LIST OF DATE NIGHT IDEAS, A HANDFUL OF CUTE CARDS FOR SENDING LOVE NOTES TO EACH OTHER, AND A MAGNET OF ONE OF OUR FAVORITE FRESHLY MARRIED QUOTES :)\[/caption\]
+\[caption id="attachment\_4800" align="aligncenter" width="589"\]![utah jazz, jazznation, jazz vs. suns game, jazz 2015, jazz game dates, jazz game date nights, giveaways, amazon giveaways, amazon gift card giveaways, date night giveaways, date night ideas, money for date nights, monthly date nights, monthly date night giveaways, project life cards, project life card layouts, using project life cards, marriage tips, marriage advice, encouraging date nights](/images/IMG_0297.jpg) $75 AMAZON GIFT CARD, HANDMADE CARd from me to you (BECAUSE OF THE CRAFTER INSIDE ME). A COPY OF THE FRESHLY MARRIED MASTER LIST OF DATE NIGHT IDEAS, A HANDFUL OF CUTE CARDS FOR SENDING LOVE NOTES TO EACH OTHER, AND A MAGNET OF ONE OF OUR FAVORITE FRESHLY MARRIED QUOTES :)\[/caption\]
 
 * * *
 

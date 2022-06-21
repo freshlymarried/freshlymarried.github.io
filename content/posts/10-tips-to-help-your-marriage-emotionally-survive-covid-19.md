@@ -30,7 +30,7 @@ The emotions we are all experiencing, along with how we cope with the current an
 
 Schedule it if you have to, because it doesn’t matter whether you are introverts or extroverts, you will get sick of each other at some point! The key is to not lash out at each other over it. If you are in very tight quarters and the outdoors is not an option, consider hanging out in the bathroom on your own, or a closet, haha. You can even watch different tv shows or movies on your own devices with headphones on so you can mentally be in a different place than your spouse.
 
-![](images/F275E0C7-FB58-43EC-8B23-8499B2A12E7C.jpeg)
+![](/images/F275E0C7-FB58-43EC-8B23-8499B2A12E7C.jpeg)
 
 ### #3 Check in with how you each are feeling every few days.
 
@@ -44,7 +44,7 @@ Allowing your partner to do the #3 tip and just listening to their feelings can 
 
 This can be a positive escape from what's going on in the world! Some ideas: We already have to make more meals than we did before, so why not make dinner together? Or sit out on the porch or grass and play a game together! Have [a date delivered to you](https://freshlymarried.com/what-you-should-know-about-date-boxes/). There are a bunch of movies that were supposed to be in theaters right now that were just sent straight to streaming, so pop some popcorn and get some treats and "go to the movie theater," so to speak.
 
-![](images/6A580594-91A3-4F93-A1A9-49B011A31260.jpeg)
+![](/images/6A580594-91A3-4F93-A1A9-49B011A31260.jpeg)
 
 ### #6 Be on the same page about your emergency plans.
 
@@ -54,7 +54,7 @@ When you’re not adhering to the same guidelines or don’t feel prepared for e
 
 The little ways can mean even more now. Some ideas: If your spouse or both of you are working from home, make lunch for them and eat it at the same break time. Or randomly give them a neck massage while they are working at their computer. Do one of their chores for them. Write notes to each other. Enjoy some sexy time in the middle of the day. Honestly, whatever positive things you can do to fill up your emotional bank account will be smart because being around each other more means you’re more likely to have more negative interactions! So follow [the 5 to 1 ratio](https://freshlymarried.com/the-5-to-1-ratio/) rule, and maybe even increase that ratio!
 
-![](images/2AF7E380-FCC1-4757-9EA6-CF7AE401AEA0.jpeg)
+![](/images/2AF7E380-FCC1-4757-9EA6-CF7AE401AEA0.jpeg)
 
 ### #8 Keep aspects of your life normal as best you can.
 
@@ -68,7 +68,7 @@ This is a unique chance to reprioritize our lives with what and who is important
 
 You don’t have much choice here! Set aside a time to have those difficult conversations, while also making time to reignite your friendship. If you need help on how to have these difficult conversations productively, try using [the ABC formula](https://freshlymarried.com/the-abc-formula/) and follow the process of how it works. Some great resources for fun conversation right now: My list of _[100 Conversational Questions to Ask Your Spouse!](https://freshlymarried.com/100-conversational-questions-to-ask-your-spouse/)_ This is one of the most popular articles on Freshly Married! We also love card decks of questions like the [Uncommon Questions](https://www.uncommonquestions.cards/store).
 
-![](images/F4CD9800-8B84-4096-9402-2CC26DF552D9.jpeg)
+![](/images/F4CD9800-8B84-4096-9402-2CC26DF552D9.jpeg)
 
 I elaborate more on this tip that is easier said than done, in this [recap video of a virtual speaking engagement](https://www.youtube.com/watch?v=hsa_KlryNH8&feature=youtu.be) I did recently. There are some great tips from other women about other helpful lifestyle tips and insight during this pandemic. But you can skip to minute 14 to get marriage help!
 

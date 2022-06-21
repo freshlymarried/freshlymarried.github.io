@@ -25,7 +25,7 @@ Last month I heard something on funny on the radio in regards to marriage and w
 
 * * *
 
-![rom coms, romantic movies are not a cure for marital problems, what to do about having marital problems, what to do in the middle of a marital problem, movies as a solution to solving marital problems, marital problem solutions, seeing a therapist, marital issues, solving marital issues, funny naive marriage advice, marriage specialist, relationship help, ](images/Freshly-Married-30-1.jpg)
+![rom coms, romantic movies are not a cure for marital problems, what to do about having marital problems, what to do in the middle of a marital problem, movies as a solution to solving marital problems, marital problem solutions, seeing a therapist, marital issues, solving marital issues, funny naive marriage advice, marriage specialist, relationship help, ](/images/Freshly-Married-30-1.jpg)
 
 There are both positive and negative results that can come from watching a romantic movie together that I have pointed out here. I'm not saying that this has never worked for my marriage because I think some of those things above have actually worked in our favor. But I also don't think that it will work out like that every time. **Some marital issues are just too complex for a 2-hour fictional love story to handle, ones that a therapist is more equipped to help resolve!** So I'm bothered that this advice was broadcasted so casually as if it's the idea that will fix every problem in your marriage because odds are, it won't!
 

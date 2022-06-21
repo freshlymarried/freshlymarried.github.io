@@ -10,7 +10,7 @@ coverImage: "IMG_1899.jpg"
 
 I did choose to send out Christmas cards again this year and man was it easier than [my first attempt last year](http://freshlymarried.com/newlywed-christmas-cards/)! This year I did a double-sided card so we could have a picture of us and a quick "happy holidays" message, but also have a back where we shared a picture from something special we did this year: we threw a Back to the Future party because I'm obsessed with BTTF! To share a pertinent quote that would send positive vibes to our family and friends about the new year was just an added touch that I loved!
 
-[![christmas cards, cold nose warm wishes, newlywed christmas cards, newlywed christmas cards ideas, christmas card tips and tricks, simplifying christmas cards, couple christmas cards, newlywed christmas cards fails, newlywed christmas card successes](images/IMG_1900.jpg)](http://freshlymarried.com/wp-content/uploads/2015/12/IMG_1900.jpg)
+[![christmas cards, cold nose warm wishes, newlywed christmas cards, newlywed christmas cards ideas, christmas card tips and tricks, simplifying christmas cards, couple christmas cards, newlywed christmas cards fails, newlywed christmas card successes](/images/IMG_1900.jpg)](http://freshlymarried.com/wp-content/uploads/2015/12/IMG_1900.jpg)
 
 #### Simplifying
 
@@ -20,7 +20,7 @@ I simplified much more than last year! I created a pre-made card from Walgreens,
 - I now have a newsletter outline and template to keep following, so next year I just have to fill in the different bits of information of what happened in 2016.
 - I'm starting to get the hang of it and also learned things I can do differently in the future. I learned when the best time to prepare is, and when the worst time is. I learned when I would be too busy to handle the task and when would be easier. I knew which sites to spend my time browsing their pre-designed cards because of the research I did last year on comparing pricing, timing, and designs.
 
-#### [![christmas cards, cold nose warm wishes, newlywed christmas cards, newlywed christmas cards ideas, christmas card tips and tricks, simplifying christmas cards, couple christmas cards, newlywed christmas cards fails, newlywed christmas card successes](images/IMG_1913.jpg)](http://freshlymarried.com/wp-content/uploads/2015/12/IMG_1913.jpg)
+#### [![christmas cards, cold nose warm wishes, newlywed christmas cards, newlywed christmas cards ideas, christmas card tips and tricks, simplifying christmas cards, couple christmas cards, newlywed christmas cards fails, newlywed christmas card successes](/images/IMG_1913.jpg)](http://freshlymarried.com/wp-content/uploads/2015/12/IMG_1913.jpg)
 
 #### Caring is sharing
 

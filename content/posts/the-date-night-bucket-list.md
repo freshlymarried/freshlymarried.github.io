@@ -20,7 +20,7 @@ I want to share this idea with you marrieds because it's been so helpful for kee
 
 Here's a very small scale mock-up of what our list basically looks like:
 
-[![Date night list, bucket list, couples bucket list, newlywed bucket list, things to do as a couple, date night ideas, a million date night ideas, 100 date night ideas, 100 great date night ideas 100+date night ideas](images/correct-screenshot-list.png)](http://freshlymarried.com/wp-content/uploads/2015/04/correct-screenshot-list.png)
+[![Date night list, bucket list, couples bucket list, newlywed bucket list, things to do as a couple, date night ideas, a million date night ideas, 100 date night ideas, 100 great date night ideas 100+date night ideas](/images/correct-screenshot-list.png)](http://freshlymarried.com/wp-content/uploads/2015/04/correct-screenshot-list.png)
 
 #### What we did:
 
@@ -44,7 +44,7 @@ Wanting to create or add to your own list? Need some ideas to start with? Well, 
 
 P.S. One of our fav ways of documenting all these cute bucket list stuff is with my cute [Mini 8 Instax Camera](https://amzn.to/2JetcOV)!
 
-![](images/IMG_2346.jpg)
+![](/images/IMG_2346.jpg)
 
 * * *
 

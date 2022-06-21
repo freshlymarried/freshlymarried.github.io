@@ -17,7 +17,7 @@ I say WORDS because I think it's important to have a goal in mind for you as an 
 
 # Word of the year for me: health
 
-\[caption id="attachment\_7398" align="aligncenter" width="1000"\][![word of the year, words of the year, new years resolutions, resolutions, goals, goal making, taking care of me, eating healthy, eating healthy while pregnant, pregnant with twins, healthy with twins, married life](images/image_6483441.jpg)](https://www.etsy.com/shop/elisecreates) lovely graphic created by Elise Egbert\[/caption\]
+\[caption id="attachment\_7398" align="aligncenter" width="1000"\][![word of the year, words of the year, new years resolutions, resolutions, goals, goal making, taking care of me, eating healthy, eating healthy while pregnant, pregnant with twins, healthy with twins, married life](/images/image_6483441.jpg)](https://www.etsy.com/shop/elisecreates) lovely graphic created by Elise Egbert\[/caption\]
 
 ## WHY
 
@@ -31,7 +31,7 @@ So my health plan has changed from what was working before, but that’s OK. I s
 
 # Word of the year for my marriage: transition.
 
-\[caption id="attachment\_7399" align="aligncenter" width="1000"\][![word of the year, words of the year, new years resolutions, resolutions, goals, goal making, taking care of me, eating healthy, eating healthy while pregnant, pregnant with twins, healthy with twins, married life](images/image_6483441-1.jpg)](https://www.etsy.com/shop/elisecreates) lovely graphic created by Elise Egbert\[/caption\]
+\[caption id="attachment\_7399" align="aligncenter" width="1000"\][![word of the year, words of the year, new years resolutions, resolutions, goals, goal making, taking care of me, eating healthy, eating healthy while pregnant, pregnant with twins, healthy with twins, married life](/images/image_6483441-1.jpg)](https://www.etsy.com/shop/elisecreates) lovely graphic created by Elise Egbert\[/caption\]
 
 ## WHY
 
@@ -49,7 +49,7 @@ From someone who is a relationship expert, especially with marriage, I’m just 
 
 * * *
 
-![word of the year, words of the year, new years resolutions, resolutions, goals, goal making, taking care of me, eating healthy, eating healthy while pregnant, pregnant with twins, healthy with twins, married life](images/IMG_0004-1.jpg)
+![word of the year, words of the year, new years resolutions, resolutions, goals, goal making, taking care of me, eating healthy, eating healthy while pregnant, pregnant with twins, healthy with twins, married life](/images/IMG_0004-1.jpg)
 
 **My goal over the next six months is to create a new normal for us to get used to so that when the babies come we can handle their prioritization better while still maintaining the quality of our relationship. The best part is I have so many great resources to turn to for ideas, some even my own written articles that I need to refer back to and apply to this particular situation!** 
 

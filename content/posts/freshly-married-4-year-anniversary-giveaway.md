@@ -13,7 +13,7 @@ Four years ago today, I wrote my very first blog post on Freshly Married, called
 
 I've been happily blessed with this passion of trying to help others strengthen and FRESHEN UP their marriage, and in the process, they have helped MY marriage grow! I've been able to connect and relate to others through 300 blog posts, a Facebook group community, and the people who message me weekly asking for relationship advice or thanking me for sharing something they needed to hear. That is incredibly rewarding to me, and I hope to have more years of this!
 
-![giveaway, blog givewaways, june 2017 blog giveaways, marriage advice, marriage help, lds newlyweds, newlyweds, a prioritized marriage ebook, wife life tshirt](images/TrevorAmy_wedding_JDA_0014-1.jpg)
+![giveaway, blog givewaways, june 2017 blog giveaways, marriage advice, marriage help, lds newlyweds, newlyweds, a prioritized marriage ebook, wife life tshirt](/images/TrevorAmy_wedding_JDA_0014-1.jpg)
 
 I'm grateful for a husband who helps make my website function, who gives me great tips for improving FM, and who so graciously provides for us, allowing me to pursue this journey dedicated to helping others. I'm grateful to be surrounded by spouses who recognize how important their marriage is, and who are yearning for ways to strengthen their marriage each day. You guys are my inspiration, and the reason why I continue to do what I do.
 

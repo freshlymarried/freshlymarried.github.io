@@ -14,7 +14,7 @@ coverImage: "bananagrams.jpg"
 
 Every now and then, date nights can get a little routine doing the same things we usually do. This happens with us newlyweds too, believe it or not! So new ideas for date nights are good to have on those nights we feel like being spontaneous, or just wanting to do something different. Well, this is an idea that you can do any day of the week, in any season. This one idea gives you 365 ideas, and can be used for years to come. It's like the gift that keeps on giving, haha.
 
-\[caption id="attachment\_2671" align="aligncenter" width="589"\]![bananagrams, scrabble, date night ideas, fun date night ideas, unique date night ideas, weird date night ideas, 365 date night ideas](images/bananagrams.jpg) April 13th: Scrabble Day. Date night? Heck yeah!\[/caption\]
+\[caption id="attachment\_2671" align="aligncenter" width="589"\]![bananagrams, scrabble, date night ideas, fun date night ideas, unique date night ideas, weird date night ideas, 365 date night ideas](/images/bananagrams.jpg) April 13th: Scrabble Day. Date night? Heck yeah!\[/caption\]
 
 You know how there are those weird, random, and sometimes bizarre National (Fill in the blank) days? Well these random, fun, odd, and silly things that are celebrated on a daily basis inspired some date night ideas! I found a web page called ["Bizarre, Wacky, and Unique Holidays"](http://holidayinsights.com/moreholidays/index.htm) that lists what is being celebrated on each day of the year. Why not celebrate some of these things as a date night?! Here are a few examples!
 

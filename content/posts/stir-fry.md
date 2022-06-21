@@ -6,7 +6,7 @@ categories:
 coverImage: "StirFryTHUMB.jpg"
 ---
 
-![Easy Stir Fry Bowls, simple meals, teriyaki sauce](images/StirFry.jpg)
+![Easy Stir Fry Bowls, simple meals, teriyaki sauce](/images/StirFry.jpg)
 
 ### what you need for stir fry bowls:
 

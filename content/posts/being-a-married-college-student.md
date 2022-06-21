@@ -12,7 +12,7 @@ coverImage: "image-6.jpeg"
 
 I'm grateful that I was able to experience college being both single, and then married. In the beginning I was doing the college thing for the experience and learning, but finishing college as a married woman for the last few semesters was for more than that. I wasn't just doing it for me anymore.
 
-![Graduation, UVU graduation, bachelors degree, earning your bachelors degree, college graduation, being a married college student, college student life, married college student life, marriage advice, marriage advice in college, newlyweds advice, relationship specialist, relationship help ](images/image-8.jpeg)
+![Graduation, UVU graduation, bachelors degree, earning your bachelors degree, college graduation, being a married college student, college student life, married college student life, marriage advice, marriage advice in college, newlyweds advice, relationship specialist, relationship help ](/images/image-8.jpeg)
 
 #### The Single College Life
 
@@ -32,6 +32,6 @@ I was lucky enough not to work at the same time as going to school. Instead I ju
 
 Whatever your circumstances may have been, be proud for where you are now, and be proud that you did it! Whatever your circumstances are now as a current married college student, be proud you are trying to make it work. Enjoy the time you get to spend with your spouse even though it may be little, and celebrate the small accomplishments you make throughout the semesters :) Take advantage of your spouse's talents that might help you become a better student. And if you're the spouse supporting the other going to school, make sure you truly support them! Encourage them in their career. Help them see and reach their full potential. I'm telling you, spouses can be the best cheerleaders! hahaha.
 
-\[caption id="attachment\_5079" align="aligncenter" width="589"\]![Graduation, UVU graduation, bachelors degree, earning your bachelors degree, college graduation, being a married college student, college student life, married college student life, marriage advice, marriage advice in college, newlyweds advice, relationship specialist, relationship help ](images/IMG_1055.jpg) The moment you finally find your family in the audience, and see them waving and cheering for you :)\[/caption\]
+\[caption id="attachment\_5079" align="aligncenter" width="589"\]![Graduation, UVU graduation, bachelors degree, earning your bachelors degree, college graduation, being a married college student, college student life, married college student life, marriage advice, marriage advice in college, newlyweds advice, relationship specialist, relationship help ](/images/IMG_1055.jpg) The moment you finally find your family in the audience, and see them waving and cheering for you :)\[/caption\]
 
 What was your married college student experience like? Did you have different or similar circumstances? Feel free to share your experience!

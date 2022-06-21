@@ -35,7 +35,7 @@ As Trevor and I have been dealing with this new hurdle, we try and acknowledge o
 
 Another example is seeing that I'm very lucky that my allergy symptoms are not immediate and/or life-threatening. We were at Tepanyaki last week with family and I couldn't imagine anyone with life-threatening allergies eating from this restaurant and being OK. Don't get me wrong, the food is so quality and amazing but they also use the same spatula to cook all the meats and vegetables, and they don't list all the ingredients very well. We didn't realize going into it that all I would end up being able to eat was rice and soy sauce. That is when it hit me that eating at restaurants was going to be uncomfortable and stressful, and that this whole thing was going to be a lot harder than I thought.
 
-![faith, greater than fear, marriage quotes, encouraging marriage quotes, encouraging quotes, inspiring quotes, struggles with food allergies, food allergies in marriage, struggling with food allergies, finding out I have food allergies, support-system in marriage, marriage support](images/IMG_0094.jpg)
+![faith, greater than fear, marriage quotes, encouraging marriage quotes, encouraging quotes, inspiring quotes, struggles with food allergies, food allergies in marriage, struggling with food allergies, finding out I have food allergies, support-system in marriage, marriage support](/images/IMG_0094.jpg)
 
 ### The ultimate encouragement
 

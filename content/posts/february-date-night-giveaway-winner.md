@@ -14,7 +14,7 @@ A response that was similar among multiple entries was that they try to keep eac
 
 * * *
 
-## ![IMG_0099](images/IMG_0099.jpg)
+## ![IMG_0099](/images/IMG_0099.jpg)
 
 ## The Winner is: @domkiwn!
 

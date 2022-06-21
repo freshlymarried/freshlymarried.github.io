@@ -11,7 +11,7 @@ coverImage: "the-sea.png"
 
 I found this quote a long time ago, and it has been my favorite ever since. Unfortunately, I don't like the song that these words come from, haha. I will credit the band and the song though anyways. The lyrics come from the song, "I Know How The River Feels," by Diamond Rio.
 
-![I know how the river feels, diamond rio](images/the-sea.png)
+![I know how the river feels, diamond rio](/images/the-sea.png)
 
 As a young adult, there were so many directions to go, and many crucial life decisions coming at me. For years I didn't know where I needed to be, until I felt ready for my ultimate goal: to find my eternal companion. What a journey that was. Think about your own journey of how you ended up with your spouse. Was it long? Did you encounter some rough waters? When I think about this quote, I realize that we are all just rivers trying to find our sea. And for those of us who have found it, we now know those feelings of peace and overwhelming love. I am thankful that I get to feel that each and every day with Trevor.
 

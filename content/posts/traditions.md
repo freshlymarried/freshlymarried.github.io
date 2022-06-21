@@ -20,7 +20,7 @@ My parents decided at some point during my childhood to start having a breakfast
 
 I’ve learned that a tradition is a meaningful event that can be recurring; “can” being the keyword. So this year, I’m going to focus on meaningful things that our family enjoys doing around the holidays and if for we for some reason, we don’t end up participating in them, it will be OK. Christmas most definitely WON’T be ruined because of that.
 
-![christmas tree, putting the star on the christmas tree, newlywed christmas, newlywed first christmas, christmas traditions for newlyweds, marriage advice, newlywed advice](images/christmas.jpg)
+![christmas tree, putting the star on the christmas tree, newlywed christmas, newlywed first christmas, christmas traditions for newlyweds, marriage advice, newlywed advice](/images/christmas.jpg)
 
 While we have decided on some aspects of our new family’s traditions, others need time to be discovered, and we’re excited to start those, when they do get discovered. For now though, we’re going to enjoy the beautifully decorated Christmas tree sitting in our living room, that we may not even have next year. I’ll enjoy watching Trevor put up the star on our tree, or maybe I’ll put it up one year! We’ll enjoy giving out the little neighbor gifts we have, that we may not do again. And if my mom decides to change up our breakfast-style dinner, I’ll be OK with that too.
 

@@ -15,7 +15,7 @@ I've been watching cooking shows lately, and have heard the term "elevate" be us
 
 * * *
 
-![date nights, elevate your date nights, date night ideas, date night inspirations, asking out on dates, date help, dating your spouse, date your spouse, marriage advice, newlywed advice, marriage specialist,](images/IMG_0007.jpg)
+![date nights, elevate your date nights, date night ideas, date night inspirations, asking out on dates, date help, dating your spouse, date your spouse, marriage advice, newlywed advice, marriage specialist,](/images/IMG_0007.jpg)
 
 ### Kick it up a notch
 
@@ -29,7 +29,7 @@ As the legendary chef, Emeril Lagasse would say, "BAM! Let's kick it up a notch!
 
 I guess I think of weird things to do for entertainment, but you get the idea! **There are so many possibilities to make your typical date night a little extraordinary!**
 
-![date nights, elevate your date nights, date night ideas, date night inspirations, asking out on dates, date help, dating your spouse, date your spouse, marriage advice, newlywed advice, marriage specialist,](images/IMG_0036.jpg)
+![date nights, elevate your date nights, date night ideas, date night inspirations, asking out on dates, date help, dating your spouse, date your spouse, marriage advice, newlywed advice, marriage specialist,](/images/IMG_0036.jpg)
 
 * * *
 

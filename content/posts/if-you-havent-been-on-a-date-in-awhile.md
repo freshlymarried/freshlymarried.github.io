@@ -20,7 +20,7 @@ I know I say this a lot, and I don't want to come off as annoying, judge-y or in
 
 You might think I encourage dates too often because I'm a naive newlywed who is still excited by dates, and doesn't have a busy life yet! Just because I don't have kids, doesn't mean I'm not busy :) Also, I'm not naive. I have experienced marital hardships, and also have a college education completely focused on what does and doesn't keep a family together. And guess what? I sure do think date night is one of those things that will keep a family together! :)
 
-![IMG_0149](images/IMG_0149.jpg) ![IMG_0294](images/IMG_0294.jpg)
+![IMG_0149](/images/IMG_0149.jpg) ![IMG_0294](/images/IMG_0294.jpg)
 
 #### With the infinite number of things to do as a couple, there's not much room for excuses in not having a date for a long period of time!
 
@@ -39,4 +39,4 @@ I think we also tend to just slide into going to events together, calling them a
 
 So do something together and no matter how small the activity might be together, still call it a date :) I bet you'll notice a difference! AGAIN, There really aren't excuses for not spending quality time together that is fun or relaxing. It's important to your mental health and your marital health, so hop to it :)
 
-![go on a date, date night, importance of dating, date your spouse, date ideas, lots of date ideas, date night ideas, newlywed date nights, married date nights, dating in marriage, marriage advice, marriage help, marriage inspiration, no excuses for missing date night opportunities](images/IMG_0469.jpg)
+![go on a date, date night, importance of dating, date your spouse, date ideas, lots of date ideas, date night ideas, newlywed date nights, married date nights, dating in marriage, marriage advice, marriage help, marriage inspiration, no excuses for missing date night opportunities](/images/IMG_0469.jpg)

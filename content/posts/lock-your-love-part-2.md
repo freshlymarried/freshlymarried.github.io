@@ -15,7 +15,7 @@ In the previous post, ["Lock Your Love,"](http://freshlymarried.com/lock-your-lo
 
 My thoughts lingered on the lock itself, in that it's nearly effortless to lock into place. However, that lock is very sturdy and requires a lot of strength to break it! **It relates to marriage in that, there's a lot more to it than day 1 of saying "I do." To say that takes courage, yes, but recommitting yourself to this relationship every year, and EVERY DAY takes more than just courage, it takes strength. And just like locks get scratched up, weathered and rusted over time, so does our marriage, but it still remains strongly locked into place.**
 
-[![lock your love, love locks, love lock, locking your love, commitment in marriage, symbols of commitment, strength in marriage, newlywed tips, marriage helps, marriage inspirations, lock your love gate, lock your love bridge](images/IMG_4088.jpg)](http://freshlymarried.com/wp-content/uploads/2016/01/IMG_4088.jpg)
+[![lock your love, love locks, love lock, locking your love, commitment in marriage, symbols of commitment, strength in marriage, newlywed tips, marriage helps, marriage inspirations, lock your love gate, lock your love bridge](/images/IMG_4088.jpg)](http://freshlymarried.com/wp-content/uploads/2016/01/IMG_4088.jpg)
 
 ####  Alternatives to locks
 

@@ -7,7 +7,7 @@ categories:
 coverImage: "More-phone-pics-248-589x442-2.jpg"
 ---
 
-![The Savage family kiss on the cheek. newlyweds, newlywed experiences, sharing newlywed experiences, sharing married experiences](images/More-phone-pics-248-589x442-2-300x225.jpg)
+![The Savage family kiss on the cheek. newlyweds, newlywed experiences, sharing newlywed experiences, sharing married experiences](/images/More-phone-pics-248-589x442-2-300x225.jpg)
 
 My wife and I have been married just under two years. We met in High School though we didn't date at that point because she was a freshman when I was a senior. I spent a couple years as a Latter-Day Saint missionary and then when I came home, realized how beautiful and bright she was. In reality, she was always those things, but I've never been one to claim that High School Seniors were geniuses. We're both in college, I'm studying Theater and Mandarin Chinese, and she's studying Dance.
 

@@ -17,13 +17,13 @@ Hearing that really hit me and I think it’s because of the context it was in--
 
 * * *
 
-![obstacles, overcoming obstacles, overcoming obstacles in marriage, looking at people as obstacles, people are not obstacles, your spouse is not an obstacle, don't look at people as obstacles, how to not see people as obstacles, husband is obstacle, wife is obstacle, marriage advice, marriage help](images/OBSTACLE.png)
+![obstacles, overcoming obstacles, overcoming obstacles in marriage, looking at people as obstacles, people are not obstacles, your spouse is not an obstacle, don't look at people as obstacles, how to not see people as obstacles, husband is obstacle, wife is obstacle, marriage advice, marriage help](/images/OBSTACLE.png)
 
 These are a few of the definitions of “obstacle” that I think will help us understand this idea better. I think that we go through periods in our marriages where we look at our spouse as an obstacle. We see them as something that is making our life more difficult; we see them as an obstruction in our way of happiness. We see them as a mountain to climb, like they are this thing we have to "overcome." It’s just what can happen when you go through long bouts of fights or neglection together. Which is sad when you compare these feelings to when you were first married, seeing that person as the most amazing thing that could ever happen to you, seeing them as the thing that is going to be the biggest form of progression in your entire life! How did we let that feeling diminsh throughout the years? No matter how it happened, I believe we can shake this feeling.
 
 * * *
 
-![obstacles, overcoming obstacles, overcoming obstacles in marriage, looking at people as obstacles, people are not obstacles, your spouse is not an obstacle, don't look at people as obstacles, how to not see people as obstacles, husband is obstacle, wife is obstacle, marriage advice, marriage help](images/4-steps-to-stop-viewing-your-spouse-as-an-obstacle-1.png)
+![obstacles, overcoming obstacles, overcoming obstacles in marriage, looking at people as obstacles, people are not obstacles, your spouse is not an obstacle, don't look at people as obstacles, how to not see people as obstacles, husband is obstacle, wife is obstacle, marriage advice, marriage help](/images/4-steps-to-stop-viewing-your-spouse-as-an-obstacle-1.png)
 
 ### 1\. Take a Step back
 
@@ -47,7 +47,7 @@ Consider all the ways your spouse has blessed your life; how they have opened d
 
 * * *
 
-## ![obstacles, overcoming obstacles, overcoming obstacles in marriage, looking at people as obstacles, people are not obstacles, your spouse is not an obstacle, don't look at people as obstacles, how to not see people as obstacles, husband is obstacle, wife is obstacle, marriage advice, marriage help](images/anita-peeples-38698.jpg)
+## ![obstacles, overcoming obstacles, overcoming obstacles in marriage, looking at people as obstacles, people are not obstacles, your spouse is not an obstacle, don't look at people as obstacles, how to not see people as obstacles, husband is obstacle, wife is obstacle, marriage advice, marriage help](/images/anita-peeples-38698.jpg)
 
 * * *
 
@@ -57,4 +57,4 @@ Another reason why this idea struck me so hard was because I have family and fri
 
 So I encourage you to go through these steps above if you’re in this perspective right now where you see your spouse as an obstacle in some aspect of your life. If you’re not really struggling with this, I encourage you to still do step number 4, because this is such a good exercise to do for your marriage! And I believe it can help prevent you from catching yourself in this situation. It goes back to counting your blessings. Do that continually and your perspectives can change. :)
 
-![obstacles, overcoming obstacles, overcoming obstacles in marriage, looking at people as obstacles, people are not obstacles, your spouse is not an obstacle, don't look at people as obstacles, how to not see people as obstacles, husband is obstacle, wife is obstacle, marriage advice, marriage help](images/Copy-of-the-way-we-choose-to-see-the-world.png)
+![obstacles, overcoming obstacles, overcoming obstacles in marriage, looking at people as obstacles, people are not obstacles, your spouse is not an obstacle, don't look at people as obstacles, how to not see people as obstacles, husband is obstacle, wife is obstacle, marriage advice, marriage help](/images/Copy-of-the-way-we-choose-to-see-the-world.png)

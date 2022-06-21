@@ -29,6 +29,6 @@ I have to agree with her point of view. I will first say, however, that I actua
 
 I don't want anyone to think I don't like the idea of having kids. I love children! Trevor makes fun of me because I re-watch videos taken of my nieces and nephew, about 18 times in a day.
 
-\[caption id="attachment\_2910" align="aligncenter" width="589"\]![having children, pregnancy pressure, pressure to have children, being an aunt](images/Wedding-with-kids.jpg) These are our nieces and nephew. We love them so much! It has been such a joy to be their aunt. These are the only children Trevor and I are enjoying right now.\[/caption\]
+\[caption id="attachment\_2910" align="aligncenter" width="589"\]![having children, pregnancy pressure, pressure to have children, being an aunt](/images/Wedding-with-kids.jpg) These are our nieces and nephew. We love them so much! It has been such a joy to be their aunt. These are the only children Trevor and I are enjoying right now.\[/caption\]
 
 There is definitely nothing wrong with having kids! It just happens at a different time in life for everyone. It's easier for me to not get tied up in other couples' timelines because that is _their_ timeline. I do not have to follow what anyone else is doing, because like the friend above said, that is between each couple and God.

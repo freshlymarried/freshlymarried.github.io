@@ -16,13 +16,13 @@ And then over my birthday dinner out (and most other restaurant dinners), we tri
 
 For example, at our Valentine's Day lunch one of us asked the other a question, which led to a conversation about something, which led us to find out we both LOVE almond poppyseed cakes/muffins :) SOMEHOW we didn't know that about each other yet, haha. When it came to this week's dinner, the new answers were on the topic of lobster, haha.
 
-![a joyful marriage, finding joy in marriage, finding joy, marriage advice, positive marriage, a positive marriage, positive marriage examples, marriage goals, relationship goals, newlywed goals, newlywed life, newlywed advice, newlywed help, lds newlyweds, lds marriage, lds marriage advice, marriage campaign](images/IMG_1523.jpg)
+![a joyful marriage, finding joy in marriage, finding joy, marriage advice, positive marriage, a positive marriage, positive marriage examples, marriage goals, relationship goals, newlywed goals, newlywed life, newlywed advice, newlywed help, lds newlyweds, lds marriage, lds marriage advice, marriage campaign](/images/IMG_1523.jpg)
 
 #### More birthday fun tubing in PARK CITY
 
-![a joyful marriage, finding joy in marriage, finding joy, marriage advice, positive marriage, a positive marriage, positive marriage examples, marriage goals, relationship goals, newlywed goals, newlywed life, newlywed advice, newlywed help, lds newlyweds, lds marriage, lds marriage advice, marriage campaign](images/Screen-Shot-2017-03-05-at-8.21.37-PM.jpg)
+![a joyful marriage, finding joy in marriage, finding joy, marriage advice, positive marriage, a positive marriage, positive marriage examples, marriage goals, relationship goals, newlywed goals, newlywed life, newlywed advice, newlywed help, lds newlyweds, lds marriage, lds marriage advice, marriage campaign](/images/Screen-Shot-2017-03-05-at-8.21.37-PM.jpg)
 
-![a joyful marriage, finding joy in marriage, finding joy, marriage advice, positive marriage, a positive marriage, positive marriage examples, marriage goals, relationship goals, newlywed goals, newlywed life, newlywed advice, newlywed help, lds newlyweds, lds marriage, lds marriage advice, marriage campaign](images/IMG_2070-1.jpg)
+![a joyful marriage, finding joy in marriage, finding joy, marriage advice, positive marriage, a positive marriage, positive marriage examples, marriage goals, relationship goals, newlywed goals, newlywed life, newlywed advice, newlywed help, lds newlyweds, lds marriage, lds marriage advice, marriage campaign](/images/IMG_2070-1.jpg)
 
  
 

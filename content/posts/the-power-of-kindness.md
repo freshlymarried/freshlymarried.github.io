@@ -16,9 +16,9 @@ We all know that being kind can change someone's entire day around, or maybe som
 
 When Trevor and I first experienced tiffs with each other, our process of being upset and also working through it was something new to me. When we were frustrated at each other, I didn't expect him to speak so softly to me. And even after we've talked further and understood each other better, I wasn't expecting him to say, "What can I do better?" or "What can I do for you?" That's kind of hard to do when you might still have lingering feelings of frustration! But he has done that to me multiple times and it's changed how I respond, and it helps me put my own pride aside.
 
-![img_0053](images/IMG_0053.jpg)
+![img_0053](/images/IMG_0053.jpg)
 
-\[caption id="attachment\_5911" align="aligncenter" width="589"\]![kindness, kindness in marriage, kindness quote by mark twain, kindness is powerful, kindness is a game changer, the power of kindness in marriage, be kind rewind, be kind rewind please, being kind in marriage, the importance of kindness in marriage](images/IMG_0051.jpg) NICHOLETTE PHOTOGRAPHY\[/caption\]
+\[caption id="attachment\_5911" align="aligncenter" width="589"\]![kindness, kindness in marriage, kindness quote by mark twain, kindness is powerful, kindness is a game changer, the power of kindness in marriage, be kind rewind, be kind rewind please, being kind in marriage, the importance of kindness in marriage](/images/IMG_0051.jpg) NICHOLETTE PHOTOGRAPHY\[/caption\]
 
 * * *
 

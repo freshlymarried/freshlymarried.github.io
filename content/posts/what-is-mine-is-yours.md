@@ -15,7 +15,7 @@ When I say "separate finances," that includes: private bank accounts, separate c
 
 I just feel like not being willing to share finances, goes against some of the principles that a marriage stands for: selflessness and unity, being the main principles. Maybe some of you have a separated finance marriage, and it's working great, and is not causing stress. That is great, please write me and tell me how you make it work! However, even if you do make that plan work, is there a chance that another plan could work better for your marriage? Whether you already have a set plan, or are considering other ideas, I would like to make a few points on why I think you should stay away from separating your finances.
 
-![sharing incomes in marriage, sharing the finances, combining accounts in marriage](images/jeff-sheldon-271733.jpg)
+![sharing incomes in marriage, sharing the finances, combining accounts in marriage](/images/jeff-sheldon-271733.jpg)
 
 ### Why I think couples should stay away from separating their family finances
 

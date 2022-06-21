@@ -17,15 +17,15 @@ We are now on month 13 and I'm feeling grateful for where we are at. It is funny
 
 We had an experience recently that helped me realize how important it is to talk to each other about what is important to us, even if you think you already knew.
 
-![2014-05-21_2006.06.57_201](images/2014-05-21_2006.06.57_201-1-225x300.jpg)
+![2014-05-21_2006.06.57_201](/images/2014-05-21_2006.06.57_201-1-225x300.jpg)
 
 #### Cutest/coziest cabins ever
 
-![2014-05-23_2008.35.46_201](images/2014-05-23_2008.35.46_201-1-300x225.jpg)
+![2014-05-23_2008.35.46_201](/images/2014-05-23_2008.35.46_201-1-300x225.jpg)
 
 #### The famous "Spudd Drive-in Theater"
 
-![important years in marriage, first year of marriage, things to learn in the first year of marriage, celebrating one year anniversary](images/2014-05-22_2007.14.47_201-1-300x225.jpg)
+![important years in marriage, first year of marriage, things to learn in the first year of marriage, celebrating one year anniversary](/images/2014-05-22_2007.14.47_201-1-300x225.jpg)
 
 For our anniversary, we took a fun little get-away trip up to Driggs, Idaho to hang out with the Grant Teton Mountains in a cabin for a few days. The trip itself wasn't really expensive so it we felt really good about it. However, one of the big events we had planned was pretty expensive... and it got us feeling some regrets. I planned for us to go on a hot air balloon ride over the Teton Valley on one of the mornings we were there. This balloon ride was _not_ cheap. It was such a neat experience, and we really did enjoy it. However, when we got back, we were both feeling bad about how much it cost us. I don't know about you, but I have a hard time enjoying things when I feel bad about how much it cost. The feelings we were having lead us to a great conversation about what makes a memory so meaningful for us, and ultimately, what matters to us most.
 

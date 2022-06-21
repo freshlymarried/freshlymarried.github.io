@@ -14,7 +14,7 @@ One sad thing I’ve seen so far is all of the contention and even malice toward
 
 Because spouses can encounter differing opinions on _any_ topic, I think it's important to address how to be OK with differing viewpoints, and how to discuss those viewpoints. I believe there are two big things to remember:
 
-![different political views, different political views in marriage, getting along with republicans, getting along with democrats, election 2016, presidential election views, respect in politics, respecting others' views, respecting your spouse's views, relationships with different political views, marriage advice, marriage help, conflict in marriage, contention in marriage ](images/Copy-of-respect-and-delivery.png)
+![different political views, different political views in marriage, getting along with republicans, getting along with democrats, election 2016, presidential election views, respect in politics, respecting others' views, respecting your spouse's views, relationships with different political views, marriage advice, marriage help, conflict in marriage, contention in marriage ](/images/Copy-of-respect-and-delivery.png)
 
 * * *
 
@@ -24,7 +24,7 @@ It was not in your vows that you had to agree with your spouse on every topic fo
 
 Respect that you are two separate individuals. Respect that your spouse could offer insight that you weren’t aware of. That’s how we all get to see someone else’s perspective a little better, and that’s how we get to learn more about a topic. So I think **it’s great to have those conversations discussing your differing views, but there’s a difference between expressing your opinion and being rude.**
 
-![max, lucado, max lucado quotes, conflict is inevitable quotes, conflict is inevitable but combat is optional, combat is optional quote, different political views, different political views in marriage, getting along with republicans, getting along with democrats, election 2016, presidential election views, respect in politics, respecting others' views, respecting your spouse's views, relationships with different political views, marriage advice, marriage help, conflict in marriage, contention in marriage ](images/conflict-and-combat.png)
+![max, lucado, max lucado quotes, conflict is inevitable quotes, conflict is inevitable but combat is optional, combat is optional quote, different political views, different political views in marriage, getting along with republicans, getting along with democrats, election 2016, presidential election views, respect in politics, respecting others' views, respecting your spouse's views, relationships with different political views, marriage advice, marriage help, conflict in marriage, contention in marriage ](/images/conflict-and-combat.png)
 
 When marriages have fights over different political views, it makes me sad because it’s something that doesn’t have to be fought over. Because we tend to link political views with morals, this can be a tough situation to handle! Sometimes in the heat of discussion, we can forget that despite whatever our viewpoints are, at the end of the day we still love each other. But again, you are bound to encounter different viewpoints on something, so it’s nothing you can’t handle!
 

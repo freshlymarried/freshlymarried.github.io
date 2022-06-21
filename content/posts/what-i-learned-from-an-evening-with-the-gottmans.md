@@ -26,7 +26,7 @@ Laura heck, a therapist and also is a master trainer in one of the Gottman's wor
 
 I loved this story, and I loved it even more when Laura actually hid 100 rubber duckies under seats in the auditorium for couples to take as a sweet reminder to play in your marriage. And guess what? I happened to have one of the rubber duckies (mine looked more like a bunny haha) under my seat!
 
-![](images/IMG_0950-976x1024.jpg)
+![](/images/IMG_0950-976x1024.jpg)
 
 * * *
 
@@ -54,7 +54,7 @@ Julie pointed out something kind of beautiful about the romantic relationship of
 
 Their tip for trusting in our marriages: **Build your emotional bank account up because that is building security, and security = trust.**
 
-![](images/IMG_0948.jpg)
+![](/images/IMG_0948.jpg)
 
 * * *
 
@@ -62,7 +62,7 @@ Their tip for trusting in our marriages: **Build your emotional bank account up 
 
 For those who are in this situation, I feel for you. I imagine it is difficult to prioritize time together as a couple, and trying to be present emotionally for one another. Their big suggestion focuses around communication. BECAUSE...
 
-[![communication, when in doubt, when in doubt communicate, marriage, marriage help, marriage advice, marriage 101, newlyweds, communication help, communication in marriage, conflict resolution](images/WHEN-IN-DOUBT-COMMUNICATE-1024x1024.png)](https://freshlymarried.com/category/communication/)
+[![communication, when in doubt, when in doubt communicate, marriage, marriage help, marriage advice, marriage 101, newlyweds, communication help, communication in marriage, conflict resolution](/images/WHEN-IN-DOUBT-COMMUNICATE-1024x1024.png)](https://freshlymarried.com/category/communication/)
 
 The Gottmans encourage these couples to **be open and continually be talking to each other about what they are feeling.** And a way of doing this can be to have a stress-reducing and non-problem-solving conversation for 20 minutes each day, sharing the highs and lows. It can provide understanding and empathy which can be all we really need sometimes.
 

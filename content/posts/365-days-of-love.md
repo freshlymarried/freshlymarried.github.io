@@ -16,7 +16,7 @@ coverImage: "2013.jpg"
 
  
 
-\[caption id="attachment\_1860" align="aligncenter" width="550"\]![2013 marriage collage, marriage helps, relationship advice, relationship help, marriage memories, newlywed memories](images/2013.jpg) 67 dates.  
+\[caption id="attachment\_1860" align="aligncenter" width="550"\]![2013 marriage collage, marriage helps, relationship advice, relationship help, marriage memories, newlywed memories](/images/2013.jpg) 67 dates.  
 348 days spent together.  
 1863 laughs.  
 32 special songs shared.  

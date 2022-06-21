@@ -22,7 +22,7 @@ I'm going to talk about 3 steps for how you can be a better first responder for 
 
 * * *
 
-# ![first responder, being a first responder, being a first responder as a parent, being a first responder as a spouse, spouse and first responder, spouse paramedic, how to help my spouse, crisis in marriage, marriage crisis, handling conflict in marriage, marriage advice, safety in marriage, reactions in marriage, reacting badly in marriage, police responders,](images/matt-popovich-60437.jpg)
+# ![first responder, being a first responder, being a first responder as a parent, being a first responder as a spouse, spouse and first responder, spouse paramedic, how to help my spouse, crisis in marriage, marriage crisis, handling conflict in marriage, marriage advice, safety in marriage, reactions in marriage, reacting badly in marriage, police responders,](/images/matt-popovich-60437.jpg)
 
 ## What an emergency first responder does
 
@@ -34,7 +34,7 @@ I'm going to talk about 3 steps for how you can be a better first responder for 
 
 Just like police officers, EMT's, and firefighters, these are 3 major things that a spouse should do first in any kind of crisis situation in marriage**!** I've put these in marriage terms in three specific steps below, with suggestions for each step, but please refer to the sections on safety and reactions to give more understanding to each of these steps and WHY you should or shouldn't do certain things.
 
-![first responder, being a first responder, being a first responder as a parent, being a first responder as a spouse, spouse and first responder, spouse paramedic, how to help my spouse, crisis in marriage, marriage crisis, handling conflict in marriage, marriage advice, safety in marriage, reactions in marriage, never make your spouse feel alone quote, feeling alone quote, quotes on feeling alone, quotes on feeling unsafe, reacting badly in marriage, police responders, ](images/blog-size-first-responder-5.png)
+![first responder, being a first responder, being a first responder as a parent, being a first responder as a spouse, spouse and first responder, spouse paramedic, how to help my spouse, crisis in marriage, marriage crisis, handling conflict in marriage, marriage advice, safety in marriage, reactions in marriage, never make your spouse feel alone quote, feeling alone quote, quotes on feeling alone, quotes on feeling unsafe, reacting badly in marriage, police responders, ](/images/blog-size-first-responder-5.png)
 
 - # **1\. Ask if your spouse is OK**
     
@@ -52,7 +52,7 @@ Just like police officers, EMT's, and firefighters, these are 3 major things tha
     - Wait until you are in the right setting to discuss the situation further, such as in private instead of in front of people, especially children.
     - Balance their feelings and current needs vs. what you want to say to them. Like if your spouse has made a mistake and feels horrible about it, kicking them while they are down can make the situation worse.
 
-\[caption id="attachment\_6687" align="aligncenter" width="700"\]![](images/IMG_0069.jpg) by nicholette photography\[/caption\]
+\[caption id="attachment\_6687" align="aligncenter" width="700"\]![](/images/IMG_0069.jpg) by nicholette photography\[/caption\]
 
 * * *
 
@@ -74,7 +74,7 @@ Think about it this way: you go to the emergency room because you have a heart a
 
 **The first thing your spouse needs is the care, the help, the listening ear, the protection, etc. Your first priority should be about their physical and emotional well-being, not trying to get the upper-hand or prove you were right.**
 
-![first responder, being a first responder, being a first responder as a parent, being a first responder as a spouse, spouse and first responder, spouse paramedic, how to help my spouse, crisis in marriage, marriage crisis, handling conflict in marriage, marriage advice, safety in marriage, reactions in marriage, never make your spouse feel alone quote, feeling alone quote, quotes on feeling alone, quotes on feeling unsafe, reacting badly in marriage, police responders, ](images/never-make-the-one-you-love-feel-alone-especially-when-you-are-there-2.png)
+![first responder, being a first responder, being a first responder as a parent, being a first responder as a spouse, spouse and first responder, spouse paramedic, how to help my spouse, crisis in marriage, marriage crisis, handling conflict in marriage, marriage advice, safety in marriage, reactions in marriage, never make your spouse feel alone quote, feeling alone quote, quotes on feeling alone, quotes on feeling unsafe, reacting badly in marriage, police responders, ](/images/never-make-the-one-you-love-feel-alone-especially-when-you-are-there-2.png)
 
 So far in our short 4 years of being married, we have already had a few crises we’ve had to handle together, and we’ve done our best to create feelings of safety for each other in these vulnerable times, as well as tried to react in a way that’s helpful instead of hurtful. I know there are more situations like this to come, and I hope to better apply these principles when they do happen.
 

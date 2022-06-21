@@ -24,7 +24,7 @@ When we think about techniques, we typically envision a method that we can learn
 
 **The big goal is to apply a new helpful technique or approach to your marriage TOGETHER, because  these work most effectively when both spouses are participating or at least trying.**
 
-![henry ford quotes, henry ford, teamwork quotes, success quotes, working together quotes, working together in marriage, working together in marriage quotes, successful marriage, advice for successful marriage, marriage techniques, techniques to try in marriage, when your spouse isn't willing to try, no effort from spouse, giving more effort in marriage, improving your marriage, improving your communication, newlywed advice, newlywed help, marriage support, marriage success, marriage specialist, ](images/IMG_0072.jpg)
+![henry ford quotes, henry ford, teamwork quotes, success quotes, working together quotes, working together in marriage, working together in marriage quotes, successful marriage, advice for successful marriage, marriage techniques, techniques to try in marriage, when your spouse isn't willing to try, no effort from spouse, giving more effort in marriage, improving your marriage, improving your communication, newlywed advice, newlywed help, marriage support, marriage success, marriage specialist, ](/images/IMG_0072.jpg)
 
 I'm sure some of you might be feeling some disappointment and hopelessness because you feel like the effort in your marriage is very one-sided. You may also think your spouse won't be willing to try any new technique or idea for improving your marriage. Maybe you feel awkward even bringing it up to them because you think it's a 90% chance they will shoot you down and say, _"We don't need to try that, we're doing fine."_ Maybe you are worried they'll even put the blame on you saying: _"It's not me that is the problem, it's you."_ If you fall into this category, I have some words of encouragement:
 
@@ -48,7 +48,7 @@ Whether you are the spouse that doesn't realize you need to put in more effort, 
 
  
 
-![henry ford quotes, henry ford, teamwork quotes, success quotes, working together quotes, working together in marriage, working together in marriage quotes, successful marriage, advice for successful marriage, marriage techniques, techniques to try in marriage, when your spouse isn't willing to try, no effort from spouse, giving more effort in marriage, improving your marriage, improving your communication, newlywed advice, newlywed help, marriage support, marriage success, marriage specialist, ](images/coming-together-is-the-beginning.png)
+![henry ford quotes, henry ford, teamwork quotes, success quotes, working together quotes, working together in marriage, working together in marriage quotes, successful marriage, advice for successful marriage, marriage techniques, techniques to try in marriage, when your spouse isn't willing to try, no effort from spouse, giving more effort in marriage, improving your marriage, improving your communication, newlywed advice, newlywed help, marriage support, marriage success, marriage specialist, ](/images/coming-together-is-the-beginning.png)
 
 **For all Freshly Married articles that share techniques you can use in your marriage, check out the main [techniques category](https://freshlymarried.com/category/techniques/). But just know these are a few of my favorite techniques:**
 

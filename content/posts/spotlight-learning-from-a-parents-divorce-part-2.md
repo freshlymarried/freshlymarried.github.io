@@ -18,7 +18,7 @@ This Spotlight Part 2 perspective is getting some insight from two women who wer
 
 Elizabeth was about 26 years old, married and expecting her first child when her parents announced their divorce. For many adult children moved out of their parents' house and living their own life, it can come as a shock to find out their parents' are getting a divorce. For Elizabeth however, it wasn't really a shock.
 
-![divorce, lds divorce, divorce affects on children, how divorce affects teenagers, how divorce affects adults, how divorce affects your views on marriage, divorce struggles, divorce accounts, marriage advice, marriage help](images/blog-size-elizabeth-spotlight.png)
+![divorce, lds divorce, divorce affects on children, how divorce affects teenagers, how divorce affects adults, how divorce affects your views on marriage, divorce struggles, divorce accounts, marriage advice, marriage help](/images/blog-size-elizabeth-spotlight.png)
 
 In talking about the circumstances that lead to their divorce, she said she wasn’t totally shocked. _“As a child, my parents loved each other. I'd never see them fight a day in their life and I remember my dad giving my mom a kiss every morning before work. However, I had noticed a little less love a few years into my marriage but didn't know anything that was going on because I had moved out of the house. I didn't know it was coming, but I also think deep down I knew something wasn't right, so it wasn't a shock to me.”_
 
@@ -32,7 +32,7 @@ Because a family continues to experience the effects of divorce for years to com
 
 Felicia was about 19 years old and about to meet her soon-to-be husband when her parents got a divorce, and for her it was very shocking. At such a pivotal point in her life, you can imagine the stresses that weighed on her during this time.
 
-![divorce, lds divorce, divorce affects on children, how divorce affects teenagers, how divorce affects adults, how divorce affects your views on marriage, divorce struggles, divorce accounts, marriage advice, marriage help](images/felicia-Learning-From-a-Parents-Divorce-1-683x1024.png)
+![divorce, lds divorce, divorce affects on children, how divorce affects teenagers, how divorce affects adults, how divorce affects your views on marriage, divorce struggles, divorce accounts, marriage advice, marriage help](/images/felicia-Learning-From-a-Parents-Divorce-1-683x1024.png)
 
 In talking about the circumstances that lead to her divorce she said, _“__It was an extremely unexpected, painful, and ugly process. My dad had been unfaithful and wanted nothing to do with my mom or the 7 of us kids, which was a shock after several months of my parents being seemingly happier than they had been in years. It led to a lot of fighting and I was concerned for a time that I would have to drop out of college temporarily to help support my family. That didn't end up being the case but it was still on the back of my mind through the following year.”_
 
@@ -54,7 +54,7 @@ FELICIA: _“For the spouse with divorced or divorcing parents, I would encoura
 
 _For the other spouse, I would encourage you to be very patient with your husband or wife. The dissolution of their parents' marriage can really take a lifelong toll on a person, particularly when major events happen (like bringing your own children into the world, holidays, weddings, etc.). Their emotions and reactions will not always be logical and they probably won't make a lot of sense sometimes. Be supportive and reassuring, but don't be afraid to gently guide your spouse back to a rational point of view if they start to panic over normal marriage difficulties.”_
 
-![divorce, lds divorce, divorce affects on children, how divorce affects teenagers, how divorce affects adults, how divorce affects your views on marriage, divorce struggles, divorce accounts, marriage advice, marriage help](images/pablo-heimplatz-257545.jpg)
+![divorce, lds divorce, divorce affects on children, how divorce affects teenagers, how divorce affects adults, how divorce affects your views on marriage, divorce struggles, divorce accounts, marriage advice, marriage help](/images/pablo-heimplatz-257545.jpg)
 
  
 

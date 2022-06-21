@@ -24,4 +24,4 @@ Since it doesn't make sense literally to share a pair of pants, haha, Instead, I
 
 So just to clarify, no _one_ person "wears the pants" in our marriage, we both do. :) And if you dare tease me with that phrase, you'll either receive a fiery lecture right then or a link to this post shortly after ;) And my final words of advice...
 
-![who wears the pants, pants in the relationship, who wears the pants in marriage, decision making in marriage, decisions in marriage, making decisions in marriage, making decisions together, making decisions together in marriage, three-legged race in marriage, whipped in marriage, wearing the pants](images/who-wears-the-pants-1.png)
+![who wears the pants, pants in the relationship, who wears the pants in marriage, decision making in marriage, decisions in marriage, making decisions in marriage, making decisions together, making decisions together in marriage, three-legged race in marriage, whipped in marriage, wearing the pants](/images/who-wears-the-pants-1.png)

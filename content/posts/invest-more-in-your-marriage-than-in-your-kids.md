@@ -16,7 +16,7 @@ In the [previous post](http://freshlymarried.com/a-marriage-is-a-family-too/) co
 
 I attended a conference last November and a representative with the United Way in Provo shared some neat research that helps support my views. She explained that physical and emotional outcomes for a child growing into adulthood can be very dependent on the healthiness of their parents' relationship.  It makes sense because **marriage is the foundation of the family, and if that is shaky then the rest of the family structure will be shaky, too.** This wasn't the first time I've heard similar research be shared on this idea either, so it shouldn't be anything new to society. Don't want to be mean here, but I hope this is kind of a wake-up call to those who choose to invest more of their time in their kids, instead of their marriage!
 
-![Sometimes I get the feeling that people take marriage for granted. I'm not just saying that because I'm a marriage guru! Just from conversations people have had with me lately they seem to think a 'family' is more important, meaning two parents and children.  It's like they forget that a marriage is a family too...](images/762A2962-138-1.jpg)
+![Sometimes I get the feeling that people take marriage for granted. I'm not just saying that because I'm a marriage guru! Just from conversations people have had with me lately they seem to think a 'family' is more important, meaning two parents and children.  It's like they forget that a marriage is a family too...](/images/762A2962-138-1.jpg)
 
 > “Husbands and wives who love each other will find that love and loyalty are reciprocated. This love will provide a nurturing atmosphere for the emotional growth of children. Family life should be a time of happiness and joy that children can look back on with fond memories and associations.” [Ezra Taft Benson](https://www.lds.org/manual/teachings-of-presidents-of-the-church-ezra-taft-benson/chapter-14-marriage-and-family-ordained-of-god?lang=eng)
 
@@ -24,7 +24,7 @@ I attended a conference last November and a representative with the United Way i
 
 People just put a lot of emphasis on children, focusing on how to make their lives better, making sure they grow up without emotional issues. But like I mentioned above, they are also at risk for emotional issues from being around an unstable marriage. Some parents sacrifice their date nights so that 'little Johnny' can have another extracurricular activity someone has to take him to. Don't get me wrong, **I believe that raising children is important. It requires you to make sacrifices, but your marriage should never be one of them.** Maybe your relationship isn't categorized as "unstable," but it's the little things we start neglecting that can lead us to this category quicker than we realize.
 
-![back burner, putting marriage on the back burner, marriage back burner, never put marriage on the back burner, neglecting marriage, neglecting your marriage, investing too much in your kids, not investing enough in your marriage, marriage quotes, marriage advice, great marriage advice, marriage specialist, marriage blogger, utah blogger, ](images/raising-children-is-important.png)
+![back burner, putting marriage on the back burner, marriage back burner, never put marriage on the back burner, neglecting marriage, neglecting your marriage, investing too much in your kids, not investing enough in your marriage, marriage quotes, marriage advice, great marriage advice, marriage specialist, marriage blogger, utah blogger, ](/images/raising-children-is-important.png)
 
  
 
@@ -36,7 +36,7 @@ Whatever understandable reason it may be, when you don't give your marriage the 
 
  
 
-![back burner, putting marriage on the back burner, marriage back burner, never put marriage on the back burner, neglecting marriage, neglecting your marriage, investing too much in your kids, not investing enough in your marriage, marriage quotes, marriage advice, great marriage advice, marriage specialist, marriage blogger, utah blogger, ](images/your-marriage-should-never-go-on-the-back-burner.png)
+![back burner, putting marriage on the back burner, marriage back burner, never put marriage on the back burner, neglecting marriage, neglecting your marriage, investing too much in your kids, not investing enough in your marriage, marriage quotes, marriage advice, great marriage advice, marriage specialist, marriage blogger, utah blogger, ](/images/your-marriage-should-never-go-on-the-back-burner.png)
 
 Sometimes parents think they are supposed to focus all their efforts towards their children's lives until they are adults and move out, and then they can be a strong couple again. But if you've neglected your friendship and romance all this time, getting back to being a couple can seem so daunting! I don't know about you but I DO NOT want this to happen to my marriage. **We cannot neglect our marriages. We cannot put our marriages on the back burner thinking that everything will be fine once we give it attention again.** 
 

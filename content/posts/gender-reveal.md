@@ -16,11 +16,11 @@ So of course, we did a gender reveal party to share the sex of our identical twi
 
 Weird twist though, Trevor found out in our ultrasound what the gender was, and then 28 hours later he revealed it to me in St. George, Utah on our babymoon! He bought [this colored confetti balloon kit](https://amzn.to/2TdiuMV) and had me pop it, and I was so nervous haha. Here are those pictures and the obvious result for you!
 
-[![gende](images/Screen-Shot-2019-03-16-at-1.10.32-PM.png)](gender reveal, gender reveal ideas, gender reveal balloon pop, gender reveal confetti balloon, gender reveal ideas, gender reveal party ideas, babymoon, gender reveal on babymoon, unique gender reveal games, unique gender reveal ideas, fun with gender reveal, gender reveal for twins, twin gender reveal)
+[![gende](/images/Screen-Shot-2019-03-16-at-1.10.32-PM.png)](gender reveal, gender reveal ideas, gender reveal balloon pop, gender reveal confetti balloon, gender reveal ideas, gender reveal party ideas, babymoon, gender reveal on babymoon, unique gender reveal games, unique gender reveal ideas, fun with gender reveal, gender reveal for twins, twin gender reveal)
 
-![gender reveal, gender reveal ideas, gender reveal balloon pop, gender reveal confetti balloon, gender reveal ideas, gender reveal party ideas, babymoon, gender reveal on babymoon, unique gender reveal games, unique gender reveal ideas, fun with gender reveal, gender reveal for twins, twin gender reveal](images/Screen-Shot-2019-03-16-at-1.10.42-PM.png)
+![gender reveal, gender reveal ideas, gender reveal balloon pop, gender reveal confetti balloon, gender reveal ideas, gender reveal party ideas, babymoon, gender reveal on babymoon, unique gender reveal games, unique gender reveal ideas, fun with gender reveal, gender reveal for twins, twin gender reveal](/images/Screen-Shot-2019-03-16-at-1.10.42-PM.png)
 
-![gender reveal, gender reveal ideas, gender reveal balloon pop, gender reveal confetti balloon, gender reveal ideas, gender reveal party ideas, babymoon, gender reveal on babymoon, unique gender reveal games, unique gender reveal ideas, fun with gender reveal, gender reveal for twins, twin gender reveal](images/IMG_0037-648x1024.jpg)
+![gender reveal, gender reveal ideas, gender reveal balloon pop, gender reveal confetti balloon, gender reveal ideas, gender reveal party ideas, babymoon, gender reveal on babymoon, unique gender reveal games, unique gender reveal ideas, fun with gender reveal, gender reveal for twins, twin gender reveal](/images/IMG_0037-648x1024.jpg)
 
 **We are so thrilled to be having BOYS! It was so fun to immediately talk about all the fun and not-so-fun aspects of having boys, and on our long drive home from our babymoon, we were able to narrow down our list of names. I'm so glad I decided to have Trevor tell me on our babymoon in a fun way rather than wait 6 more days to find out with the rest of our family! It gave us the opportunity to have our own reactions and discuss our feelings in private.**
 
@@ -30,27 +30,27 @@ Weird twist though, Trevor found out in our ultrasound what the gender was, and 
 
 In choosing how to reveal this in a fun way to our family members, I wanted to make sure we did something different from what my siblings have previously done to reveal the genders of my nieces, because we wanted to keep their moments special, and our moment special. So I stumbled upon some thoughts on Pinterest, mixed with a little bit of inspiration from _The Price is Right_, and decided to create our own version of the "Punch Out" prize game to figure out if they were boys or girls. By having each of our family members punch one of the tissue paper covered bowls and reveal a color heart of either blue or pink, it allowed a fun way for our family members to participate in solving the mystery, while also providing the entertainment for our little party, and keeping the anticipation palpable!
 
-![gender reveal, gender reveal ideas, gender reveal balloon pop, gender reveal confetti balloon, gender reveal ideas, gender reveal party ideas, babymoon, gender reveal on babymoon, unique gender reveal games, unique gender reveal ideas, fun with gender reveal, gender reveal for twins, twin gender reveal](images/IMG_0050.jpg)
+![gender reveal, gender reveal ideas, gender reveal balloon pop, gender reveal confetti balloon, gender reveal ideas, gender reveal party ideas, babymoon, gender reveal on babymoon, unique gender reveal games, unique gender reveal ideas, fun with gender reveal, gender reveal for twins, twin gender reveal](/images/IMG_0050.jpg)
 
 I bought [these deep paper bowls](https://amzn.to/2FibmLG), put a small paper heart in each bowl, and covered them with different colored tissue paper. I did 16 bowls to punch because of the number of family members that will be there to participate. One by one, each person went up and punched through the tissue paper to find what color paper heart was in it - either blue or pink!
 
-![](images/IMG_0063.jpg)
+![](/images/IMG_0063.jpg)
 
 After each punch they stuck the hearts on the appropriate column on this little tally board I made. With 16 hearts to find, I put 9 blue hearts on the board and 7 pink hearts. So the majority would reveal they were boys. :)
 
 Because I have an awesome [Cricut machine](https://amzn.to/2Cpphh9), I was able to cut out all the hearts and words from that! It was so easy and looks much better than my own handwriting!
 
-![gender reveal, gender reveal ideas, gender reveal balloon pop, gender reveal confetti balloon, gender reveal ideas, gender reveal party ideas, babymoon, gender reveal on babymoon, unique gender reveal games, unique gender reveal ideas, fun with gender reveal, gender reveal for twins, twin gender reveal](images/IMG_6382.jpg)
+![gender reveal, gender reveal ideas, gender reveal balloon pop, gender reveal confetti balloon, gender reveal ideas, gender reveal party ideas, babymoon, gender reveal on babymoon, unique gender reveal games, unique gender reveal ideas, fun with gender reveal, gender reveal for twins, twin gender reveal](/images/IMG_6382.jpg)
 
 Other fun notes about our gender reveal party were: The majority of our family thought boys! Pretty much everyone except 3 people, haha. After all the punching had been done it looked like this and people were excited. My mother-in-law, sister-in-law, and mom all made it special with yummy snacks and desserts, and festive decorations.
 
-![gender reveal, gender reveal ideas, gender reveal balloon pop, gender reveal confetti balloon, gender reveal ideas, gender reveal party ideas, babymoon, gender reveal on babymoon, unique gender reveal games, unique gender reveal ideas, fun with gender reveal, gender reveal for twins, twin gender reveal](images/IMG_6372-1.jpg)
+![gender reveal, gender reveal ideas, gender reveal balloon pop, gender reveal confetti balloon, gender reveal ideas, gender reveal party ideas, babymoon, gender reveal on babymoon, unique gender reveal games, unique gender reveal ideas, fun with gender reveal, gender reveal for twins, twin gender reveal](/images/IMG_6372-1.jpg)
 
 A fun way to contribute your guesses, and a beautiful flower arrangement from [Olive and Sage Floral](https://www.facebook.com/pages/category/Product-Service/Olive-Sage-Floral-551061048643449/)!
 
-![gender reveal, gender reveal ideas, gender reveal balloon pop, gender reveal confetti balloon, gender reveal ideas, gender reveal party ideas, babymoon, gender reveal on babymoon, unique gender reveal games, unique gender reveal ideas, fun with gender reveal, gender reveal for twins, twin gender reveal](images/IMG_6379.jpg)
+![gender reveal, gender reveal ideas, gender reveal balloon pop, gender reveal confetti balloon, gender reveal ideas, gender reveal party ideas, babymoon, gender reveal on babymoon, unique gender reveal games, unique gender reveal ideas, fun with gender reveal, gender reveal for twins, twin gender reveal](/images/IMG_6379.jpg)
 
-![gender reveal, gender reveal ideas, gender reveal balloon pop, gender reveal confetti balloon, gender reveal ideas, gender reveal party ideas, babymoon, gender reveal on babymoon, unique gender reveal games, unique gender reveal ideas, fun with gender reveal, gender reveal for twins, twin gender reveal](images/IMG_6390-768x1024.jpg)
+![gender reveal, gender reveal ideas, gender reveal balloon pop, gender reveal confetti balloon, gender reveal ideas, gender reveal party ideas, babymoon, gender reveal on babymoon, unique gender reveal games, unique gender reveal ideas, fun with gender reveal, gender reveal for twins, twin gender reveal](/images/IMG_6390-768x1024.jpg)
 
 My pose is funny because my mom had just made a joke that this was the time to tell us if we are having 16 kids instead of just two! I grabbed my belly and said, "I hope not!"
 

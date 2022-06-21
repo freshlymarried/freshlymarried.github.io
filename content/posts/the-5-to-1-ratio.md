@@ -19,7 +19,7 @@ For those of you who don't know John Gottman, he's basically the number one guy 
 
 That is typical scenario (at least for me!) of stuff you already do or would have planned to do. One of Trevor's positives would be that on Tuesday nights he takes out the garbage cans to the curb. It's something he's been doing for about two years now but I still appreciate it and it's still a positive!
 
-![five to one ratio, 5 to 1 ratio, gottman, john gottman techniques, techniques from john gottman, john gottman advice, marriage advice, marriage advice from john gottman, emotional bank account, newlywed advice, marriage advice, daily marriage advice, daily things you can do for your marriage, ](images/IMG_0576.jpg)
+![five to one ratio, 5 to 1 ratio, gottman, john gottman techniques, techniques from john gottman, john gottman advice, marriage advice, marriage advice from john gottman, emotional bank account, newlywed advice, marriage advice, daily marriage advice, daily things you can do for your marriage, ](/images/IMG_0576.jpg)
 
 While those things we already do are great, out of the ordinary things have an even bigger impact, I think. Like giving a back rub to your spouse, taking the kids for the night so the other can have quiet time, bringing home a little surprise, etc. Or even I could take the garbage cans to the curb and Trevor would see that as a surprise positive thing. The possibilities are endless here!
 
@@ -33,7 +33,7 @@ One of the reasons why we know this technique works is because it's almost like 
 
 * * *
 
-![five to one ratio, 5 to 1 ratio, gottman, john gottman techniques, techniques from john gottman, john gottman advice, marriage advice, marriage advice from john gottman, emotional bank account, newlywed advice, marriage advice, daily marriage advice, daily things you can do for your marriage, ](images/Freshly-Married-40-1.jpg)
+![five to one ratio, 5 to 1 ratio, gottman, john gottman techniques, techniques from john gottman, john gottman advice, marriage advice, marriage advice from john gottman, emotional bank account, newlywed advice, marriage advice, daily marriage advice, daily things you can do for your marriage, ](/images/Freshly-Married-40-1.jpg)
 
 ### The Point
 

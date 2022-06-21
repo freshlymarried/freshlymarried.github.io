@@ -12,7 +12,7 @@ coverImage: "minigolfing.jpg"
 
 We've mentioned our ideals on dating in marriage before, but we'll mention it again: One of our expectations going into our marriage, was committing to have a date night each week. In looking back at our first year, I don't think we missed a week. I know it's so much easier for newlyweds to continue to date, and make time for dates, but that's not an excuse to lack! No matter what stage of marriage you are in, I hope you ask each other out on _fun_ dates still.
 
-![mini golfing, date night, fun date nights, newlywed date nights, date night ideas, 365 date night ideas, 500 date night ideas, date night ideas list, importance of date nights, importance of fun date nights, avoiding subjects on date nights](images/minigolfing.jpg)
+![mini golfing, date night, fun date nights, newlywed date nights, date night ideas, 365 date night ideas, 500 date night ideas, date night ideas list, importance of date nights, importance of fun date nights, avoiding subjects on date nights](/images/minigolfing.jpg)
 
 #### Key word: fun.
 

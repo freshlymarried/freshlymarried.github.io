@@ -7,7 +7,7 @@ categories:
 coverImage: "the-barkers.jpg"
 ---
 
-\[caption id="attachment\_1325" align="aligncenter" width="550"\]![married couples, newlywed couples, cute temple marriages, cute married couples, newlywed advice, relationship advice, marriage experiences](images/the-barkers.jpg) Hello! We are the Barkers, Zack and Riley Barker. We have been married for just over a month, some might call us newlyweds.\[/caption\]
+\[caption id="attachment\_1325" align="aligncenter" width="550"\]![married couples, newlywed couples, cute temple marriages, cute married couples, newlywed advice, relationship advice, marriage experiences](/images/the-barkers.jpg) Hello! We are the Barkers, Zack and Riley Barker. We have been married for just over a month, some might call us newlyweds.\[/caption\]
 
 Over the past month, we have learned marriage is ........ super fun! We enjoy every second of it, even the more difficult moments. Marriage is like any relationship, the harder you work at it, the more fulfilling and valuable it is. We can honestly say marriage is the best decision we have made. We think of it like a sleepover with your best friend every night. Which it honestly is - wake up, and go to sleep with the one person you are willing to spend ALL your time with.
 

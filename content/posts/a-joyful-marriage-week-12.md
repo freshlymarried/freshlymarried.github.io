@@ -21,7 +21,7 @@ I don't want to come off annoying and self-righteous saying all this. I mean, I 
 
 I heard something once that a “thank you” is an expression of humility, and I loved that correlation! Because showing humility means you’re letting your pride go, and I think we could all agree that the less pride we have in our marriage, the better!
 
-![finding joy in your spouse, finding joy in marriage, finding joy, marriage happiness, newlyweds, newlywed life, marriage life, marriage advice, marriage help, thank you quotes, quotes on appreciation, appreciation in marriage, the power of a thank you, thanksgiving in marriage](images/too-busy-to-thank-you.png)
+![finding joy in your spouse, finding joy in marriage, finding joy, marriage happiness, newlyweds, newlywed life, marriage life, marriage advice, marriage help, thank you quotes, quotes on appreciation, appreciation in marriage, the power of a thank you, thanksgiving in marriage](/images/too-busy-to-thank-you.png)
 
 And I couldn’t agree MORE with this quote ^ It just makes sense with that cycle of appreciation I have talked about before, like [in this video of good marriage advice](https://www.youtube.com/watch?v=v32M4R2I1Sc) we received on our wedding day. The less you appreciate your spouse, the less likely they are to do things for you in the future, AND the less they will express appreciation to you, probably.
 

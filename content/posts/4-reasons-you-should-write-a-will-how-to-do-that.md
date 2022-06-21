@@ -13,7 +13,7 @@ After learning about wills and estates in a family finances class, I started rea
 
 I got specific pointers from talking with an expert about how to go about doing this correctly on our own, rather than paying for legal help. It took us a few months but we ended up making them. The part that took the longest was actually printing them out and taking them to a notary, haha. However, a few weeks ago, we finally lifted that weight off my mind and finalized them! Peace of mind has swept over me from that for many reasons; reasons I will discuss in a second.
 
-![writing a will, why you should make a will, last will and testament planning, creating a will, how to write a will, how to write a holographic will, utah laws on writing a will, writing a will as newlyweds, marriage advice, marriage help, newlywed life, newlywed help, talking about death in marriage](images/helloquence-51716.jpg)
+![writing a will, why you should make a will, last will and testament planning, creating a will, how to write a will, how to write a holographic will, utah laws on writing a will, writing a will as newlyweds, marriage advice, marriage help, newlywed life, newlywed help, talking about death in marriage](/images/helloquence-51716.jpg)
 
 Because this subject is seldom talked about among couples of all ages, I wanted to make sure I talked about this on Freshly Married. People don’t realize that when you die, It’s not a simple process to handle your estate, on top of having to deal with the grief of such loss! So in this article, I’m outlining the reasons you should write a will, and a few guidelines I’ve been told and have researched on how to create one yourself!
 
@@ -28,7 +28,7 @@ _\*Please note that I am not an expert in the legalities of this. I’m going of
 3. **It can be a huge way to lessen the stress on your spouse** and/or children, especially when they are needing time to grieve
 4. **You are in control** of who becomes the guardian of your children, rather than letting the courts decide.
 
-# ![writing a will, why you should make a will, last will and testament planning, creating a will, how to write a will, how to write a holographic will, utah laws on writing a will, writing a will as newlyweds, marriage advice, marriage help, newlywed life, newlywed help, talking about death in marriage](images/IMG_1760-1.jpg)
+# ![writing a will, why you should make a will, last will and testament planning, creating a will, how to write a will, how to write a holographic will, utah laws on writing a will, writing a will as newlyweds, marriage advice, marriage help, newlywed life, newlywed help, talking about death in marriage](/images/IMG_1760-1.jpg)
 
 # GUIDELINES FOR CREATING YOUR OWN WILL
 

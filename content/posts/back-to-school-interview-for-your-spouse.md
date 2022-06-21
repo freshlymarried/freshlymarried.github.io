@@ -26,7 +26,7 @@ With it being that "back to school" time of year again, I think it's a perfect t
 
 * * *
 
-### ![back to school interview, back to school interview for adults, back to school journaling, college journaling, journaling about spouse in college, marriage advice, marriage help, fun back to school ideas for adults, ](images/IMG_1053.jpg)
+### ![back to school interview, back to school interview for adults, back to school journaling, college journaling, journaling about spouse in college, marriage advice, marriage help, fun back to school ideas for adults, ](/images/IMG_1053.jpg)
 
 ### It's the documentation that counts
 
@@ -38,7 +38,7 @@ It's fun to document these things, right? I wish that my husband and I would hav
 
 If you like this idea, there's no need to write these questions down because I MADE A PRINTABLE FOR YOU!
 
-[![](images/Back-to-School-Interview.png)](https://freshlymarried.com/wp-content/uploads/2017/08/Back-to-School-Interview-2.pdf)
+[![](/images/Back-to-School-Interview.png)](https://freshlymarried.com/wp-content/uploads/2017/08/Back-to-School-Interview-2.pdf)
 
 * * *
 

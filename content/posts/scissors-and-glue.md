@@ -13,7 +13,7 @@ coverImage: "jazmin-quaynor-97778-1.jpg"
 
 For more than 11 years I have kept a quote book, where I have written down any intuitive thoughts, quotes, lyrics, speeches, movie lines, or any other words that I have found meaningful. I'm very passionate about finding them, as they inspire, and encourage, me. I love relating some of these to my own life, and so I wanted to share this one
 
-I love relating some of these to my own life, and so I wanted to share this one that is very significant to Trevor and I. The words come from one of our favorite songs, of one of our favorite bands -- _"Next To Me,"_ by Sleeping At Last. This guy has given us multiple songs that have become the soundtrack to our love story, so of course, I have to share!![scissors and glue, there's nothing in this world we can't fix with some scissors and glue, sleeping at last, fixing problems in marriage](images/scissors-and-glue.png)
+I love relating some of these to my own life, and so I wanted to share this one that is very significant to Trevor and I. The words come from one of our favorite songs, of one of our favorite bands -- _"Next To Me,"_ by Sleeping At Last. This guy has given us multiple songs that have become the soundtrack to our love story, so of course, I have to share!![scissors and glue, there's nothing in this world we can't fix with some scissors and glue, sleeping at last, fixing problems in marriage](/images/scissors-and-glue.png)
 
 * * *
 

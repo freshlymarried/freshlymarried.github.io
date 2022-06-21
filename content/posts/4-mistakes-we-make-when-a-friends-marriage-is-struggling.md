@@ -43,7 +43,7 @@ The reason why this is not a good idea is because… it tends to feel like their
 
 If you are drawing a blank on what to say, when in doubt, listen and say, “I’m so sorry you’re going through this.”
 
-![when a friend's marriage is struggling, friend has marriage problems, confiding in friends, getting marriage advice from friends, getting marriage advice from family, what not to do when a friend is struggling, marriage advice, marriage help, marriage tips, handling conflicts in marriage](images/nik-shuliahin-251237-1.jpg)
+![when a friend's marriage is struggling, friend has marriage problems, confiding in friends, getting marriage advice from friends, getting marriage advice from family, what not to do when a friend is struggling, marriage advice, marriage help, marriage tips, handling conflicts in marriage](/images/nik-shuliahin-251237-1.jpg)
 
 * * *
 
@@ -65,6 +65,6 @@ When you get too close to the situation, it can start to harm your relationship 
 
 * * *
 
-![when a friend's marriage is struggling, friend has marriage problems, confiding in friends, getting marriage advice from friends, getting marriage advice from family, what not to do when a friend is struggling, marriage advice, marriage help, marriage tips, handling conflicts in marriage](images/ben-white-194220.jpg)
+![when a friend's marriage is struggling, friend has marriage problems, confiding in friends, getting marriage advice from friends, getting marriage advice from family, what not to do when a friend is struggling, marriage advice, marriage help, marriage tips, handling conflicts in marriage](/images/ben-white-194220.jpg)
 
 This position of being a confidant for your friend's struggles is not an easy position to be put in. We want so badly to give them the right answer that will help them feel better, but the reality is we may not know what the right thing to do is. And the other reality is that it the decision is not up to us. All we can do is give our love and support, especially through listening. Do your best in the moment, but I hope that these 4 tips will help prepare you for the next time a friend comes to you for marriage advice!

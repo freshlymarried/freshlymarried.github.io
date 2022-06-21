@@ -20,7 +20,7 @@ This post has 2 parts: The bride's perspective, and the groom's perspective!
 
 I'm Amy's husband and I wanted to share my side of the story too :)
 
-![TrevorAmy_reception_JDA_0063](images/TrevorAmy_reception_JDA_0063.jpg)
+![TrevorAmy_reception_JDA_0063](/images/TrevorAmy_reception_JDA_0063.jpg)
 
 ### Weddings are a bit crazy
 
@@ -78,7 +78,7 @@ We will be in love. I hope I never stop... I hope look back on every day and ev
 
 # The Bride
 
-### ![lds bride, bride advice, newlywed advice, marriage advice, marriage help](images/TrevorAmy_reception_JDA_0078-Copy.jpg)
+### ![lds bride, bride advice, newlywed advice, marriage advice, marriage help](/images/TrevorAmy_reception_JDA_0078-Copy.jpg)
 
 ### Marriage IS the best
 

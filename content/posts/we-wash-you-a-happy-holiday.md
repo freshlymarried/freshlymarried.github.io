@@ -22,7 +22,7 @@ Here's the link to this project: [https://design.cricut.com/#/design/118143543]
 
 I created a cardstock backing circle you can put behind it to give it more color and depth. Use it or don't, fine by me! Duplicate as many as you need for your gifts :) P.S. There's also one in there for teacher gifts that says, "Hands down you are the best teacher around!" I made this for a friend so it's just an added bonus for ya ;)
 
-[![cricut tags, cricut holiday tag, soap tags, soap gift tags, soap gift, soap puns, soap gift pun, cricut design tag, neighbor gift ideas, ](images/Screen-Shot-2018-12-13-at-12.12.03-PM.png)](https://freshlymarried.com/wp-content/uploads/2018/12/Screen-Shot-2018-12-13-at-12.12.03-PM.png)
+[![cricut tags, cricut holiday tag, soap tags, soap gift tags, soap gift, soap puns, soap gift pun, cricut design tag, neighbor gift ideas, ](/images/Screen-Shot-2018-12-13-at-12.12.03-PM.png)](https://freshlymarried.com/wp-content/uploads/2018/12/Screen-Shot-2018-12-13-at-12.12.03-PM.png)
 
  
 
@@ -34,7 +34,7 @@ If you don't own a cutting machine, then you can just print these out at home an
 
 To get a circle tag, I recommend using a [2.5-inch circle punch like this one](https://amzn.to/2Es4U5v). I trimmed an inch off the top so my 2.5 inch punch could adequately get to the phrase to punch it nicely.
 
-[![cricut tags, cricut holiday tag, soap tags, soap gift tags, soap gift, soap puns, soap gift pun, cricut design tag, neighbor gift ideas, ](images/IMG_4143.jpg)](https://freshlymarried.com/wp-content/uploads/2018/12/IMG_4143.jpg)
+[![cricut tags, cricut holiday tag, soap tags, soap gift tags, soap gift, soap puns, soap gift pun, cricut design tag, neighbor gift ideas, ](/images/IMG_4143.jpg)](https://freshlymarried.com/wp-content/uploads/2018/12/IMG_4143.jpg)
 
 ### MAKE IT A TRADITION
 
@@ -42,7 +42,7 @@ The past few years our traditional neighbor gift was actually Marinelli's Sparkl
 
 That's when I stumbled upon cute soap pun gifts, and we even received a few from some of our neighbors. I realized that this was a better gift idea for many reasons! 1) The gifting process was simplified where we could just put it on their porch if a neighbor wasn't home. 2) It was a non-food gift so people on diets or who have food allergies could actually enjoy this gift. 3) Soap is something practical that everyone uses! My only complaint was that I didn't like the printables out there. They weren't my style, I guess. So I'm glad I was able to design my own that I like better :)
 
-[![](images/IMG_2818-5-671x1024.jpg)](https://freshlymarried.com/wp-content/uploads/2018/12/IMG_2818-5.jpg)
+[![](/images/IMG_2818-5-671x1024.jpg)](https://freshlymarried.com/wp-content/uploads/2018/12/IMG_2818-5.jpg)
 
 Bath and Body Works soaps can be expensive if you don't catch them on a good sale, so I was able to take advantage of their Black Friday weekend deals to get them at $3.25 each. If you want a bunch of soaps a cheaper cost, Amazon has [SoftSoap](https://amzn.to/2LdWwr1) for less than $1 in packs of six!
 

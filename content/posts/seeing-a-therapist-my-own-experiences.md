@@ -16,7 +16,7 @@ I am sharing my experiences because I believe that the more positively we talk a
 
 * * *
 
-# ![seeing a therapist, experience with seeing a therapist, what it's like seeing a therapist, what therapy is like, what counseling is like, seeing a counselor as a teenager, seeing a counselor in marriage, couples therapy, individual counseling, marriage and family therapy, newlyweds, lds newlyweds, struggles in marriage, marital problems, depression in marriage, how to deal with a depressed spouse, marriage advice, marriage help](images/Untitled-design-4.png)
+# ![seeing a therapist, experience with seeing a therapist, what it's like seeing a therapist, what therapy is like, what counseling is like, seeing a counselor as a teenager, seeing a counselor in marriage, couples therapy, individual counseling, marriage and family therapy, newlyweds, lds newlyweds, struggles in marriage, marital problems, depression in marriage, how to deal with a depressed spouse, marriage advice, marriage help](/images/Untitled-design-4.png)
 
 # first experience
 
@@ -30,7 +30,7 @@ The biggest thing I believe I was struggling with at the time that I was looking
 
 * * *
 
-# ![seeing a therapist, experience with seeing a therapist, what it's like seeing a therapist, what therapy is like, what counseling is like, seeing a counselor as a teenager, seeing a counselor in marriage, couples therapy, individual counseling, marriage and family therapy, newlyweds, lds newlyweds, struggles in marriage, marital problems, depression in marriage, how to deal with a depressed spouse, marriage advice, marriage help](images/Untitled-design-2.png)
+# ![seeing a therapist, experience with seeing a therapist, what it's like seeing a therapist, what therapy is like, what counseling is like, seeing a counselor as a teenager, seeing a counselor in marriage, couples therapy, individual counseling, marriage and family therapy, newlyweds, lds newlyweds, struggles in marriage, marital problems, depression in marriage, how to deal with a depressed spouse, marriage advice, marriage help](/images/Untitled-design-2.png)
 
 # seconD experience
 
@@ -38,7 +38,7 @@ The second time I saw a therapist was actually very recently. It started out as 
 
 My favorite part about this second experience was that I saw her periodically over a span of 13 months, which she said is "textbook" scenario of what counseling should be like. Because there were some weeks I definitely needed the continued guidance and opportunity to vent. But then when I was feeling like I was implementing the changes we talked about, and things in life were going well, I went two months without seeing her. And then when something did come up, I was able to just text her to make an appointment a few days later and things picked up right back where we left off because she knew me already and my background.
 
-![seeing a therapist, experience with seeing a therapist, what it's like seeing a therapist, what therapy is like, what counseling is like, seeing a counselor as a teenager, seeing a counselor in marriage, couples therapy, individual counseling, marriage and family therapy, newlyweds, lds newlyweds, struggles in marriage, marital problems, depression in marriage, how to deal with a depressed spouse, marriage advice, marriage help](images/IMG_1602.jpg)
+![seeing a therapist, experience with seeing a therapist, what it's like seeing a therapist, what therapy is like, what counseling is like, seeing a counselor as a teenager, seeing a counselor in marriage, couples therapy, individual counseling, marriage and family therapy, newlyweds, lds newlyweds, struggles in marriage, marital problems, depression in marriage, how to deal with a depressed spouse, marriage advice, marriage help](/images/IMG_1602.jpg)
 
 ### My takeaways from this second experience:
 
@@ -50,7 +50,7 @@ I remember being nervous at 17 if I had to tell my friends I was seeing a counse
 
 * * *
 
-### ![seeing a therapist, experience with seeing a therapist, what it's like seeing a therapist, what therapy is like, what counseling is like, seeing a counselor as a teenager, seeing a counselor in marriage, couples therapy, individual counseling, marriage and family therapy, newlyweds, lds newlyweds, struggles in marriage, marital problems, depression in marriage, how to deal with a depressed spouse, marriage advice, marriage help](images/Untitled-design-3.png)
+### ![seeing a therapist, experience with seeing a therapist, what it's like seeing a therapist, what therapy is like, what counseling is like, seeing a counselor as a teenager, seeing a counselor in marriage, couples therapy, individual counseling, marriage and family therapy, newlyweds, lds newlyweds, struggles in marriage, marital problems, depression in marriage, how to deal with a depressed spouse, marriage advice, marriage help](/images/Untitled-design-3.png)
 
 ## How it has impacted my life
 

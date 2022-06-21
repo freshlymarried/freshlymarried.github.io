@@ -9,7 +9,7 @@ coverImage: "Copy-of-5-wife-life-giveaways.png"
 
 I’ve been wanting to do some exciting things for the #monthoflove, which means GIVEAWAYS! And I wanna do something BIG! I want to give 5 lucky winners a WIFE LIFE t-shirt! Yes, that means I’m giving away 5 t-shirts total, which is over $100 in prizes! If you haven't seen these t-shirts, they look like this:
 
-[![](images/Wife-Life-shirt-options-side-by-side-1.png)](https://www.etsy.com/shop/FreshlyMarried?ref=hdr_shop_menu)
+[![](/images/Wife-Life-shirt-options-side-by-side-1.png)](https://www.etsy.com/shop/FreshlyMarried?ref=hdr_shop_menu)
 
 Want to show you’re a proud wifey?! Or do you want to be thoughtful and try winning it for your wife?! Then head on over to the [Freshly Married Instagram page](https://www.instagram.com/freshlymarried/) to enter!
 

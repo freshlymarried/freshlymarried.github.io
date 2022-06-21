@@ -27,7 +27,7 @@ I'll admit that sometimes my husband and I are doing something on our phones for
 
 When you think about it, doing that defeats the whole intent of what a date night is in the first place! Like I said above, **a date is supposed to be one-on-one time, not the two of you and your 1,000 followers!**
 
-![snapchat, snapchat date night, instagram date night, instagram your date night, don't instagram your date night, what a date night means, what a date night is, date night, married date night, newlywed date night, marriage advice, marriage specialist, i hate snapchat, i hate instagram stories, why i hate snapchat, why i hate instagram stories](images/date-your-spouse-not-your-followers.png)
+![snapchat, snapchat date night, instagram date night, instagram your date night, don't instagram your date night, what a date night means, what a date night is, date night, married date night, newlywed date night, marriage advice, marriage specialist, i hate snapchat, i hate instagram stories, why i hate snapchat, why i hate instagram stories](/images/date-your-spouse-not-your-followers.png)
 
 * * *
 
@@ -39,7 +39,7 @@ I think as newlyweds, dates can be taken for granted. We are used to spending ti
 
 When it comes to enjoying a memorable date together and wanting to document it, I feel like the best balance is to just post about it when you get home. Focus on enjoying the moment, then capturing the moment with some pictures and videos, but continue enjoying it until the date is over with. Those are just my thoughts, though! Decide what quality your dates are currently and either keep going with it if it feels just fine, or make changes if necessary.
 
-![snapchat, snapchat date night, instagram date night, instagram your date night, don't instagram your date night, what a date night means, what a date night is, date night, married date night, newlywed date night, marriage advice, marriage specialist, i hate snapchat, i hate instagram stories, why i hate snapchat, why i hate instagram stories](images/IMG_1315-1.jpg)
+![snapchat, snapchat date night, instagram date night, instagram your date night, don't instagram your date night, what a date night means, what a date night is, date night, married date night, newlywed date night, marriage advice, marriage specialist, i hate snapchat, i hate instagram stories, why i hate snapchat, why i hate instagram stories](/images/IMG_1315-1.jpg)
 
 * * *
 

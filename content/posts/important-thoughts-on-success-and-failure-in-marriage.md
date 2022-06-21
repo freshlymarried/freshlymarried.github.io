@@ -26,13 +26,13 @@ My initial thought that I wanted to scream at her and make her feel better with:
 
 While each marriage crisis is different and there may not be a one-size-fits-all answer for solving it and moving forward, I know for sure that we can't dwell on how bad things are. Be self-aware of your own role in the issues your marriage has, and think about how you can improve. However, don't spend too much time sitting with those negative feelings.  Move forward with positive actions instead. It's like what Johnny Cash says below:
 
-![failed marriage, don't believe in failure, failure quotes, quotes on failure, failing at marriage, how to not fail in marriage, overcoming failure, overcoming failure in marriage, marriage advice, marriage help, newlywed help, newlywed advice](images/johnny-cash-quote.png)
+![failed marriage, don't believe in failure, failure quotes, quotes on failure, failing at marriage, how to not fail in marriage, overcoming failure, overcoming failure in marriage, marriage advice, marriage help, newlywed help, newlywed advice](/images/johnny-cash-quote.png)
 
 * * *
 
 I also really appreciate this Winston Churchill quote on this whole topic of failure, and I'll give you two reasons why I think it should be a guiding force for ALL marriages, no matter if you feel you're winning or struggling in the marriage department!
 
-![failed marriage, don't believe in failure, failure quotes, quotes on failure, failing at marriage, how to not fail in marriage, overcoming failure, overcoming failure in marriage, marriage advice, marriage help, newlywed help, newlywed advice](images/winston-churchill-quote.png)
+![failed marriage, don't believe in failure, failure quotes, quotes on failure, failing at marriage, how to not fail in marriage, overcoming failure, overcoming failure in marriage, marriage advice, marriage help, newlywed help, newlywed advice](/images/winston-churchill-quote.png)
 
 ## Two Reasons WHy these words are important:
 

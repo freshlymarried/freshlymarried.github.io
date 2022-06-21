@@ -16,7 +16,7 @@ _This post contains affiliate links to Amazon._
 
 You can put other rules on it like: 1) if a person has their gift stolen from them, they have a chance to steal from another person, instead of always having to choose from the pile. 2) You limit the number of times a gift can be stolen. 3) Whatever gift you receive you have to display it in your house somewhere for the month of January. 4) if it’s an item of clothing you have to put it on for everyone to see!
 
-![](images/IMG_1257.jpg)
+![](/images/IMG_1257.jpg)
 
 As you can tell, it gets pretty funny depending on the kind of gifts people bring. My husband and I LOVE finding fun white elephant gifts each Christmas! And because both of our families started doing this tradition, we get to choose 4 total silly and fun gifts each Christmas! **Needless to say, we’ve spent lots of time researching and browsing silly and fun gift ideas. So the thought occurred to me that I should compile a list of some really good ones we have found for anyone else who likes to do this tradition with their families or for a holiday party. So here ya go! _(Most of these range between $5-$19!)_**
 

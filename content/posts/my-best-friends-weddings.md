@@ -16,7 +16,7 @@ Saturday was Trevor's (before me) best friend's wedding. It was a beautiful, yet
 
 #### .. Especially FROM this game of who said it, haha
 
-![my best friends wedding, going to friends' weddings, newlywed weddings, attending weddings, thoughts from attending weddings, newlywed advice, married advice](images/2013-06-29252017.48.492520-2520Copy-001.jpg)
+![my best friends wedding, going to friends' weddings, newlywed weddings, attending weddings, thoughts from attending weddings, newlywed advice, married advice](/images/2013-06-29252017.48.492520-2520Copy-001.jpg)
 
 Within the four weeks before I was married, two of my (before Trevor) best friends, were married. It was so exciting for me to watch their happiness on that day. It also, made it harder for me to keep waiting the 30 more days until I felt that happiness! The great thing about Saturday's ceremony, was that I was able to attend this one. It was the first Temple marriage sealing that I had attended since witnessing my own. What a blessing that was to hold hands with my husband, while listening to the words said to our friends, and be reminded of the words that were said to us, at our own ceremony. The gratitude, love, and respect, that I have for Trevor grew even deeper, and it did the same for him.
 

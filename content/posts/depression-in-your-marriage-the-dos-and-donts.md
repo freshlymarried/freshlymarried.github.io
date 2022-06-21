@@ -19,7 +19,7 @@ For Trevor and I, it's a little bit of both. Anxiety and/or depression can be d
 
 This blog post addresses some do's and don'ts when trying to help your depressed spouse, but you can generalize it to others, too. I want to provide some explanations for why I would say these are do's and don'ts, but I want to give background info on depression so you can understand it better. Because the thing about depression, is that it's like your own personal brand of sadness that no one else can fully understand unless they are in your head. Even if you're married to someone who also experiences depression, you both will have different triggers, different reasons, and different responses.
 
-![depression in marriage, depression quotes, dealing with depression in your marriage, spouse has depression, how to help spouse with depression, marriage advice, marriage help, stress in marriage, marriage specialist, handling depression, ](images/photo-1423420634464-89006b3454a8.jpeg)
+![depression in marriage, depression quotes, dealing with depression in your marriage, spouse has depression, how to help spouse with depression, marriage advice, marriage help, stress in marriage, marriage specialist, handling depression, ](/images/photo-1423420634464-89006b3454a8.jpeg)
 
 #### When it comes to depressive disorders:
 

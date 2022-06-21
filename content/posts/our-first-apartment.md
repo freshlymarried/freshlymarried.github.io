@@ -12,9 +12,9 @@ coverImage: "943448_10151893624177656_1090922717_n.jpg"
 
 Our little apartment is being emptied. All the pictures and artwork have been taken down from the walls, leaving them as blank as a piece of paper. Our couch has been sold, so movies are being watched in our bed now. The shelves have been cleared, and the drawers are empty. Clothes are in bags, appliances are wrapped up, and the random things are boxed up.. Well, pretty much everything is boxed up... our life... it's all boxed up and ready to be put elsewhere. What a weird feeling that is. It's this weird phenomena of multiple feelings at once: anxiousness, excitement, stress, happiness, and gratitude. This past week I spent every day organizing, de-junking, and packing since I had the week off between school semesters. All of these feelings were coming at me, as I took down pictures that were full of specific memories we had here in Provo. The feelings rushed again when we sold our sofa, because I was reminded of all the fun movie nights we had sitting on that couch, as well as other memories of me sleeping on that couch every day while recovering from my sinus surgery. With every box getting filled up and labeled, the more change I felt.
 
-#### ![first apartment, newlywed apartment, first married apartment, living in an apartment, appreciating where you live](images/2013-05-15252012.49.31-225x300.jpg)The FIRST DAY WE MOVED TREVOR INTO THE APARTMENT
+#### ![first apartment, newlywed apartment, first married apartment, living in an apartment, appreciating where you live](/images/2013-05-15252012.49.31-225x300.jpg)The FIRST DAY WE MOVED TREVOR INTO THE APARTMENT
 
-#### ![first apartment, newlywed apartment, first married apartment, living in an apartment, appreciating where you live](images/2013-05-15252012.49.27-225x300.jpg)
+#### ![first apartment, newlywed apartment, first married apartment, living in an apartment, appreciating where you live](/images/2013-05-15252012.49.27-225x300.jpg)
 
 #### I don't like changes
 
@@ -30,6 +30,6 @@ We've all heard stories from older couples that say they struggled to make ends 
 
 (From the day we moved out, recreating our first apartment picture) #bittersweet
 
-![first apartment, newlywed apartment, first married apartment, living in an apartment, appreciating where you live](images/IMG_0147.jpg)
+![first apartment, newlywed apartment, first married apartment, living in an apartment, appreciating where you live](/images/IMG_0147.jpg)
 
 How was your first apartment experience? Did you hate it, or do you miss it?

@@ -18,7 +18,7 @@ What was that last feeling? Physical satisfaction? YEP. Let’s talk about it!
 
 To apply this “cycle” to sexual intimacy, if you are putting your spouse first, wanting them to have a satisfying experience, they will want to give you a satisfying experience right back. It shows them you are thinking about their desires and needs, which is all people want in life, right?! To know someone wants to take care of them and make them happy! So if you carry this attitude as a spouse, more than likely, you’re spouse will begin to mirror that attitude towards you, if they haven’t been doing that already.
 
-![sexual intimacy, better sexual intimacy, sexual intimacy quotes, quotes on better sex, better sex in marriage, how to get better sex in marriage, selflessness in marriage, keys to sexual intimacy, emotional intimacy, beliefs of sexual intimacy, wanting better sex, newlywed advice, newlywed advice on sex, how sex helps marriage, sex is important, sex is important in marriage, marriage advice, marriage help, sexual intimacy help, ](images/sexual-intimacy-belief-of-selflessness.png)
+![sexual intimacy, better sexual intimacy, sexual intimacy quotes, quotes on better sex, better sex in marriage, how to get better sex in marriage, selflessness in marriage, keys to sexual intimacy, emotional intimacy, beliefs of sexual intimacy, wanting better sex, newlywed advice, newlywed advice on sex, how sex helps marriage, sex is important, sex is important in marriage, marriage advice, marriage help, sexual intimacy help, ](/images/sexual-intimacy-belief-of-selflessness.png)
 
 * * *
 
@@ -40,7 +40,7 @@ And I know that you’re reading that thinking, “Oh yeah, because being selfle
 
 If you are doing any of these fairly consistently, your sex life can be wonderful, or it can improve wonderfully. I have seen these actions bless my relationship for years now, so I almost want to promise you that it will help! There can be more patience with each other when it’s been awhile, there can be more open communication about sex, and there can be more prioritization felt in your marriage overall.
 
-![sexual intimacy, better sexual intimacy, sexual intimacy quotes, quotes on better sex, better sex in marriage, how to get better sex in marriage, selflessness in marriage, keys to sexual intimacy, emotional intimacy, beliefs of sexual intimacy, wanting better sex, newlywed advice, newlywed advice on sex, how sex helps marriage, sex is important, sex is important in marriage, marriage advice, marriage help, sexual intimacy help, ](images/matheus-ferrero-173415.jpg)
+![sexual intimacy, better sexual intimacy, sexual intimacy quotes, quotes on better sex, better sex in marriage, how to get better sex in marriage, selflessness in marriage, keys to sexual intimacy, emotional intimacy, beliefs of sexual intimacy, wanting better sex, newlywed advice, newlywed advice on sex, how sex helps marriage, sex is important, sex is important in marriage, marriage advice, marriage help, sexual intimacy help, ](/images/matheus-ferrero-173415.jpg)
 
 * * *
 

@@ -16,7 +16,7 @@ If you are like us and have openly shared finances, you probably struggle with g
 
 We thought that if we timed it right we could know whose gift would be on our doorstep on what day, but we somehow lost track, haha. Not wanting to open the boxes to straighten it out and risk spoiling a gift surprise, we just wrapped all the boxes and said we will figure it out when we open them on Christmas! hahaha... This is what that idea looked like:
 
-[![cute christmas gift wrapping, gift wrapping ideas, christmas gift wrapping, how to keep christmas gifts a secret, how to buy christmas gifts without your spouse knowing, keeping gifts a surprise from spouse, christmas gift fails, newlywed christmas gift ideas, how to navigate getting christmas gifts](images/IMG_1253.jpg)](http://freshlymarried.com/wp-content/uploads/2015/11/IMG_1253.jpg)
+[![cute christmas gift wrapping, gift wrapping ideas, christmas gift wrapping, how to keep christmas gifts a secret, how to buy christmas gifts without your spouse knowing, keeping gifts a surprise from spouse, christmas gift fails, newlywed christmas gift ideas, how to navigate getting christmas gifts](/images/IMG_1253.jpg)](http://freshlymarried.com/wp-content/uploads/2015/11/IMG_1253.jpg)
 
 This year we made a better plan, and also came up with other alternatives we might try. I wanted to share these because I'm sure we aren't the only couple who crosses this problem :)
 

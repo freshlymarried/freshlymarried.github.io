@@ -16,7 +16,7 @@ Some couples at various points in their marriage, lose those fun, romantic spark
 
 **\>>> Well, I've got one sure-fire way to find those romantic sparks again, and ignite them in a way that you feel comfortable with! And it's something you have the power to do anytime!**
 
-![sparks in marriage, missing sparks in marriage, igniting sparks in marriage, igniting the sparks in marriage again, finding sparks in marriage again, marriage advice, marriage help](images/IMG_1134-1.jpg)
+![sparks in marriage, missing sparks in marriage, igniting sparks in marriage, igniting the sparks in marriage again, finding sparks in marriage again, marriage advice, marriage help](/images/IMG_1134-1.jpg)
 
 * * *
 
@@ -28,7 +28,7 @@ I might be someone who lives in the past a little too much. I tend to remember a
 
 \>>> Further ideas for playing on these sparks from your memories: mark the occasion with flowers, a small gift or going out on a special date night. If you want to big or go home, recreate the tender moment where you felt those initial sparks, and you're very likely to have the sparks fly all over again :)
 
-![sparks in marriage, missing sparks in marriage, igniting sparks in marriage, igniting the sparks in marriage again, finding sparks in marriage again, marriage advice, marriage help](images/IMG_8740.jpg)
+![sparks in marriage, missing sparks in marriage, igniting sparks in marriage, igniting the sparks in marriage again, finding sparks in marriage again, marriage advice, marriage help](/images/IMG_8740.jpg)
 
 * * *
 
@@ -40,6 +40,6 @@ Sparks are a powerful thing, and we shouldn't forget that. **The romantic sparks
 
 I hope that you'll use this idea to ignite the sparks in your relationship and that when you do, you both enjoy that moment so you can draw from it the next time you need to ignite the sparks again!
 
-![sparks in marriage, missing sparks in marriage, igniting sparks in marriage, igniting the sparks in marriage again, finding sparks in marriage again, marriage advice, marriage help](images/QrXgXMhCSouyhU7idq7g_IMG_8402.jpg)
+![sparks in marriage, missing sparks in marriage, igniting sparks in marriage, igniting the sparks in marriage again, finding sparks in marriage again, marriage advice, marriage help](/images/QrXgXMhCSouyhU7idq7g_IMG_8402.jpg)
 
 What other things have you done to ignite those romantic sparks again? Share below!

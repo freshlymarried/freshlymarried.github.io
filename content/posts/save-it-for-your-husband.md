@@ -31,7 +31,7 @@ I have nothing wrong with lingerie. Let's be honest here, I wear it myself and e
 
 Think about that. Multiple strangers looking at your half-naked body. It's as if you stop being viewed as just another patron swimming at the pool, and instead, become the front-cover girl on Sports Illustrated magazine - swimsuit edition. We all know this is not an exaggeration. People do look at each other this way, and most of them are probably men and young men. It makes us want to ask ourselves some questions: Would you wear lingerie in front of your father? Would you wear lingerie in front of a 40 year-old man you don't even know? I would think the answer would be no to these.
 
-![why I choose not to wear a bikini, saving sexiness for our husbands, modesty, lingerie, lingerie in marriage, opinions on bikinis, what a bikini does to your marriage, marriage advice, newlywed advice, marriage specialist](images/photo-1447966374608-a6f7e7a12974.jpeg)
+![why I choose not to wear a bikini, saving sexiness for our husbands, modesty, lingerie, lingerie in marriage, opinions on bikinis, what a bikini does to your marriage, marriage advice, newlywed advice, marriage specialist](/images/photo-1447966374608-a6f7e7a12974.jpeg)
 
 * * *
 

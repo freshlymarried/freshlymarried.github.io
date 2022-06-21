@@ -12,8 +12,8 @@ I've been recovering from Sinus Surgery #2 the past week, and going into it I di
 
 I'm especially joyous that I was feeling well enough to enjoy our main activity while in Austin, Texas for my husband's work! (I know, an inconvenient time for me to do my surgery but doc approved it and I was impatient for relief haha.) Probably my favorite activity we did was the electric bike tour! We had never been on electric bikes so this was really fun to experience a first together. We rode around downtown Austin, and along the Colorado River, some of it through sprinkling rain which was really nice actually.
 
-![a joyful marriage, finding joy, finding more joy, living a joyful life, marriage advice, marriage help, electric bike tour austin, electric bikes texas, newlyed fun, ](images/IMG_5373-833x1024.jpg)
+![a joyful marriage, finding joy, finding more joy, living a joyful life, marriage advice, marriage help, electric bike tour austin, electric bikes texas, newlyed fun, ](/images/IMG_5373-833x1024.jpg)
 
 My favorite part was how much the electric bikes reminded me of the scooter I used to own and loved so much! And sadly I only have a few pictures with it! Here's one for proof that I was pretty cool.
 
-![a joyful marriage, finding joy, finding more joy, living a joyful life, marriage advice, marriage help, electric bike tour austin, electric bikes texas, newlyed fun, ](images/IMG_2558.jpg)
+![a joyful marriage, finding joy, finding more joy, living a joyful life, marriage advice, marriage help, electric bike tour austin, electric bikes texas, newlyed fun, ](/images/IMG_2558.jpg)

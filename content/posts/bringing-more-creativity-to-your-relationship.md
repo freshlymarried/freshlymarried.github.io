@@ -15,7 +15,7 @@ Have you ever thought about creativity in your relationship? Hearing that might 
 
 Take this example with baking cookies: You could totally roll them into the typical ball shape so they come out of the oven in a basic flat circle. But isn’t it more beautiful and more fun to use cookie cutters and bake them into fun shapes and objects?! Creativity is turning a cookie into a work of art; turning the ordinary into the extraordinary. We can do the same in our relationships, and we can do it on a regular basis to keep things fresh!
 
-![creativity, creative, get creative, be creative in marriage, creative marriage, creative marriage ideas, fun marriage ideas, creative dates, creative date ideas, marriage, marriage advice, marriage tips, marriage help](images/kari-shea-167714-unsplash.jpg)
+![creativity, creative, get creative, be creative in marriage, creative marriage, creative marriage ideas, fun marriage ideas, creative dates, creative date ideas, marriage, marriage advice, marriage tips, marriage help](/images/kari-shea-167714-unsplash.jpg)
 
 * * *
 
@@ -23,9 +23,9 @@ Take this example with baking cookies: You could totally roll them into the typi
 
 Both my husband and I have artistic talents, but we have different ways we apply them in our lives, and I love that about us! I tend to be loud in the arts and crafts while he calms me with simplicity and innovation, and we complement each other in this way. Looking back at our first dates, there were many creative things we did together such painting at the park, building a dominoes track, and carving pumpkins. And we even gave each other gifts that displayed our artistic talents, like tying fleece blankets and drawing/paintingn pictures for each other!
 
-![creativity, creative, get creative, be creative in marriage, creative marriage, creative marriage ideas, fun marriage ideas, creative dates, creative date ideas, marriage, marriage advice, marriage tips, marriage help](images/pumpkins.jpg)
+![creativity, creative, get creative, be creative in marriage, creative marriage, creative marriage ideas, fun marriage ideas, creative dates, creative date ideas, marriage, marriage advice, marriage tips, marriage help](/images/pumpkins.jpg)
 
-![creativity, creative, get creative, be creative in marriage, creative marriage, creative marriage ideas, fun marriage ideas, creative dates, creative date ideas, marriage, marriage advice, marriage tips, marriage help](images/dominoes_3-768x1024.jpg)
+![creativity, creative, get creative, be creative in marriage, creative marriage, creative marriage ideas, fun marriage ideas, creative dates, creative date ideas, marriage, marriage advice, marriage tips, marriage help](/images/dominoes_3-768x1024.jpg)
 
 As I’ve thought more about what “creativity” means, it’s allowed me to see these different ways that we bring color, imagination, and unique ideas into our lives and our relationship. **Below are three little tips for applying creativity in your own relationship!**
 
@@ -33,7 +33,7 @@ As I’ve thought more about what “creativity” means, it’s allowed me to s
 - Don’t be afraid to tap into that sentimental side to create a special celebration, gift, memory, or experience for each other.
 - Go back to the basics of being a kid again, doing those simple, yet entertaining activities you did as kids such as rollerblading or drawing with sidewalk chalk.
 
-![creativity, creative, get creative, be creative in marriage, creative marriage, creative marriage ideas, fun marriage ideas, creative dates, creative date ideas, marriage, marriage advice, marriage tips, marriage help](images/gianandrea-villa-737211-unsplash.jpg)
+![creativity, creative, get creative, be creative in marriage, creative marriage, creative marriage ideas, fun marriage ideas, creative dates, creative date ideas, marriage, marriage advice, marriage tips, marriage help](/images/gianandrea-villa-737211-unsplash.jpg)
 
 * * *
 
@@ -59,7 +59,7 @@ If you're wanting more ideas on how to be more creative, especially when it come
 
 Pieces of this article were featured in the September 2018 themed date box from [Date Night In](https://frstre.com/go/?a=19136-4863f8&s=110370-e6b059)! If you’re interested in having planned and guided date nights delivered to you every month, check them out! As part of this date, we did our own little paint nite, video-guided by an artist helping us each paint half of a full painting! We had fun doing our own interpretations and then connected them!
 
-![creativity, creative, get creative, be creative in marriage, creative marriage, creative marriage ideas, fun marriage ideas, creative dates, creative date ideas, marriage, marriage advice, marriage tips, marriage help](images/IMG_2194.jpg)
+![creativity, creative, get creative, be creative in marriage, creative marriage, creative marriage ideas, fun marriage ideas, creative dates, creative date ideas, marriage, marriage advice, marriage tips, marriage help](/images/IMG_2194.jpg)
 
 If you are interested in turning this article into a date, you could grab one of these paint by numbers for adults kits that I think would be cool to do as a couple!
 

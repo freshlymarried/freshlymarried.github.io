@@ -20,9 +20,9 @@ Well for Valentine's Day I told him **I didn't want us to feel pressure to do so
 
 **We took the pressure off ourselves of trying to do something grand together and because of that our conversation flowed so seamlessly, nothing negative happened, and we even learned something new about each other in our conversations over lunch!**
 
-![date night, valentine's day, valentine's day dates, valentine's date ideas, date night pressures, date night ideas, the same old date nights, married date nights, fun in marriage, marriage advice, marriage help, newlywed life, newlywed blog, marriage blog, married help](images/IMG_0654.jpg)
+![date night, valentine's day, valentine's day dates, valentine's date ideas, date night pressures, date night ideas, the same old date nights, married date nights, fun in marriage, marriage advice, marriage help, newlywed life, newlywed blog, marriage blog, married help](/images/IMG_0654.jpg)
 
-\[caption id="attachment\_6496" align="aligncenter" width="700"\]![date night, valentine's day, valentine's day dates, valentine's date ideas, date night pressures, date night ideas, the same old date nights, married date nights, fun in marriage, marriage advice, marriage help, newlywed life, newlywed blog, marriage blog, married help](images/IMG_0655.jpg) Me and batgirl are pretty tight\[/caption\]
+\[caption id="attachment\_6496" align="aligncenter" width="700"\]![date night, valentine's day, valentine's day dates, valentine's date ideas, date night pressures, date night ideas, the same old date nights, married date nights, fun in marriage, marriage advice, marriage help, newlywed life, newlywed blog, marriage blog, married help](/images/IMG_0655.jpg) Me and batgirl are pretty tight\[/caption\]
 
 * * *
 

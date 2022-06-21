@@ -14,7 +14,7 @@ As a society, especially women, we tend to get caught up in other's love stories
 
 As a teenager, I loved living vicariously through them, or just getting enveloped in their love story. It made me twitterpated and I fantasized about it being my own love story! haha. I'M NOT THE ONLY ONE WHO DID THIS GUYS. LET'S ALL ADMIT IT NOW.  But now, being married, I have my own love story.  So I've had a hard time reading any romance novels, and even seeing some chick flicks, because I can't relate to most of the love stories out there!
 
-![greatest love story, romantic novels, not relating to romantic novels, fantasizing about romantic novels, fantasizing over romantic movies, romantic movies aren't real, focus on your own love story, the greatest love story ever told is your own, marriage advice, marriage quotes, marriage specialist, married life, newlywed life, newlywed advice](images/IMG_0067.jpg)
+![greatest love story, romantic novels, not relating to romantic novels, fantasizing about romantic novels, fantasizing over romantic movies, romantic movies aren't real, focus on your own love story, the greatest love story ever told is your own, marriage advice, marriage quotes, marriage specialist, married life, newlywed life, newlywed advice](/images/IMG_0067.jpg)
 
 * * *
 

@@ -19,7 +19,7 @@ This date box was given to me at no cost to try out, knowing that I would be giv
 
 # Date Night In Theme: To the moon and back
 
-![date night in, date night in boxes, date night ideas, creative date night ideas, to the moon and back date night, to the moon and back date, date night in to the moon and back, date box review, date boxes, what are date boxes, are date boxes worth it, galaxy cookies, nuts.com, make your own illuminaries,](images/IMG_1802.jpg)
+![date night in, date night in boxes, date night ideas, creative date night ideas, to the moon and back date night, to the moon and back date, date night in to the moon and back, date box review, date boxes, what are date boxes, are date boxes worth it, galaxy cookies, nuts.com, make your own illuminaries,](/images/IMG_1802.jpg)
 
 ### **Included:**
 
@@ -36,7 +36,7 @@ This date box was given to me at no cost to try out, knowing that I would be giv
 - This one had fewer activities focused on talking and connection, which could be seen as a pro or a con. Not every date night has to start with conversations, though. Sometimes you just need some interesting activity and the conversation can flow from there, which is what happened with this activity. 
 - The star-gazing was super fun! I would recommend paying for the upgraded star chart app though, so you can learn more about individual stars you see, but overall the whole thing went together so well!
 
-![date night in, date night in boxes, date night ideas, creative date night ideas, to the moon and back date night, to the moon and back date, date night in to the moon and back, date box review, date boxes, what are date boxes, are date boxes worth it, galaxy cookies, nuts.com, make your own illuminaries,](images/IMG_2931.jpg)
+![date night in, date night in boxes, date night ideas, creative date night ideas, to the moon and back date night, to the moon and back date, date night in to the moon and back, date box review, date boxes, what are date boxes, are date boxes worth it, galaxy cookies, nuts.com, make your own illuminaries,](/images/IMG_2931.jpg)
 
 * * *
 

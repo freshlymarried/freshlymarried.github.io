@@ -22,7 +22,7 @@ I'll explain more about this analogy, what it would look like for a marriage, an
 
 **So why is a "marriage manual" (whether an actual booklet you made or virtual) a helpful thing?** Maybe you’re a newlywed where the game is so new to you that you have to keep checking back to the manual to make sure you are playing correctly. And that’s perfectly fine because eventually, we will get the hang of it! However, I also think that even older married couples have to refer back to the manual at times because we just forget what the original rules are, haha. But that’s why it's great to have a manual there! It’s not only for initial use, but it’s also for when you come across an issue and aren’t sure how to tackle it, you get to refer back to these rules and expectations you established, to know how to move forward.
 
-![game manual of life, game manual, marriage manual, marriage instructions, marriage advice, marriage tips, expectations in marriage, rules in marriage, marriage rule book, marriage help, married life, newlyweds, expectations, conflict in marriage](images/jenny-marvin-1265717-unsplash.jpg)
+![game manual of life, game manual, marriage manual, marriage instructions, marriage advice, marriage tips, expectations in marriage, rules in marriage, marriage rule book, marriage help, married life, newlyweds, expectations, conflict in marriage](/images/jenny-marvin-1265717-unsplash.jpg)
 
 * * *
 
@@ -44,7 +44,7 @@ Maybe some rules feel like they don't need to be said. For example, I think to m
 
 **By establishing rules and expectations ahead of time, you’re basically allowing yourselves to control the conflicts and disagreements of your marriage, rather than having the issues control you.**
 
-![](images/IMG_0168-1-981x1024.jpg)
+![](/images/IMG_0168-1-981x1024.jpg)
 
 * * *
 
@@ -60,7 +60,7 @@ But I’m being serious, the comparison game is real. Maybe you know a friend wh
 
 * * *
 
-![game manual of life, game manual, marriage manual, marriage instructions, marriage advice, marriage tips, expectations in marriage, rules in marriage, marriage rule book, marriage help, married life, newlyweds, expectations, conflict in marriage](images/IMG_1260-1-1-768x1024.jpg)
+![game manual of life, game manual, marriage manual, marriage instructions, marriage advice, marriage tips, expectations in marriage, rules in marriage, marriage rule book, marriage help, married life, newlyweds, expectations, conflict in marriage](/images/IMG_1260-1-1-768x1024.jpg)
 
 ## What Our Game Manual Looks Like
 

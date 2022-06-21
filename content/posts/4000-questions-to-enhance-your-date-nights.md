@@ -18,7 +18,7 @@ We have only used it a few times so far just because our date nights have been w
 
 The thing that I like about this book is that it asks deeper questions than “What’s your favorite food?” Because we should pretty much know that by now in marriage! Instead, the questions just help confirm what you already know about them, or help you further understand your spouse's perspective on a subject. The questions cover a wide range of topics, as you can see outlined in the table of contents:
 
-![IMG_6640](images/IMG_6640-1.jpg)
+![IMG_6640](/images/IMG_6640-1.jpg)
 
 This is not a paid review or anything! I simply am sharing this because we think it could enhance our date nights which is something we are excited about! In my post, ["The Importance of Fun,"](http://freshlymarried.com/the-importance-of-fun/) I know I have mentioned a few times before that it’s important to avoid business talk on dates. Not only can it ruin a mood if the topic is sensitive, but it can ruin the enjoyment you were supposed to have on that date. Sometimes that date is the only time that couples get to just enjoy each other each week, so it should be special. That is why I am grateful for Trevor encouraging this with us.
 

@@ -14,7 +14,7 @@ Carli shares how her husband's bipolar disorder has influenced their relationshi
 
 The thing that I truly admire about this couple is that mental illness influenced their relationship before their first date even began, and yet they still chose to continue dating. Most people would probably not give it a second date, reasoning that it's "too much baggage," ya know? This is so telling of their strength and resilience as a couple, that they felt like pursuing each other would be so worth it, despite knowing that mental illness would most likely influence the rest of their relationship, and potentially the rest of their lives.
 
-![depression, depression in marriage, bipolar disorder in marriage, living with bipolar disorder, mental illness in marriage, spouse with mental illness, how to help spouse with mental illness, marriage advice, struggles in marriage, newlywed help, lds newlyweds, lds and depression](images/16114687_113574839154088_6240222114293844765_n.jpg)
+![depression, depression in marriage, bipolar disorder in marriage, living with bipolar disorder, mental illness in marriage, spouse with mental illness, how to help spouse with mental illness, marriage advice, struggles in marriage, newlywed help, lds newlyweds, lds and depression](/images/16114687_113574839154088_6240222114293844765_n.jpg)
 
 * * *
 
@@ -28,7 +28,7 @@ The biggest success in our marriage is planning, planning, planning and sticking
 
 Our relationship is strong because we WANT it to be strong. **I will not candy coat things and say that our life is easy and always happy.** We went into marriage knowing there is no perfection, and that has been a huge help. There are multiple moments that are easier to give up than to keep going, but we focus so much more on the promises we made when we were married. We have a strong marriage because we live deliberately not by happenstance. We give every moment a purpose and put things in their proper place. We forgive, A LOT, and that is crucial. "We focus of the "WE" not the "I" because even then, illness becomes wellness." **We are on the same side and fight the battle together because we are stronger together.**
 
-![depression, depression in marriage, bipolar disorder in marriage, living with bipolar disorder, mental illness in marriage, spouse with mental illness, how to help spouse with mental illness, marriage advice, struggles in marriage, newlywed help, lds newlyweds, lds and depression](images/IMG_9050-683x1024.jpg)
+![depression, depression in marriage, bipolar disorder in marriage, living with bipolar disorder, mental illness in marriage, spouse with mental illness, how to help spouse with mental illness, marriage advice, struggles in marriage, newlywed help, lds newlyweds, lds and depression](/images/IMG_9050-683x1024.jpg)
 
 * * *
 

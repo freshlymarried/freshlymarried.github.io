@@ -13,7 +13,7 @@ When you're in the middle of a fight or disagreement and things get heated, unco
 
 Some spouses let their frustrations escalate to the point where they say things they later regret. Sometimes one spouse completely shuts down and stops talking altogether. Sometimes the conflict never gets discussed again because the issue caused so much stress and problems. What's interesting, about that, is this IMPORTANT thing to remember:
 
-[![gottman quotes, john gottman, gottman laboratory studies, gottman research, gottman facts, john gottman quotes, john gottman facts, john gottman research on conflict, conflict quotes, facts about conflict, facts about conflict resolution, conflict resolution, calling a time out, call a timeout, calling a timeout in marriage, tips for conflict resolution, conflict resolution in marriage, managing conflict resolution, different styles of conflict resolution, different ways of resolving things, resolving issues in marriage, techniques for solving problems, techniques for marriage, communication techniques, communication techniques for marriage, best technique for managing conflict](images/how-conflict-is-handled-gottman-quote.png)](https://freshlymarried.com/wp-content/uploads/2017/04/how-conflict-is-handled-gottman-quote.png)
+[![gottman quotes, john gottman, gottman laboratory studies, gottman research, gottman facts, john gottman quotes, john gottman facts, john gottman research on conflict, conflict quotes, facts about conflict, facts about conflict resolution, conflict resolution, calling a time out, call a timeout, calling a timeout in marriage, tips for conflict resolution, conflict resolution in marriage, managing conflict resolution, different styles of conflict resolution, different ways of resolving things, resolving issues in marriage, techniques for solving problems, techniques for marriage, communication techniques, communication techniques for marriage, best technique for managing conflict](/images/how-conflict-is-handled-gottman-quote.png)](https://freshlymarried.com/wp-content/uploads/2017/04/how-conflict-is-handled-gottman-quote.png)
 
 **Part of the problem is that we each have different styles of conflict resolution, and that can make it more difficult to actually solve a problem.** And in marriage, you're going to be engaging in conflict resolution with the same person for YEARS. Because of that, it's crucial to know these two big tips to use from here on out:
 
@@ -40,7 +40,7 @@ This leads me right into the next big tip: taking a timeout.
 
 * * *
 
-## [![conflict resolution, calling a time out, call a timeout, calling a timeout in marriage, tips for conflict resolution, conflict resolution in marriage, managing conflict resolution, different styles of conflict resolution, different ways of resolving things, resolving issues in marriage, techniques for solving problems, techniques for marriage, communication techniques, communication techniques for marriage, best technique for managing conflict](images/nathan-shively-57964-1.jpg)](https://freshlymarried.com/wp-content/uploads/2017/04/nathan-shively-57964-1.jpg)
+## [![conflict resolution, calling a time out, call a timeout, calling a timeout in marriage, tips for conflict resolution, conflict resolution in marriage, managing conflict resolution, different styles of conflict resolution, different ways of resolving things, resolving issues in marriage, techniques for solving problems, techniques for marriage, communication techniques, communication techniques for marriage, best technique for managing conflict](/images/nathan-shively-57964-1.jpg)](https://freshlymarried.com/wp-content/uploads/2017/04/nathan-shively-57964-1.jpg)
 
 # Taking a timeout
 
@@ -64,7 +64,7 @@ This technique of calling a timeout is the most important thing for couples to k
 
 Also, there are times where a conflict is brought up at the worst time. And in that situation, a spouse reserves the right to say, _“This is not a good time to talk about this. I would be happy to talk more about this with you when I get home, but I can’t really give this the attention I want because I’m at work.”_
 
-[![conflict resolution, calling a time out, call a timeout, calling a timeout in marriage, tips for conflict resolution, conflict resolution in marriage, managing conflict resolution, different styles of conflict resolution, different ways of resolving things, resolving issues in marriage, techniques for solving problems, techniques for marriage, communication techniques, communication techniques for marriage, best technique for managing conflict](images/christiana-rivers-222360.jpg)](https://freshlymarried.com/wp-content/uploads/2017/04/christiana-rivers-222360.jpg)
+[![conflict resolution, calling a time out, call a timeout, calling a timeout in marriage, tips for conflict resolution, conflict resolution in marriage, managing conflict resolution, different styles of conflict resolution, different ways of resolving things, resolving issues in marriage, techniques for solving problems, techniques for marriage, communication techniques, communication techniques for marriage, best technique for managing conflict](/images/christiana-rivers-222360.jpg)](https://freshlymarried.com/wp-content/uploads/2017/04/christiana-rivers-222360.jpg)
 
 #### **In summary:**
 

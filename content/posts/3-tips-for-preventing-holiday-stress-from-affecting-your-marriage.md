@@ -24,7 +24,7 @@ To keep the focus on the things you enjoy during the holidays, it helps for fami
     - Set up group text messages or emails discussing the plans with family members. You can arrange who brings what dish for dinner, and all the things you’ll be doing that day.
     - No matter what way you discuss these plans, make sure it’s all summarized and shared with everyone so you’re all on the same page and are aware of the plan.
 
-![Holiday stress tips, help with the holiday stress, marriage and holiday stress, marriage stress during the holidays, family stress during the holidays, stressful holidays, help with stress, stress tips, holiday help, marriage advice, marriage advice for the holidays](images/simple-322427.jpg)
+![Holiday stress tips, help with the holiday stress, marriage and holiday stress, marriage stress during the holidays, family stress during the holidays, stressful holidays, help with stress, stress tips, holiday help, marriage advice, marriage advice for the holidays](/images/simple-322427.jpg)
 
 * * *
 
@@ -43,7 +43,7 @@ We all have expectations and traditions we want to experience each holiday seaso
 - If each spouse gets to do at least one tradition or experience they love, there is little room for disappointment.
 - Having your own concrete plans and priorities during the season allows you to make decisions easier. For example, I really love going to see a movie the day before Thanksgiving. We’ve already discussed what movie we would see, what time, and where. If we get offered to do something else that night by friends or family, we already know that this is an important tradition to me and so we know to turn down their offer. But if they want to join us for our movie, they are welcome to!
 
-![](images/andrew-neel-48762.jpg)
+![](/images/andrew-neel-48762.jpg)
 
 * * *
 
@@ -58,7 +58,7 @@ We tend to associate the holidays as being spent with immediate and extended fam
 
 We have had our own little Christmas for two years and have loved it for a few reasons: 1) We get to put our marriage first before family time which is always a good idea. 2) Sometimes family holidays can be disappointing or drama happens, right? (Exhibit A of something we have little control over). If we’ve already celebrated parts of the holiday on our own, whatever happens after that won’t “ruin” our holiday.
 
-![Holiday stress tips, help with the holiday stress, marriage and holiday stress, marriage stress during the holidays, family stress during the holidays, stressful holidays, help with stress, stress tips, holiday help, marriage advice, marriage advice for the holidays](images/ian-schneider-43677.jpg)
+![Holiday stress tips, help with the holiday stress, marriage and holiday stress, marriage stress during the holidays, family stress during the holidays, stressful holidays, help with stress, stress tips, holiday help, marriage advice, marriage advice for the holidays](/images/ian-schneider-43677.jpg)
 
 * * *
 

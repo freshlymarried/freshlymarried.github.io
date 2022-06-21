@@ -36,7 +36,7 @@ Sharing your body and heart with another human being is an incredibly vulnerable
 
 Examples of not feeling much commitment in a marriage: when a spouse leaves the house every time there's a fight when a spouse does not feel like a priority, and obvious ones: cheating has occurred.
 
-![sexual intimacy problems, sexual intimacy, marriage intimacy, sex in marriage, marriage problems, problems in marriage, issues in marriage, marriage issues, safety in marriage, safety in sex, communication, relationship communication, communication help, things that influence sex, problem areas with sex](images/jon-tyson-625912-unsplash.jpg)
+![sexual intimacy problems, sexual intimacy, marriage intimacy, sex in marriage, marriage problems, problems in marriage, issues in marriage, marriage issues, safety in marriage, safety in sex, communication, relationship communication, communication help, things that influence sex, problem areas with sex](/images/jon-tyson-625912-unsplash.jpg)
 
 Feeling safety in those three areas will put your relationship in a MUCH healthier place, which allows communication to open more. 
 
@@ -46,7 +46,7 @@ Feeling safety in those three areas will put your relationship in a MUCH healthi
 
 Let me start by saying that sex is not a quiet act; I mean that literally haha, and figuratively. A healthy sex life requires communication. Not just communicating preferences, insecurities, or problems, but also communicating about birth control or family planning. **Because sexual intimacy is a vulnerable act in general, it can be even MORE vulnerable to talk about these topics with your partner.** 
 
-![sexual intimacy problems, sexual intimacy, marriage intimacy, sex in marriage, marriage problems, problems in marriage, issues in marriage, marriage issues, safety in marriage, safety in sex, communication, relationship communication, communication help, things that influence sex, problem areas with sex](images/brene-brown-vulnerability-1.png)
+![sexual intimacy problems, sexual intimacy, marriage intimacy, sex in marriage, marriage problems, problems in marriage, issues in marriage, marriage issues, safety in marriage, safety in sex, communication, relationship communication, communication help, things that influence sex, problem areas with sex](/images/brene-brown-vulnerability-1.png)
 
 Vulnerability is something that all humans face in all relationships. There's groundwork that has to be done before feeling this kind of courage. It definitely starts with creating a safe space to allow talking to happen which hopefully you've already addressed from above. And then, I believe we can open the door further when we establish openness between us and our partners.
 
@@ -64,7 +64,7 @@ In his book, _"How to Avoid Falling in Love With a Jerk,"_ Van Epp explains OPE
 
 I think it requires just taking the plunge. I mean, **how can your partner know your needs and desires if you're not communicating that to them?** A way to do this ESPECIALLY if it feels a little scary or awkward is to use the [ABC Formula](https://freshlymarried.com/the-abc-formula/) template.
 
-![sexual intimacy problems, sexual intimacy, marriage intimacy, sex in marriage, marriage problems, problems in marriage, issues in marriage, marriage issues, safety in marriage, safety in sex, communication, relationship communication, communication help, things that influence sex, problem areas with sex](images/gus-moretta-371897-unsplash-2.jpg)
+![sexual intimacy problems, sexual intimacy, marriage intimacy, sex in marriage, marriage problems, problems in marriage, issues in marriage, marriage issues, safety in marriage, safety in sex, communication, relationship communication, communication help, things that influence sex, problem areas with sex](/images/gus-moretta-371897-unsplash-2.jpg)
 
 * * *
 
@@ -80,7 +80,7 @@ Some examples:
 
 I could explain all day how much we can be influenced by our attitudes, beliefs, teachings, and experiences, but the whole point is to identify and work through the ones that are negatively influencing your sexual relationship with your spouse.
 
-![sexual intimacy problems, sexual intimacy, marriage intimacy, sex in marriage, marriage problems, problems in marriage, issues in marriage, marriage issues, safety in marriage, safety in sex, communication, relationship communication, communication help, things that influence sex, problem areas with sex](images/kinga-cichewicz-513031-unsplash.jpg)
+![sexual intimacy problems, sexual intimacy, marriage intimacy, sex in marriage, marriage problems, problems in marriage, issues in marriage, marriage issues, safety in marriage, safety in sex, communication, relationship communication, communication help, things that influence sex, problem areas with sex](/images/kinga-cichewicz-513031-unsplash.jpg)
 
 * * *
 

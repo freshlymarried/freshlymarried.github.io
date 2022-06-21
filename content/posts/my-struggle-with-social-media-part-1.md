@@ -15,7 +15,7 @@ coverImage: "blog-struggle-with-social-media-part-1.png"
 
 * * *
 
-#### ![struggles with social media, social media pitfalls, common struggles with social media, struggles of social media, addicted to social media, social media affecting marriage, marriage help, marriage advice, marriage enrichment, relationship education, newlywed](images/IMG_0277.jpg)
+#### ![struggles with social media, social media pitfalls, common struggles with social media, struggles of social media, addicted to social media, social media affecting marriage, marriage help, marriage advice, marriage enrichment, relationship education, newlywed](/images/IMG_0277.jpg)
 
 #### What started it
 

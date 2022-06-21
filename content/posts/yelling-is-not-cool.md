@@ -18,7 +18,7 @@ When we were living in an apartment still, there was a new family that moved in
 
  
 
-![yelling, shouting, anger in marriage, marriage fights, marriage arguments, relationship advice, marriage advice, marriage downfalls, yelling in marriage, not yelling in marriage, avoiding yelling in marriage, don't raise your voice in marriage, relationship advice, relationship help, keys to a successful relationship, david o mckay quotes, lds quotes, good lds quotes on marriage, let husband and wife never speak to one another in loud tones unless the house is on fire](images/never-yell.png)
+![yelling, shouting, anger in marriage, marriage fights, marriage arguments, relationship advice, marriage advice, marriage downfalls, yelling in marriage, not yelling in marriage, avoiding yelling in marriage, don't raise your voice in marriage, relationship advice, relationship help, keys to a successful relationship, david o mckay quotes, lds quotes, good lds quotes on marriage, let husband and wife never speak to one another in loud tones unless the house is on fire](/images/never-yell.png)
 
 ### Why is yelling not cool?
 

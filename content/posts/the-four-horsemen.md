@@ -19,7 +19,7 @@ Some of you may be familiar with him, or with this particular theory. I think it
 
 If you are like me, you like to learn helpful life tips through bullet points and summaries. Since these ways tend to help me remember information the best, I have simplified the ideas behind each horseman in bullet points and have given my thoughts for each, as well. I hope you find this helpful to implement in your own life!
 
-![john gottman, the four horsemen of the apocalypse, resolving marital conflict, things to avoid in marital conflict, newlywed conflict, what to avoid doing in conflict, defensiveness in marriage, avoidance in marriage, criticism in marriage, contempt in marriage, stonewalling in marriage, marriage help, marriage advice, newlywed advice, communication advice, relationship expert, marriage specialist, relationship education](images/IMG_0256-1.jpg)
+![john gottman, the four horsemen of the apocalypse, resolving marital conflict, things to avoid in marital conflict, newlywed conflict, what to avoid doing in conflict, defensiveness in marriage, avoidance in marriage, criticism in marriage, contempt in marriage, stonewalling in marriage, marriage help, marriage advice, newlywed advice, communication advice, relationship expert, marriage specialist, relationship education](/images/IMG_0256-1.jpg)
 
 * * *
 
@@ -96,7 +96,7 @@ This is when an overwhelmed feeling is caused by the contempt, criticism, and de
 
 * * *
 
-#### ![john gottman, the four horsemen of the apocalypse, resolving marital conflict, things to avoid in marital conflict, newlywed conflict, what to avoid doing in conflict, defensiveness in marriage, avoidance in marriage, criticism in marriage, contempt in marriage, stonewalling in marriage, marriage help, marriage advice, newlywed advice, communication advice, relationship expert, marriage specialist, relationship education](images/takahiro-sakamoto-181476.jpg)
+#### ![john gottman, the four horsemen of the apocalypse, resolving marital conflict, things to avoid in marital conflict, newlywed conflict, what to avoid doing in conflict, defensiveness in marriage, avoidance in marriage, criticism in marriage, contempt in marriage, stonewalling in marriage, marriage help, marriage advice, newlywed advice, communication advice, relationship expert, marriage specialist, relationship education](/images/takahiro-sakamoto-181476.jpg)
 
 #### Avoid the Horsemen
 

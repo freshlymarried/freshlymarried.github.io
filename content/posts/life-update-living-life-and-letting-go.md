@@ -14,9 +14,9 @@ _This post contains affiliate links to Amazon. Which means Freshly Married can m
 
 People have been asking how I am doing since I have been absent from posting much on the Freshly Married website and social media. And to answer everyone, I am doing GREAT! Some days are anxiety-ridden and November to mid-December we’re pretty tiring ( #sleepregression ). But we have been just enjoying life altogether regardless. Here is what Jack and Ethan look like! I know, right? I can't believe I made these bundles of cuteness!
 
-![](images/75B164E6-5B17-4722-BC66-F81BA53B8B01.jpeg)
+![](/images/75B164E6-5B17-4722-BC66-F81BA53B8B01.jpeg)
 
-![](images/9F45CC91-7E92-4A68-AAF8-F12EAB6C94EC-1.jpeg)
+![](/images/9F45CC91-7E92-4A68-AAF8-F12EAB6C94EC-1.jpeg)
 
 * * *
 
@@ -34,15 +34,15 @@ We have an amazing sitter we found on [care.com](http://care.com) who comes once
 
 **We’ve been so much more intentional about our dates and using the few hours set aside each week to focus on us.** Some things we constantly do: have dinner together! WOW is it so nice to eat slower and not listen to fussy babies while trying to enjoy a meal! We discovered we like to go to a soda place and get flavored drinks while playing a game with each other on our phone, watching funny videos together, or doing more of our [uncommon questions.](https://amzn.to/2O8Z8ci) We always bring these cards with us to dinner, too! Monthly dates to worship in our church’s temple. We did the lime scooters at a mall nearby, Pumpkin Nights, ice skating (which we realized our bodies aren’t good at anymore!), movies (although not as easy to make work with time), and we recently picked back up our desire for sketching and drawing together. So Needless to say, we have been busy having fun and connecting with each other.
 
-![](images/490D2C4B-0FF9-47B6-A271-6631A4239E9C.jpeg)
+![](/images/490D2C4B-0FF9-47B6-A271-6631A4239E9C.jpeg)
 
-![](images/33AF0BF8-E434-4EE6-B05E-7EC2CD6810A5.jpeg)
+![](/images/33AF0BF8-E434-4EE6-B05E-7EC2CD6810A5.jpeg)
 
-![](images/19A62D77-9742-42CE-85BD-BB0228EF804F-1.jpeg)
+![](/images/19A62D77-9742-42CE-85BD-BB0228EF804F-1.jpeg)
 
-![](images/3D54BFFB-26D0-449A-B37C-10B330DA28AD.jpeg)
+![](/images/3D54BFFB-26D0-449A-B37C-10B330DA28AD.jpeg)
 
-![](images/69F720B0-8F1C-41D3-85D4-4772C1CD5F5A.jpeg)
+![](/images/69F720B0-8F1C-41D3-85D4-4772C1CD5F5A.jpeg)
 
 * * *
 

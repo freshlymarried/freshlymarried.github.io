@@ -23,6 +23,6 @@ Watch the video on what it looks like, how it works, and step by step instructio
 
 Here's the [Tape Glider](https://amzn.to/2JeUepj) I use in the video that has CHANGED MY LIFE! And then I'm sharing some of my favorite papercrafting embellishments that you can use to decorate this card! (Can you tell Heidi Swapp is my fav?!) [Heidi Swapp Ephemera pack](https://amzn.to/2Jg7rhz), [Heidi Swapp Epoxy Stickers Black](https://amzn.to/2F43ZUX), [Heidi Swapp Gold Foil Chipboard Stickers](https://amzn.to/2F5Ti3S), [Heidi Swapp Journal Spots](https://amzn.to/2HV6Dzr).
 
-![](images/51eqa88RxL-300x300.jpg)![](images/51AKd8ThwL-300x300.jpg)
+![](/images/51eqa88RxL-300x300.jpg)![](/images/51AKd8ThwL-300x300.jpg)
 
-![](images/81Xb6kxZedL._SL1500_-183x300.jpg)          ![](images/719vH3WbPL._SL1200_-300x300.jpg)
+![](/images/81Xb6kxZedL._SL1500_-183x300.jpg)          ![](/images/719vH3WbPL._SL1200_-300x300.jpg)

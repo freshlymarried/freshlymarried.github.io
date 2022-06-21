@@ -18,7 +18,7 @@ I received two loving reminders this week:
 
 1. I was flipping through pages of my mom's [soup cookbook](https://www.amazon.com/Soups-Valerie-Phillips/dp/162108129X/ref=sr_1_3?ie=UTF8&qid=1487994379&sr=8-3&keywords=valerie+phillips) (Yep, my mom's pretty cool to have her own cookbook), looking for new soups to try out. She gave us our own copy when we got married, and as I was flipping through, I saw the title page where she wrote her little dedication to us.
 
-![soup's on, cookbook, soup's on cookbook, a joyful marriage, finding joy in marriage, finding joy, marriage advice, positive marriage, a positive marriage, positive marriage examples, marriage goals, relationship goals, newlywed goals, newlywed life, newlywed advice, newlywed help, lds newlyweds, lds marriage, lds marriage advice, marriage campaign](images/IMG_0425.jpg)
+![soup's on, cookbook, soup's on cookbook, a joyful marriage, finding joy in marriage, finding joy, marriage advice, positive marriage, a positive marriage, positive marriage examples, marriage goals, relationship goals, newlywed goals, newlywed life, newlywed advice, newlywed help, lds newlyweds, lds marriage, lds marriage advice, marriage campaign](/images/IMG_0425.jpg)
 
 The words may not be the most profound thing we've ever heard, haha, but the meaning behind it still came across that our family cares about our union, and they want it to succeed.
 

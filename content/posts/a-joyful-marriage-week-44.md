@@ -13,11 +13,11 @@ coverImage: "ajm-week-44.png"
 
 We have this thing called “ultimate couch bed” that we like to do periodically throughout the year. Particularly when there are some movie marathons of tv show binge watching or someone is sick and we know we will be on the couch all weekend :) It's where we rearrange our couch sectional pieces in the living room to form one giant couch right in front of the TV.
 
-![ultimate couch, ultimate couch bed, ultimate fort, fort in living room, date night fort, date night ultimate couch, indoor date night ideas, bed canopy for living room, finding joy, joy in marriage, a joyful marriage](images/IMG_0953-768x1024.jpg)
+![ultimate couch, ultimate couch bed, ultimate fort, fort in living room, date night fort, date night ultimate couch, indoor date night ideas, bed canopy for living room, finding joy, joy in marriage, a joyful marriage](/images/IMG_0953-768x1024.jpg)
 
 In the past, I've just hung up old bed sheets from the ceiling above, but a few weeks ago I decided I should just get a more legit bed canopy over it so it would be easier. THEN I saw their prices and all the piece I had to assemble it and figured that I could just do the same thing for half the cost and it can be customized. So I did :)
 
-![ultimate couch, ultimate couch bed, ultimate fort, fort in living room, date night fort, date night ultimate couch, indoor date night ideas, bed canopy for living room, finding joy, joy in marriage, a joyful marriage,](images/IMG_0893.jpg)
+![ultimate couch, ultimate couch bed, ultimate fort, fort in living room, date night fort, date night ultimate couch, indoor date night ideas, bed canopy for living room, finding joy, joy in marriage, a joyful marriage,](/images/IMG_0893.jpg)
 
 I took two new flat sheets I bought in colors I thought looked fun and matched our house similarly and secured them in a big embroidery hoop. (Extra wifey points because it's one of my husband's favorite colors!) Before tightening the hoop, I laced through it 3 pieces of elastic ribbon so that I could hang it from the ceiling fan a little easier. I had to tape the back opening down a bit because it kept caving in, but not a bad little adjustment. The hardest part of this project: ironing out all the creases in the sheets so it looked nicer. OK, NOT ALLLLLL OF THE CREASES, haha but much better than it looked out of the package!
 

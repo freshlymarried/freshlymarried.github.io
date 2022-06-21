@@ -28,7 +28,7 @@ After about twenty more minutes of me venting to my keyboard, I thought about wh
 
 * * *
 
-#### ![struggles with social media, social media pitfalls, common struggles with social media, struggles of social media, addicted to social media, social media affecting marriage, marriage help, marriage advice, marriage enrichment, relationship education, newlywed](images/THERE-is-no-contest-among-marriages-1.jpg)
+#### ![struggles with social media, social media pitfalls, common struggles with social media, struggles of social media, addicted to social media, social media affecting marriage, marriage help, marriage advice, marriage enrichment, relationship education, newlywed](/images/THERE-is-no-contest-among-marriages-1.jpg)
 
 #### Trying too hard
 

@@ -19,7 +19,7 @@ And I don't want to be one of those people that posts everything on their dog, h
 
 This is us taking him on his first trip to Maverik (yes the gas station where I get a fountain drink every day), haha. He is always so entertained by what's happening around him when we go on car rides. It's fun to watch him. Though he didn't actually come in and get a drink with me like our family usually does on these drink runs, he was able to get ahold of the straw to Trevor's drink, hahaha. So I can tell he enjoys this tradition :) WHICH ALSO BRINGS ME JOY! (happy tears emoji times 3!)
 
-![](images/IMG_1902.jpg)
+![](/images/IMG_1902.jpg)
 
 * * *
 

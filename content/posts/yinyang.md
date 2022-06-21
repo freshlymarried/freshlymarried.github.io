@@ -12,7 +12,7 @@ coverImage: "worthy-of-elegance-6723.jpg"
 
  
 
-\[caption id="attachment\_1442" align="alignnone" width="550"\][![The Yin & Yang Of Marriage](images/yin-yang.jpg)](https://freshlymarried.com/wp-content/uploads/2013/12/yin-yang.jpg) This is a picture of our "hobby" room. One half of the picture is Amy's "crafting corner" and the other half is my "coding corner". Can you tell which side is Amy's and which is mine? Uh...let's just say we have our own styles of organization...hahaha :)\[/caption\]
+\[caption id="attachment\_1442" align="alignnone" width="550"\][![The Yin & Yang Of Marriage](/images/yin-yang.jpg)](https://freshlymarried.com/wp-content/uploads/2013/12/yin-yang.jpg) This is a picture of our "hobby" room. One half of the picture is Amy's "crafting corner" and the other half is my "coding corner". Can you tell which side is Amy's and which is mine? Uh...let's just say we have our own styles of organization...hahaha :)\[/caption\]
 
 ### Two IS better than one
 

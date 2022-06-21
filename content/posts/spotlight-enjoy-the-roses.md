@@ -27,7 +27,7 @@ It's often said that every little girl wants to marry someone like their dad. I 
 
 **I've 'forgotten the rolls' in our little relationship over and over. I'm sure there are even more times I haven't realized yet. Jake doesn't bring it up though, he brings roses. I bet that's why I'm so happy.**
 
-[![madeline topham, tophams, enjoy the roses, why you should enjoy the roses, learning from your parents, experiences in marriage, learning from marriage experiences, newlyweds, lds newlyweds, happiness in marriage, cute marriage stories, cute newlywed stories, marriage advice, marriage help,](images/18159953_1895479337400747_741150667_o-1-872x1024.jpg)](https://freshlymarried.com/wp-content/uploads/2017/04/18159953_1895479337400747_741150667_o-1.jpg)
+[![madeline topham, tophams, enjoy the roses, why you should enjoy the roses, learning from your parents, experiences in marriage, learning from marriage experiences, newlyweds, lds newlyweds, happiness in marriage, cute marriage stories, cute newlywed stories, marriage advice, marriage help,](/images/18159953_1895479337400747_741150667_o-1-872x1024.jpg)](https://freshlymarried.com/wp-content/uploads/2017/04/18159953_1895479337400747_741150667_o-1.jpg)
 
 * * *
 

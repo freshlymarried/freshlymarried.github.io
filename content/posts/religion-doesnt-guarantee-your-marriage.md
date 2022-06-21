@@ -30,4 +30,4 @@ No matter what kind of marriage you have, it takes work to keep it happy and hea
 
 YOU choose whether to follow basic marriage principles or not. YOU choose if you want to uphold these forever or not.
 
-![wedding, lds wedding, wedding ceremony, wedding day, newlyweds, marriage advice, religion doesn't guarantee your marriage, religion in marriage, applying religion in marriage, applying faith in marriage, marriage principles, applying marriage principles to your marriage, relationship advice, wedding preparation, pre-marital advice, work in your marriage, happily ever after](images/IMG_0891.jpg)
+![wedding, lds wedding, wedding ceremony, wedding day, newlyweds, marriage advice, religion doesn't guarantee your marriage, religion in marriage, applying religion in marriage, applying faith in marriage, marriage principles, applying marriage principles to your marriage, relationship advice, wedding preparation, pre-marital advice, work in your marriage, happily ever after](/images/IMG_0891.jpg)

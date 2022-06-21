@@ -18,4 +18,4 @@ coverImage: "blog-size-First-3-weeks-being-married.png"
 - Selfishness will never prosper in a partnership.
 - Cuddling can fix sooooo many things!
 
-![date night, newlywed date night, maceys kong cones, temple date nights](images/2013-06-08252021.21.58-1.jpg)
+![date night, newlywed date night, maceys kong cones, temple date nights](/images/2013-06-08252021.21.58-1.jpg)

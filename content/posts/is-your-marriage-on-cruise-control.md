@@ -18,13 +18,13 @@ I think **cruise control in marriage is like when you're just going through the 
 
 And that's the dangerous part of cruise control in marriage, YOU CAN'T STOP PAYING ATTENTION! Even though your foot gets to rest off of the gas, you're still expected to hold and guide the steering wheel, making sure nothing hazardous suddenly appears. Not doing so could result in an accident... Especially when you come to areas of sudden traffic.
 
-![cruise control, dangers of cruise control, dangers of cruise control in marriage, auto pilot marriage, cruise control marriage, not paying attention in marriage, marriage advice, marriage help, complacency in marriage, complacent marriage, relationship goals, marriage goals](images/photo-1461723198950-3f65e13bb031.jpg)
+![cruise control, dangers of cruise control, dangers of cruise control in marriage, auto pilot marriage, cruise control marriage, not paying attention in marriage, marriage advice, marriage help, complacency in marriage, complacent marriage, relationship goals, marriage goals](/images/photo-1461723198950-3f65e13bb031.jpg)
 
 There is lots of safety when it comes to paying attention. Not only do you lessen your likelihood of getting in an accident, but the sudden traffic is not so abrupt. You know what I mean? I can think back on many times where I have been driving on the freeway and I see some new scenery or new building to look at. When I look back up, suddenly everyone starts putting on their brake lights and I have to slam on my brakes to avoid hitting them.  If I had been looking up the entire time, I would have been able to anticipate the need to brake much earlier.
 
 Translate this to marriage ----> Spouses often think everything is going fine in their relationship until their spouse brings up an issue and it feels completely out of nowhere. Maybe you are so caught off guard because you hadn't picked up on your spouse's behaviors lately. Maybe your spouse should have communicated how they were feeling sooner, but it is also your responsibility to be available for them to do so.
 
-![cruise control, dangers of cruise control, dangers of cruise control in marriage, auto pilot marriage, cruise control marriage, not paying attention in marriage, marriage advice, marriage help, complacency in marriage, complacent marriage, relationship goals, marriage goals](images/photo-1473646910415-5bf513680e98.jpeg)
+![cruise control, dangers of cruise control, dangers of cruise control in marriage, auto pilot marriage, cruise control marriage, not paying attention in marriage, marriage advice, marriage help, complacency in marriage, complacent marriage, relationship goals, marriage goals](/images/photo-1473646910415-5bf513680e98.jpeg)
 
 * * *
 

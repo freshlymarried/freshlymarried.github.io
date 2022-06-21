@@ -32,4 +32,4 @@ Now take your hand and give yourself a pat on the back because YOU DESERVE IT!
 
 Also, there's an awesome facebook group specifically for wives wanting to strengthen their marriage through discussion, inspiration, and weekly challenges with other wives, and me, of course! Click on the picture and it will take you to the closed facebook group!
 
-[![](images/IMG_0393-1.jpg)](https://www.facebook.com/groups/freshlymarried/)
+[![](/images/IMG_0393-1.jpg)](https://www.facebook.com/groups/freshlymarried/)

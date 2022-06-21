@@ -13,7 +13,7 @@ One dilemma all marriages find themselves in is how to best tell their partner h
 
 I'm going to teach you a master technique of doing this and it's seriously so simple! It's as simple as saying your ABC's! That's why I call it the ABC formula. It works like this:
 
-![imessages, iphone app, imessages, text message in marriage, text messaging spouse, difficult conversations with spouse, how to start a difficult conversation, stating how you feel, stating how you feel in marriage, xyz statements, abc statements, abc, abc's of marriage, abcs of marriage, helpful trick in marriage, marriage advice, marriage expert, relationship expert, marriage goals, marriage help, abc's, abc's in marriage, formula, communication techniques, communication techniques in marriage, marriage specialist, relationship specialist, telling your spouse something difficult, telling your spouse how you feel](images/abc-formula.png)
+![imessages, iphone app, imessages, text message in marriage, text messaging spouse, difficult conversations with spouse, how to start a difficult conversation, stating how you feel, stating how you feel in marriage, xyz statements, abc statements, abc, abc's of marriage, abcs of marriage, helpful trick in marriage, marriage advice, marriage expert, relationship expert, marriage goals, marriage help, abc's, abc's in marriage, formula, communication techniques, communication techniques in marriage, marriage specialist, relationship specialist, telling your spouse something difficult, telling your spouse how you feel](/images/abc-formula.png)
 
 * * *
 
@@ -33,7 +33,7 @@ Some people call this formula "I-Messages" because you start with "I" and are sp
 
  
 
-![imessages, iphone app, imessages, text message in marriage, text messaging spouse, difficult conversations with spouse, how to start a difficult conversation, stating how you feel, stating how you feel in marriage, xyz statements, abc statements, abc, abc's of marriage, abcs of marriage, helpful trick in marriage, marriage advice, marriage expert, relationship expert, marriage goals, marriage help](images/IMG_0264.jpg)
+![imessages, iphone app, imessages, text message in marriage, text messaging spouse, difficult conversations with spouse, how to start a difficult conversation, stating how you feel, stating how you feel in marriage, xyz statements, abc statements, abc, abc's of marriage, abcs of marriage, helpful trick in marriage, marriage advice, marriage expert, relationship expert, marriage goals, marriage help](/images/IMG_0264.jpg)
 
 For those of you who have an iPhone, you'll know that the app you use to send text messages is called "iMessages." So I typed out this formula in a text message, as if I was sending it to my spouse. And guess what happened?? there's that little notification below the text that says my message was "delivered." :) GET IT?? It's like I said above; when we use this formula for bringing up an issue with our spouse, it almost always is going to be delivered and received better, which allows them to understand your feelings more.
 

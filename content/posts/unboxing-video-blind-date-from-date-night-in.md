@@ -19,7 +19,7 @@ I wrote an article on [how date boxes work](https://freshlymarried.com/what-you-
 
 I get a lot of questions about them, and date boxes in general so I figured I should do an unboxing video to give couples a better idea of what they entail.  I did a quick video below giving you a glimpse into this particular month's box called. "Blind Date" and a few hours later hubby and I actually enjoyed the date ourselves :)  Here's the ONE picture I got of us enjoying it, haha.
 
-![date night in box, date night in, date box, date box review, date box marriage, date night, at home date, marriage date, blindfold date, blindfold date ideas](images/IMG_0368.jpg)
+![date night in box, date night in, date box, date box review, date box marriage, date night, at home date, marriage date, blindfold date, blindfold date ideas](/images/IMG_0368.jpg)
 
 (Total disclosure, they sent me the box for free but did not ask me to do a video, I felt like it. Opinions are my own. And yes, some of the links are affiliate links so if you buy a box, I make a small percentage of that.)
 

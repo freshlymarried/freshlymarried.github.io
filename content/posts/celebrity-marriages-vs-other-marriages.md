@@ -19,7 +19,7 @@ I know we are all used to seeing celebrity couples splitting up, but gosh has an
 
 - **Their careers are different from normal couples**. When I think of a typical married couple I picture this: working the 9-5 at their jobs, and coming home to dinner together almost every weeknight. On the weekends they have date nights, spend time doing their hobbies, and/or see their family and friends. Most of us could say that's fairly typical, right? For a celebrity, I can imagine their lives being so much busier than that! If one spouse is a musician and they are touring the country, or one spouse is off in Europe filming a movie, that's a lot of time away from each other. I bet it's ten times more difficult if both spouses have similar careers and have less time for each other! **Marriage requires a lot of sacrifices from each partner, two of which are time and effort. Some couples don't have or aren't willing to give enough of those two things to make it work.**
 
-![engaement photos. lds engagement photos, celebrity marriages, celebrity marriages different from normal marriages,](images/IMG_0123.jpg)
+![engaement photos. lds engagement photos, celebrity marriages, celebrity marriages different from normal marriages,](/images/IMG_0123.jpg)
 
  
 

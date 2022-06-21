@@ -28,7 +28,7 @@ Your spouse is not just some semester lab partner that you can be rid of after f
 
 * * *
 
-![marriage is hard work, what kind of hard work is marriage, forever in marriage, cute forever photos, cute marriage photos, cute engagement photos, marriage help, keeping trying in marriage, effort in marriage, improvement, marriage is hard work, why is marriage hard work, marriage advice, great marriage advice, marriage specialist, marriage help](images/762A2684-135.jpg)
+![marriage is hard work, what kind of hard work is marriage, forever in marriage, cute forever photos, cute marriage photos, cute engagement photos, marriage help, keeping trying in marriage, effort in marriage, improvement, marriage is hard work, why is marriage hard work, marriage advice, great marriage advice, marriage specialist, marriage help](/images/762A2684-135.jpg)
 
 This HARD work has the power to bring you closer than ever before, and it totally has done that for my marriage. So don't be afraid of the uncomfortableness, heartache, or disappointment that you might have to get through first because I'm telling you, that hard work will be worth it. :)
 

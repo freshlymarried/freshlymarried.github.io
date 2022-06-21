@@ -21,7 +21,7 @@ She talks about how as humans we have two fundamental human needs that conflict 
 > 
 >  
 
-![be everything mentality, we can't be everything, you cannot depend on your spouse to be your entire happiness, meeting needs in marriage, meeting your spouse's needs, how does she do it, do everything mentality, esther perel, esther perel ted talk](images/ben-rosett-10613-unsplash-1.jpg)
+![be everything mentality, we can't be everything, you cannot depend on your spouse to be your entire happiness, meeting needs in marriage, meeting your spouse's needs, how does she do it, do everything mentality, esther perel, esther perel ted talk](/images/ben-rosett-10613-unsplash-1.jpg)
 
 * * *
 
@@ -39,7 +39,7 @@ She talks about how as humans we have two fundamental human needs that conflict 
 
 **Which is why I'm a firm believer in this statement:**
 
-![be everything mentality, we can't be everything, you cannot depend on your spouse to be your entire happiness, meeting needs in marriage, meeting your spouse's needs, how does she do it, do everything mentality, esther perel, ester perel ted talk](images/entire-happiness.jpg)
+![be everything mentality, we can't be everything, you cannot depend on your spouse to be your entire happiness, meeting needs in marriage, meeting your spouse's needs, how does she do it, do everything mentality, esther perel, ester perel ted talk](/images/entire-happiness.jpg)
 
 * * *
 
@@ -63,7 +63,7 @@ These doubts can be so pressuring to you and your spouse, putting a huge burden 
 - **Spend time apart like vacations, business trips, or at the very least, have a girls night or guys night.** Esther traveled the world to ask couples at what times they were most attracted to their partner and the majority said, “When we have spent time apart” or “When we reunite.” Which means that absence makes the heart grow fonder :)
 - **Instead of thinking about what your marriage _isn't_, think about what it _IS_.** We tend to focus on the lack we feel, rather than the abundance. Focus on the good things in your marriage and be grateful for that.
 
-![be everything mentality, we can't be everything, you cannot depend on your spouse to be your entire happiness, meeting needs in marriage, meeting your spouse's needs, how does she do it, do everything mentality, esther perel, esther perel ted talk](images/jose-escobar-415663-unsplash.jpg)
+![be everything mentality, we can't be everything, you cannot depend on your spouse to be your entire happiness, meeting needs in marriage, meeting your spouse's needs, how does she do it, do everything mentality, esther perel, esther perel ted talk](/images/jose-escobar-415663-unsplash.jpg)
 
 As a spouse, I encourage you to drop the “be everything” mentality, because it’s just not reasonable. We can’t expect our spouse to fulfill all of our needs, because they won’t. We can’t can’t expect ourselves to be a superhero by consistently being and doing all these magnificent things in marriage, because it’s just not possible.
 

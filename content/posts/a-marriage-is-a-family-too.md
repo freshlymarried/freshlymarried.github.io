@@ -17,7 +17,7 @@ Sometimes I get the feeling that people take marriage for granted or discount it
 
 I know I use this phrase like everybody else, but it's funny to hear us when we say that having kids is "starting a family." But really it begins when two people agree to love and honor each other forever. They make a binding decision together legally, emotionally, and spiritually, especially in changing their names to be the same! **This should be recognized as a family to everyone! It's the foundation established before children come, and it's the most important foundation we will ever build!**
 
-![taking marriage for granted, marriage advice, marriage blog, utah blogger, marriage expert, marriage specialist, marriage foundation, foundation of marriage, foundation of the family, husband and wife, family of husband and wife, family of two, marriage family, marriage support, respecting marriage, ](images/IMG_0071-1.jpg)
+![taking marriage for granted, marriage advice, marriage blog, utah blogger, marriage expert, marriage specialist, marriage foundation, foundation of marriage, foundation of the family, husband and wife, family of husband and wife, family of two, marriage family, marriage support, respecting marriage, ](/images/IMG_0071-1.jpg)
 
 * * *
 
@@ -27,7 +27,7 @@ I think many of us know this truth, but as we have seen others demonstrate other
 
 This example has always been a testament to me that **when we see others put less importance on their marriage, it can influence us to do the same.** I don't want that to happen to me when more demands of life set in -- number one being having children! What people forget is that **your family was built on the two of you, so it has to be sustained by the two of you**, not your children!
 
-![taking marriage for granted, marriage advice, marriage blog, utah blogger, marriage expert, marriage specialist, marriage foundation, foundation of marriage, foundation of the family, husband and wife, family of husband and wife, family of two, marriage family, marriage support, respecting marriage, ](images/IMG_0562.jpg)
+![taking marriage for granted, marriage advice, marriage blog, utah blogger, marriage expert, marriage specialist, marriage foundation, foundation of marriage, foundation of the family, husband and wife, family of husband and wife, family of two, marriage family, marriage support, respecting marriage, ](/images/IMG_0562.jpg)
 
 I've written a lot about this topic that I felt like needed to be split into two posts. So go to [this post](http://freshlymarried.com/invest-more-in-your-marriage-than-in-your-kids/) to read my suggestions on things we can cut back on in order to keep our marriage first. It might ruffle feathers that I address how motherhood gets in the way, but hear me out. If you didn't need reminding that a marriage is also a family, we can all use reminding about this next upcoming post!
 

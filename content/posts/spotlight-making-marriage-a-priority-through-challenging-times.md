@@ -26,7 +26,7 @@ This past year, we went through a number of challenges, but the biggest one was 
 
 We found that the best thing to do was to fight against the problem as a team rather than letting it cause fights between the two of us. Tackling your challenges as a team does a lot of things for your marriage. It teaches you how to problem solve together, brings you closer as a couple and strengthens your marriage relationship. If you are able to go through a trial and come out the other side better off as individuals and a couple, you’ll be that much more prepared to tackle the next thing that comes your way.
 
-![a prioritized marriage, prioritizing your marriage, marriage advice, marriage help, learning from wives, learning in your marriage, how to get through challenging times in marriage, challenges in marriage, lds marriage, newlyweds, newlywed advice](images/lambertsen-43-1.jpg)
+![a prioritized marriage, prioritizing your marriage, marriage advice, marriage help, learning from wives, learning in your marriage, how to get through challenging times in marriage, challenges in marriage, lds marriage, newlyweds, newlywed advice](/images/lambertsen-43-1.jpg)
 
 * * *
 
@@ -42,7 +42,7 @@ Here’s the thing… Making your marriage a priority doesn’t mean that you ha
 
 If you are constantly working on your marriage and trying to better the relationship that you have with your spouse, you will be more likely to succeed in marriage! 
 
-![a prioritized marriage, prioritizing your marriage, marriage advice, marriage help, learning from wives, learning in your marriage, how to get through challenging times in marriage, challenges in marriage, lds marriage, newlyweds, newlywed advice](images/EIMGP0142-2-929x1024.jpg)
+![a prioritized marriage, prioritizing your marriage, marriage advice, marriage help, learning from wives, learning in your marriage, how to get through challenging times in marriage, challenges in marriage, lds marriage, newlyweds, newlywed advice](/images/EIMGP0142-2-929x1024.jpg)
 
 * * *
 

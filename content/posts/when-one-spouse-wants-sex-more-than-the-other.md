@@ -32,7 +32,7 @@ A very common complaint among married couples, especially couples that have sexu
 - They may not feel aroused yet and they need you to put forth an effort to help them.
 - Maybe they don’t like it because they don’t get anything out of it; it’s not pleasurable for them.
 
-![sexual intimacy, sexual intimacy tips, sexual intimacy advice, sexual intimacy advice for newlyweds, my spouse wants sex more, when your spouse wants sex more than you do, my spouse doesn't like sex, I like sex more than my spouse, tips for sexual intimacy, marriage advice, marriage help, ](images/hs-lee-315171.jpg)
+![sexual intimacy, sexual intimacy tips, sexual intimacy advice, sexual intimacy advice for newlyweds, my spouse wants sex more, when your spouse wants sex more than you do, my spouse doesn't like sex, I like sex more than my spouse, tips for sexual intimacy, marriage advice, marriage help, ](/images/hs-lee-315171.jpg)
 
 * * *
 
@@ -44,7 +44,7 @@ Many couples go years feeling this imbalance in sexual desire, and it builds res
 
 When you do talk about it, speak your truth by using the [ABC formula](https://freshlymarried.com/the-abc-formula/). You can generalize it if you consistently feel the same way about the issue, like: _“I feel \_\_\_\_ when we try to have sex.”_ or _“I feel \_\_\_\_\_ when we don’t have sex.”_ OR you can make it more specific like: _“I feel \_\_\_\_\_ when you \_\_\_\_\_\_ the other night._
 
-![sexual intimacy, sexual intimacy tips, sexual intimacy advice, sexual intimacy advice for newlyweds, my spouse wants sex more, when your spouse wants sex more than you do, my spouse doesn't like sex, I like sex more than my spouse, tips for sexual intimacy, marriage advice, marriage help,](images/jamie-street-207826.jpg)
+![sexual intimacy, sexual intimacy tips, sexual intimacy advice, sexual intimacy advice for newlyweds, my spouse wants sex more, when your spouse wants sex more than you do, my spouse doesn't like sex, I like sex more than my spouse, tips for sexual intimacy, marriage advice, marriage help,](/images/jamie-street-207826.jpg)
 
 * * *
 
@@ -72,7 +72,7 @@ When you do talk about it, speak your truth by using the [ABC formula](https://f
 
 * * *
 
-![sexual intimacy, sexual intimacy tips, sexual intimacy advice, sexual intimacy advice for newlyweds, my spouse wants sex more, when your spouse wants sex more than you do, my spouse doesn't like sex, I like sex more than my spouse, tips for sexual intimacy, marriage advice, marriage help,](images/sexual-nourishment.png)
+![sexual intimacy, sexual intimacy tips, sexual intimacy advice, sexual intimacy advice for newlyweds, my spouse wants sex more, when your spouse wants sex more than you do, my spouse doesn't like sex, I like sex more than my spouse, tips for sexual intimacy, marriage advice, marriage help,](/images/sexual-nourishment.png)
 
 I have said it before, but this is a common situation couples find themselves in, whether it’s a constant state, or just life transitions that deplete your libido, haha. **There are ways to have a stronger sexual intimacy with your spouse, and I believe that these suggestions can get you there. It just starts with having respect and a willingness to help your spouse and ends with a lot of patience.** Because change doesn’t happen overnight!
 

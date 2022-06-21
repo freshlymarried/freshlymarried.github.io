@@ -14,7 +14,7 @@ One of my favorite things about getting married, was that I received another awe
 
 As some of you remember, Trevor and I went to the same junior high and high school together (not high school sweethearts thought haha). So you can probably guess that our parents must live fairly close to each other... Try 4 minutes! Though we have been blessed with this great proximity between us and both of our families, it can be difficult to make plans and keep it balanced :) I mean, every family has their specific holiday traditions, and of course they want you there to enjoy them. And then there are other family events that you might be expected to attend, as well.  I am thankful, however, for both of our parents who are very understanding when it comes to sharing our holidays and other family gatherings.
 
-![Sharing family time, balancing family time, gaining family, in-laws, family gatherings, tips for sharing family](images/TrevorAmy_wedding_JDA_0099.jpg)
+![Sharing family time, balancing family time, gaining family, in-laws, family gatherings, tips for sharing family](/images/TrevorAmy_wedding_JDA_0099.jpg)
 
 After almost two years of experience in this newlywed "hurdle" I guess you could call it, we have a fairly good idea now of how to balance this. Here are our 6 things to remember when sharing time between your families!  (I know it's hard to apply all of our tips to every family situation, because not all of us have families that live in the same state. However, I hope you find the information helpful in most cases.)
 

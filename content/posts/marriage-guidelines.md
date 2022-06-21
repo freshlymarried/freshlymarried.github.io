@@ -22,6 +22,6 @@ I think we can strive to achieve this same standard in our marriages. Just like 
 
 * * *
 
-![Marriage promises, marriage vows, sticking to promises in marriage, marriage advice, marriage help, keys to relationships](images/IMG_0493.jpg)
+![Marriage promises, marriage vows, sticking to promises in marriage, marriage advice, marriage help, keys to relationships](/images/IMG_0493.jpg)
 
 The picture above, was the wedding present Trevor gave me the night before we got married. I love these promises, and it's so great to have this daily reminder of the kind of spouse we want and should be.

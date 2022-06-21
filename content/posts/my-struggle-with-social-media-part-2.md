@@ -22,7 +22,7 @@ I have found that I don't typically get like this when I see my close friends' l
 
 It's different, however, in following people we hardly know over social media. We think we know them because they share enough about their life for us to virtually know them. Maybe the real internal dilemma comes with this situation of not knowing if the life they are portraying is realistic or not. Because then the worrisome questions start within ourselves like: "Is my house supposed to be as clean as there's all the time?" or “How can I look as well-dressed and done-up as she does when I have a giant to-do list and two kids to take care of?”
 
-#### ![common struggles with social media, problems with social media, social media addicts, social media affecting marriage, truths about social media](images/IMG_0280.jpg)
+#### ![common struggles with social media, problems with social media, social media addicts, social media affecting marriage, truths about social media](/images/IMG_0280.jpg)
 
 #### Who is to blame?
 
@@ -30,7 +30,7 @@ At first, I blamed it on them -- the random blogger that has this terrible power
 
 It has taken me time, and a few conversations with friends to help me realize two things. The first one I mentioned in part 1 (the last post), is that when we feel more content with our own lives, what other people are doing doesn't bother us as much. **On the long days of stress or unhappiness in life or specifically in our marriages, it's easy to wish things were different.** When we have that mindset and then start flipping through our phones to see pictures of others in married bliss, what do you think is going to happen? We’re going to compare our life to that person’s life and we’re going to feel like their life is better.
 
-![struggles with social media, social media pitfalls, common struggles with social media, struggles of social media, addicted to social media, social media affecting marriage, marriage help, marriage advice, marriage enrichment, relationship education, newlywed](images/IMG_0274.jpg)
+![struggles with social media, social media pitfalls, common struggles with social media, struggles of social media, addicted to social media, social media affecting marriage, marriage help, marriage advice, marriage enrichment, relationship education, newlywed](/images/IMG_0274.jpg)
 
 The second thing I realized was that what we see may not necessarily be real life.  These people aren't as perfect as they seem. Maybe they aren't having as much fun as they portray in their pictures. Do they spend more time trying to get the cutest picture to show everyone instead of enjoying the moment? And their cute clothes - I wonder how much money and effort it takes to always wear a unique fashionable outfit in every photo? I'm not saying that the cure is to find the flaws in people, but **it's important to know in the back of our minds that no one's life is as perfect as their photos.**
 

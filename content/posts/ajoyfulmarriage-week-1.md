@@ -18,7 +18,7 @@ I believe that if we focus on the joys in marriage, we can have a better outlook
 
  
 
-![a joyful marriage, finding joy in marriage, finding joy, marriage advice, positive marriage, a positive marriage, positive marriage examples, marriage goals, relationship goals, newlywed goals, newlywed life, newlywed advice, newlywed help, lds newlyweds, lds marriage, lds marriage advice, marriage campaign](images/Copy-of-ajoyfulmarriage-bottom-line.png)
+![a joyful marriage, finding joy in marriage, finding joy, marriage advice, positive marriage, a positive marriage, positive marriage examples, marriage goals, relationship goals, newlywed goals, newlywed life, newlywed advice, newlywed help, lds newlyweds, lds marriage, lds marriage advice, marriage campaign](/images/Copy-of-ajoyfulmarriage-bottom-line.png)
 
 Last week we had a minor tiff over the dishes. Our process of cleaning and loading the dishes is just different and it's something we have danced around multiple times in our marriage already, like I'm sure most of you have, haha. (It's always a tiff over some kind of chore, right?!)
 
@@ -30,4 +30,4 @@ We both got a little defensive but we listened to what each of us preferred when
 
 **Join in on the project by sharing a joy in YOUR marriage! Comment, share, post, or hashtag it with #ajoyfulmarriage and there you go! The best part about participating is that not only have you just thought about your marriage in a positive way and gave some public praise to your spouse, but you've also inspired a friend who follows you, to do the same! Let's help each other find a more joyful marriage :)**
 
-![a joyful marriage, finding joy in marriage, finding joy, marriage advice, positive marriage, a positive marriage, positive marriage examples, marriage goals, relationship goals, newlywed goals, newlywed life, newlywed advice, newlywed help, lds newlyweds, lds marriage, lds marriage advice, marriage campaign](images/k89617n_ivq-william-stitt.jpg)
+![a joyful marriage, finding joy in marriage, finding joy, marriage advice, positive marriage, a positive marriage, positive marriage examples, marriage goals, relationship goals, newlywed goals, newlywed life, newlywed advice, newlywed help, lds newlyweds, lds marriage, lds marriage advice, marriage campaign](/images/k89617n_ivq-william-stitt.jpg)

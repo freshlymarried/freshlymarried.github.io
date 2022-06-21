@@ -45,7 +45,7 @@ If you are like me, you are at the point in your marriage where the idea of havi
 
 - All of this has brought us to where we are now: filled with more desire. When we think about the decision now, we have achieved a lot of what we wanted to achieve, and we've had some good time together on our own. Starting a family is something we are considering right now, but it's something we will decide on between us and God. I'm just grateful to be at a mindset that if we were to have a baby right now, I wouldn't be upset. It began with: "Nope, terrified of getting pregnant right now." Then the past year it shifted to less hesitancy, more peace, and more desire, which I'm grateful for.
 
-![family planning, family planning as a newlywed, newlywed family planning, family planning in marriage, family planning before marriage, birth control, struggling with endometriosis, guilty feelings with endometriosis, when to start a family, deciding when to start a family, don't judge others decisions on when to start a family, lds quotes,  Neil L. Anderson quotes, husband and wife quotes, inspiration for husband and wife, marriage advice, relationship advice](images/liv-bruce-361672-unsplash.jpg)
+![family planning, family planning as a newlywed, newlywed family planning, family planning in marriage, family planning before marriage, birth control, struggling with endometriosis, guilty feelings with endometriosis, when to start a family, deciding when to start a family, don't judge others decisions on when to start a family, lds quotes,  Neil L. Anderson quotes, husband and wife quotes, inspiration for husband and wife, marriage advice, relationship advice](/images/liv-bruce-361672-unsplash.jpg)
 
 * * *
 
@@ -63,7 +63,7 @@ I believe that God has a hand in the timing, too. If God wants us to have childr
 
 I'm not sure what will happen next, but I do know that I have put a lot of faith and trust in God about it. I have faith that he will help me overcome the physical fears I have no matter how real they are or how silly they are. I have faith that maybe I'm actually a fertile-myrtle, haha, but if not we are willing to accept the alternatives. I also have faith that God will help me overcome the anxieties we may have about parenthood. Putting faith in God's plan for us has actually helped me have more faith in myself, which I'm grateful for.
 
-![family planning, family planning as a newlywed, newlywed family planning, family planning in marriage, family planning before marriage, birth control, struggling with endometriosis, guilty feelings with endometriosis, when to start a family, deciding when to start a family, don't judge others decisions on when to start a family, lds quotes, Neil L. Anderson quotes, husband and wife quotes, inspiration for husband and wife, marriage advice, relationship advice](images/762A3575-96.jpg)
+![family planning, family planning as a newlywed, newlywed family planning, family planning in marriage, family planning before marriage, birth control, struggling with endometriosis, guilty feelings with endometriosis, when to start a family, deciding when to start a family, don't judge others decisions on when to start a family, lds quotes, Neil L. Anderson quotes, husband and wife quotes, inspiration for husband and wife, marriage advice, relationship advice](/images/762A3575-96.jpg)
 
 #### It's not simple or easy
 

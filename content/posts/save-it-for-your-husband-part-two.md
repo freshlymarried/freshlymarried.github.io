@@ -42,7 +42,7 @@ This doesn't necessarily mean that this is a common thing people question. Howev
 
 HOW UNCOMFORTABLE AND DISAPPOINTING IS THAT SITUATION?! Aside from how it can make your own husband feel, there's also the possibility that you are disrespecting your friend and her husband by wearing that bikini. This was something I didn't think about in the original post, and after seeing that searched phrase, I felt like it was anothEr important and startling reason to choose not to wear a bikini.
 
-![why I choose not to wear a bikini, saving sexiness for our husbands, modesty, lingerie, lingerie in marriage, opinions on bikinis, what a bikini does to your marriage, marriage advice, newlywed advice, marriage specialist](images/photo-1445075788823-f907c29aae58.jpeg)
+![why I choose not to wear a bikini, saving sexiness for our husbands, modesty, lingerie, lingerie in marriage, opinions on bikinis, what a bikini does to your marriage, marriage advice, newlywed advice, marriage specialist](/images/photo-1445075788823-f907c29aae58.jpeg)
 
 * * *
 

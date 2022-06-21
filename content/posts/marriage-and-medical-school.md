@@ -27,7 +27,7 @@ Having both grown up in Utah, we felt far from home on our first adventure out o
 
 * * *
 
-### ![newlywed advice, newlywed help, relating to newlyweds, relating to other couples, other couples' stories, stories from couples, learning from married couples, learning from couples, marriage advice, marriage help, marriage inspiration, living in texas married life in texas, doctor married life, med student married life, being married to a med student](images/dsc_0131.jpg)
+### ![newlywed advice, newlywed help, relating to newlyweds, relating to other couples, other couples' stories, stories from couples, learning from married couples, learning from couples, marriage advice, marriage help, marriage inspiration, living in texas married life in texas, doctor married life, med student married life, being married to a med student](/images/dsc_0131.jpg)
 
 ### Passing kisses and "I love you's."
 

@@ -6,7 +6,7 @@ categories:
 coverImage: "BiscuitsTHUMB.jpg"
 ---
 
-![cheddar-bay biscuits, red lobster biscuits, betty crocker biscuits, easy biscuits](images/Biscuits.jpg)
+![cheddar-bay biscuits, red lobster biscuits, betty crocker biscuits, easy biscuits](/images/Biscuits.jpg)
 
 These are a favorite of mine, and probably yours, if you are a fan of Red Lobster's Cheddar-bay Biscuits! I don't know about you, but I eat three baskets full of those every time I go there. They are just that good. Wanna make them at home? You can!
 

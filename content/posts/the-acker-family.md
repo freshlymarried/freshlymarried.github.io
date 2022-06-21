@@ -7,7 +7,7 @@ categories:
 coverImage: "ackers.jpg"
 ---
 
-\[caption id="attachment\_1418" align="aligncenter" width="450"\]![newlywed couple advice, marriage advice, newlywed advice, newlywed marriage experiences, marriage advice, newlywed advice](images/ackers.jpg) Hello, We are the Acker’s!\[/caption\]
+\[caption id="attachment\_1418" align="aligncenter" width="450"\]![newlywed couple advice, marriage advice, newlywed advice, newlywed marriage experiences, marriage advice, newlywed advice](/images/ackers.jpg) Hello, We are the Acker’s!\[/caption\]
 
 In the short time we have been married, we have learned so much about marriage and about each other.  One important thing that I have learned is COMPROMISE!! Compromise is so important, especially if you and your husband have different interests, like Josh and I do.
 

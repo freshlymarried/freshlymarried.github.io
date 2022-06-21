@@ -12,7 +12,7 @@ categories:
 coverImage: "tim-mossholder-571646-unsplash.jpg"
 ---
 
-![great marriages are built, great marriages, marriage quotes, love quotes, lds quotes, lds quotes on marriage, dieter f. uchtdorf quotes, dieter f. uchtdor, how are great marriages built, building great marriages, marriage advice, newlywed advice, marriage, love, marriage help, struggles in marriage,](images/great-marriages-are-built-quote-1024x1024.png)
+![great marriages are built, great marriages, marriage quotes, love quotes, lds quotes, lds quotes on marriage, dieter f. uchtdorf quotes, dieter f. uchtdor, how are great marriages built, building great marriages, marriage advice, newlywed advice, marriage, love, marriage help, struggles in marriage,](/images/great-marriages-are-built-quote-1024x1024.png)
 
 #### "...That is good news because no matter how flat your relationship may be at present, if you keep adding pebbles of **kindness, compassion, listening, sacrifice, understanding, and selflessness**, eventually a mighty pyramid will begin to grow."
 
@@ -34,7 +34,7 @@ He also addresses those of us who are married, about the perfection idea. He use
 
 #### “If we look for imperfections in our spouse or irritations in our marriage, we will certainly find them, because everyone has some. On the other hand, if we look for the good, we will surely find it, because everyone has many good qualities too.”
 
-![great marriages are built, great marriages, marriage quotes, love quotes, lds quotes, lds quotes on marriage, dieter f. uchtdorf quotes, dieter f. uchtdor, how are great marriages built, building great marriages, marriage advice, newlywed advice, marriage, love, marriage help, struggles in marriage,](images/IMG_0061.jpg)
+![great marriages are built, great marriages, marriage quotes, love quotes, lds quotes, lds quotes on marriage, dieter f. uchtdorf quotes, dieter f. uchtdor, how are great marriages built, building great marriages, marriage advice, newlywed advice, marriage, love, marriage help, struggles in marriage,](/images/IMG_0061.jpg)
 
 I love how he says all of this because this happens to every couple!! Life changes, romance changes, intimacy changes, and we tend to let those changes seem like issues. Having issues tends to put us on the path for finding each other's flaws more often, and we get stuck here for awhile. And because we have noticed flaws much more and issues seem more prevalent than the newlywed years, the doubts sink in and suddenly we are unsatisfied in our marriage.
 
@@ -46,7 +46,7 @@ But what if we looked for the positive qualities and quirks in our spouse when t
 
 How we react to it these normal changes and tendencies he has outlined, are the difference between a satisfactory or unsatisfactory marriage. It takes work to react positively, to react in humility! I'm working on this :) So how do you react more positively, and save your marriage?
 
-![great marriages are built, great marriages, marriage quotes, love quotes, lds quotes, lds quotes on marriage, dieter f. uchtdorf quotes, dieter f. uchtdor, how are great marriages built, building great marriages, marriage advice, newlywed advice, marriage, love, marriage help, struggles in marriage,](images/those-who-save-marriages-quote.png)
+![great marriages are built, great marriages, marriage quotes, love quotes, lds quotes, lds quotes on marriage, dieter f. uchtdorf quotes, dieter f. uchtdor, how are great marriages built, building great marriages, marriage advice, newlywed advice, marriage, love, marriage help, struggles in marriage,](/images/those-who-save-marriages-quote.png)
 
 ##### "THEY CELEBRATE THE SMALL ACTS OF GRACE THAT SPARK TENDER FEELINGS OF CHARITY. THOSE WHO SAVE MARRIAGES SAVE FUTURE GENERATIONS.”
 
