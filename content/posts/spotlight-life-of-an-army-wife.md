@@ -1,0 +1,44 @@
+---
+title: "Spotlight: Life of an Army Wife"
+date: "2018-05-10"
+categories: 
+  - "all"
+  - "spotlights"
+coverImage: "1.png"
+---
+
+## Introduction
+
+It's Military Appreciation Month in May, and on May 11th, it is Military Spouse Appreciation Day! Our military does so much for us, along with their spouses! And sometimes they don't get the gratitude or appreciation they deserve, because we may not fully understand what they experience in their day to day life. We may not realize how differently they have to work their marriage and their family because of the long-distances and demands that are asked of them.
+
+This is why I'm so grateful to my friend, Jules Redd, for being willing to share what life is like for a military spouse! In this interview, she talks about the heavy influence that the army has in all aspects of their lives, and how that can make it difficult to enjoy typical relationship benefits like spending the holidays with each other, or being there for big life events like the birth of a child. She also shares how each of them has grown in their independence and their trust for one another. Jules ends by sharing some tips for how they keep their marriage fresh through the long-distance.
+
+I hope that as you read through her interview, you will come to respect them for the sacrifices they both have made for our country. And I hope that it also helps you appreciate the things that non-military couples might take for granted, like seeing each other each day, having more consistent communication opportunities, or having another person to help with the daily responsibilities of life. I know my gratitude grew from this, and I learned things I didn't know before about the army life.
+
+* * *
+
+### Share a little background about your relationship. How did you meet?  At what point was the military playing a role in your relationship?
+
+_Moroni and I met on January 1, 2013. I had just gotten home from serving a full-time mission for my church. Our brothers were best friends and were convinced that we would make a great couple—they were right! Moroni and I hit it off right from the start and we were married May 24, 2013._
+
+_When we met Moroni was already in the army. He had enlisted a few years before and then went into the reserves and contracted with the BYU ROTC program. From the start, I knew that he would be an active duty army officer. **I have always wanted to serve my country but I never felt good about joining the army. I felt like this was the perfect opportunity for me to serve my country.** Once Moroni and I knew we were going to be married we always said, we would see how we like army life and make adjustments as needed._
+
+![military spouse life, life of a military spouse, army wife life, wife life, being in the army, being a spouse in the army, the hard life of being in the army, being a parent in the army, spouse in the army, life during deployment, spouse life during deployment, marriage advice, military marriage advice](images/3-1.png)
+
+### How has being a part of the military affected your marriage? (both negative and positive ways)
+
+_**The army is a lifestyle; there is no aspect of your life that the army does not affect. There is a popular saying that says, “You are married to the army.”  Whatever the army says goes. It doesn’t matter if it’s your anniversary, birthday, child’s birth, graduation, you’re sick or your kids are sick—if the army needs your husband then it’s left to the spouse to handle things at home**. In the past two and a half years that Moroni has been active duty, we have moved three times from three different states. In the past two and a half years Moroni and I have lived together for eight months, and that is not a consecutive eight months. So the army affects our marriage a lot. Some of the negative aspects revolve around the separation. We are apart more than we are together and at times that can create quite a bit of tension. However, there are some positive aspects as well, we are both stronger as individuals. We still depend on each other when we can but we have become more self-sufficient. We also have learned to communicate differently because when Moroni is deployed we can’t talk face to face, so we have learned how to really dig deep and talk by asking each other lots of questions. I have learned so much more about Moroni and man, I married a stud! There is also a flip side to this because sometimes Moroni will only have five minutes that he can talk and we have kids and they want to see their daddy, so we have to make adjustments. **This lifestyle has also helped us trust each other more. Moroni trusts me to run everything at home and raise our children. I trust him that he will do the best he can to put us first and that he will stay true to his values.**_
+
+### What would you like non-military couples to understand about your marriage/situation?
+
+_**My army wife friends are like my family.** We see each other through a lot! When I went into labor with my second child Moroni was deployed. All I had to do was send a text message to my friends and one of them came and slept on my couch while my daughter slept.  I am so grateful for my friends and the support they have given me. I have met some incredible women!_
+
+_**Another thing that most people don’t know is that we can’t make plans.** For example, we can plan a vacation have it all paid for and at the last minute, the army can say my husband can’t go. When Moroni was deployed I didn’t know what day he was coming home until the week he came home! Not being able to plan certainly keeps us on our toes! We have learned to be flexible and to enjoy the time that we have together. My mantra is, “Alright we are doing this now? Ok!”_
+
+### What characteristics traits or virtues have you found to be the most important for the success of your marriage?
+
+_Our faith in God and our adherence to the principles of the gospel is paramount to the success of our marriage. The virtue of gratitude has played a huge role in Moroni and I staying close. It is so easy to be negative about the separation and the long hours.  During our last deployment, **I really studied gratitude and tried to keep my thoughts positive.** Moroni missed a lot of major holidays and events during the deployment, one being the birth of our second child. It is very easy to have resentment and feel angry but it has been important for me to realize that being grateful for what we have and giving thanks to God for all things is what brings happiness. Moroni wants to be at every event and if he could choose to be he would. I have to remind myself of that. Moroni isn’t always able to go to church when he is deployed or out training so he does a lot of scripture study and prayer. The principle of the triangle (_the idea that your marriage is a three-part relationship with God at the top, and each spouse at the other two points_) and the idea that as we move closer to God we move closer to our spouse is absolutely true! **Of course, we have disagreements and coming back together after months apart is very difficult; but as have we have stayed true to our covenants and have actively tried to stay close to God during the separation then our marriage stays strong.**_
+
+### ![military spouse life, life of a military spouse, army wife life, wife life, being in the army, being a spouse in the army, the hard life of being in the army, being a parent in the army, spouse in the army, life during deployment, spouse life during deployment, marriage advice, military marriage advice](images/4-1.png)How do you keep your marriage fresh through the long-distance?
+
+_It is hard. On our nine-month deployment, we could sometimes talk with our kids present for maybe 45 min (on a good day) and there were times where we didn’t talk for a week. Moroni was deployed to Korea and that deployment was more lax than combat deployments, meaning, he had a cellphone and he could call us when he had time. The time difference made it hard, he was 14 hours ahead. I would send him packages to show how much I loved him, but it gets pretty expensive, so I wasn’t able to do it very often. We would try to find time once a week, it usually ended up being once every two weeks that we could talk without the kids! Some of my friends would have a fun day Sunday where they would send their spouse sexy photos of themselves. Even if Moroni wouldn’t see my message or email right away I knew that it would keep us connected. **I think the best way we have found to keep our marriage fresh is that when he comes home we continue to date and express love in the love language that the other feels most loved. Being patient during reintegration (the process of learning to live together again after a long separation) and finding those common interests again has kept our marriage “fresh.”**_
