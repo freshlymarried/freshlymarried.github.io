@@ -8,7 +8,7 @@ categories:
   - "friendship"
   - "goals"
   - "journal"
-coverImage: "IMG_0441.jpg"
+featured_image: "/images/IMG_0441.jpg"
 ---
 
 In case I haven't said this a lot lately, I'm super excited to be graduating with my bachelor's degree in WEEKS. Well, to celebrate, we've been talking/planning/deciding/not deciding on taking a graduation vacation :) And what I mean by that is we have had ideas of where we would love to vacation and then haven't been sure about them, so we put it on hold until the next idea comes along. It's seriously been indecision-city over here! We could say it's all because we just have so many places we are interested in seeing, or that we want to get the most bang for our buck. However, the real reason it hasn't been easy to decide is because we feel like this trip has to be so extremely special because it might be the last time we can do a big vacation as just a family of two!

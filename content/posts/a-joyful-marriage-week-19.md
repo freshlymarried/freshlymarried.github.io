@@ -6,7 +6,7 @@ categories:
   - "all"
   - "celebrate"
   - "funny"
-coverImage: "a-joyful-marriage-week-19.png"
+featured_image: "/images/a-joyful-marriage-week-19.png"
 ---
 
 ### The joy I found in my marriage this week: feeling a positive difference in our lives and our relationship.

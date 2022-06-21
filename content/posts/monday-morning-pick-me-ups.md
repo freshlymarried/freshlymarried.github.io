@@ -9,7 +9,7 @@ categories:
   - "journal"
   - "quotes"
   - "romance"
-coverImage: "IMG_0338.jpg"
+featured_image: "/images/IMG_0338.jpg"
 ---
 
 I'm so glad we happened to get a blooper photo of me actually picking my husband up because it worked perfectly for this ;)

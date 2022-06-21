@@ -8,7 +8,7 @@ categories:
   - "effort"
   - "friendship"
   - "romance"
-coverImage: "40-gift-ideas.png"
+featured_image: "/images/40-gift-ideas.png"
 ---
 
 Every birthday, Christmas, Valentine’s Day, and wedding anniversary, I find myself googling thoughtful gift ideas that I can buy or make for my spouse. The same thing happens when I want to get a “just because” gift for him, or create a special date night for us. Add these up and we’ve got AT LEAST  5 times throughout the year searching for gift ideas.

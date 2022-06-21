@@ -6,7 +6,7 @@ categories:
   - "celebrate"
   - "journal"
   - "romance"
-coverImage: "IMG_1514.jpg"
+featured_image: "/images/IMG_1514.jpg"
 ---
 
 _\*This post contains affiliate links._

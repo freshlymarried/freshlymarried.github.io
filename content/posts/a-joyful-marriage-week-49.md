@@ -5,7 +5,7 @@ categories:
   - "ajoyfulmarriage"
   - "all"
   - "journal"
-coverImage: "Copy-of-ajm-week-49.png"
+featured_image: "/images/Copy-of-ajm-week-49.png"
 ---
 
 **We have been feeling some joy this past week and I'm not quite sure how to sum it up** into **one word, but I think it could be summarized into patience and clarity.**

@@ -6,7 +6,7 @@ categories:
   - "celebrate"
   - "dates"
   - "giveaways"
-coverImage: "Valentines-Day-Collage.jpg"
+featured_image: "/images/Valentines-Day-Collage.jpg"
 ---
 
 ### Every Day is Valentine's Day

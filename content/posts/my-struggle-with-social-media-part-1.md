@@ -8,7 +8,7 @@ categories:
   - "effort"
   - "friendship"
   - "journal"
-coverImage: "blog-struggle-with-social-media-part-1.png"
+featured_image: "/images/blog-struggle-with-social-media-part-1.png"
 ---
 
 **From about September to December, I really struggled emotionally with social media. I fell into some common pitfalls of comparing my life to other people's lives, questioning how "real" people were, and spending more time being involved in it than I should have (though I wouldn't say I was addicted). These things were lowering my self-worth, and making me feel ungrateful. I snapped out of this phase and realized some important things that have made me and my marriage happier. I figured out why I was feeling this need to be involved in social media as often as I was; I realized that people are not always who they appear to be; and I also saw how social media was affecting my marriage. I know I am not the only one who has experienced this or is currently experiencing this. So I'm sharing what happened to me, how it affected my marriage, and how I got out of it in hopes that it will help you and/or your marriage :)**

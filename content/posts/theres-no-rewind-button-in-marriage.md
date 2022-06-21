@@ -6,7 +6,7 @@ categories:
   - "conflict"
   - "forgiveness"
   - "quotes"
-coverImage: "IMG_0225.jpg"
+featured_image: "/images/IMG_0225.jpg"
 ---
 
 #### FACT: We have all made mistakes in marriage, whether they be big or small.

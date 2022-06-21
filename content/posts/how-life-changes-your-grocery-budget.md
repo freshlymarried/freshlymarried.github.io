@@ -6,7 +6,7 @@ categories:
   - "dates"
   - "finances"
   - "journal"
-coverImage: "photo-1424847651672-bf20a4b0982b.jpeg"
+featured_image: "/images/photo-1424847651672-bf20a4b0982b.jpeg"
 ---
 
 A year ago I talked about some new things I learned about [grocery budgeting](http://freshlymarried.com/grocery-budgeting/), especially how my budget was comparing to the national averages. As I remembered that post, I realized my grocery budgeting has changed a bit in the past year, haha. Why? Because LIFE has changed in the past year!

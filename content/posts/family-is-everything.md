@@ -6,7 +6,7 @@ categories:
   - "goals"
   - "journal"
   - "quotes"
-coverImage: "IMG_0020.jpg"
+featured_image: "/images/IMG_0020.jpg"
 ---
 
 

@@ -8,7 +8,7 @@ categories:
   - "goals"
   - "journal"
   - "romance"
-coverImage: "10312079_10152818413777656_8385245694631767658_n.jpg"
+featured_image: "/images/10312079_10152818413777656_8385245694631767658_n.jpg"
 ---
 
 We are now on month 13 and I'm feeling grateful for where we are at. It is funny because this month I've suddenly felt like we gained a little bit more maturity with completing one year. Every year brings it's certain experiences that allow us to learn and grow, so each year we'll become just a little tinsy-tiny bit more wiser than the year before, and I'm looking forward to it :) With that being said, I think it is important to look back at things we have learned. One thing we learned in particular, is that we are starting to see what matters most to us. For example, we discovered that traveling all over the world is not as important to us as it used to be, for me anyways. We definitely want to get away every now and then, but for the most part, we'd rather use that money to go out more often than normal -- dinner, movies, concerts, etc. I know other couples absolutely love traveling and that's an awesome thing to do as a couple! It can create some unique memories. Each couple has their own interests, and it's great.

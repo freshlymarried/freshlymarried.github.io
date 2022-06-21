@@ -5,7 +5,7 @@ categories:
   - "all"
   - "conflict"
   - "quotes"
-coverImage: "rtepovlewia-still-miracle.jpg"
+featured_image: "/images/rtepovlewia-still-miracle.jpg"
 ---
 
 My heart hurts every time I hear my friends, neighbors, etc. tell me that their parents still don't approve of their spouse. It's hard to listen to them tell me things like, "They think he isn't good enough for me" or "They tried to break us up." These kinds of family situations frustrate me primarily because HELLO PARENTS, IT'S AFTER-THE-FACT! THEY HAVE BEEN MARRIED FOR YEARS NOW, SO PUT ASIDE YOUR OWN FEELINGS AND SUPPORT THEM INSTEAD OF DISCOURAGE THEM!

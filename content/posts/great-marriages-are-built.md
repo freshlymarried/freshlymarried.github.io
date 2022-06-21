@@ -9,7 +9,7 @@ categories:
   - "forgiveness"
   - "goals"
   - "quotes"
-coverImage: "tim-mossholder-571646-unsplash.jpg"
+featured_image: "/images/tim-mossholder-571646-unsplash.jpg"
 ---
 
 ![great marriages are built, great marriages, marriage quotes, love quotes, lds quotes, lds quotes on marriage, dieter f. uchtdorf quotes, dieter f. uchtdor, how are great marriages built, building great marriages, marriage advice, newlywed advice, marriage, love, marriage help, struggles in marriage,](/images/great-marriages-are-built-quote-1024x1024.png)

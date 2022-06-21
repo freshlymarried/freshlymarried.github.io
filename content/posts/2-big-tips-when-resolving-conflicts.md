@@ -6,7 +6,7 @@ categories:
   - "communication"
   - "conflict"
   - "techniques"
-coverImage: "elizabeth-tsung-194530.jpg"
+featured_image: "/images/elizabeth-tsung-194530.jpg"
 ---
 
 When you're in the middle of a fight or disagreement and things get heated, uncomfortable, or you just can't find a mutual solution, what do you do?

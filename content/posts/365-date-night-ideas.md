@@ -7,7 +7,7 @@ categories:
   - "friendship"
   - "funny"
   - "romance"
-coverImage: "bananagrams.jpg"
+featured_image: "/images/bananagrams.jpg"
 ---
 
 #### Let's be honest here.

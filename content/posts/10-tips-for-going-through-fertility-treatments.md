@@ -7,7 +7,7 @@ categories:
   - "goals"
   - "journal"
   - "religious"
-coverImage: "fertility-treatment-tips-blog-size-1.png"
+featured_image: "/images/fertility-treatment-tips-blog-size-1.png"
 ---
 
 ### A Little Bit of Our Story

@@ -5,7 +5,7 @@ categories:
   - "all"
   - "conflict"
   - "sex"
-coverImage: "3-AREAS-OF-SEXUAL-INTIMACY-PROBLEMS.png"
+featured_image: "/images/3-AREAS-OF-SEXUAL-INTIMACY-PROBLEMS.png"
 ---
 
 I don’t know any married couple that doesn’t struggle with sexual intimacy problems at SOME point in their marriage. While there are a variety of reasons why problems occur in this department, **I believe there are three big areas that contribute to problems: safety, communication, and the influences around us.**

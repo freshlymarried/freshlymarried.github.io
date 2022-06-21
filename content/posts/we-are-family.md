@@ -7,7 +7,7 @@ categories:
   - "conflict"
   - "forgiveness"
   - "journal"
-coverImage: "WeAreFamily.jpg"
+featured_image: "/images/WeAreFamily.jpg"
 ---
 
 I love the word, “family.” There are so many emotions and meanings that encircle this word: The feelings of love, comfort, home, dependability, kindness, humor, and humility, are just a few to name.

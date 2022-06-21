@@ -5,7 +5,7 @@ categories:
   - "freshfridays"
   - "all"
   - "effort"
-coverImage: "IMG_0018-1.jpg"
+featured_image: "/images/IMG_0018-1.jpg"
 ---
 
 You all know what we already did for our #anniversary to keep it fresh - romantic vacay to Hawaii! But what is your answer to the question? :) If you recently celebrated your anniversary than this is your early start to thinking about next year's celebrations! It's already got me thinking!

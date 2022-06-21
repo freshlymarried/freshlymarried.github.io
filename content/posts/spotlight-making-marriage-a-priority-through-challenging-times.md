@@ -5,7 +5,7 @@ categories:
   - "all"
   - "effort"
   - "spotlights"
-coverImage: "blog-size-amberly-spotlight-1.png"
+featured_image: "/images/blog-size-amberly-spotlight-1.png"
 ---
 
 ### Introduction:

@@ -5,7 +5,7 @@ categories:
   - "all"
   - "journal"
   - "romance"
-coverImage: "20140118_092541.jpg"
+featured_image: "/images/20140118_092541.jpg"
 ---
 
 \[caption id="attachment\_2457" align="aligncenter" width="450"\]![sleeping husband, cute sleeping husband, newlyweds, newlywed inspiration, marriage inspiration, marriage romantic ideas, sweet moments in marriage](/images/20140118_092541-300x168.jpg) There's something great about laying next to your best friend every night, and waking up to them still by your side in the morning.\[/caption\]

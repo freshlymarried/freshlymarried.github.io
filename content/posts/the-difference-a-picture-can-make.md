@@ -7,7 +7,7 @@ categories:
   - "effort"
   - "journal"
   - "romance"
-coverImage: "IMG_0277.jpg"
+featured_image: "/images/IMG_0277.jpg"
 ---
 
 I didn't realize how big of a deal it was to have family pictures up until now. I always thought people made too big of a deal over getting family portraits taken every  year, and switching the pictures out in their home every time. While I love the idea of that, it's not about having formal family photos to show off. To be honest, Trevor and I prefer the silly candid iPhone pictures we take, even in selfie form! It's just about having those happy reminders around you to create a loving atmosphere.

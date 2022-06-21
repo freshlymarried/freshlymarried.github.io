@@ -8,7 +8,7 @@ categories:
   - "funny"
   - "romance"
   - "videos"
-coverImage: "Screen-Shot-2016-05-04-at-10.14.41-PM.png"
+featured_image: "/images/Screen-Shot-2016-05-04-at-10.14.41-PM.png"
 ---
 
 ## FRESHLY MARRIED IS NOW ON YOUTUBE!!! Click on This button below to subscribe!

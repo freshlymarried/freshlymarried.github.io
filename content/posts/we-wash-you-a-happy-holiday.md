@@ -5,7 +5,7 @@ categories:
   - "all"
   - "celebrate"
   - "home"
-coverImage: "1-1.png"
+featured_image: "/images/1-1.png"
 ---
 
 **This is for crafters AND non-crafters!** 

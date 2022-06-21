@@ -5,7 +5,7 @@ categories:
   - "ajoyfulmarriage"
   - "all"
   - "journal"
-coverImage: "a-joyful-marriage-week-13.png"
+featured_image: "/images/a-joyful-marriage-week-13.png"
 ---
 
 ### The joy I found in my marriage this week: Unity.

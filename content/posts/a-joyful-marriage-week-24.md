@@ -6,7 +6,7 @@ categories:
   - "all"
   - "funny"
   - "journal"
-coverImage: "a-joyful-marriage-week-24.png"
+featured_image: "/images/a-joyful-marriage-week-24.png"
 ---
 
 This picture from last October is one of the most fun moments with some of my family members. While the boys were taking pictures with the photographer, the girls were scheming and did a surprise silly string attack on them! It was really funny and it brings me to the joy I had this week. :)

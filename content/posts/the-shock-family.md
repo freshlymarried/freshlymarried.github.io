@@ -4,7 +4,7 @@ date: "2014-02-24"
 categories: 
   - "all"
   - "spotlights"
-coverImage: "engagement-picha.jpg"
+featured_image: "/images/engagement-picha.jpg"
 ---
 
 Brady and I met through a blind date. It was a Harry Potter party and we dressed up for it. It was so much fun! I loved it. He was the first guy who made me wait for our first kiss, and that showed me that he actually cared about a relationship. He was definitely a keeper. He was the first guy who I was completely myself around. We got married in June of 2012 and we are definitely still in the honeymoon stage.

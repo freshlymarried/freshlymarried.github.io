@@ -6,7 +6,7 @@ categories:
   - "home"
   - "journal"
   - "religious"
-coverImage: "IMG_0087.jpg"
+featured_image: "/images/IMG_0087.jpg"
 ---
 
 We have been in our house for almost 3 years, this August! It’s awesome to think back on how far we have come with putting it together, and making it feel like HOME.

@@ -8,7 +8,7 @@ categories:
   - "finances"
   - "goals"
   - "journal"
-coverImage: "762A2541-78-1.jpg"
+featured_image: "/images/762A2541-78-1.jpg"
 ---
 
 In our short three years (almost) being married, Trevor and I have done really well about trying to be financially independent from our families. It's something that had to be done in stages because tackling health insurance, car insurance, and a phone bill all at once is not wise! Health insurance is a headache on its own, am I right?! But slowly we made goals of what responsibilities we needed to take on and when to do it. This past weekend we reached our last goal and can now say we are completely financially independent from our parents! And I guess financially independent from anyone other than our home loan! That's a big milestone for a couple, wouldn't you say?

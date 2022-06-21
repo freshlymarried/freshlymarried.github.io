@@ -5,7 +5,7 @@ categories:
   - "ajoyfulmarriage"
   - "all"
   - "religious"
-coverImage: "a-joyful-marriage-week-48.png"
+featured_image: "/images/a-joyful-marriage-week-48.png"
 ---
 
 I have about 4 more of these blog posts left of this #ajoyfulmarriage project, and I realized I haven't shared about a major aspect of our marriage that brings us so much joy! It's one that initially, I felt sad I hadn't mentioned yet, but realized that this time of year brings it out even more, so it worked out saving it until now :)

@@ -7,7 +7,7 @@ categories:
   - "goals"
   - "journal"
   - "religious"
-coverImage: "2013-07-21-17.53.521.jpg"
+featured_image: "/images/2013-07-21-17.53.521.jpg"
 ---
 
 Remember to cut the price tag off of your brand new blouse before you wear it to Sacrament meeting, in giving a talk at the pulpit, in front of a large congregation.

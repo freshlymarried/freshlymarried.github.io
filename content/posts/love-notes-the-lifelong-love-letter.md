@@ -7,7 +7,7 @@ categories:
   - "effort"
   - "friendship"
   - "romance"
-coverImage: "blog-size-love-notes.png"
+featured_image: "/images/blog-size-love-notes.png"
 ---
 
 My husband and I have both mentioned in posts how much we enjoy [giving and receiving love notes](http://freshlymarried.com/i-love-love-notes/) from each other. I really think there's an awesome power that comes with love notes. Having a physical copy of how your spouse feels about you is something you can refer to in years to come, which makes it more special. Trevor and I used to write more to each other while we were dating, and I think it's because we lived an hour away from each other. Every so often when I reorganize our memorabilia I'll stumble upon something one of us wrote to the other and it just takes me back to those days, even that special moment when first reading it. :) Some of those initial twitterpaited feelings come back and I just love it! Having moments like this where we can look back on the sweet nothings we say to our spouse can give us a boost on days we feel down in our marriage or down individually.

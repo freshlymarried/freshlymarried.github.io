@@ -5,7 +5,7 @@ categories:
   - "all"
   - "dates"
   - "giveaways"
-coverImage: "IMG_0617.jpg"
+featured_image: "/images/IMG_0617.jpg"
 ---
 
 \*\*\*GIVEAWAY CLOSED\*\*\*

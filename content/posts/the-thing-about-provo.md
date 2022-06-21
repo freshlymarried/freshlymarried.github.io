@@ -5,7 +5,7 @@ categories:
   - "all"
   - "celebrate"
   - "journal"
-coverImage: "942145_10152058067532656_277185650_n.jpg"
+featured_image: "/images/942145_10152058067532656_277185650_n.jpg"
 ---
 
 We love living in Provo. There's some great things about this area (Provo & Orem) that set it apart from other cities in Utah. The music scene has been great to be a part of, and has been the creator of some memorable date nights for us. Someone, somewhere nearby, for some inexpensive price is always playing, and they are usually pretty entertaining. I don't know of any town that can do that, let alone, has enough talent to give birth to some great bands. The college town feel has also been fun. We can always count on student discounts somewhere. And because we are surrounded by so many other young married couples, we can always count on another couple to double-date with. All of us couples generally have a lot we can relate to each other on, because of our similar circumstances. However, similar circumstance is not always a blessing.

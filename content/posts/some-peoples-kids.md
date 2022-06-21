@@ -6,7 +6,7 @@ categories:
   - "children"
   - "funny"
   - "goals"
-coverImage: "Some-Peoples-Kids.jpg"
+featured_image: "/images/Some-Peoples-Kids.jpg"
 ---
 
 We aren’t quite sure about how many kids we will want to have, when the time comes. The funny part is that Trevor wants two, and I think that I like three! What’s even more funny is that every now and then, we come across a scene that could give us a great reason to want as few kids as possible, haha. And when that happens, Trevor just holds up 2 fingers at me, and smiles. (Hahahaha.) A few kids right by us were both crying and carrying on and he signaled again, the number two. :)

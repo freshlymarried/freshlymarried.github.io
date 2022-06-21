@@ -7,7 +7,7 @@ categories:
   - "conflict"
   - "effort"
   - "forgiveness"
-coverImage: "IMG_0134.jpg"
+featured_image: "/images/IMG_0134.jpg"
 ---
 
 Arguments, fights, tiffs, quarrels, disagreements, misunderstandings, whatever you call them, are bound to happen here and there in marriage. If a couple says they have never even disagreed before, they are lying to you and themselves! haha. Whether it’s a large or small matter, and consistent or rare. Trevor and I have our tiffs just like everybody else. We have moments when our minds are not in sync with each other. We have differing opinions at times. We have moments when we are not aware of one another’s thoughts and feelings. We have moments that we get off track from what matters most. This is expected in marriage, but it's also expected that you get back to being a team again :)

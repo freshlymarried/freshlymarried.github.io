@@ -4,7 +4,7 @@ date: "2017-05-31"
 categories: 
   - "all"
   - "spotlights"
-coverImage: "sydneys-spotlight-1.png"
+featured_image: "/images/sydneys-spotlight-1.png"
 ---
 
 #### Introduction

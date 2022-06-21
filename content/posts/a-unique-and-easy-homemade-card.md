@@ -6,7 +6,7 @@ categories:
   - "celebrate"
   - "romance"
   - "videos"
-coverImage: "IMG_2108.jpg"
+featured_image: "/images/IMG_2108.jpg"
 ---
 
 _\*This post contains affiliate links._

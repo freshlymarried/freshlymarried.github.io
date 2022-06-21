@@ -5,7 +5,7 @@ categories:
   - "all"
   - "effort"
   - "goals"
-coverImage: "fb-size-setting-goals-in-marriage.png"
+featured_image: "/images/fb-size-setting-goals-in-marriage.png"
 ---
 
 \[sc name="soundcloud" id="281723250" \]

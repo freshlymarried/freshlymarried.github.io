@@ -5,7 +5,7 @@ categories:
   - "all"
   - "celebrate"
   - "giveaways"
-coverImage: "wooden-heart1.jpg"
+featured_image: "/images/wooden-heart1.jpg"
 ---
 
 Thank you to everyone who entered the giveaway. We loved hearing everyone's comments about how they try to make every day feel like Valentine's Day for their spouse! We have definitely taken notes from them. I hope everyone else goes back and reads each other's comments to learn from them as well, because we all could use some advice, right?

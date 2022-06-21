@@ -7,7 +7,7 @@ categories:
   - "friendship"
   - "funny"
   - "journal"
-coverImage: "Jamba-Juice.jpg"
+featured_image: "/images/Jamba-Juice.jpg"
 ---
 
 The past three weeks, Trevor and I have felt like we've been bums, couch potatoes, or whatever you call it. I am just finishing a cold I have had for the past 3 weeks, so I haven't had much energy to workout, or do extra things beyond the necessary chores. I've mostly been tired, while Trevor has also been tired from some adjustments in his new job. While he loves it, his brain can be on overload sometimes. So most nights when we get home from work, we have just laid on the couch and watched our favorite TV shows. The funny/sad thing about this, is that we started a new television series on Netflix about the same time I got sick, and we're already half way done with the third season... haha wow. We are bums. It's fine.

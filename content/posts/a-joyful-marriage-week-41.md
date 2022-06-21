@@ -5,7 +5,7 @@ categories:
   - "ajoyfulmarriage"
   - "all"
   - "journal"
-coverImage: "a-joyful-marriage-week-41.png"
+featured_image: "/images/a-joyful-marriage-week-41.png"
 ---
 
 A Joy that I found in my marriage this week is a joy I have felt before, but since it happened a few times this week, I think it's been on my mind more.

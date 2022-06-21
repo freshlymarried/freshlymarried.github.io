@@ -8,7 +8,7 @@ categories:
   - "conflict"
   - "goals"
   - "journal"
-coverImage: "Cheek-Kiss-Sepia-e1392603421239.png"
+featured_image: "/images/Cheek-Kiss-Sepia-e1392603421239.png"
 ---
 
 This new year has already been eventful for us. We've been blessed with a few opportunities and things to look forward to, and now our lives are going in a different direction, and we are very happy about it.

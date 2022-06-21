@@ -6,7 +6,7 @@ categories:
   - "conflict"
   - "goals"
   - "quotes"
-coverImage: "blog-size-inevitable-storms.png"
+featured_image: "/images/blog-size-inevitable-storms.png"
 ---
 
 In my [previous post](http://freshlymarried.com/theres-no-rewind-button-in-marriage/), I talked about not holding onto mistakes you have made, or mistakes your spouse has made -- Basically letting go of grudges you have with yourself or your spouse. Since avoiding grudges is a topic that seems to have many webs stemming from it, I wanted to elaborate on one idea right now that can be very helpful in moving forward from mistakes made in marriage: Looking for the good in the bad.

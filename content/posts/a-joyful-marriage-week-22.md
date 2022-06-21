@@ -6,7 +6,7 @@ categories:
   - "all"
   - "children"
   - "journal"
-coverImage: "a-joyful-marriage-week-22.png"
+featured_image: "/images/a-joyful-marriage-week-22.png"
 ---
 
 #### **The joy I found in my marriage this week is seeing the door to parenthood open wider. There were two reasons for this joy.**

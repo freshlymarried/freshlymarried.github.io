@@ -7,7 +7,7 @@ categories:
   - "friendship"
   - "goals"
   - "journal"
-coverImage: "blog-sizefamily-planning-journey.png"
+featured_image: "/images/blog-sizefamily-planning-journey.png"
 ---
 
 If you are like me, you are at the point in your marriage where the idea of having children weighs more heavily on your mind. Whatever the reason for it, getting to this point has been an interesting journey, at least it has been for me! When we first got married the idea of starting a family was a simple goal for us: "Not for five years." However as months and months have passed since then, I can tell you now that it's actually not that simple, haha. This has been MY family planning journey...

@@ -4,7 +4,7 @@ date: "2017-04-26"
 categories: 
   - "all"
   - "spotlights"
-coverImage: "blog-post-enjoy-the-roses-spotlight-1.png"
+featured_image: "/images/blog-post-enjoy-the-roses-spotlight-1.png"
 ---
 
 Maddie and Jake Topham are newlyweds living in Cedar City, Utah, and have been married for four months. On their story, she said this: "He's my best friend. We went to high school together but back then I didn't think I would marry him. Life took us on different paths for a little while until we met up again a few years later and we were married. We're the happiest we've ever been!"

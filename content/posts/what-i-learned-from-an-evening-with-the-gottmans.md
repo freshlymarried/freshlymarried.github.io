@@ -3,7 +3,7 @@ title: "What I Learned From an Evening With The Gottmans"
 date: "2019-09-22"
 categories: 
   - "all"
-coverImage: "IMG_0946.jpg"
+featured_image: "/images/IMG_0946.jpg"
 ---
 
 I was able to go to a "Utah Date Night" event with special guest speakers John and Julie Gottman. If you’re not aware of who they are, they are celebrities in the relationships research world! Their credibility is one no one can top, in my opinion. Their resume is extensive including 40 years of research studying couples and creating interventions, exercises, and theories to help distressed couples succeed. I’ve talked about John Gottman’s theories in several articles, [“The 5 to 1 ratio,”](https://freshlymarried.com/the-5-to-1-ratio/) and ["The Four Horsemen."](https://freshlymarried.com/the-four-horsemen/)

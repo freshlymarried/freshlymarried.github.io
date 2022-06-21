@@ -8,7 +8,7 @@ categories:
   - "effort"
   - "goals"
   - "romance"
-coverImage: "FullSizeRender.jpg"
+featured_image: "/images/FullSizeRender.jpg"
 ---
 
 I used to be one of those people that thought you should do anything and everything for your kids - that they should be the priority. It's portrayed in movies of parents willing to do anything for their kids. Overtime this philosophy has changed for me, especially since finding Trevor.

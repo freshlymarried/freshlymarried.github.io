@@ -4,7 +4,7 @@ date: "2018-02-12"
 categories: 
   - "all"
   - "workshops"
-coverImage: "blog-dimensins.png"
+featured_image: "/images/blog-dimensins.png"
 ---
 
 **The Wife Life Workshop was held on Saturday afternoon, January 20, 2018, at the Miller Conference Center in Sandy, Utah. More than 40 wives came together to be uplifted and enriched in the many hats they wear as a wife!**

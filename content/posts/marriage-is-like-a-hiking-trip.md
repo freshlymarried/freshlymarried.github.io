@@ -9,7 +9,7 @@ categories:
   - "friendship"
   - "funny"
   - "quotes"
-coverImage: "photo-1422004694183-cd2f8c55d4d9.jpeg"
+featured_image: "/images/photo-1422004694183-cd2f8c55d4d9.jpeg"
 ---
 
 Click the play button to LISTEN to this blog post!

@@ -6,7 +6,7 @@ categories:
   - "celebrate"
   - "conflict"
   - "effort"
-coverImage: "blog-size-of-celebrity-marriages-vs.-other-marriages.png"
+featured_image: "/images/blog-size-of-celebrity-marriages-vs.-other-marriages.png"
 ---
 
 I know we are all used to seeing celebrity couples splitting up, but gosh has anybody else noticed it's been like one or two every week?! This happens all the time, sadly so I didn't expect myself to post on this. However, I saw a headline that got me thinking about it more. The headline said, _"First Ben and Jennifer, now Blake and Miranda? Is anyone else losing faith in marriage, too?!"_ I couldn't help but scream in my head: "NO! Don't lose faith!" haha but seriously. I now feel it necessary to remind us all of why a celebrity marriage is different from other marriages, and why we shouldn't give up on marriage because of them :)

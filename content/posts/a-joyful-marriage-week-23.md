@@ -6,7 +6,7 @@ categories:
   - "all"
   - "finances"
   - "journal"
-coverImage: "joyful-marriage-week-23.png"
+featured_image: "/images/joyful-marriage-week-23.png"
 ---
 
 **The joy I found in my marriage this week was my husband getting a new job that he was so happy about!**

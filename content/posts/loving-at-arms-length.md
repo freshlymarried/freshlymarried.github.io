@@ -6,7 +6,7 @@ categories:
   - "effort"
   - "friendship"
   - "goals"
-coverImage: "arms-length.jpg"
+featured_image: "/images/arms-length.jpg"
 ---
 
 I attended a women's conference with my mom a few weeks ago and I was inspired by one of the speakers who talked about "loving at arms-length." It was actually Dawn Armstrong, the mother of the missionary from the movie, "Meet the Mormons." She talked about how she has a lot of love for so many people; sometimes people who randomly come along. Her love for people grew ten fold when she stopped loving at arms-length, and instead pulled them in tight and gave them a hug.

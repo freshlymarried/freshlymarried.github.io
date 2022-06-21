@@ -5,7 +5,7 @@ categories:
   - "ajoyfulmarriage"
   - "all"
   - "journal"
-coverImage: "a-joyful-marriage-week-18.png"
+featured_image: "/images/a-joyful-marriage-week-18.png"
 ---
 
 I had a couple of joys I found in my marriage this week. I'll just share one of them though. **I found joy in our outside date night we had this week.**

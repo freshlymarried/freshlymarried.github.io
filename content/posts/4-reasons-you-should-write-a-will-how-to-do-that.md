@@ -4,7 +4,7 @@ date: "2017-06-21"
 categories: 
   - "all"
   - "children"
-coverImage: "IMG_0067.jpg"
+featured_image: "/images/IMG_0067.jpg"
 ---
 
 Discussing the topic of dying is kind of depressing, I know. But death is also a reality. And unfortunately, for so many couples, it becomes a reality too early on in their marriage, and so unexpectedly. You can only prepare so much in these situations, but guess what? Making a will is something that you CAN prepare for.

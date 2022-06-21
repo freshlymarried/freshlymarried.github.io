@@ -5,7 +5,7 @@ categories:
   - "ajoyfulmarriage"
   - "all"
   - "journal"
-coverImage: "a-jpoyful-marriage-week-31.png"
+featured_image: "/images/a-jpoyful-marriage-week-31.png"
 ---
 
 ### The joy I found in my marriage this week: that feeling when you kiss and make-up.

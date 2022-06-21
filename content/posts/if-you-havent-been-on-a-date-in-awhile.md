@@ -9,7 +9,7 @@ categories:
   - "finances"
   - "friendship"
   - "romance"
-coverImage: "photo-1444839368740-f0d3572f8067-1.jpeg"
+featured_image: "/images/photo-1444839368740-f0d3572f8067-1.jpeg"
 ---
 
 To the couples who haven't gone on a date in awhile:

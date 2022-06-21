@@ -7,7 +7,7 @@ categories:
   - "effort"
   - "goals"
   - "techniques"
-coverImage: "IMG_0570.jpg"
+featured_image: "/images/IMG_0570.jpg"
 ---
 
 > “…There would be far less of divorce, much less of infidelity, much less of anger and rancor and quarreling. There would be more of forgiveness, more of love, more of peace, more of happiness.”

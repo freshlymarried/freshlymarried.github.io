@@ -5,7 +5,7 @@ categories:
   - "all"
   - "effort"
   - "journal"
-coverImage: "TrevorAmy_reception_JDA_0158.jpg"
+featured_image: "/images/TrevorAmy_reception_JDA_0158.jpg"
 ---
 
 Did any other couples gain weight their first months of year of marriage? Or was it just us? hahaha. We always joke to people that getting married must do something to your metabolism. Maybe we just didn't start off our marriage eating healthy in the first place. I mean, we took this whole first tier of our wedding cake with us on our honeymoon to eat! haha I guess some of our eating habits changed when we got married vs. the single life and even when we dated and were engaged. Trevor also married a girl who likes to have boxes of brownie mixes on hand ;) There's probably multiple factors that went into our weight gain, but it doesn't change that it happened! So we have been working on losing that weight. :)

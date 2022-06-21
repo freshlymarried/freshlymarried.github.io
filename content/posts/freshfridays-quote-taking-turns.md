@@ -6,7 +6,7 @@ categories:
   - "all"
   - "effort"
   - "quotes"
-coverImage: "A-strong-marriage-quote.png"
+featured_image: "/images/A-strong-marriage-quote.png"
 ---
 
 This is the beauty of marriage right here. I remember being single not having a consistent person to rely on. Yes, I had loving family and friends but they also have their own lives and their own problems. In marriage, though, your spouse becomes your number one priority and so you get to experience that loving feeling of being taken care of.

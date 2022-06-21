@@ -6,7 +6,7 @@ categories:
   - "communication"
   - "conflict"
   - "sex"
-coverImage: "blog-size-when-one-spouse-wants-sex-more-than-the-other.png"
+featured_image: "/images/blog-size-when-one-spouse-wants-sex-more-than-the-other.png"
 ---
 
 _\*This post contains affiliate links._

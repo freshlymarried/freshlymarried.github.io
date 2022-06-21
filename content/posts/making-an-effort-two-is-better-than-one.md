@@ -7,7 +7,7 @@ categories:
   - "conflict"
   - "effort"
   - "techniques"
-coverImage: "zivile-arunas-320375.jpg"
+featured_image: "/images/zivile-arunas-320375.jpg"
 ---
 
 The use of techniques are found in our everyday activities; at your job, in your hobbies, cleaning your house, cooking, or driving a car. Each one of these requires the use of a skill or ability that you have learned that has helped you perform better in these various activities. Guess what? This idea can also be applied to your personal roles, such as being a spouse.

@@ -8,7 +8,7 @@ categories:
   - "journal"
   - "religious"
   - "romance"
-coverImage: "IMG_0629.jpg"
+featured_image: "/images/IMG_0629.jpg"
 ---
 
 We used to have a cute little tradition that we started when we were dating called, "Stoplight Kisses." When we would drive together and approach a long stoplight, we would lean over and kiss each other :) Sometimes they were hurried kisses, and sometimes one of us kept our eyes open in case the light turned green, haha. But we enjoyed these little moments. Any excuse to kiss right?!

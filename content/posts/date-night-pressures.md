@@ -5,7 +5,7 @@ categories:
   - "all"
   - "dates"
   - "romance"
-coverImage: "photo-1468775318753-2f85b351db51.jpeg"
+featured_image: "/images/photo-1468775318753-2f85b351db51.jpeg"
 ---
 
 Everyone knows that I'm a big promoter of date night. Especially with my giveaways. I just believe that it's important to have time together alone with your spouse. :) But I don't want to give anyone the idea that your time together has to be epic enough to be given the "date night" title. **Date night shouldn't feel pressured.**

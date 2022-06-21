@@ -5,7 +5,7 @@ categories:
   - "ajoyfulmarriage"
   - "all"
   - "journal"
-coverImage: "a-joyful-marriage-week-39.png"
+featured_image: "/images/a-joyful-marriage-week-39.png"
 ---
 
 I've been recovering from Sinus Surgery #2 the past week, and going into it I didn't think I would have a lot to feel joyous about because the first surgery's recovery was horrible. However, the surgery itself went so well, and the recovery afterward was so well that I didn't need to use painkillers hardly. That's a huge win in my book. And even though I experienced a lot of pain a week later due to airplane air pressure, **I'm still feeling** **joy that I was able to recover as well as I did!**

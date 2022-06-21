@@ -5,7 +5,7 @@ categories:
   - "all"
   - "dates"
   - "friendship"
-coverImage: "mailchimp-100-questions-to-ask-your-spouse.png"
+featured_image: "/images/mailchimp-100-questions-to-ask-your-spouse.png"
 ---
 
 ## We've all been there

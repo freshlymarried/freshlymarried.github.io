@@ -4,7 +4,7 @@ date: "2014-01-25"
 categories: 
   - "all"
   - "spotlights"
-coverImage: "Porter-Family.jpg"
+featured_image: "/images/Porter-Family.jpg"
 ---
 
 \[caption id="attachment\_2465" align="aligncenter" width="450"\]![The Porter Family, newlywed advice, newlywed spotlight, newlywed advice, relationship help, relationship advice](/images/Porter-Family-300x199.jpg) My guy and I first met June 27, 2010 with no intent of dating and just being buddies. However, with a summer filled with fireworks, fairs, and bbq's we realized we were much more than friends.\[/caption\]

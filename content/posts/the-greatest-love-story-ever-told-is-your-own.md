@@ -7,7 +7,7 @@ categories:
   - "effort"
   - "quotes"
   - "romance"
-coverImage: "IMG_0423.jpg"
+featured_image: "/images/IMG_0423.jpg"
 ---
 
 As a society, especially women, we tend to get caught up in other's love stories. The obvious ways we do this are through movies and novels, right? Writers make up these passionate love stories that (most of the time) are unlikely to happen, with the most convenient circumstances. When these stories are played out in movies, of course, we finally get to see it all played out visually so everything is played up.  The characters are played by flawless-looking actors and actresses, and they give over-the-top monologs that (most of the time) aren't realistic to say to someone, haha. Yet somehow, we love it all because it's so tragically beautiful!

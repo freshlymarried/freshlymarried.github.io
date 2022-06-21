@@ -7,7 +7,7 @@ categories:
   - "conflict"
   - "journal"
   - "romance"
-coverImage: "purple.jpg"
+featured_image: "/images/purple.jpg"
 ---
 
 Today is a special day :) Four years ago on October 25th, Trevor and I made our relationship official. See, it was declared on facebook so it was official ... haha

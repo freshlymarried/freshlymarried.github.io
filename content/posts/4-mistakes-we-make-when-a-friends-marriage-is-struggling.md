@@ -5,7 +5,7 @@ categories:
   - "all"
   - "conflict"
   - "friendship"
-coverImage: "blog-size-4-mistakes-we-make-when-a-friend-says-their-marriage-is-struggling.jpg"
+featured_image: "/images/blog-size-4-mistakes-we-make-when-a-friend-says-their-marriage-is-struggling.jpg"
 ---
 
 It’s not easy to see your friends go through hard struggles, especially when it comes to such an important relationship like marriage. It’s also not easy to be the confidant, the person they choose to share their marital struggles with. Though I think you should try avoiding involving your friends in the personal details of your marriage, it’s a reality that friends will confide in you and you will confide in them.

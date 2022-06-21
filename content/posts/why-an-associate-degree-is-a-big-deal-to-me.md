@@ -7,7 +7,7 @@ categories:
   - "effort"
   - "goals"
   - "journal"
-coverImage: "IMG_4239.jpg"
+featured_image: "/images/IMG_4239.jpg"
 ---
 
 This week my Associate in Science degree finally came in the mail! I practically earned it last summer, and then had to wait to apply for it in the fall, and then it got sent to the wrong address, haha. So I have had these proud feelings for 9 months, but finally got the paperwork to show for it ;) Believe it or not, my college career began in Fall 2009... Over the past six years, I made important life decisions that took me all over Utah, and to three different universities... haha. I took semesters off here and there, as well. Hence, why it took me five years to earn a two-year degree :)

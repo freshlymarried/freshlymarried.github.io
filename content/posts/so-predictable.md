@@ -8,7 +8,7 @@ categories:
   - "funny"
   - "journal"
   - "romance"
-coverImage: "ticket-stubs.jpg"
+featured_image: "/images/ticket-stubs.jpg"
 ---
 
 On Saturday, Trevor and I were doing dishes together, and we had a funny conversation about something. I don't remember all of the words that were said, but I think it was about how I almost pulled a "your face" joke on him. I know, I act like a twelve-year-old sometimes because I say "your face is a \_\_\_\_\_ "(fill in the blank), whenever the opportunity arises, haha. Well this opportunity, he knew it was coming after he created the perfect set up, so he said it before I could say it. I just laughed and said,  "Hey! How did you know I was going to say that?" He replied with, "Because you always say that. It's just like how I know you're going to start singing that \_\_\_\_\_\_\_\_\_\_\_ song, after I say the words \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_" (I put blanks, because I have multiple random songs I sing to multiple certain phrases! haha) We laughed about it, and I said, "Am I really that predictable?"

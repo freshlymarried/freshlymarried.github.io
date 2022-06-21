@@ -6,7 +6,7 @@ categories:
   - "dates"
   - "journal"
   - "romance"
-coverImage: "IMG_0299-e1405528286714.jpg"
+featured_image: "/images/IMG_0299-e1405528286714.jpg"
 ---
 
 I like doing surprise/spur-of-the-moment dates. Especially when they are much needed.

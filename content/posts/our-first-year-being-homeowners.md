@@ -7,7 +7,7 @@ categories:
   - "goals"
   - "journal"
   - "romance"
-coverImage: "IMG_0058-1.jpg"
+featured_image: "/images/IMG_0058-1.jpg"
 ---
 
 It was exactly one year ago today that we broke our bodies moving into our house! haha jk but seriously, we didn't move from the couch and unpack anything for two straight days because we were so sore. The time and effort was all worth it though because we have a beautiful, put together home to show for it :)

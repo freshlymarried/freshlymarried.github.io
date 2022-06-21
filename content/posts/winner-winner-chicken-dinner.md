@@ -5,7 +5,7 @@ categories:
   - "all"
   - "dates"
   - "giveaways"
-coverImage: "hat_draw_thumb.jpg"
+featured_image: "/images/hat_draw_thumb.jpg"
 ---
 
 Well folks, we have drawn a name out of the hat, with a winner to announce for our Boast and Brag Giveaway! Thank you so much for everyone who entered with your wonderful comments! We love hearing all of the great things that your spouses are doing to strengthen your marriage. It not only strengthens our marriage in in reading them, but I’m sure it does the same for the readers, as well.

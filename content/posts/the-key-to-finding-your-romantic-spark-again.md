@@ -7,7 +7,7 @@ categories:
   - "effort"
   - "quotes"
   - "romance"
-coverImage: "ihobrsedtx8-michael-ramey-1.jpg"
+featured_image: "/images/ihobrsedtx8-michael-ramey-1.jpg"
 ---
 
 I love playing with sparklers in the summer! They are a fun burst of energy and warmth, and have totally "sparked" a comparison for me to marriage!

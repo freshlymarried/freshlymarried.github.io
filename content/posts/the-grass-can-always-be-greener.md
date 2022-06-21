@@ -6,7 +6,7 @@ categories:
   - "communication"
   - "effort"
   - "quotes"
-coverImage: "the-grass-is-green-1.png"
+featured_image: "/images/the-grass-is-green-1.png"
 ---
 
 I love love love this thought because **it's a great reminder to me that it takes an effort to make things great, and even when it's achieved, it has to be maintained!** It also attacks that old saying: "The grass is greener on the other side," and I have a few ways I like to relate this to marriage...

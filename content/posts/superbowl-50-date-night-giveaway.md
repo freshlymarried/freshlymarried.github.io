@@ -5,7 +5,7 @@ categories:
   - "all"
   - "dates"
   - "giveaways"
-coverImage: "IMG_0080.jpg"
+featured_image: "/images/IMG_0080.jpg"
 ---
 
 Do you guys know Stuart Edge? My husband and I just recently found [his uplifting videos](https://www.youtube.com/user/stuartedge) on youtube and every time I watch them I think, "How cool is it that he can just give away money in really neat ways and make people happy?! I wish I could do that!" Well I'm definitely not made of money but I genuinely love doing nice things for people, especially if it truly does help them in some way. In this case, I love doing things that can be a help or even just a nice gesture for other marriages!

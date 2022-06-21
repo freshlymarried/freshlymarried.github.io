@@ -6,7 +6,7 @@ categories:
   - "communication"
   - "effort"
   - "quotes"
-coverImage: "stop-and-listen-1.jpg"
+featured_image: "/images/stop-and-listen-1.jpg"
 ---
 
 When life gets busy, it's easy to just keep going and going, working at that to-do list. We let the little greetings we give to each other be enough. But you can't go DAYS without _truly_ talking with your spouse. Each of you NEEDS that.

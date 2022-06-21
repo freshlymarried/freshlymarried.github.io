@@ -4,7 +4,7 @@ date: "2014-10-23"
 categories: 
   - "all"
   - "religious"
-coverImage: "IMG_0316.jpg"
+featured_image: "/images/IMG_0316.jpg"
 ---
 
 The word, "realistic" has been on my mind a lot lately: "Is this to-do list realistic?" "Are my wants realistic right now?" "Seriously, is this person's life realistic?" These are just a few. I've had a realization that we need to be more honest and appear more realistic as a society, because that's how people relate to each other. I have a hard time connecting with people who give a persona that life is perfect because we all know it's not.  So I'm going to be honest here.  I have been struggling the past few months with aspects of life. That's partly why I have not written a post in awhile. There's a number of things that contribute to the down feelings I have had, but I don't want to name all of them. A few of those things have been weighing on me more than others. I am a genuinely positive person so I have been staying positive each day in some way, but man the way of it just sits there still. I like to think I can handle multiple stressors at once, but I know myself well enough to know that if it builds up for so long, with more things adding to the pile, eventually I'll drop it all and fall.

@@ -5,7 +5,7 @@ categories:
   - "ajoyfulmarriage"
   - "all"
   - "journal"
-coverImage: "week-9-other-option-2.png"
+featured_image: "/images/week-9-other-option-2.png"
 ---
 
 ## The joy I found in my marriage this week: doing service together.

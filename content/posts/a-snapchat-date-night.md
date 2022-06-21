@@ -4,7 +4,7 @@ date: "2016-10-11"
 categories: 
   - "all"
   - "dates"
-coverImage: "photo-1463265305631-8a25b1e5b887.jpeg"
+featured_image: "/images/photo-1463265305631-8a25b1e5b887.jpeg"
 ---
 
 \[sc name="soundcloud" id="287187167" \]

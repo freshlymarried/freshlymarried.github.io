@@ -5,7 +5,7 @@ categories:
   - "all"
   - "goals"
   - "techniques"
-coverImage: "photo-1475721042966-f829c9b42aab.jpeg"
+featured_image: "/images/photo-1475721042966-f829c9b42aab.jpeg"
 ---
 
 I wanted to help you understand why I always sign my posts with 'Keepin' marriage fresh," and stress how cool this idea is to marriages. A while ago I was looking at the definitions of "fresh" and "freshening," and "freshen." I really loved some of the definitions Webster's dictionary provided. These are the definitions that I found for FRESH, and FRESHEN, and I'm going to tell you how I interrupt and apply this to marriages.

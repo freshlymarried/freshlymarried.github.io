@@ -7,7 +7,7 @@ categories:
   - "friendship"
   - "goals"
   - "journal"
-coverImage: "image-6.jpeg"
+featured_image: "/images/image-6.jpeg"
 ---
 
 I'm grateful that I was able to experience college being both single, and then married. In the beginning I was doing the college thing for the experience and learning, but finishing college as a married woman for the last few semesters was for more than that. I wasn't just doing it for me anymore.

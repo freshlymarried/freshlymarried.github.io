@@ -8,7 +8,7 @@ categories:
   - "effort"
   - "forgiveness"
   - "techniques"
-coverImage: "Copy-of-four-horsemen.jpg"
+featured_image: "/images/Copy-of-four-horsemen.jpg"
 ---
 
 _\*This post contains affiliate links._ 

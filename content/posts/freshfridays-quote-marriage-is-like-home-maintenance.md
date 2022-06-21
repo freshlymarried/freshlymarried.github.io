@@ -6,7 +6,7 @@ categories:
   - "all"
   - "conflict"
   - "effort"
-coverImage: "IMG_0588.jpg"
+featured_image: "/images/IMG_0588.jpg"
 ---
 
 The smoke detectors in our house have slowly been going off over the past few months, needing a replacement battery. And boy was that fun in the beginning :) I remember the first one that starting chirping during the day while it was just me at home, and I couldn't replace the battery because I wasn't tall enough to reach it, haha. So I had to wait until Trevor got home because he could reach it. That happened a few times actually because we hadn't bought a ladder yet; even after the first time it happened, haha!

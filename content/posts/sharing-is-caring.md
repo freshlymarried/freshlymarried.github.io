@@ -5,7 +5,7 @@ categories:
   - "all"
   - "friendship"
   - "funny"
-coverImage: "toa-heftiba-214340-1.jpg"
+featured_image: "/images/toa-heftiba-214340-1.jpg"
 ---
 
 Lately I've been seeing how great it can be to share things with your spouse!

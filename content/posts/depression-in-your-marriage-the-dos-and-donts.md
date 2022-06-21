@@ -6,7 +6,7 @@ categories:
   - "communication"
   - "effort"
   - "journal"
-coverImage: "IMG_0076.jpg"
+featured_image: "/images/IMG_0076.jpg"
 ---
 
 \[sc name="soundcloud" id="276706899" \]

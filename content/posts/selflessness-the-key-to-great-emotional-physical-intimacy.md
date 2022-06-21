@@ -5,7 +5,7 @@ categories:
   - "all"
   - "romance"
   - "sex"
-coverImage: "i-m-priscilla-195816.jpg"
+featured_image: "/images/i-m-priscilla-195816.jpg"
 ---
 
 _\*This post contains affiliate links._

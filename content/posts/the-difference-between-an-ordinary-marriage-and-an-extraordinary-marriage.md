@@ -7,7 +7,7 @@ categories:
   - "goals"
   - "quotes"
   - "romance"
-coverImage: "IMG_0029.jpg"
+featured_image: "/images/IMG_0029.jpg"
 ---
 
 When I watch TV shows that portray a husband and wife relationship, I get annoyed sometimes with how they act towards each other. Examples of this: Wives nagging their husbands and saying they don't do anything for them ever. Husbands complaining and saying comments like, “this is torture” when helping their wife plan a party or something only she is really interested in doing. They say sarcastic things under their breath at each other. They publicly make fun of each other. I know we all have seen a TV show or movie play-out relationships like this.

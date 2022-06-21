@@ -6,7 +6,7 @@ categories:
   - "all"
   - "conflict"
   - "quotes"
-coverImage: "IMG_0384.jpg"
+featured_image: "/images/IMG_0384.jpg"
 ---
 
 I don't think I'll ever stop getting inspired by quotes that remind me to look for the lesson through hard times!

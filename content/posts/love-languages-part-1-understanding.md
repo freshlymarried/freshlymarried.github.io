@@ -9,7 +9,7 @@ categories:
   - "friendship"
   - "quotes"
   - "techniques"
-coverImage: "blog-size-how-well-do-you-know-your-spouses-love-langauge-1.png"
+featured_image: "/images/blog-size-how-well-do-you-know-your-spouses-love-langauge-1.png"
 ---
 
 _\*This post contains affiliate links._ 

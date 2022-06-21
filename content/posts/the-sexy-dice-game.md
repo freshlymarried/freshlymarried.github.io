@@ -8,7 +8,7 @@ categories:
   - "romance"
   - "sex"
   - "videos"
-coverImage: "IMG_0452.jpg"
+featured_image: "/images/IMG_0452.jpg"
 ---
 
 I'm excited to share this idea with you guys because I think it's a fun, EASY way to switch things up when it comes to your sex life!

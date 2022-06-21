@@ -5,7 +5,7 @@ categories:
   - "all"
   - "effort"
   - "goals"
-coverImage: "IMG_0419.jpg"
+featured_image: "/images/IMG_0419.jpg"
 ---
 
 #### If you want  ^^this^^ you gotta be willing to work for it

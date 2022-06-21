@@ -6,7 +6,7 @@ categories:
   - "friendship"
   - "journal"
   - "romance"
-coverImage: "IMG_0143.jpg"
+featured_image: "/images/IMG_0143.jpg"
 ---
 
 Music is one of my favorite things that this life offers us. It has the power to inspire, to soften hearts, to change a mood, to make our bodies move, and ultimately, it can make us happy. My favorite thing about music, however, is its ability to preserve a memory, whether happy or sad, silly or annoying. I absolutely love that because of the many, MANY songs on my personal favorites list, every single one of them involves a memory... Singing Backstreet Boys songs with my friend every drive I took from St. George back to home, for a weekend visit. That break up song that I sung at the top of my lungs for 3 months straight because I was angry, haha. A song that will always remind me of the best year of my life. A song from my favorite movie that a favorite band of mine covered. The best part is that every time I hear any of these songs, and the other million that I have a connection with, I instantly remember that person, what we were doing, the atmosphere, and the meaning behind it.

@@ -6,7 +6,7 @@ categories:
   - "all"
   - "dates"
   - "journal"
-coverImage: "a-joyful-marriage-week-25.png"
+featured_image: "/images/a-joyful-marriage-week-25.png"
 ---
 
 I'm almost half way through this project to live a more joyful marriage! It's been such a good exercise for me to do each week because sometimes I have to think a little harder about the joys in life and in marriage. And that has helped me see things deeper in our relationship.

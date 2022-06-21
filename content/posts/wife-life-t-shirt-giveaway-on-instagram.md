@@ -4,7 +4,7 @@ date: "2017-02-21"
 categories: 
   - "all"
   - "giveaways"
-coverImage: "Copy-of-5-wife-life-giveaways.png"
+featured_image: "/images/Copy-of-5-wife-life-giveaways.png"
 ---
 
 I’ve been wanting to do some exciting things for the #monthoflove, which means GIVEAWAYS! And I wanna do something BIG! I want to give 5 lucky winners a WIFE LIFE t-shirt! Yes, that means I’m giving away 5 t-shirts total, which is over $100 in prizes! If you haven't seen these t-shirts, they look like this:

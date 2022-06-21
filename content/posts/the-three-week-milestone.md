@@ -8,7 +8,7 @@ categories:
   - "friendship"
   - "goals"
   - "journal"
-coverImage: "blog-size-First-3-weeks-being-married.png"
+featured_image: "/images/blog-size-First-3-weeks-being-married.png"
 ---
 
 ### In the first three weeks of being married, I learned:

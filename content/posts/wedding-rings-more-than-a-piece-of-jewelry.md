@@ -7,7 +7,7 @@ categories:
   - "goals"
   - "journal"
   - "romance"
-coverImage: "Copy-of-why-your-wedding-ring-is-more-than-a-piece-of-jewelry.png"
+featured_image: "/images/Copy-of-why-your-wedding-ring-is-more-than-a-piece-of-jewelry.png"
 ---
 
 The day I was proposed to, the day I gave Trevor his wedding ring, and the day I got married to him were all days that showed me the meaning of a wedding ring. However, there was something else that happened this week where I realized the importance of a wedding ring again. And guess how it happened? While watching an episode of _"Duck Dynasty"_ with my dad! hahaha. I'll explain.

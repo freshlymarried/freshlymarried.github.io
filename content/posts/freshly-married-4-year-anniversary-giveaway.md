@@ -4,7 +4,7 @@ date: "2017-06-23"
 categories: 
   - "all"
   - "giveaways"
-coverImage: "blog-SIZE-FM-4-year-giveaway.png"
+featured_image: "/images/blog-SIZE-FM-4-year-giveaway.png"
 ---
 
 ## HAPPY FOUR YEARS!

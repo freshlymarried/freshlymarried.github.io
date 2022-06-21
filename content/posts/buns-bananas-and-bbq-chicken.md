@@ -8,7 +8,7 @@ categories:
   - "goals"
   - "journal"
   - "romance"
-coverImage: "picnic.jpg"
+featured_image: "/images/picnic.jpg"
 ---
 
 ### My husband asks me out on a date every week.

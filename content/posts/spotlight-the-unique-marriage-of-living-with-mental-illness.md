@@ -5,7 +5,7 @@ categories:
   - "all"
   - "conflict"
   - "spotlights"
-coverImage: "Carli-Spotlight-blog-version.png"
+featured_image: "/images/Carli-Spotlight-blog-version.png"
 ---
 
 The times when I think marriage can get the toughest is when spouses are not sharing the same viewpoint, or when one spouse is struggling physically or mentally. Both of these tough situations are prevalent in a marriage that has one or both spouses struggling with mental illness. As I've shared in a few articles on [depression](https://freshlymarried.com/?s=depression), it's not easy for either spouse to handle, and it truly can affect your marriage in the short-term AND long-term of your relationship. Which is why I'm so grateful to help share this couple's story of the continuing influence of bipolar disorder in their marriage.

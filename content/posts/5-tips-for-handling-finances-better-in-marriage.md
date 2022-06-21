@@ -7,7 +7,7 @@ categories:
   - "effort"
   - "finances"
   - "goals"
-coverImage: "handling-finances-better-blog-size.png"
+featured_image: "/images/handling-finances-better-blog-size.png"
 ---
 
 When I originally wrote this draft blog post about 4 years ago, I mentioned that our way of doing things with our finances has been very successful for us, and that we didn't have issues between us due to finances... WELL, then we bought a house, and cars, and started investing in retirement, got fun medical bills, doing our own side businesses, etc. So our finances got a little more complex, and therefore the responsibilities of managing them got a little bit more intense. So now I'm making a revision that _**yep, finances have caused contention for us!**_ All I had to do was wait until the real world hit apparently, haha.

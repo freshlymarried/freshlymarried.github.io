@@ -7,7 +7,7 @@ categories:
   - "dates"
   - "journal"
   - "romance"
-coverImage: "reception.jpg"
+featured_image: "/images/reception.jpg"
 ---
 
 ### Well, more like, the best friends before we met our spouses.

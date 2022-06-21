@@ -7,7 +7,7 @@ categories:
   - "conflict"
   - "effort"
   - "friendship"
-coverImage: "stars-and-butterflies.jpg"
+featured_image: "/images/stars-and-butterflies.jpg"
 ---
 
 I've been thinking a lot lately about the way our blog is viewed. I wonder how our experiences are responded to. I wonder if we're too bold in some of our marriage ideals. And sometimes I wonder if our life comes off as this airy fantasy of what marriage really is like. After I have written something, I think back at the reasons we established this blog and ask myself if the particular post can be beneficial to our readers. Sometimes I end up erasing the entire post, and other times I wish I could keep writing even further...

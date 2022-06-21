@@ -5,7 +5,7 @@ categories:
   - "ajoyfulmarriage"
   - "all"
   - "journal"
-coverImage: "Copy-of-ajm-week-35.png"
+featured_image: "/images/Copy-of-ajm-week-35.png"
 ---
 
 **I'm happy to say that I've truly felt some joys this past week that have left me feeling content with life and my marriage! I have found joy in letting things go.** I'm trying to not take disagreements so personally, and it allows us to roll them off our back more. I'm also trying to let go of things I can't change -- specifically the fact that I have to have a second sinus surgery in a few weeks. I found that out earlier this week and I thought it would put a damper on the rest of the week but I just realized that there is no way around it, and I can sit and stew about it until it actually happens, or I can try and enjoy the present with my husband and our dog.

@@ -8,7 +8,7 @@ categories:
   - "goals"
   - "journal"
   - "romance"
-coverImage: "balloon-ride.jpg"
+featured_image: "/images/balloon-ride.jpg"
 ---
 
 Well, Trevor and I have now been married for one year! It's an interesting feeling of happiness, pride, excitement, and weirdness at the same time... if that makes any sense, haha. It is weird because of how quickly, yet slowly the year went by, and how different we are from a year ago! We were individuals that learned how to be one. We made plans, and some of those plans changed in unexpected ways. It's been crazy sometimes, but I've loved every second of it!  I think we learn more about our spouse than we knew before, and while I think this is a good thing, sadly, there are some who don't like what they see, and they get out. That is why I think the first year can be looked at as one of the most important years in marriage.

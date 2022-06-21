@@ -4,7 +4,7 @@ date: "2016-09-03"
 categories: 
   - "freshfridays"
   - "all"
-coverImage: "IMG_0330.jpg"
+featured_image: "/images/IMG_0330.jpg"
 ---
 
 Social media can make it seem like our marriages aren't fun or entertaining enough, as if the time we do get with each other doesn't matter if it wasn't elaborate, if it wasn't longer than an hour, or if the weekend was spent inside even though it's beautiful outside. It's easy to feel like that when your life is busy, or if there is something lacking in your relationship.

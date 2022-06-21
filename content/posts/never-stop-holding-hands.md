@@ -6,7 +6,7 @@ categories:
   - "goals"
   - "journal"
   - "romance"
-coverImage: "HoldingHands.jpg"
+featured_image: "/images/HoldingHands.jpg"
 ---
 
 ### What does it mean when you hold hands with your spouse?

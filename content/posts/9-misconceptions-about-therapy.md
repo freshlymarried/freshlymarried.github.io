@@ -7,7 +7,7 @@ categories:
   - "effort"
   - "quotes"
   - "techniques"
-coverImage: "xlbjdtrqk8-shelby-deeter-1.jpg"
+featured_image: "/images/xlbjdtrqk8-shelby-deeter-1.jpg"
 ---
 
 To say there are so many stereotypes and stigmas out there associated with therapists and therapy is an understatement. Therapists are often portrayed in movies and TV shows as jokes, and I'm not sure why, because seeking help for your mental and emotional state of mind is not a casual or comical thing! **It's also just as important to keep yourself emotionally healthy as it is to keep yourself physically healthy!** As someone in the marriage and family therapy field, I'm a huge believer and advocate of talking with someone either with a counselor or a therapist, but that's probably because I know a whole lot about what truly happens, and have experienced it myself, as I wrote about [here](http://freshlymarried.com/seeing-a-therapist-my-own-experiences/).

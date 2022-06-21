@@ -6,7 +6,7 @@ categories:
   - "communication"
   - "journal"
   - "romance"
-coverImage: "IMG_1491.jpg"
+featured_image: "/images/IMG_1491.jpg"
 ---
 
 A few weeks ago Trevor went to a conference in San Francisco for work. For many couples this wouldn't be that big of a deal. Some spouses are away on business trips often. Well, for Trevor and I, this was a big deal because it was the first time we have ever spent a night apart... YEP. The last time we slept in separate beds on our own was the night before we got married.

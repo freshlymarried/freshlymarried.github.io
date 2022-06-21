@@ -7,7 +7,7 @@ categories:
   - "conflict"
   - "friendship"
   - "quotes"
-coverImage: "103e9fba.jpeg"
+featured_image: "/images/103e9fba.jpeg"
 ---
 
 This quote below is great to remember in times of disconnection and conflict. We try to look on their surface for any emotion to provide us with answers, but what's showing on the outside might not be how they _actually_ feel or think.

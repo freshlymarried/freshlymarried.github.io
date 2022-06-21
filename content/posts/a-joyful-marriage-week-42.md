@@ -5,7 +5,7 @@ categories:
   - "ajoyfulmarriage"
   - "all"
   - "journal"
-coverImage: "ajm-week-42.png"
+featured_image: "/images/ajm-week-42.png"
 ---
 
 It's getting harder to be vulnerable week to week sharing details about our marriage, but I committed to this project at the beginning of the year, and I know it's helping me train my outlook on marriage for the better! There are only about 10 more weeks left of this project and it's so interesting seeing things progress.

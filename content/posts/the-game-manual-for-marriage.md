@@ -5,7 +5,7 @@ categories:
   - "all"
   - "communication"
   - "conflict"
-coverImage: "the-game-manual-blog-size.png"
+featured_image: "/images/the-game-manual-blog-size.png"
 ---
 
 Every card game and board game comes with instructions or a manual so that every player can understand how to play the game. Many games have options or different sets of rules for the kind of game you want to play, based on how many players, how competitive you want it, or even desiring a more simple version. Why am I explaining something you probably already know? Because I'm about to relate it to marriage, of course!

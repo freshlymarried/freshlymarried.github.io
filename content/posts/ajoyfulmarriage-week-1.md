@@ -5,7 +5,7 @@ categories:
   - "ajoyfulmarriage"
   - "all"
   - "journal"
-coverImage: "ajoyfulmarriage-project.png"
+featured_image: "/images/ajoyfulmarriage-project.png"
 ---
 
 ### Background/reminder

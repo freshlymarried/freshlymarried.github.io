@@ -5,7 +5,7 @@ categories:
   - "ajoyfulmarriage"
   - "all"
   - "journal"
-coverImage: "week-28-1.png"
+featured_image: "/images/week-28-1.png"
 ---
 
 **One of the joys I found in my marriage this week has been on how I've consistently stuck with this project every week and how it has benefited my marriage!**

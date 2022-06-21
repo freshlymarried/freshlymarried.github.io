@@ -6,7 +6,7 @@ categories:
   - "all"
   - "effort"
   - "quotes"
-coverImage: "IMG_0599.jpg"
+featured_image: "/images/IMG_0599.jpg"
 ---
 
 \[sc name="soundcloud" id="282060301" \]

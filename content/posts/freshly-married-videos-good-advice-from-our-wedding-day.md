@@ -8,7 +8,7 @@ categories:
   - "friendship"
   - "techniques"
   - "videos"
-coverImage: "IMG_7807-1.jpg"
+featured_image: "/images/IMG_7807-1.jpg"
 ---
 
 So here's that part two video about the marriage advice we received on our wedding day! The [first video](https://www.youtube.com/watch?v=PeHp9ZMmDpo) was me going through pieces of "bad" (cliche, not the best to follow) advice and why I think it's not the best to follow. **For this video,** **however, I wanted to keep it more positive and focused on all the GOOD advice we received on our wedding day because there truly were some great things said to us that stuck with us!** :)

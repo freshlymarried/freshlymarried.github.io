@@ -6,7 +6,7 @@ categories:
   - "friendship"
   - "romance"
   - "sex"
-coverImage: "nathan-dumlao-492753-unsplash-1.jpg"
+featured_image: "/images/nathan-dumlao-492753-unsplash-1.jpg"
 ---
 
 I was watching [an awesome TED talk](https://www.youtube.com/watch?v=sa0RUmGTCYY) from Belgian Psychotherapist, Esther Perel about desire in committed relationships. Specifically talking about having more desire and passion for intimacy. But she mentioned some REALLY great points that completely resonated with me, and I think they will with you too.

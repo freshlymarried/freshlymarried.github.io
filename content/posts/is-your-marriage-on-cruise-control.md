@@ -5,7 +5,7 @@ categories:
   - "all"
   - "communication"
   - "effort"
-coverImage: "photo-1473760737694-97af167fe924.jpeg"
+featured_image: "/images/photo-1473760737694-97af167fe924.jpeg"
 ---
 
 Think back to the last time you had to drive somewhere for hours. Your foot is tired from driving so much and you just want to give it some rest. When you're on a long stretch of road with few cars around or potential hazards, you want to turn on cruise control, right? This mechanism with a car has its pros: it can save gas and it keeps your driving consistent. However, **when it comes to _marriage_, cruise control is a dangerous place to be.**

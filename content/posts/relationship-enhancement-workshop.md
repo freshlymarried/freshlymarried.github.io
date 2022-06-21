@@ -8,7 +8,7 @@ categories:
   - "dates"
   - "effort"
   - "techniques"
-coverImage: "PREP-digital-flyer.png"
+featured_image: "/images/PREP-digital-flyer.png"
 ---
 
 I'm suuuuuper excited to announce that I am now a PREP trained facilitator! PREP stands for [Preventative Relationship Enhancement Program.](https://www.prepinc.com/content/About-Us/What-Is-PREP.htm) This accredited program is taught internationally to anyone wanting to strengthen their marital relationship! I have been training so I can teach this curricula to large audiences in the community, and I am happy to announce my first one!

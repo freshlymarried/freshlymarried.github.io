@@ -5,7 +5,7 @@ categories:
   - "all"
   - "dates"
   - "romance"
-coverImage: "what-you-should-know-about-date-boxes.png"
+featured_image: "/images/what-you-should-know-about-date-boxes.png"
 ---
 
 **Date boxes are planned and created date nights that are focused on creating an entertaining and connecting date for you and your spouse! If you’re unfamiliar with date boxes, I’ll give you the rundown on the basics of what they are, the pros and cons, as well as the varieties out there you can choose from!**

@@ -8,7 +8,7 @@ categories:
   - "goals"
   - "journal"
   - "romance"
-coverImage: "engagement-night.jpg"
+featured_image: "/images/engagement-night.jpg"
 ---
 
 I'm sure many of you have read that article circulating, called ["23 Things to Do Instead of Getting](http://wanderonwards.com/2013/12/30/23-things-to-do-instead-of-getting-engaged-before-youre-23/) [Engaged Before You're 23."](http://wanderonwards.com/2013/12/30/23-things-to-do-instead-of-getting-engaged-before-youre-23/) If you haven't read it, you might find it interesting.  (Please note that the article in the link contains explicit words.)  So many opinions can be formed about this girl's views, and many opinions have already been mentioned. In having a website focused on strengthening marriage, as well as helping the world understand the beauty of marriage, we couldn't let our opinion go unheard.

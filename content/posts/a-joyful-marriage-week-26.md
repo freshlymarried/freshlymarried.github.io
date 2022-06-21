@@ -6,7 +6,7 @@ categories:
   - "all"
   - "celebrate"
   - "journal"
-coverImage: "a-joyful-marriage-week-26-1.png"
+featured_image: "/images/a-joyful-marriage-week-26-1.png"
 ---
 
 Today is my husband's  26th birthday! Crazy enough, it happens to also be week 26 of this project, too! I love coincidences like that. And it works out well because **the joy I have found in my marriage this** week, **is having that feeling like we know each other pretty well for our birthdays.**

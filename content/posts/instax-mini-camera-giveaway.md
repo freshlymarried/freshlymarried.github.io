@@ -6,7 +6,7 @@ categories:
   - "dates"
   - "giveaways"
   - "romance"
-coverImage: "IMG_0081.jpg"
+featured_image: "/images/IMG_0081.jpg"
 ---
 
 **\*\*\*Giveaway closed.\*\*\*    Winner listed at the bottom of the post** 

@@ -6,7 +6,7 @@ categories:
   - "conflict"
   - "funny"
   - "journal"
-coverImage: "dentist.png"
+featured_image: "/images/dentist.png"
 ---
 
 Our dear, dear parents have paid for full insurances on our health, dental, and vision care all our lives... Until now.

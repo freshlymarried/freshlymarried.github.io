@@ -5,7 +5,7 @@ categories:
   - "ajoyfulmarriage"
   - "all"
   - "journal"
-coverImage: "A-Joyful-Marriage-Week-8.png"
+featured_image: "/images/A-Joyful-Marriage-Week-8.png"
 ---
 
 ## The Joy I found in my marriage this week: Resiliency!

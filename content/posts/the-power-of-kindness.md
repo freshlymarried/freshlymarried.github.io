@@ -9,7 +9,7 @@ categories:
   - "friendship"
   - "journal"
   - "quotes"
-coverImage: "mark-twain-quote.png"
+featured_image: "/images/mark-twain-quote.png"
 ---
 
 We all know that being kind can change someone's entire day around, or maybe someone's act of kindness has changed YOUR entire day. Kindness is so powerful, if you didn't know that already! Throughout my marriage I've definitely been shown and taught how powerful it can be.

@@ -7,7 +7,7 @@ categories:
   - "goals"
   - "journal"
   - "romance"
-coverImage: "Engagement_-_Hug.jpg"
+featured_image: "/images/Engagement_-_Hug.jpg"
 ---
 
 Three years ago yesterday, Trevor asked me to be his wife! That was obviously a big moment for us, just as it is for any relationship. However, there were other things leading up to that moment that were also big in our relationship.

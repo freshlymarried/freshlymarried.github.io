@@ -6,7 +6,7 @@ categories:
   - "communication"
   - "goals"
   - "journal"
-coverImage: "board-games.jpg"
+featured_image: "/images/board-games.jpg"
 ---
 
 I have been noticing some changes in myself since becoming a wifey to my amazing husband, Trevor. They are GOOD changes! We've been married now for about 8 months, and it's been a fun ride. While the transition from the single life to the married life was so awesome, it was a bigger transition for me with how independent of a person I am. One of the biggest changes I've been proud of, is how much I have cut out of my life to make more time for Trevor, and to be a better wife and friend for him... I've focused more on the things that matter most.

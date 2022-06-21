@@ -5,7 +5,7 @@ categories:
   - "ajoyfulmarriage"
   - "all"
   - "journal"
-coverImage: "week-43-2.png"
+featured_image: "/images/week-43-2.png"
 ---
 
 **A characteristic about the both of us that brings me joy in our marriage is that we both are practical thinkers.**

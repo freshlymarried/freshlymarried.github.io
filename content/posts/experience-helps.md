@@ -6,7 +6,7 @@ categories:
   - "communication"
   - "effort"
   - "techniques"
-coverImage: "Reception_hands.jpg"
+featured_image: "/images/Reception_hands.jpg"
 ---
 
 In my marriage and relationship skills class that I took over the summer, my professor was making fun of his cousin who just got married and started a blog about marriage, as if his cousin was an expert on it. Apparently they would write in a way that the things they were suggesting were wrong. With my professor being an actual expert on marriage in being a couples therapist, I could see why he would get annoyed of people like that. I, of course, laughed because our own blog could totally be looked at in the same way!

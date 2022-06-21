@@ -5,7 +5,7 @@ categories:
   - "all"
   - "journal"
   - "romance"
-coverImage: "Surgery.jpg"
+featured_image: "/images/Surgery.jpg"
 ---
 
 ### Amy had sinus surgery this week.

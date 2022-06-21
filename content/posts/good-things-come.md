@@ -7,7 +7,7 @@ categories:
   - "funny"
   - "quotes"
   - "romance"
-coverImage: "good-things-come-to-those-who-kiss-their-spouse-goodnight-1.jpg"
+featured_image: "/images/good-things-come-to-those-who-kiss-their-spouse-goodnight-1.jpg"
 ---
 
 And by good things, I don't just mean that it opens the opportunity for sex! haha. I think that by ending your night with a kiss sets you up for good feelings before you go to sleep. Good feelings or bad feelings can be the difference between staying up all night or having a beautiful sleep!

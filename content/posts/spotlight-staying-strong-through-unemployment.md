@@ -4,7 +4,7 @@ date: "2016-12-14"
 categories: 
   - "all"
   - "spotlights"
-coverImage: "Staying-strong-through-unemployment-5.png"
+featured_image: "/images/Staying-strong-through-unemployment-5.png"
 ---
 
 My friend Kiley is someone I have known for years and is someone I strongly look up to as a wife, a mother, but also an incredibly strong person who stands firm with a faith that everything will work out. **This past year they struggled through 4 months of unemployment after having their second child and I know that was something difficult to experience for their family and their marriage. However, it also brought blessings, too.**

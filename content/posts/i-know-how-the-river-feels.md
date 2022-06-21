@@ -6,7 +6,7 @@ categories:
   - "journal"
   - "quotes"
   - "romance"
-coverImage: "the-sea.png"
+featured_image: "/images/the-sea.png"
 ---
 
 I found this quote a long time ago, and it has been my favorite ever since. Unfortunately, I don't like the song that these words come from, haha. I will credit the band and the song though anyways. The lyrics come from the song, "I Know How The River Feels," by Diamond Rio.

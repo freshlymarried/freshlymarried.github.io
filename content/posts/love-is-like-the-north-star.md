@@ -6,7 +6,7 @@ categories:
   - "goals"
   - "quotes"
   - "romance"
-coverImage: "love-is-like-the-north-star-in-a-changing-world-its-always-constant.png"
+featured_image: "/images/love-is-like-the-north-star-in-a-changing-world-its-always-constant.png"
 ---
 
 _This post contains affiliate links to Amazon. Which means Freshly Married can make a small commission on items you buy through these links._

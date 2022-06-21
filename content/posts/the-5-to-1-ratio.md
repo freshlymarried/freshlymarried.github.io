@@ -6,7 +6,7 @@ categories:
   - "communication"
   - "effort"
   - "techniques"
-coverImage: "blog-size-the-5-to-1-ratio.png"
+featured_image: "/images/blog-size-the-5-to-1-ratio.png"
 ---
 
 For those of you who don't know John Gottman, he's basically the number one guy in understanding couples and marriages. He's also really fun to listen to! I respect him for his many theories in marriage, but this one is one of my favs because it's fairly easy to remember AND it makes a _daily impact_ on your marriage!  It's called the **5 to 1 ratio for healthier marriages**.

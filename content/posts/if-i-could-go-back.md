@@ -5,7 +5,7 @@ categories:
   - "all"
   - "communication"
   - "conflict"
-coverImage: "TrevorAmy_reception_JDA_0258-1.jpg"
+featured_image: "/images/TrevorAmy_reception_JDA_0258-1.jpg"
 ---
 
 There are many things in the beginning of marriage that we don't know about or fully understand until we have been married for at least a few years. I'm sure you guys have specific situations you ran into that you stressed too much over, or maybe an aspect that you underestimated. Maybe knowing your spouse for longer has helped you know how to handle certain situations better. So for my #freshfridays question I asked:

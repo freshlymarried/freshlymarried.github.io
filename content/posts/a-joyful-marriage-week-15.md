@@ -4,7 +4,7 @@ date: "2017-04-17"
 categories: 
   - "ajoyfulmarriage"
   - "all"
-coverImage: "joyful-marriage-week-11-4.png"
+featured_image: "/images/joyful-marriage-week-11-4.png"
 ---
 
 ## The joy I focused on in my marriage this week: that I have the power and influence of Christ in my relationship.

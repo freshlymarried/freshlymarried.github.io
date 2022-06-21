@@ -7,7 +7,7 @@ categories:
   - "effort"
   - "quotes"
   - "techniques"
-coverImage: "hwxbj5dnsym-eli-defaria-1.jpg"
+featured_image: "/images/hwxbj5dnsym-eli-defaria-1.jpg"
 ---
 
 One day I was flipping through an article on long-lasting celebrity couples, and each couple said something that has helped them be successful in their marriage. Some of the reasons were good, but this one by actor Bryan Cranston (from TV shows _Malcolm in the Middle_, and _Breaking Bad_) and his wife of 27 years stuck out to me.

@@ -5,7 +5,7 @@ categories:
   - "all"
   - "sex"
   - "videos"
-coverImage: "IMG_0430.jpg"
+featured_image: "/images/IMG_0430.jpg"
 ---
 
 _\*This post contains affiliate links._

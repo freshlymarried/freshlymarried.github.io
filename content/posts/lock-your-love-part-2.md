@@ -6,7 +6,7 @@ categories:
   - "celebrate"
   - "journal"
   - "romance"
-coverImage: "IMG_40891.jpg"
+featured_image: "/images/IMG_40891.jpg"
 ---
 
 In the previous post, ["Lock Your Love,"](http://freshlymarried.com/lock-your-love-part-1/) I shared this awesome gate found in St. George where you can symbolically protect your love by attaching a padlock to a gate or a bridge. Go read that post because it's a neat idea! I thought more about how this idea reflects marriage and found some great symbolism I wanted to share.

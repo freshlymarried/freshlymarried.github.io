@@ -6,7 +6,7 @@ categories:
   - "effort"
   - "funny"
   - "journal"
-coverImage: "iron.jpg"
+featured_image: "/images/iron.jpg"
 ---
 
 ### We just bought a new iron two weeks ago.

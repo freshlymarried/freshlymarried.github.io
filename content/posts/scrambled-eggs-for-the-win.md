@@ -6,7 +6,7 @@ categories:
   - "celebrate"
   - "funny"
   - "journal"
-coverImage: "IMG_7281.jpg"
+featured_image: "/images/IMG_7281.jpg"
 ---
 
 I know pictures of food are annoying but there's a reason I'm documenting it! We have obviously had to overhaul our meals with my food allergies, and it has been a whole bunch of trial and error. I've started to notice the affects in my body when I have even a little bit of something dairy here or there. I thought I could get away with cheating even just 2 tablespoons of ranch once a week but NOPE, haha. So back to the drawing board.

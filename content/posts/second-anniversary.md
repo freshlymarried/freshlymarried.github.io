@@ -6,7 +6,7 @@ categories:
   - "celebrate"
   - "journal"
   - "romance"
-coverImage: "IMG_1570.jpg"
+featured_image: "/images/IMG_1570.jpg"
 ---
 
 We celebrated our second anniversary this weekend, and it was just lovely. We stayed one night at the Anniversary Inn, enjoying the same room we spent our wedding night in. It was magical to have memories flood me from two years ago, and was just so relaxing to get away from the world for a little bit. On the way there we ate at Happy Sumo and it was just really chill, I loved it. The ambiance with flowers and a candle at our table, as well as a draped booth was really romantic, and our service and food was top-notch! The next day we went to Olive Garden for lunch which was the same thing we did the day after we got married, so I guess... new tradition? haha. It was really nice because we splurged on an appetizer (we hardly ever get appetizers), and the manager surprisingly paid for our appetizer for our anniversary! We have never had anyone do that for us, so it made us feel special. To end our festivities, we went to the temple and performed [sealings](http://www.mormon.org/faq/topic/temples/question/together-forever). This has been our favorite way to celebrate an anniversary, because we get the opportunity to remember the promises we made to each other the day we were married and sealed for eternity :)

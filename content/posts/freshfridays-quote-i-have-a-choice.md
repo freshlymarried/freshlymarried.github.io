@@ -7,7 +7,7 @@ categories:
   - "conflict"
   - "forgiveness"
   - "quotes"
-coverImage: "IMG_0541.jpg"
+featured_image: "/images/IMG_0541.jpg"
 ---
 
 I want to gear this #freshfridays quote towards our emotions. No one is in control of our emotions except for ourselves. So when we react terribly towards something our spouse says or does, we have to _own_ that. That’s why I love this quote, reminding me that **I get to choose how I react to a situation, but that my choice is also important.**

@@ -9,7 +9,7 @@ categories:
   - "goals"
   - "journal"
   - "romance"
-coverImage: "2013.jpg"
+featured_image: "/images/2013.jpg"
 ---
 
 ### This was how our year of 2013 was well-spent.

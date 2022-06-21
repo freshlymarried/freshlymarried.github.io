@@ -5,7 +5,7 @@ categories:
   - "all"
   - "funny"
   - "journal"
-coverImage: "table.jpg"
+featured_image: "/images/table.jpg"
 ---
 
 I didn't think I would come across this dilemma so soon after marriage. I thought we were pretty great at this, and wouldn't struggle with it as much as we have been lately. It's something that I thought I might have a hard time with when we have kids, but nope. It's already a struggle at 9 months of marriage.

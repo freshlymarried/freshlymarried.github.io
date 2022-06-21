@@ -6,7 +6,7 @@ categories:
   - "communication"
   - "conflict"
   - "friendship"
-coverImage: "You-are-perfect-for-me.jpg"
+featured_image: "/images/You-are-perfect-for-me.jpg"
 ---
 
 It’s November, which means most of us express extra gratitude for all of the blessings we have in our lives. As I’m very thankful for many things, the biggest blessing of all has been to have the love of my dear husband, Trevor.

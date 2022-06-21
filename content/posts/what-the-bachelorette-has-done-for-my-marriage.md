@@ -6,7 +6,7 @@ categories:
   - "effort"
   - "goals"
   - "romance"
-coverImage: "TrevorAmy_wedding_JDA_0331.jpg"
+featured_image: "/images/TrevorAmy_wedding_JDA_0331.jpg"
 ---
 
 Soooo I used to be apart of "Bachelor nation" like 6 years ago. It was entertaining to watch and then I got annoyed at how unrealistic it all was to actual healthy relationships so I stopped watching it.... Until this season. It was all my classmates would talk about before class and then I read this awesome article on it and decided to give it a try again. Who doesn't like judging other people's relationships? right? hahaha JK. but seriously that's how it is. It's kinda sad that we get to make all sorts of comments about people we don't even know, all from our couch. It's also sad because it seems to promote this idea that it's OK to make out with a bunch of guys at once, lead them on, and even have sex with them at one point. Aside from these morals it teaches, it has made me appreciate my own relationship so much more.

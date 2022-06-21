@@ -3,7 +3,7 @@ title: "Stir Fry"
 date: "2013-10-04"
 categories: 
   - "all"
-coverImage: "StirFryTHUMB.jpg"
+featured_image: "/images/StirFryTHUMB.jpg"
 ---
 
 ![Easy Stir Fry Bowls, simple meals, teriyaki sauce](/images/StirFry.jpg)

@@ -6,7 +6,7 @@ categories:
   - "dates"
   - "friendship"
   - "romance"
-coverImage: "unboxing-aloha.png"
+featured_image: "/images/unboxing-aloha.png"
 ---
 
 _\*\*\*This article contains affiliate links so if you purchase, I make a small percentage of that._

@@ -6,7 +6,7 @@ categories:
   - "all"
   - "effort"
   - "quotes"
-coverImage: "IMG_0398.jpg"
+featured_image: "/images/IMG_0398.jpg"
 ---
 
 Substitute a few words with "marriage" and you now have a quote that inspires you to be more than just married :)

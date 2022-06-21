@@ -6,7 +6,7 @@ categories:
   - "all"
   - "journal"
   - "romance"
-coverImage: "Copy-of-bottomline-option.png"
+featured_image: "/images/Copy-of-bottomline-option.png"
 ---
 
 ## The joy I found in my marriage this week: thoughtful surprises!

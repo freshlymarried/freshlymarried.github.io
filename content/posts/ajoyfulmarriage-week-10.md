@@ -5,7 +5,7 @@ categories:
   - "ajoyfulmarriage"
   - "all"
   - "journal"
-coverImage: "joyful-marriage-week-10.png"
+featured_image: "/images/joyful-marriage-week-10.png"
 ---
 
 ## The joy I found in my marriage this week: being reminded of all the family and friends cheering us on.

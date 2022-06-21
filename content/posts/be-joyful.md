@@ -8,7 +8,7 @@ categories:
   - "journal"
   - "quotes"
   - "romance"
-coverImage: "IMG_0342.jpg"
+featured_image: "/images/IMG_0342.jpg"
 ---
 
 Since this is our 3rd attempt at Christmas cards, I kinda feel like I got it right. Maybe! I didn't feel like I could put together a newsletter super quickly even though I already had our template from last year. Something inside me suggested making it somewhat more simple this year. But I like to give more than just the picture of us with a small Christmas phrase with our names on it. So this is the message I felt inspired to share, and Trevor approved!

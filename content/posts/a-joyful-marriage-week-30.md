@@ -5,7 +5,7 @@ categories:
   - "ajoyfulmarriage"
   - "all"
   - "journal"
-coverImage: "a-joyful-marriage-week-30.png"
+featured_image: "/images/a-joyful-marriage-week-30.png"
 ---
 
 I've been thinking about this a lot lately, but primarily this week, how grateful I am to have the husband that I have. He's very patient with me on weeks that I fall short, where I complain a lot, and don't do the usual things that I do. And yet he gives me a break, realizing some of the emotional stresses I'm under, and also tries to help pick up my slack.

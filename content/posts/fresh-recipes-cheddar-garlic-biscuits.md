@@ -3,7 +3,7 @@ title: "Cheddar Garlic Biscuits"
 date: "2013-10-20"
 categories: 
   - "all"
-coverImage: "BiscuitsTHUMB.jpg"
+featured_image: "/images/BiscuitsTHUMB.jpg"
 ---
 
 ![cheddar-bay biscuits, red lobster biscuits, betty crocker biscuits, easy biscuits](/images/Biscuits.jpg)

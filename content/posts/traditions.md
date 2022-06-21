@@ -5,7 +5,7 @@ categories:
   - "all"
   - "celebrate"
   - "journal"
-coverImage: "christmas.jpg"
+featured_image: "/images/christmas.jpg"
 ---
 
 It’s been said that this is the most wonderful time of the year. And other than this freezing cold weather we have been having, it sure feels true to me!

@@ -10,7 +10,7 @@ categories:
   - "friendship"
   - "goals"
   - "romance"
-coverImage: "2013-05-28-16.50.53.jpg"
+featured_image: "/images/2013-05-28-16.50.53.jpg"
 ---
 
 When you think about a typical honeymoon (or look back on your own honeymoon), it's a pretty great experience :) This picture is of us on our honeymoon to Park City; a.k.a Our best vacation ever!  Honeymoons are full of fun, low-stress, and are fairly worry-free because the happiness of being together outweighs everything. That happiness continues on after the vacation is over. Hence, the "honeymoon phase" phrase, haha. It was such a simple time. I used to laugh at that typical joke, before I got married, thinking: "The honeymoon phase doesn't have to end, does it?!" or "What's so different about the honeymoon phase than the rest of marriage?" I'm starting to see a little bit of that difference now :) It's hard to explain the differences I have seen and felt but I think they actually can be marked by "the honeymoon phase" idea.

@@ -6,7 +6,7 @@ categories:
   - "conflict"
   - "forgiveness"
   - "sex"
-coverImage: "IMG_0572.jpg"
+featured_image: "/images/IMG_0572.jpg"
 ---
 
 You may not have needed me to tell you that but there are 39 million people in the world and I'm sure millions more, who needed to be told that this week.

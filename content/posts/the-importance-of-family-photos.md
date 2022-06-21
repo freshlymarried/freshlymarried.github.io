@@ -7,7 +7,7 @@ categories:
   - "friendship"
   - "goals"
   - "romance"
-coverImage: "Freshly-Married-82.jpg"
+featured_image: "/images/Freshly-Married-82.jpg"
 ---
 
 As you have noticed, we got some new family photos done :) And I'm loving them! I had been watching my friend Nicky post so many amazing pictures she has taken of families and couples, and knew that she could give us the memorable photos we were looking for. Throughout the process I was so impressed with her professionalism, expertise, artistic eye, and even encouragement that we looked cute, haha. I just had a really great experience with her and wanted to mention that as I share a few photos from this shoot. Of course, these are only a few of my favs so you'll have to see more as I share them periodically through my blog posts and quotes! Thanks [Nicholette Photography](http://nicholettephotography.com/)! I can't wait to frame these in the stairwell collage I'm working on!

@@ -6,7 +6,7 @@ categories:
   - "all"
   - "celebrate"
   - "journal"
-coverImage: "joyful-marriage-week-11-1.png"
+featured_image: "/images/joyful-marriage-week-11-1.png"
 ---
 
 ## The joy I found in my marriage this week: We missed each other while on our separate trips. And that says a lot to me.

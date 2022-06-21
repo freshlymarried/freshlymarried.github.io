@@ -7,7 +7,7 @@ categories:
   - "effort"
   - "journal"
   - "techniques"
-coverImage: "blog-size-6-tips-for-sharing-time-between-families.png"
+featured_image: "/images/blog-size-6-tips-for-sharing-time-between-families.png"
 ---
 
 One of my favorite things about getting married, was that I received another awesome family in addition to my own awesome family :) There are so many great things that come with having another set of parents to count on, another set of siblings to have fun with, and of course, don't forget those nieces and nephews! One of the difficulties, however, in gaining another family, is having to split your time between them for holidays and other events. It can get tricky!

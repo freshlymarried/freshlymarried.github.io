@@ -5,7 +5,7 @@ categories:
   - "all"
   - "celebrate"
   - "funny"
-coverImage: "white-elephant-gift-ideas.png"
+featured_image: "/images/white-elephant-gift-ideas.png"
 ---
 
 _This post contains affiliate links to Amazon._

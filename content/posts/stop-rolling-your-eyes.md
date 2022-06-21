@@ -8,7 +8,7 @@ categories:
   - "friendship"
   - "goals"
   - "romance"
-coverImage: "PhotoGrid_1391329321012.jpg"
+featured_image: "/images/PhotoGrid_1391329321012.jpg"
 ---
 
 To the older couple staring at us kissing in line, stop rolling your eyes about it.

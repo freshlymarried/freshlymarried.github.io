@@ -8,7 +8,7 @@ categories:
   - "effort"
   - "friendship"
   - "quotes"
-coverImage: "dan-gold-105699.jpg"
+featured_image: "/images/dan-gold-105699.jpg"
 ---
 
 _\*This post contains affiliate links._

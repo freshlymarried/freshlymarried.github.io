@@ -7,7 +7,7 @@ categories:
   - "forgiveness"
   - "quotes"
   - "religious"
-coverImage: "Freshly-Married-64.jpg"
+featured_image: "/images/Freshly-Married-64.jpg"
 ---
 
 I am religious and rely on God and his son, Jesus Christ, in nearly all aspects of my marriage. So I have been wanting to write about how religion influences my marriage. This week as I have been thinking about Easter and Jesus Christ's Atonement, I have been focused on his actions from his time walking among us on earth: the examples he set of kindness, righteousness, and love. These qualities he displayed have become known as "Christlike attributes" and although there are many attributes that I could apply in my life, there are a few specifically that have been most applicable to my marriage that I wanted to point out.

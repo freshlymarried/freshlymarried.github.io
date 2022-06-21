@@ -6,7 +6,7 @@ categories:
   - "all"
   - "dates"
   - "journal"
-coverImage: "ajm-week-44.png"
+featured_image: "/images/ajm-week-44.png"
 ---
 
 **I like to think my DIY skills and creativity bless our marriage for the better :)** If we’re talking about it bringing joy to my marriage, it sure does because I fully enjoy doing little thoughtful surprises/projects like this one I did for hubby this week.

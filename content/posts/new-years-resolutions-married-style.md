@@ -6,7 +6,7 @@ categories:
   - "celebrate"
   - "goals"
   - "journal"
-coverImage: "IMG_1230.jpg"
+featured_image: "/images/IMG_1230.jpg"
 ---
 
 Our first married NYE's in 2013, we went out to dinner to Red Lobster and had a four-course meal discussing our New Year's resolutions. We had a great time enjoying good food, good company, and talking about the goals and desires of our heart. We decided this year we would continue that as a tradition every NYE! So this year we went out to Buffalo Wild Wings (one of our favs) and listed out to each other our plans for the new year, and it was great!

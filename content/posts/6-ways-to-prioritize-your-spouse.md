@@ -9,7 +9,7 @@ categories:
   - "effort"
   - "friendship"
   - "goals"
-coverImage: "blog-size-6-ways-to-prioritize-your-spouse.png"
+featured_image: "/images/blog-size-6-ways-to-prioritize-your-spouse.png"
 ---
 
 A reader asked what I would suggest as ways to prioritize your spouse, and I decided to put all that information in a post because my reply is too big for a comment box! haha. So here's my reply to my previous post: ["Prioritizing My Spouse."](http://freshlymarried.com/putting-your-spouse-before-children/)

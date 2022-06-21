@@ -5,7 +5,7 @@ categories:
   - "all"
   - "friendship"
   - "journal"
-coverImage: "Beanbag-e1398961113747.jpg"
+featured_image: "/images/Beanbag-e1398961113747.jpg"
 ---
 
 Trevor and I really enjoy having awesome TV shows to watch. We've already made that known in a previous post, where we spent most of March inside, while trading off being sick. There's only so much you can do when you don't feel well, right? But then what about the days that we feel great? Is it bad to enjoy a few episodes of a TV show? I mean, we all do it! Especially newlyweds. (Thank goodness for Netflix, haha.) I think sometimes, Netflix and all the other on demand options can be a blessing and a curse.

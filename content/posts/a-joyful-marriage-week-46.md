@@ -5,7 +5,7 @@ categories:
   - "ajoyfulmarriage"
   - "all"
   - "journal"
-coverImage: "ajm-week-46-1.png"
+featured_image: "/images/ajm-week-46-1.png"
 ---
 
 A quality in our marriage that brings me joy is our ability to count our blessings.

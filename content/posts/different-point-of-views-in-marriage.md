@@ -5,7 +5,7 @@ categories:
   - "all"
   - "communication"
   - "conflict"
-coverImage: "blog-size-2-crucial-words-for-handling-different-opinions.jpg"
+featured_image: "/images/blog-size-2-crucial-words-for-handling-different-opinions.jpg"
 ---
 
 It’s no secret that this upcoming presidential election has got everyone on the edge of their seats, whether they strongly are for a candidate, are so against any candidates, or just don’t know what to think. Even people that like to stay away from politics are forming opinions. It’s been … interesting… right?

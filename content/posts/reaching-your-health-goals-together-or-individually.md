@@ -7,7 +7,7 @@ categories:
   - "friendship"
   - "goals"
   - "journal"
-coverImage: "photo-1427384906349-30452365b5e8.jpg"
+featured_image: "/images/photo-1427384906349-30452365b5e8.jpg"
 ---
 
 This week I asked how couples get their exercise - do they work out together or individually, and why.  The reason I asked is because this is something my husband and I have been trying to figure out for a while now! I've seen many couples do workouts together, or go on the same diets. I think it's cool to have it be something you can do together because you get healthy while spending time together, you can encourage each other, and it can be convenient to eat the same meals. However, it's not always that easy for some couples!

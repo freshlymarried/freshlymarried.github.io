@@ -5,7 +5,7 @@ categories:
   - "all"
   - "journal"
   - "romance"
-coverImage: "You-are-the-most-beautiful-creature.jpg"
+featured_image: "/images/You-are-the-most-beautiful-creature.jpg"
 ---
 
 Amy asked me this morning, "Am I beautiful?" I was thinking, "Of course you are beautiful!" But I know many of you women reading this ask the same thing. It's obvious that many women are self-conscious about the way they look.

@@ -6,7 +6,7 @@ categories:
   - "all"
   - "children"
   - "journal"
-coverImage: "a-joyful-marriage-week-16.png"
+featured_image: "/images/a-joyful-marriage-week-16.png"
 ---
 
 Something that I found joy in is actually something that initially bugs me. And others may not understand it but I've just gotta share this thought.

@@ -6,7 +6,7 @@ categories:
   - "effort"
   - "goals"
   - "quotes"
-coverImage: "IMG_0437.jpg"
+featured_image: "/images/IMG_0437.jpg"
 ---
 
 Sometimes I get the feeling that people take marriage for granted or discount its importance. I'm not just saying that because I'm a marriage guru, or because I don't understand what it's like to have children of my own yet! From conversations I have had with people lately, they have made comments that appear to me as devaluing a family that only consists of husband and wife. It's as if they think a married couple simply on their own isn't good enough, or isn't a "family" compared to a married couple with children. It's like they forget that a marriage is a family too... I realize I'm getting defensive over a small handful of people, but I just wanted to write a post reminding everyone of some things! :)

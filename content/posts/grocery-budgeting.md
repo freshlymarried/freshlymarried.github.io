@@ -7,7 +7,7 @@ categories:
   - "finances"
   - "goals"
   - "journal"
-coverImage: "IMG_0349.jpg"
+featured_image: "/images/IMG_0349.jpg"
 ---
 
 Wanna know something funny?

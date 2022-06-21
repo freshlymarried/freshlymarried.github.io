@@ -6,7 +6,7 @@ categories:
   - "effort"
   - "goals"
   - "journal"
-coverImage: "IMG_0231.jpg"
+featured_image: "/images/IMG_0231.jpg"
 ---
 
 First of all, Happy New Year!!! We are on a Caribbean cruise ringing in the new year, so it's a little belated from me! That's also the reason why we just barely did our annual dinner date night where we share and discuss our goals for the year together. We typically do it on New Year's Eve but we felt like saving it until we got home from our trip. Especially because this fun stuff was going on!

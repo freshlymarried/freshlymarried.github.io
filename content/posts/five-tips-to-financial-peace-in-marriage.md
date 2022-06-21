@@ -6,7 +6,7 @@ categories:
   - "communication"
   - "finances"
   - "goals"
-coverImage: "FinancialPeace.jpg"
+featured_image: "/images/FinancialPeace.jpg"
 ---
 
 A [study](http://www.stateofourunions.org/2009/bank_on_it.php) by University of Utah professor Jeffrey Dew showed that if you argue about money with your spouse more than once a week your risk for divorce is 30 percent higher than if you argue about money with your spouse a few times a month.

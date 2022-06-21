@@ -6,7 +6,7 @@ categories:
   - "all"
   - "journal"
   - "quotes"
-coverImage: "a-joyful-marriage-week-12-2.png"
+featured_image: "/images/a-joyful-marriage-week-12-2.png"
 ---
 
 ## The Joy I found in my marriage this week: the power of a "thank you."

@@ -6,7 +6,7 @@ categories:
   - "communication"
   - "conflict"
   - "religious"
-coverImage: "Copy-of-relationship-education.png"
+featured_image: "/images/Copy-of-relationship-education.png"
 ---
 
 # The learning curve

@@ -6,7 +6,7 @@ categories:
   - "communication"
   - "effort"
   - "goals"
-coverImage: "Risk.jpg"
+featured_image: "/images/Risk.jpg"
 ---
 
 On Thursday, I was shamefully watching the daytime talk show, "The View" (I know, I stooped that low, don't judge me), and I was saddened by some of the comments that were being said about marriage to their guest co-host, Candace Cameron Bure (she played DJ from "Full House"). She came out with a recent book, so they discussed some of her ideals on marriage that were written in that book. They asked her about why she feels that being a submissive wife to her husband, is best, and why it has worked in her relationship. Though these women of the show are always obnoxiously trying to voice their opinion (loudly) over each other, on any and every topic, a few of the women made their opinions clear. One host, Jenny McCarthy, asked Candace if she ever wins an argument against her husband because of her choosing to be submissive. Though I don't know if I necessarily agree with all of Candace's ideals on the partnership of being submissive in marriage, I admire how she answered that question: "It's not about winning or losing, it's about supporting each other."

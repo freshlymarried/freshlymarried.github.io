@@ -5,7 +5,7 @@ categories:
   - "all"
   - "conflict"
   - "friendship"
-coverImage: "photo-1469032923574-4f1413034019.jpeg"
+featured_image: "/images/photo-1469032923574-4f1413034019.jpeg"
 ---
 
 \[sc name="soundcloud" id="282755491" \]

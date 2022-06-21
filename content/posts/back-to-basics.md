@@ -7,7 +7,7 @@ categories:
   - "conflict"
   - "journal"
   - "quotes"
-coverImage: "dr.-seuss.png"
+featured_image: "/images/dr.-seuss.png"
 ---
 
 I love Dr. Seuss. And not just because we have the same birthday :) When he says things, it has a way of making you think differently. My perspectives change and sometimes it results with a smack to the forehead like I should have known it all along, haha. Well this quote is one of those moments for me.

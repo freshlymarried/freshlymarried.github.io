@@ -5,7 +5,7 @@ categories:
   - "all"
   - "conflict"
   - "techniques"
-coverImage: "christiana-rivers-217056-1.jpg"
+featured_image: "/images/christiana-rivers-217056-1.jpg"
 ---
 
 Last month, I read an article about parents needing to be their child’s “first responder” in a crisis. What they meant is that the first reaction shouldn’t be to yell at them for the situation, but instead, you should first help them.

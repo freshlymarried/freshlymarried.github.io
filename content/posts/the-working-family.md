@@ -5,7 +5,7 @@ categories:
   - "all"
   - "conflict"
   - "goals"
-coverImage: "jack-sparrow.jpg"
+featured_image: "/images/jack-sparrow.jpg"
 ---
 
 I currently work at a desk job, answering emails and phone calls from customers. Sometimes I work with awesome, fun, and happy customers, and other times I get to work with ... other customers. Let's face it, most people do not take the time to contact a company unless they are unsatisfied with a product. So I'm the front man that gets to handle all of that. For the most part I love it, but some days I feel the weight of the negativity that comes from being surrounded by complaints on a daily basis. It affects my attitude during the day, and sadly, sometimes I take it home with me at night and complain to my husband.

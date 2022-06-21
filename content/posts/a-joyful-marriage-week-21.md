@@ -5,7 +5,7 @@ categories:
   - "ajoyfulmarriage"
   - "all"
   - "journal"
-coverImage: "A-Joyful-marriage-week-21.png"
+featured_image: "/images/A-Joyful-marriage-week-21.png"
 ---
 
 **The joy I found in my marriage this week was adding this little guy to our family :)**

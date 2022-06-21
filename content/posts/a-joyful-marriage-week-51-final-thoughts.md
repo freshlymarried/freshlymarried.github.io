@@ -6,7 +6,7 @@ categories:
   - "all"
   - "effort"
   - "journal"
-coverImage: "ajm-week-51.png"
+featured_image: "/images/ajm-week-51.png"
 ---
 
 If you've been following along this past year, every week I've been writing a blog post each week specifically about a joy that I have found in my marriage that week. Well, that project is now done with, and I don't know if I've ever been as consistent with a project like this before, especially one that is every week for a whole year! You can [read here](https://freshlymarried.com/ajoyfulmarriage-week-1/) why I started this project in the first place. A quick excerpt from it that explains my main WHY:

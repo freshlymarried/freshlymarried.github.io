@@ -7,7 +7,7 @@ categories:
   - "effort"
   - "forgiveness"
   - "goals"
-coverImage: "IMG_0265.jpg"
+featured_image: "/images/IMG_0265.jpg"
 ---
 
 ## Letters of Forgiveness

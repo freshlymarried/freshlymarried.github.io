@@ -8,7 +8,7 @@ categories:
   - "quotes"
   - "romance"
   - "techniques"
-coverImage: "how-well-do-you-speak-your-spouses-love-language-1.png"
+featured_image: "/images/how-well-do-you-speak-your-spouses-love-language-1.png"
 ---
 
 _\*You will get the most out of this post if you read [Love Languages Part 1: Understanding\*](http://freshlymarried.com/love-languages-part-1-understanding/)_

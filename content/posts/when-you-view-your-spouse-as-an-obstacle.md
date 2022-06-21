@@ -6,7 +6,7 @@ categories:
   - "effort"
   - "forgiveness"
   - "quotes"
-coverImage: "IMG_0050.jpg"
+featured_image: "/images/IMG_0050.jpg"
 ---
 
 Recently, someone in church said something that completely resonated with me in so many ways, and I instantly started writing a bunch of thoughts on it that I had. I want to share those with you!

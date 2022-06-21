@@ -6,7 +6,7 @@ categories:
   - "conflict"
   - "effort"
   - "religious"
-coverImage: "the_tree.jpg"
+featured_image: "/images/the_tree.jpg"
 ---
 
 Marriage has gone down in history this week with the legalization of same-sex marriages throughout the nation. The past few days I've been thinking about two things: 1) We are all human and we all have rights, despite our sexual orientation or religious beliefs.  2) How this is an opportune moment for us to increase our appreciation for marriage in general (traditional or non-traditional).

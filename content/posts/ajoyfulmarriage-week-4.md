@@ -5,7 +5,7 @@ categories:
   - "ajoyfulmarriage"
   - "all"
   - "journal"
-coverImage: "ajoyfulmarriage-week-4.png"
+featured_image: "/images/ajoyfulmarriage-week-4.png"
 ---
 
 I feel like a lot of things this week have been telling me "No."

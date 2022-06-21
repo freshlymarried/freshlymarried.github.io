@@ -4,7 +4,7 @@ date: "2014-04-01"
 categories: 
   - "all"
   - "spotlights"
-coverImage: "a-and-j-e1396325377282.jpg"
+featured_image: "/images/a-and-j-e1396325377282.jpg"
 ---
 
 Ours started in January 2011. I had just joined the Latter-Day Saint church and Jason returned from his mission in Italy 3 weeks later. So being in "missionary mode" he and his family gave me the new member lessons and our friendship blossomed from there. We were great friends with no intentions of dating for about a year. Soon we could no longer deny our feelings for each other, dated for about another year, and in March 2013 were sealed for time and all eternity in the Oakland temple. We are now living in Provo so he can attend school at BYU.

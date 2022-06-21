@@ -7,7 +7,7 @@ categories:
   - "communication"
   - "friendship"
   - "funny"
-coverImage: "TheMarriedJournal.jpg"
+featured_image: "/images/TheMarriedJournal.jpg"
 ---
 
 I love being right in the middle of a memorable moment when a certain kind of happiness overcomes me, and I can’t help but think, “I will never forget this.” Those moments are deemed “memorable” for whatever reason, and can stay in our hearts forever. As much as we wish they can be replayed over and over, they can’t be; unless you have a time machine in the form of a flying DeLorean, and your name is Doctor Emmett Brown. (haha)

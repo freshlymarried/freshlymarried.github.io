@@ -5,7 +5,7 @@ categories:
   - "ajoyfulmarriage"
   - "all"
   - "journal"
-coverImage: "week-6-option.png"
+featured_image: "/images/week-6-option.png"
 ---
 
 ### The joy I found in my marriage this week: the opportunity to take care of my husband as he has had the flu/cold all week!

@@ -7,7 +7,7 @@ categories:
   - "effort"
   - "journal"
   - "techniques"
-coverImage: "mn7wovajopo-sabri-tuzcu.jpg"
+featured_image: "/images/mn7wovajopo-sabri-tuzcu.jpg"
 ---
 
 I am sharing my experiences because I believe that the more positively we talk about therapy, the less stigma attached to it, and the more likely people are to seek help and actually get the help they need. I have seen a therapist at two different times in my life, and each time was for emotionally difficult situations.  I ask for your sensitivity as I get very vulnerable here!

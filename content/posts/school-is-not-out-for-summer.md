@@ -5,7 +5,7 @@ categories:
   - "all"
   - "effort"
   - "techniques"
-coverImage: "first-day-of-school.jpg"
+featured_image: "/images/first-day-of-school.jpg"
 ---
 
 You've probably noticed a decrease in posts the past few weeks. (I'm sorry for that!) I love our blog, and I love writing posts, but I've just had my hands busy with school. Yep! After being out of the academic loop for two years, I am back in the game! It's been a slight adjustment with getting back into my nerdy, studious habits, but it's been more of an adjustment with how face-paced summer blocks are. Despite the moments of stress, I've been very excited to get back into the classroom again, and learn. Because it has been so long, I've been very grateful for this opportunity we found for me to go back, so I have been taking the school work very seriously. I think this will be my best semester yet :)

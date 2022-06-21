@@ -7,7 +7,7 @@ categories:
   - "effort"
   - "goals"
   - "quotes"
-coverImage: "why-its-ok-to-invest-more-in-your-marriage-than-in-your-kids-1.png"
+featured_image: "/images/why-its-ok-to-invest-more-in-your-marriage-than-in-your-kids-1.png"
 ---
 
 #### A HAPPY AND HEALTHY FAMILY BEGINS WITH MARRIAGE

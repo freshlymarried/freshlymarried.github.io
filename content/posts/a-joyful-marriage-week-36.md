@@ -6,7 +6,7 @@ categories:
   - "all"
   - "friendship"
   - "journal"
-coverImage: "ajm-week-36-1.png"
+featured_image: "/images/ajm-week-36-1.png"
 ---
 
 **This joy is going to AGAIN sound familiar... trying new things together, or just things that we grew up doing but haven't done since we've been together.**

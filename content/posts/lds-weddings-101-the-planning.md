@@ -9,7 +9,7 @@ categories:
   - "journal"
   - "religious"
   - "romance"
-coverImage: "TrevorAmy_jump_about.jpg"
+featured_image: "/images/TrevorAmy_jump_about.jpg"
 ---
 
 I would like to start out, by saying how much I loved my wedding day. From the Groom to the ceremony; to the decorations to the guests; and from the food to the fun, I loved it all! Of course, the day had a few blips, but that is inevitable! What it all came down to, was that I had just married the most perfect man for me, and we were celebrating that fact with people who loved and supported us. Almost any wedding malfunction that happened, or could have happened, was not going to ruin that day for us.

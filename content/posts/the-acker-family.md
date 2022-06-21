@@ -4,7 +4,7 @@ date: "2013-12-04"
 categories: 
   - "all"
   - "spotlights"
-coverImage: "ackers.jpg"
+featured_image: "/images/ackers.jpg"
 ---
 
 \[caption id="attachment\_1418" align="aligncenter" width="450"\]![newlywed couple advice, marriage advice, newlywed advice, newlywed marriage experiences, marriage advice, newlywed advice](/images/ackers.jpg) Hello, We are the Acker’s!\[/caption\]

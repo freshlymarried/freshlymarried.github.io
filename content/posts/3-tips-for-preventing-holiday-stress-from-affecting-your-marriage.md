@@ -5,7 +5,7 @@ categories:
   - "all"
   - "celebrate"
   - "conflict"
-coverImage: "3-tips-for-preventing-holiday-stress-from-affecting-your-marriage.png"
+featured_image: "/images/3-tips-for-preventing-holiday-stress-from-affecting-your-marriage.png"
 ---
 
 We are all well aware that while the holiday season can be a wonderful time of year spent with loved ones, it can also bring with it some stress. Just a few examples: spending hours trying to make your house look festive; thinking of the perfect gifts for family, friends, neighbors, and coworkers, then having to go get those gifts and wrap them, while trying to not spend a fortune; making special food for the celebrations; and feeling pressure to make special memories. Don’t forget to leave room for unexpected things to happen, as well!

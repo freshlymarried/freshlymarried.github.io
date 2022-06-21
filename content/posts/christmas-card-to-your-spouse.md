@@ -5,7 +5,7 @@ categories:
   - "all"
   - "celebrate"
   - "funny"
-coverImage: "printable-christmas-card-to-your-spouse-blog-size.png"
+featured_image: "/images/printable-christmas-card-to-your-spouse-blog-size.png"
 ---
 
 I've been so focused on what items to buy for my husband that I forgot about the gift of words that I could give him. Have you ever thought to give your spouse a Christmas card? We can write notes to our spouse on random occasions, or write them a letter for your wedding anniversary, or birthday. But I don't think many of us use the opportunity of writing them a Christmas card or letter.

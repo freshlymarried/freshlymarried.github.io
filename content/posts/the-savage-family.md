@@ -4,7 +4,7 @@ date: "2014-01-15"
 categories: 
   - "all"
   - "spotlights"
-coverImage: "More-phone-pics-248-589x442-2.jpg"
+featured_image: "/images/More-phone-pics-248-589x442-2.jpg"
 ---
 
 ![The Savage family kiss on the cheek. newlyweds, newlywed experiences, sharing newlywed experiences, sharing married experiences](/images/More-phone-pics-248-589x442-2-300x225.jpg)

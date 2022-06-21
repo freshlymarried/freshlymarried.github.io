@@ -6,7 +6,7 @@ categories:
   - "celebrate"
   - "friendship"
   - "journal"
-coverImage: "IMG_5243-e1442785401899.jpg"
+featured_image: "/images/IMG_5243-e1442785401899.jpg"
 ---
 
 #### This week's lesson: you have to know the misery to know joy!

@@ -8,7 +8,7 @@ categories:
   - "effort"
   - "friendship"
   - "quotes"
-coverImage: "thomas-lefebvre-3950-1.jpg"
+featured_image: "/images/thomas-lefebvre-3950-1.jpg"
 ---
 
 Last year [I wrote a series of posts](http://freshlymarried.com/my-struggle-with-social-media-part-1/) on how social media can get the best of us and how it can affect our marriages. I now want to discuss another aspect of social media that can affect our marriages.

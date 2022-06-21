@@ -5,7 +5,7 @@ categories:
   - "all"
   - "goals"
   - "quotes"
-coverImage: "none-of-us-marry-perfection.jpg"
+featured_image: "/images/none-of-us-marry-perfection.jpg"
 ---
 
 This is a humbling reminder on marriage that I truly appreciate.

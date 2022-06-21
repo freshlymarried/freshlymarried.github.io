@@ -4,7 +4,7 @@ date: "2017-05-21"
 categories: 
   - "ajoyfulmarriage"
   - "all"
-coverImage: "joyful-marriage-week-20.png"
+featured_image: "/images/joyful-marriage-week-20.png"
 ---
 
 This weekend, I was able to do something that is #1 on my bucket list after having a family: See U2 live in concert! And we made it happen!  To hear them live made me feel so blessed to be there because I just love and appreciate their music so much!

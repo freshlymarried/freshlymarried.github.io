@@ -5,7 +5,7 @@ categories:
   - "all"
   - "quotes"
   - "romance"
-coverImage: "Quote_MEME.jpg"
+featured_image: "/images/Quote_MEME.jpg"
 ---
 
 ### It's marriage quote Sunday, ya'll!

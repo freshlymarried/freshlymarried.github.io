@@ -5,7 +5,7 @@ categories:
   - "all"
   - "communication"
   - "goals"
-coverImage: "IMG_0293.jpg"
+featured_image: "/images/IMG_0293.jpg"
 ---
 
 Last week I re-shared some posts I wrote a year ago about some struggles I had with social media. I felt envious at times. I felt too involved in people's lives that I hardly talk to anymore. And because I was getting used to a new living situation now knowing anyone, I spent a lot of time seeking comfort from those virtual connections.  Unfortunately but understandably, all of this made me depressed so I had to change these thoughts for myself, but also for my marriage because it began to affect that as well. Feel free to go read [part 1](http://freshlymarried.com/my-struggle-with-social-media-part-1/), [part 2](http://freshlymarried.com/my-struggle-with-social-media-part-2/), and [part 3](http://freshlymarried.com/my-struggle-with-social-media-part-3/) of those posts.

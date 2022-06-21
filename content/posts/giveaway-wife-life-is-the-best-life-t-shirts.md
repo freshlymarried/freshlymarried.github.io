@@ -4,7 +4,7 @@ date: "2016-09-22"
 categories: 
   - "all"
   - "giveaways"
-coverImage: "IMG_1847.jpg"
+featured_image: "/images/IMG_1847.jpg"
 ---
 
 \*\*\*GIVEAWAY HAS ENDED, WINNERS ANNOUNCED AT THE END OF THE POST\*\*\*

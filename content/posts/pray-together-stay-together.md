@@ -8,7 +8,7 @@ categories:
   - "forgiveness"
   - "journal"
   - "religious"
-coverImage: "hands.jpg"
+featured_image: "/images/hands.jpg"
 ---
 
 This is a common catchphrase in religions, even though it might not be a guarantee. While I believe praying is a powerful tool in marriage, it doesn't necessarily guarantee a couple won't get divorced. However, it does pull a large weight when it comes to feeling high marital quality.

@@ -9,7 +9,7 @@ categories:
   - "journal"
   - "religious"
   - "romance"
-coverImage: "decorations-e1378248560282.jpg"
+featured_image: "/images/decorations-e1378248560282.jpg"
 ---
 
 ### The sealing

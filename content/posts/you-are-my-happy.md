@@ -8,7 +8,7 @@ categories:
   - "journal"
   - "quotes"
   - "romance"
-coverImage: "IMG_1504.jpg"
+featured_image: "/images/IMG_1504.jpg"
 ---
 
 Found this quote the other day and I really liked it. Yeah it's cheesy and cutesy, as well as simple and thought-provoking.

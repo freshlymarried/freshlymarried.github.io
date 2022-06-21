@@ -6,7 +6,7 @@ categories:
   - "celebrate"
   - "goals"
   - "journal"
-coverImage: "IMG_1949.jpg"
+featured_image: "/images/IMG_1949.jpg"
 ---
 
 Back to School InterviewThis is inspired by an email newsletter I received titled, _"Interviews aren't just for adults,"_ where I saw a cute picture of a kid holding up one of those back to school/all about me interview papers that people tend to do with their kids every year. And I instantly had a contradicting thought: _"Back to school interviews aren't just for kids!"_ haha. Which then inspired a great thought...

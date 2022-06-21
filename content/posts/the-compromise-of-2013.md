@@ -7,7 +7,7 @@ categories:
   - "conflict"
   - "effort"
   - "journal"
-coverImage: "compromise.jpg"
+featured_image: "/images/compromise.jpg"
 ---
 
 Do you and your significant other have different likes and dislikes? Yeah, we do too. We have had some since the beginning, but are starting to know a lot more, lately! We are so glad that we have those differences, because they provide a little variety in our relationship (haha). And if we were the exact same person, we might get bored after awhile.

@@ -6,7 +6,7 @@ categories:
   - "communication"
   - "romance"
   - "sex"
-coverImage: "alejandra-quiroz-658-2.jpg"
+featured_image: "/images/alejandra-quiroz-658-2.jpg"
 ---
 
 \*_This post contains affiliate links._ 

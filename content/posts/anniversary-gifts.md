@@ -6,7 +6,7 @@ categories:
   - "celebrate"
   - "friendship"
   - "romance"
-coverImage: "key-ring.jpg"
+featured_image: "/images/key-ring.jpg"
 ---
 
 Our one year anniversary is coming up, and I am finding myself getting more excited about it each day! I've been thinking about how things were a year ago, and how far we have come since then. I have started looking back at our first year with such gratitude for the blessings that have come, and also for the trials that we have seen. And then I stumble upon all the cute things that made me fall in love with Trevor in the first place :) And that puts me in an instant twitterpated state of mind, haha. I just love my boy and am thankful for every part of him.

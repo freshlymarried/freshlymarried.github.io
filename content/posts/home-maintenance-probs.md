@@ -6,7 +6,7 @@ categories:
   - "effort"
   - "funny"
   - "journal"
-coverImage: "IMG_0773.jpg"
+featured_image: "/images/IMG_0773.jpg"
 ---
 
 As you know, we moved into our first home three weeks ago. We are enjoying it a lot so far :) It's been great to come home to our own place with a lot more space! (I'm cool because I rhymed.) There's DEFINITELY some upgrades from an old apartment to a new home, that we've enjoyed. Like how my stove cooks chicken, and how my oven seems to bake things better! (My rolls taste better somehow.)

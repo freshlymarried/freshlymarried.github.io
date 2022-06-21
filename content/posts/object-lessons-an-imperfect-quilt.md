@@ -6,7 +6,7 @@ categories:
   - "conflict"
   - "forgiveness"
   - "journal"
-coverImage: "IMG_1255-1.jpg"
+featured_image: "/images/IMG_1255-1.jpg"
 ---
 
 After about a month of plotting, pinteresting, sketching, researching, purchasing, ironing, cutting, pinning, sewing, unpicking, and sewing again, I FINISHED MY HUSBAND'S QUILT! It turned out so well, and best of all, he loved it and appreciated it so much when I surprised him with it!

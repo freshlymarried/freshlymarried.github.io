@@ -5,7 +5,7 @@ categories:
   - "all"
   - "conflict"
   - "spotlights"
-coverImage: "sweet-ice-cream-photography-267893.jpg"
+featured_image: "/images/sweet-ice-cream-photography-267893.jpg"
 ---
 
 A divorce is an event that affects so many people and for years to come. It’s something very common, yet it’s very scary to talk about for many people. It’s a topic I’ve been wanting to tackle for awhile, but contains so many aspects to cover. I've always been curious about how children, adolescents, and adult children have been affected by their parents' divorce. So I've enlisted the help of some amazing women who are kind enough to share their experiences with you, to give you better insight into this particular family situation.

@@ -5,7 +5,7 @@ categories:
   - "all"
   - "celebrate"
   - "engagement"
-coverImage: "IMG_0417.jpg"
+featured_image: "/images/IMG_0417.jpg"
 ---
 
 _\*This blog post contains affiliate links._ 

@@ -4,7 +4,7 @@ date: "2014-07-11"
 categories: 
   - "all"
   - "spotlights"
-coverImage: "photo-5.jpg"
+featured_image: "/images/photo-5.jpg"
 ---
 
 Josh and I met on October 20, 2011 on the street corner while walking to class at the University of Utah. He said hello & the rest was history.. just kidding it wasn't that simple. A few dates, break ups, one summer of me studying abroad and him selling pest control & skyping, a reunion the same place we met and several--staying up way too late because we didn't want to say goodbye--nights later we were married March 12, 2013. Josh and I now live in Dallas, Texas.

@@ -8,7 +8,7 @@ categories:
   - "journal"
   - "quotes"
   - "romance"
-coverImage: "precious-love-notes-from-a-loving-wife.png"
+featured_image: "/images/precious-love-notes-from-a-loving-wife.png"
 ---
 
 ### Amy and I can be a little goofy at times...

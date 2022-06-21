@@ -4,7 +4,7 @@ date: "2016-08-17"
 categories: 
   - "all"
   - "spotlights"
-coverImage: "raquel-blog-size-spotlight.png"
+featured_image: "/images/raquel-blog-size-spotlight.png"
 ---
 
 So many great things can come from having a doctor, nurse, etc. in your family; first and foremost having someone knowledgeable to help you when something medically goes wrong, and you don't have to pay the all the fees! Obviously, they have to go through years of medical school in order to get there, making it a long process, especially when you're married. Since there are many spouses who can relate to this situation, I turned to my amazing friend Raquel to give some inspiration and encouragement in this area.

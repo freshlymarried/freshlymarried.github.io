@@ -8,7 +8,7 @@ categories:
   - "journal"
   - "quotes"
   - "religious"
-coverImage: "IMG_0438.jpg"
+featured_image: "/images/IMG_0438.jpg"
 ---
 
 Three years ago I wrote this message to Trevor on the back of a picture quote as encouragement that we could do the long distance thing. (I'm sad we can't find the original right now but glad I took a picture of the smeared message I wrote him!) The story behind this little message set a precedent for our relationship and it's one I think every couple needs reminding of :)

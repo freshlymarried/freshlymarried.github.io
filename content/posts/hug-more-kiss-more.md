@@ -7,7 +7,7 @@ categories:
   - "goals"
   - "quotes"
   - "romance"
-coverImage: "Hug-more-kiss-more.png"
+featured_image: "/images/Hug-more-kiss-more.png"
 ---
 
 # HUG MORE. KISS MORE. HUG MORE. KISS MORE.

@@ -5,7 +5,7 @@ categories:
   - "ajoyfulmarriage"
   - "all"
   - "effort"
-coverImage: "a-joyful-marriage-week-38-1.png"
+featured_image: "/images/a-joyful-marriage-week-38-1.png"
 ---
 
 **The Joy I found in my marriage this week is simply little surprises that mean so much!**

@@ -7,7 +7,7 @@ categories:
   - "children"
   - "friendship"
   - "journal"
-coverImage: "Copy-of-BLOG-SIZE-gender-reveal.png"
+featured_image: "/images/Copy-of-BLOG-SIZE-gender-reveal.png"
 ---
 
 Everything about this pregnancy has been super exciting, not just for us but for our family and friends. I mean, it took us so much to finally get here, but we also get to experience the rare situation of twins! It's also my in-laws' first grandbaby so it's ALL very exciting for them.

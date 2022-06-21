@@ -5,7 +5,7 @@ categories:
   - "ajoyfulmarriage"
   - "all"
   - "journal"
-coverImage: "a-joyful-marriage-week-27.png"
+featured_image: "/images/a-joyful-marriage-week-27.png"
 ---
 
 I don't really like to say we are a mom or dad to our dog Oli, but we do take care of him and parent him in lots of ways. I didn't think I would ever be a "dog parent" but I've been finding myself glad that it happened.

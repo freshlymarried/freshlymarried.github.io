@@ -5,7 +5,7 @@ categories:
   - "all"
   - "friendship"
   - "journal"
-coverImage: "worthy-of-elegance-6723.jpg"
+featured_image: "/images/worthy-of-elegance-6723.jpg"
 ---
 
 ### .

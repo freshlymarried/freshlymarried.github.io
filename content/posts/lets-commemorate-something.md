@@ -6,7 +6,7 @@ categories:
   - "celebrate"
   - "journal"
   - "romance"
-coverImage: "sixth-month-anniversary.jpg"
+featured_image: "/images/sixth-month-anniversary.jpg"
 ---
 
 Trevor laughs at all the little moments in our relationship I try to commemorate, or that I _feel the need_ to commemorate. When he sees a bottle of sparkling cider in the cupboard, I think he traces his memories to find out what moment I'm wanting to make a toast about with it (haha). Well, today is our six month anniversary, so naturally, I pulled out a bottle to celebrate over dinner. :) And of course, we had to drink out of the glasses we used at our wedding. (I know, I'm so cheesy!)

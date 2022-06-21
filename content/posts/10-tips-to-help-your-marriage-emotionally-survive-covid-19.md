@@ -9,7 +9,7 @@ categories:
   - "effort"
   - "friendship"
   - "home"
-coverImage: "10-tips-for-covid19.png"
+featured_image: "/images/10-tips-for-covid19.png"
 ---
 
 Seems weird to wish everyone a happy quarantine/lockdown, but these are the times we live in right now! It seems everyone is affected one way or another from the COVID-19 global pandemic. Some people are affected financially with job loss or revenue. Some people are affected with loss of loved ones or even just the loss of a social life. Some people are missing out on important milestones and celebrated events like weddings and even prom.

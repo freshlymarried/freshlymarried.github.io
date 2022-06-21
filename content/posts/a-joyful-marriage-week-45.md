@@ -5,7 +5,7 @@ categories:
   - "ajoyfulmarriage"
   - "all"
   - "journal"
-coverImage: "a-joyful-marriage-week-45.png"
+featured_image: "/images/a-joyful-marriage-week-45.png"
 ---
 
 Our church offers a Sunday school class on the topic of marriage and family, and the lesson **yesterday reminded me of something in our marriage that brings us joy: the value we see in each other.** I wanted to share this interesting object lesson the teacher used and why I loved it!

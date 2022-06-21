@@ -6,7 +6,7 @@ categories:
   - "celebrate"
   - "goals"
   - "journal"
-coverImage: "IMG_0441.jpg"
+featured_image: "/images/IMG_0441.jpg"
 ---
 
 When we first started thinking about the idea of moving and buying a house, it was difficult to be fully invested in the idea because there were multiple factors that were up in the air that could alter that idea. It really felt like everything was about timing. We weren't sure if the timing was right with me going back to school. We also weren't sure if we should save up a little more, though we did already have a down payment.

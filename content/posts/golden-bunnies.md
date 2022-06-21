@@ -6,7 +6,7 @@ categories:
   - "celebrate"
   - "funny"
   - "journal"
-coverImage: "chocolate-bunny.jpg"
+featured_image: "/images/chocolate-bunny.jpg"
 ---
 
 I remember reading an article last month on Huffington Post called, ["Can We Bring The Holidays Down A Notch?"](http://www.huffingtonpost.com/kristen-howerton/can-we-bring-the-holidays_b_2903040.html) It's a Mom telling about the stress that she feels comes with Holidays while feeling pressure from other moms who seem to make each holiday bigger than the last. I'm not a mom with kids who sometimes need to be pampered with gifts on holidays, but as a newlywed, I can relate to feeling that pressure as well.

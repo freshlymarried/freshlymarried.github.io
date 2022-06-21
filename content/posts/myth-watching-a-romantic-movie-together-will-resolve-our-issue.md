@@ -3,7 +3,7 @@ title: "Myth: Watching a Romantic Movie Together Will Resolve Our Issue"
 date: "2016-08-30"
 categories: 
   - "all"
-coverImage: "Freshly-Married-19.jpg"
+featured_image: "/images/Freshly-Married-19.jpg"
 ---
 
 \[sc name="soundcloud" id="282059984" \]

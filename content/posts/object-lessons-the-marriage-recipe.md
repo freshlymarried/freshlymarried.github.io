@@ -6,7 +6,7 @@ categories:
   - "effort"
   - "friendship"
   - "funny"
-coverImage: "the-marriage-recipe-blog-size.png"
+featured_image: "/images/the-marriage-recipe-blog-size.png"
 ---
 
 Watch the video, then proceed to the rest of the post below :)

@@ -5,7 +5,7 @@ categories:
   - "ajoyfulmarriage"
   - "all"
   - "journal"
-coverImage: "week-9-other-option.png"
+featured_image: "/images/week-9-other-option.png"
 ---
 
 ## The joy I found in my marriage this week: There are still new things to discover about each other.

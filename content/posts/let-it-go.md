@@ -8,7 +8,7 @@ categories:
   - "forgiveness"
   - "goals"
   - "quotes"
-coverImage: "IMG_0244.jpg"
+featured_image: "/images/IMG_0244.jpg"
 ---
 
  

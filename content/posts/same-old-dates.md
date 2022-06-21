@@ -7,7 +7,7 @@ categories:
   - "friendship"
   - "journal"
   - "romance"
-coverImage: "IMG_1931.jpg"
+featured_image: "/images/IMG_1931.jpg"
 ---
 
 ### THE SPECIAL OCCASION PRESSURES

@@ -4,7 +4,7 @@ date: "2014-01-19"
 categories: 
   - "all"
   - "spotlights"
-coverImage: "spotlight.png"
+featured_image: "/images/spotlight.png"
 ---
 
 ### Yaaay!

@@ -8,7 +8,7 @@ categories:
   - "journal"
   - "quotes"
   - "romance"
-coverImage: "jazmin-quaynor-97778-1.jpg"
+featured_image: "/images/jazmin-quaynor-97778-1.jpg"
 ---
 
 For more than 11 years I have kept a quote book, where I have written down any intuitive thoughts, quotes, lyrics, speeches, movie lines, or any other words that I have found meaningful. I'm very passionate about finding them, as they inspire, and encourage, me. I love relating some of these to my own life, and so I wanted to share this one

@@ -8,7 +8,7 @@ categories:
   - "effort"
   - "goals"
   - "quotes"
-coverImage: "if-we-let-it.jpg"
+featured_image: "/images/if-we-let-it.jpg"
 ---
 
 #### Choose to have learning experiences rather than fights, rather than ruts, rather than mistakes.

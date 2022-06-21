@@ -5,7 +5,7 @@ categories:
   - "ajoyfulmarriage"
   - "all"
   - "journal"
-coverImage: "ajm-week-33.png"
+featured_image: "/images/ajm-week-33.png"
 ---
 
 **The Joy I found in my marriage this week is trying new things.**

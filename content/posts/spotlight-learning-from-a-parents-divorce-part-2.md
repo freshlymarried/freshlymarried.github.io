@@ -5,7 +5,7 @@ categories:
   - "all"
   - "conflict"
   - "spotlights"
-coverImage: "chris-knight-371653.jpg"
+featured_image: "/images/chris-knight-371653.jpg"
 ---
 
 If you didn’t catch [part 1](https://freshlymarried.com/spotlight-learning-from-a-parents-divorce-part-1/) reading some great insight and advice from both Brooke and Kristin, you should go read that! I asked them to share what their parents’ divorce was like on them at age 13, and how they navigate the effects of that divorce currently, now that they are married themselves.

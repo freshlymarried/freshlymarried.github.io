@@ -6,7 +6,7 @@ categories:
   - "celebrate"
   - "funny"
   - "journal"
-coverImage: "IMG_1231.jpg"
+featured_image: "/images/IMG_1231.jpg"
 ---
 
 We chose to send out Christmas cards for the first time this year, and this was our little insert. I meant to post this way before Christmas, but we had some technical difficulties on the back-end of our website. So even though Christmas has come and gone, we hope you can still appreciate our well-wishes to you for the holidays!

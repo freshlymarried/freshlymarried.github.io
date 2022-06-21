@@ -5,7 +5,7 @@ categories:
   - "all"
   - "celebrate"
   - "journal"
-coverImage: "IMG_0099.jpg"
+featured_image: "/images/IMG_0099.jpg"
 ---
 
 I have loved our married student ward here in Provo, and I am going to miss it dearly! I especially will miss the Sisters who have been in the ward, as they have influenced my life in many ways. I guess, this post is a goodbye letter to them, as well as an encouragement for those who are also in married student wards.

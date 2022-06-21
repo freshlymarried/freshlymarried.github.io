@@ -5,7 +5,7 @@ categories:
   - "ajoyfulmarriage"
   - "all"
   - "journal"
-coverImage: "ajm-week-40.png"
+featured_image: "/images/ajm-week-40.png"
 ---
 
 We got our wedding rings cut off this week. Sounds weird, I know, but it feels even weirder! Both of our rings have gotten tighter since we first got married, making them harder to take off. After my husband was reading on how that can be dangerous to not be able to take off our rings, he decided he wanted to get a new ring and I totally understand.

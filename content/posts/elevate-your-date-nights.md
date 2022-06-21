@@ -6,7 +6,7 @@ categories:
   - "dates"
   - "effort"
   - "romance"
-coverImage: "Copy-of-how-to-elevate-your-dates.png"
+featured_image: "/images/Copy-of-how-to-elevate-your-dates.png"
 ---
 
 I've written a lot about date nights: giving ideas, stressing how important it is, but that it doesn't have to be epic. Well since "date night" isn't as simple as you think, I've got more to say about it, of course!

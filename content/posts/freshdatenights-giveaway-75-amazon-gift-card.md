@@ -6,7 +6,7 @@ categories:
   - "celebrate"
   - "dates"
   - "giveaways"
-coverImage: "IMG_0295.jpg"
+featured_image: "/images/IMG_0295.jpg"
 ---
 
 I had a good luck charm apparently for this St. Patricks Day because I "won" some amazing seats to the Jazz game that night! I say "won" because an old friend couldn't use them so they did a little drawing for people interested and I got them :) What's better than a fun date night to an NBA game? A FREE ONE, haha. It was double-y awesome because Trevor and I had never been to a game together yet. So we got something checked off our bucket list!

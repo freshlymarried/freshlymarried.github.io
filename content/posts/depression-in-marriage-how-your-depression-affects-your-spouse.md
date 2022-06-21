@@ -5,7 +5,7 @@ categories:
   - "all"
   - "communication"
   - "effort"
-coverImage: "photo-1445762467354-d6c921f33b14.jpeg"
+featured_image: "/images/photo-1445762467354-d6c921f33b14.jpeg"
 ---
 
 \[sc name="soundcloud" id="276708040" \]

@@ -7,7 +7,7 @@ categories:
   - "friendship"
   - "goals"
   - "journal"
-coverImage: "943448_10151893624177656_1090922717_n.jpg"
+featured_image: "/images/943448_10151893624177656_1090922717_n.jpg"
 ---
 
 Our little apartment is being emptied. All the pictures and artwork have been taken down from the walls, leaving them as blank as a piece of paper. Our couch has been sold, so movies are being watched in our bed now. The shelves have been cleared, and the drawers are empty. Clothes are in bags, appliances are wrapped up, and the random things are boxed up.. Well, pretty much everything is boxed up... our life... it's all boxed up and ready to be put elsewhere. What a weird feeling that is. It's this weird phenomena of multiple feelings at once: anxiousness, excitement, stress, happiness, and gratitude. This past week I spent every day organizing, de-junking, and packing since I had the week off between school semesters. All of these feelings were coming at me, as I took down pictures that were full of specific memories we had here in Provo. The feelings rushed again when we sold our sofa, because I was reminded of all the fun movie nights we had sitting on that couch, as well as other memories of me sleeping on that couch every day while recovering from my sinus surgery. With every box getting filled up and labeled, the more change I felt.

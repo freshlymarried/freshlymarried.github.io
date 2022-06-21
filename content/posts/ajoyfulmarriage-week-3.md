@@ -5,7 +5,7 @@ categories:
   - "ajoyfulmarriage"
   - "all"
   - "journal"
-coverImage: "week-3.png"
+featured_image: "/images/week-3.png"
 ---
 
 ## The joy I found in my marriage this week: gratitude.

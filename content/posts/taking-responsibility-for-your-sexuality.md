@@ -7,7 +7,7 @@ categories:
   - "quotes"
   - "romance"
   - "sex"
-coverImage: "morre-christophe-121645-3.jpg"
+featured_image: "/images/morre-christophe-121645-3.jpg"
 ---
 
 _\*This post contains affiliate links._

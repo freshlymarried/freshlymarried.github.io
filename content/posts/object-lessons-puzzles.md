@@ -5,7 +5,7 @@ categories:
   - "all"
   - "communication"
   - "goals"
-coverImage: "IMG_3690-2.jpg"
+featured_image: "/images/IMG_3690-2.jpg"
 ---
 
 #### Have you ever tried to complete a puzzle without looking at the picture on the box?

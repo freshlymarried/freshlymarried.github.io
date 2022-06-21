@@ -6,7 +6,7 @@ categories:
   - "dates"
   - "friendship"
   - "romance"
-coverImage: "IMG_2745.jpg"
+featured_image: "/images/IMG_2745.jpg"
 ---
 
 My husband and I tried out different date boxes to give you an idea of what each one offers! This blog post is sharing our experiences with the ["Datelivery"](https://www.datelivery.com/date-night-boxes/) date box company, giving you better insight into what their boxes are like. If you are unfamiliar with date boxes in general, read [this previous blog post](https://freshlymarried.com/what-you-should-know-about-date-boxes/) explaining everything about them - what they are, as well as the pros and cons.

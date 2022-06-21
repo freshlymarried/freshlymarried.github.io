@@ -7,7 +7,7 @@ categories:
   - "friendship"
   - "goals"
   - "journal"
-coverImage: "IMG_24851.jpg"
+featured_image: "/images/IMG_24851.jpg"
 ---
 
 I've totally been absent  for a long time, I know. Sorry. I definitely have my reasons though. I love blogging and writing about aspects of married life that can be useful for people, but I think it's important to take a step back from writing, and just enjoy those aspects of married life, instead.

@@ -8,7 +8,7 @@ categories:
   - "effort"
   - "friendship"
   - "romance"
-coverImage: "word-of-the-year.png"
+featured_image: "/images/word-of-the-year.png"
 ---
 
 Now that the secret is out that I’m pregnant with twins I can finally share my words of the year because it has everything to do with them. :) 

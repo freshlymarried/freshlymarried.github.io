@@ -6,7 +6,7 @@ categories:
   - "celebrate"
   - "goals"
   - "journal"
-coverImage: "IMG_0443.jpg"
+featured_image: "/images/IMG_0443.jpg"
 ---
 
 If you read [Part 1](http://freshlymarried.com/our-house-story-part-1-timing-is-everything/), you'll know that we went into our appointment feeling worried about the huge price increase on the home plan we were interested in the most. We let them know we were very serious about this home, but that the price jump was going to be a deal-breaker for us. We asked the rep if there was anything they can do for us on that, since it happened literally overnight. He said he would show us the lots they have planned to build this home plan at, while he checked out what he could do about the price.

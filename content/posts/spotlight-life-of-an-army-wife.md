@@ -4,7 +4,7 @@ date: "2018-05-10"
 categories: 
   - "all"
   - "spotlights"
-coverImage: "1.png"
+featured_image: "/images/1.png"
 ---
 
 ## Introduction

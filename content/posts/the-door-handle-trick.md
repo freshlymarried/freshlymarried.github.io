@@ -6,7 +6,7 @@ categories:
   - "communication"
   - "effort"
   - "goals"
-coverImage: "IMG_0108.jpg"
+featured_image: "/images/IMG_0108.jpg"
 ---
 
 In a presentation about having a more connected marriage, one of my UVU professors shared this cute story about something he does in his marriage and I thought it was inspiring to share!

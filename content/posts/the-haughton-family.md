@@ -4,7 +4,7 @@ date: "2014-02-12"
 categories: 
   - "all"
   - "spotlights"
-coverImage: "image.jpg"
+featured_image: "/images/image.jpg"
 ---
 
 My husband Barrett and I have been married for a year now:) and we're sealed together in the Redlands Temple, California. I was a new convert to the Latter-Day Saint church when we started dating, and I'm so grateful to have him in my life! We have both become such stronger people and grown so much. Right now he is attending college and working part- time, and I have a degree in fine arts and am also working.

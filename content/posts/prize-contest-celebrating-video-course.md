@@ -5,7 +5,7 @@ categories:
   - "all"
   - "giveaways"
   - "videos"
-coverImage: "Copy-of-graphics-for-navigate-your-differences.png"
+featured_image: "/images/Copy-of-graphics-for-navigate-your-differences.png"
 ---
 
 The day before I came down with a nasty influenza I announced my video course: _“How to Navigate Your Differences.”_ I also said that to celebrate I was going to do an awesome giveaway prize, and then… well the flu. Haha. And then it was my birthday so here we are now!

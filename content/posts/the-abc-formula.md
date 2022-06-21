@@ -6,7 +6,7 @@ categories:
   - "communication"
   - "conflict"
   - "techniques"
-coverImage: "IMG_0055-2.jpg"
+featured_image: "/images/IMG_0055-2.jpg"
 ---
 
 One dilemma all marriages find themselves in is how to best tell their partner how they are feeling. What I mean by this is that sometimes when we try bringing up an issue with our spouse, we start it off with blaming or obvious anger. Think of the last time you started off a conversation like this. How did it work out for you?? If a conversation starts off like this, it will most likely end like this too. That's not the goal, though! **The whole point is that you want to tell your spouse you are frustrated about something they did and you want it to be cleared up, hopefully preventing it from happening again.**

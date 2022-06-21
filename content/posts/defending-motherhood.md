@@ -7,7 +7,7 @@ categories:
   - "conflict"
   - "goals"
   - "spotlights"
-coverImage: "10321756_771192932899478_5934602759522627317_o-e1407010325802.jpg"
+featured_image: "/images/10321756_771192932899478_5934602759522627317_o-e1407010325802.jpg"
 ---
 
 Pregnancy. It either happens when you want it, don't want it, were not expecting it, or couldn't wait soon enough for. It's usually pretty great news to hear, right? Whether the news is for yourself or for someone else, it is really exciting to see one of God's greatest miracles happening to someone you know, and someone you care about. One of my friends and past roommates recently found out she is pregnant :) I'm so happy for her to be a mom because I know without a doubt, that is her mission in life. She just fits the mom role so well :) While most people are happy for her, there was one person who wasn't so happy. With Rebekah's permission, I feel that is important to share her story as well as this person's comment with you. I will be pulling excerpts from when she shared this on her blog. The blog post title is called, "Defending My Joy."

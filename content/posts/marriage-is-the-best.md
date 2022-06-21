@@ -7,7 +7,7 @@ categories:
   - "engagement"
   - "journal"
   - "romance"
-coverImage: "hands.jpg"
+featured_image: "/images/hands.jpg"
 ---
 
 We were recently married in the Latter-Day Saint temple. We wanted to share this experience with you - from our engagement to our lives now...post-marriage. We hope you enjoy the words of the bride (amy) and the groom (trevor):

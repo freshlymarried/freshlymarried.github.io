@@ -6,7 +6,7 @@ categories:
   - "communication"
   - "conflict"
   - "quotes"
-coverImage: "at-least-touch-toes-blog-size.png"
+featured_image: "/images/at-least-touch-toes-blog-size.png"
 ---
 
 Actor Chris Pratt just did and said some things about marriage and family that are too good not to share! Two things spoke out to me in [this short article](http://www.today.com/parents/chris-pratt-says-he-s-taking-time-acting-be-his-t103061?cid=sm_fbnhttp%3A%2F%2Fwww.today.com%2Fparents%2Fchris-pratt-says-he-s-taking-time-acting-be-his-t103061%3Fcid%3Dsm_fbn) and I wanted to share those! (If you are short on time, go to #2, though!)

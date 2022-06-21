@@ -9,7 +9,7 @@ categories:
   - "friendship"
   - "journal"
   - "quotes"
-coverImage: "blog-struggle-with-social-media-part-2.png"
+featured_image: "/images/blog-struggle-with-social-media-part-2.png"
 ---
 
 **This is part 2 of 3. If you haven't read [part 1](http://freshlymarried.com/my-struggle-with-social-media-part-1/) yet, reading it would probably be to your benefit. :)**

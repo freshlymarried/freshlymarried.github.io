@@ -5,7 +5,7 @@ categories:
   - "ajoyfulmarriage"
   - "all"
   - "journal"
-coverImage: "a-joyful-marriage-week-31.png"
+featured_image: "/images/a-joyful-marriage-week-31.png"
 ---
 
 Exactly a year and one week ago today we sat on this rock and made an important decision to start trying to have children.

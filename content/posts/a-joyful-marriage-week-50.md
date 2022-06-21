@@ -3,7 +3,7 @@ title: "A Joyful Marriage - Week 50"
 date: "2017-12-20"
 categories: 
   - "all"
-coverImage: "a-joyful-marriage-week-50.png"
+featured_image: "/images/a-joyful-marriage-week-50.png"
 ---
 
 This is going to be the last blog post I write about what new joys I have found in my marriage week to week. Next week's joy will be sharing my overall thoughts of this project, so look forward to that!

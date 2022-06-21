@@ -5,7 +5,7 @@ categories:
   - "all"
   - "conflict"
   - "quotes"
-coverImage: "jon-asato-246160-1.jpg"
+featured_image: "/images/jon-asato-246160-1.jpg"
 ---
 
 I was recently reading an old interview with actress Jennifer Garner in _Vanity Fair_ on her marriage to Ben Affleck. As you probably know, they split up after ten years of marriage, sadly. It's something that I can tell she really wanted to work out, especially already having a previous divorce under her belt. She said some very mature and admirable things about their marriage and their divorce, but her overall statement made my heart break with confusion.

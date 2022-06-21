@@ -7,7 +7,7 @@ categories:
   - "dates"
   - "effort"
   - "journal"
-coverImage: "Copy-of-Copy-of-pinterest-the-ABC-Formula-1.png"
+featured_image: "/images/Copy-of-Copy-of-pinterest-the-ABC-Formula-1.png"
 ---
 
 _This post contains affiliate links to Amazon. Which means Freshly Married can make a small commission on items you buy through these links._

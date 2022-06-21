@@ -3,7 +3,7 @@ title: "A Joyful Marriage - Week 47"
 date: "2017-11-27"
 categories: 
   - "all"
-coverImage: "ajm-week-47.png"
+featured_image: "/images/ajm-week-47.png"
 ---
 
 **Something I believe both my husband and I find joy in for our marriage, is going out to eat --- enjoying quality-made meals and trying new foods.**

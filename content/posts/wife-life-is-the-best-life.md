@@ -4,7 +4,7 @@ date: "2016-08-29"
 categories: 
   - "all"
   - "celebrate"
-coverImage: "IMG_0672-1-1.jpg"
+featured_image: "/images/IMG_0672-1-1.jpg"
 ---
 
 **Super excited to announce that Freshly Married now has a t-shirt line on [Etsy](https://www.etsy.com/shop/FreshlyMarried?ref=hdr_shop_menu)!**

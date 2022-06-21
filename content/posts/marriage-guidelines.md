@@ -7,7 +7,7 @@ categories:
   - "effort"
   - "friendship"
   - "goals"
-coverImage: "IMG_0493.jpg"
+featured_image: "/images/IMG_0493.jpg"
 ---
 
 We love it when we come across marriage being talked about in the news. This [article](http://www.deseretnews.com/article/865589051/The-10-marriage-commandments-How-to-make-daily-choices-to-love-your-spouse.html) is something that was posted in the Deseret Newspaper in Salt Lake City, Utah, the other day, and I just wanted to share it.

@@ -4,7 +4,7 @@ date: "2014-01-04"
 categories: 
   - "all"
   - "celebrate"
-coverImage: "logo-and-doodle-promo.png"
+featured_image: "/images/logo-and-doodle-promo.png"
 ---
 
 ### Hi, Freshly Married friends!

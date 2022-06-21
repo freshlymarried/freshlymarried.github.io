@@ -6,7 +6,7 @@ categories:
   - "celebrate"
   - "funny"
   - "journal"
-coverImage: "IMG_0585.jpg"
+featured_image: "/images/IMG_0585.jpg"
 ---
 
 Remember how I was so frustrated/annoyed/intimidated/scared of my iron? hahaha yeah so this started the very beginning of our marriage. It was actually [my very first post](http://freshlymarried.com/the-iron-2/), too! Basically, ironing was a stressful ordeal for me and became so much more difficult than it should have been. I was even more bugged about it because I felt like I NEEDED to ironing my husband's dress shirts all the time, in order to be a good wife. Well I obviously got over that notion because I went nearly two years without ironing anything... hahaha yeah, I know, kind of ridiculous.

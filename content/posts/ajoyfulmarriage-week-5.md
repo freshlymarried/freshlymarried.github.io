@@ -5,7 +5,7 @@ categories:
   - "ajoyfulmarriage"
   - "all"
   - "journal"
-coverImage: "top-line-option.png"
+featured_image: "/images/top-line-option.png"
 ---
 
 ## The joy I found in my marriage this week:  Seeing a month's worth of progress from working at our goals!

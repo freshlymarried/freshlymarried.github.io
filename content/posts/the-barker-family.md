@@ -4,7 +4,7 @@ date: "2013-11-18"
 categories: 
   - "all"
   - "spotlights"
-coverImage: "the-barkers.jpg"
+featured_image: "/images/the-barkers.jpg"
 ---
 
 \[caption id="attachment\_1325" align="aligncenter" width="550"\]![married couples, newlywed couples, cute temple marriages, cute married couples, newlywed advice, relationship advice, marriage experiences](/images/the-barkers.jpg) Hello! We are the Barkers, Zack and Riley Barker. We have been married for just over a month, some might call us newlyweds.\[/caption\]

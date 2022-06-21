@@ -6,7 +6,7 @@ categories:
   - "dates"
   - "friendship"
   - "romance"
-coverImage: "blog-size-two-player-games.png"
+featured_image: "/images/blog-size-two-player-games.png"
 ---
 
 I LOVE PLAYING GAMES!!! They are just my jam. I get so excited when we get together with friends or family who want to play games because we don't get to play those 3+ player games at home! Over the past four years together, we have managed to find some two-player games to play at home, but we get bored of them real quick. **Since every couple needs to have some games to turn to, especially in the winter time, I figured I would make one big list for us all!**

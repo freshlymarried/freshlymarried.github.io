@@ -5,7 +5,7 @@ categories:
   - "all"
   - "dates"
   - "romance"
-coverImage: "box-on-porch-1-e1494971200707.jpg"
+featured_image: "/images/box-on-porch-1-e1494971200707.jpg"
 ---
 
 My husband and I tried out different date boxes to give you an idea of what each one offers! This blog post is sharing our experiences with the ["Unbox Love"](https://unboxlove.com) date box company, giving you better insight into what their boxes are like. If you are unfamiliar with date boxes in general, read [this previous blog post](https://freshlymarried.com/what-you-should-know-about-date-boxes/) explaining everything about them - what they are, as well as the pros and cons.

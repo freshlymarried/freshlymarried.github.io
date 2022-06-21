@@ -5,7 +5,7 @@ categories:
   - "all"
   - "children"
   - "spotlights"
-coverImage: "kinsey-spotlight.png"
+featured_image: "/images/kinsey-spotlight.png"
 ---
 
 I asked Kinsey the following question: **“How has having children changed your relationship for the better and how has it challenged your relationship?”** What she answered with was absolutely amazing insight and advice when it comes to balancing parenthood and marriage. She also shared the very personal and difficult challenges of battling severe Postpartum Depression and how she plans to handle that with their third baby on the way. All of this makes Kinsey a warrior woman in my eyes! I hope that you find her experiences inspiring, and can empathize with brave moms like Kinsey who battle PPD on a daily basis. 

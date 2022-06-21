@@ -6,7 +6,7 @@ categories:
   - "communication"
   - "conflict"
   - "finances"
-coverImage: "blog-post-size-2-benefits-to-sharing-your-finances.png"
+featured_image: "/images/blog-post-size-2-benefits-to-sharing-your-finances.png"
 ---
 
 The idea of sharing finances in marriage has been on my mind a lot recently. It's possibly because I have had a few conversations with different couples the past month on how they run their finances. I found out that not every couple puts all of their earnings in one pot to pull from, and I found out how different this idea of combining money in marriage, can mean to everyone.

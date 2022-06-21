@@ -5,7 +5,7 @@ categories:
   - "all"
   - "effort"
   - "friendship"
-coverImage: "IMG_0438.jpg"
+featured_image: "/images/IMG_0438.jpg"
 ---
 
 Before I got married, I would hear things about how friendships change when a friend gets married. I heard that the girls nights disappear, and the friends stop calling each other. I heard that single friends think their married friend is too consumed in their husband to care about them, or that there's no relating to each other anymore. I've also heard that the single friend feels like their married friend is always trying to set them, and it's annoying to them. I can see these feelings being true, and I can see this happening easily because I've seen it happen in my own life.

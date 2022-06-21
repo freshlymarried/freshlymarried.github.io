@@ -5,7 +5,7 @@ categories:
   - "all"
   - "celebrate"
   - "goals"
-coverImage: "CIMG2332.jpg"
+featured_image: "/images/CIMG2332.jpg"
 ---
 
 School. There's so much importance that is stressed on getting an education, and going to school. It's something that seems to be on every young-adult's mind, because getting a degree is the next step after high school. It's what everyone is doing, right? Well, not everyone.

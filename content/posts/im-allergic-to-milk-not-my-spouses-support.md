@@ -6,7 +6,7 @@ categories:
   - "goals"
   - "journal"
   - "quotes"
-coverImage: "762A3570-66-Edit.jpg"
+featured_image: "/images/762A3570-66-Edit.jpg"
 ---
 
 That title sounds funny but you'll get it when you're through with this post.

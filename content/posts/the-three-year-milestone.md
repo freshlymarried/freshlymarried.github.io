@@ -9,7 +9,7 @@ categories:
   - "effort"
   - "friendship"
   - "journal"
-coverImage: "blog-size-First-3-years-being-married.png"
+featured_image: "/images/blog-size-First-3-years-being-married.png"
 ---
 
 If you've been following along from the beginning, you'll remember that I wrote about the following married milestones: being married for [three weeks](http://freshlymarried.com/the-three-week-milestone/), and then [three months](http://freshlymarried.com/the-three-month-milestone/). So naturally, I felt like doing a milestone post on being married for THREE YEARS! That's such a small number, but I believe every year is an accomplishment! And we've experienced so much together in this short time, so it gets me excited about what we'll experience at our 30-year mark!

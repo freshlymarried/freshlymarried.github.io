@@ -9,7 +9,7 @@ categories:
   - "goals"
   - "journal"
   - "romance"
-coverImage: "IMG_0133.jpg"
+featured_image: "/images/IMG_0133.jpg"
 ---
 
 This Valentine's Day is going to be a little more low-key for us and we like it that way right now. :) However, low-key doesn't mean we aren't doing anything new or special! Because we want to continue keeping our marriage fresh, right?! We plan to do that by going back to our 90's childhood and play on our Nintendo 64!!

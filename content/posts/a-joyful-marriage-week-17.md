@@ -5,7 +5,7 @@ categories:
   - "ajoyfulmarriage"
   - "all"
   - "journal"
-coverImage: "a-joyful-marriage-week-17.png"
+featured_image: "/images/a-joyful-marriage-week-17.png"
 ---
 
 Before I tell you the joy I found in my marriage this week, I need to preface it by saying that sometimes you can be so consistently down (#depression) that it's hard to find joy in things. **When you're done being so hard on yourself every day, we tend to jump to the person next to us and blame our unhappiness on them. Which means ... our spouse.** We start to let the little imperfections in our marriages feel like big imperfections and it's not OK.

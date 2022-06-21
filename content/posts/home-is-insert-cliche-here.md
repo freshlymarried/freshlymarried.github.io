@@ -6,7 +6,7 @@ categories:
   - "celebrate"
   - "goals"
   - "journal"
-coverImage: "IMG_0077-1.jpg"
+featured_image: "/images/IMG_0077-1.jpg"
 ---
 
 Ready for these two exciting announcements?

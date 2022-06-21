@@ -7,7 +7,7 @@ categories:
   - "effort"
   - "goals"
   - "quotes"
-coverImage: "IMG_0414.jpg"
+featured_image: "/images/IMG_0414.jpg"
 ---
 
 I have been thinking about the little milestones in marriage a lot lately. The anniversaries and growing families are great -- super awesome milestones! But I think it's nice to honor those little things we do in marriage... The "little victories" if you will!

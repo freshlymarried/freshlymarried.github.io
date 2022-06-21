@@ -5,7 +5,7 @@ categories:
   - "ajoyfulmarriage"
   - "all"
   - "journal"
-coverImage: "ajoyfulmarriage-bottom-line.png"
+featured_image: "/images/ajoyfulmarriage-bottom-line.png"
 ---
 
 A joy in our marriage this week (from my perspective): Getting tickets to see U2 in concert this year!!! It's not only a joy because they are in my top ten of my concert bucket list, but **I was proud of my husband for being willing to fly somewhere to go see them with me.**

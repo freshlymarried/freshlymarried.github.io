@@ -4,7 +4,7 @@ date: "2016-07-15"
 categories: 
   - "all"
   - "effort"
-coverImage: "remaining-what-we-are.png"
+featured_image: "/images/remaining-what-we-are.png"
 ---
 
 PROGRESSION!

@@ -6,7 +6,7 @@ categories:
   - "celebrate"
   - "communication"
   - "journal"
-coverImage: "IMG_0226.jpg"
+featured_image: "/images/IMG_0226.jpg"
 ---
 
 \*_this post contains affiliate links._

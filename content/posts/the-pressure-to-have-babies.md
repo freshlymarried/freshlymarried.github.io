@@ -6,7 +6,7 @@ categories:
   - "children"
   - "communication"
   - "goals"
-coverImage: "Wedding-with-kids.jpg"
+featured_image: "/images/Wedding-with-kids.jpg"
 ---
 
 Remember when you first got married, and there's that one (or more for some of us) person who makes the comment, "So when are you going to start having babies?" I'm sure we can all think of someone who said that to us, right? Some of them are just funny little grandmas just waiting to have more cheeks to pinch! But others can ask in an interrogative way about it, as if they may be upset if you give an answer that doesn't include the thought of immediately having a child. This example, along with other things can cause a feeling of pressure to build up among someone.

@@ -6,7 +6,7 @@ categories:
   - "all"
   - "funny"
   - "journal"
-coverImage: "ajm-week-37.png"
+featured_image: "/images/ajm-week-37.png"
 ---
 
 ### The joy I found in my marriage this week: cute banter :)

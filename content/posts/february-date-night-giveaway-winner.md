@@ -5,7 +5,7 @@ categories:
   - "all"
   - "dates"
   - "giveaways"
-coverImage: "IMG_0056.jpg"
+featured_image: "/images/IMG_0056.jpg"
 ---
 
 For this giveaway, I asked you to tell us how you keep your marriage fresh, along with reposting a freshly married quote from our insta. I truly loved reading the responses from those who participated!

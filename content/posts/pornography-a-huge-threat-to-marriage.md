@@ -6,7 +6,7 @@ categories:
   - "conflict"
   - "effort"
   - "sex"
-coverImage: "porn-kills-love.jpg"
+featured_image: "/images/porn-kills-love.jpg"
 ---
 
 ### Pornography is one of the biggest threats to marriages and families.

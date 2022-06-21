@@ -9,7 +9,7 @@ categories:
   - "goals"
   - "journal"
   - "romance"
-coverImage: "IMG_1475.jpg"
+featured_image: "/images/IMG_1475.jpg"
 ---
 
 _\*This post contains affiliate links._

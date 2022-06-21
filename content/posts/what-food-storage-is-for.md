@@ -6,7 +6,7 @@ categories:
   - "finances"
   - "goals"
   - "journal"
-coverImage: "IMG_0491.jpg"
+featured_image: "/images/IMG_0491.jpg"
 ---
 
 Buying a house can be expensive... Haha, that's an obvious thing. The price gets higher and higher with every new appliance or furniture purchase, too. After buying the necessary refrigerator, washer and dryer, and a couch, you could say our savings is getting depleted! Even though we have the money for it, and are being responsible, it's put us on a tight budget this month and next month, as we make sure we have enough money for all the living essentials and closing costs coming up. We want to have as much security as we can so we've decided to use our food storage this month :) I am feeling really good about this idea for many reasons.

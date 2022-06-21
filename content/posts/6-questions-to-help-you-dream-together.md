@@ -7,7 +7,7 @@ categories:
   - "dates"
   - "friendship"
   - "goals"
-coverImage: "6-Questions-to-Help-You-Dream-Together.png"
+featured_image: "/images/6-Questions-to-Help-You-Dream-Together.png"
 ---
 
 _\*\*This post contains affiliate links. This means, if you make a purchase through any of these links, we'll receive a small portion of your purchase at no extra cost to you. Thank you for supporting the brands that support Freshly Married!_

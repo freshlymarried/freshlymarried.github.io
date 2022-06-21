@@ -6,7 +6,7 @@ categories:
   - "celebrate"
   - "funny"
   - "romance"
-coverImage: "IMG_1209.jpg"
+featured_image: "/images/IMG_1209.jpg"
 ---
 
 \[sc name="soundcloud" id="282060156" \]

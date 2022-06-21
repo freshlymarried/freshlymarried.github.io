@@ -7,7 +7,7 @@ categories:
   - "funny"
   - "goals"
   - "quotes"
-coverImage: "IMG_0186.jpg"
+featured_image: "/images/IMG_0186.jpg"
 ---
 
 ### Hi. We are married and we both wear pants.

@@ -6,7 +6,7 @@ categories:
   - "celebrate"
   - "friendship"
   - "quotes"
-coverImage: "IMG_0084.jpg"
+featured_image: "/images/IMG_0084.jpg"
 ---
 
 For the last year, we have been looking into a big vacation for ourselves. We've done research to various places, planning, and multiple times were minutes away from actually booking a trip! Yet we haven't pulled the trigger... until now! We finally did it - we went to HAWAII! Some of you might be saying, "Going to Hawaii is this big for you guys?" or "We go on vacations all the time..." Well, it's different for us, and because it's not something we do often, it will be that much more special :)

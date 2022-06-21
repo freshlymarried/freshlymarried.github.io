@@ -8,7 +8,7 @@ categories:
   - "forgiveness"
   - "goals"
   - "quotes"
-coverImage: "blog-size-bulletproof-marriage.png"
+featured_image: "/images/blog-size-bulletproof-marriage.png"
 ---
 
 The past few months I have found out more and more people that I knew or am still friends with have gotten divorced. The shocked part of me thinks: "I swear they all just got married yesterday!" And then the realistic part of me remembers that high school was 7 years ago and a lot can happen whether people got married right out of high school or more recently.  Because I'm in this same grouping, it gives me mixed feelings, realizing that divorce truly is a possibility, but that I'm glad I have the strong marriage I have.

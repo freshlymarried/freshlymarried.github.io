@@ -5,7 +5,7 @@ categories:
   - "all"
   - "celebrate"
   - "journal"
-coverImage: "IMG_1899.jpg"
+featured_image: "/images/IMG_1899.jpg"
 ---
 
 I did choose to send out Christmas cards again this year and man was it easier than [my first attempt last year](http://freshlymarried.com/newlywed-christmas-cards/)! This year I did a double-sided card so we could have a picture of us and a quick "happy holidays" message, but also have a back where we shared a picture from something special we did this year: we threw a Back to the Future party because I'm obsessed with BTTF! To share a pertinent quote that would send positive vibes to our family and friends about the new year was just an added touch that I loved!

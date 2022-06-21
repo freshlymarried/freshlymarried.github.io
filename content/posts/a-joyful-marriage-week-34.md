@@ -5,7 +5,7 @@ categories:
   - "ajoyfulmarriage"
   - "all"
   - "journal"
-coverImage: "a-joyful-marriage-week-34.png"
+featured_image: "/images/a-joyful-marriage-week-34.png"
 ---
 
 I'm still shocked about Chris Pratt and Anna Farris splitting up 😩. Being a celebrity and being married is not easy. I’ve written about how [celebrity marriages face different struggles](https://freshlymarried.com/celebrity-marriages-vs-other-marriages/) than everyday marriages face. Even though their marriage ultimately ended, I’m still obsessed with this marriage advice he gave, [“At least touch toes.”](https://freshlymarried.com/touch-toes/) If you’ve read it, I hope you can see the sense he makes. I also see so much of the learning that took place to discover this tip himself.

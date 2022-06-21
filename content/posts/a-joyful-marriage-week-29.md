@@ -5,7 +5,7 @@ categories:
   - "ajoyfulmarriage"
   - "all"
   - "journal"
-coverImage: "week-29.png"
+featured_image: "/images/week-29.png"
 ---
 
 This week has been mostly anxiety, over an array of things, people, and situations. It's put me off my normal self, since last Sunday. For those of you who also deal with this, I'm sure you can understand how frustrating it can be.

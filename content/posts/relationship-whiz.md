@@ -7,7 +7,7 @@ categories:
   - "conflict"
   - "effort"
   - "techniques"
-coverImage: "IMG_0317.jpg"
+featured_image: "/images/IMG_0317.jpg"
 ---
 
 So remember how I am working on a degree in Family Studies, studying all relationships that come with that, and becoming an expert on how to have a good marriage? Yeah, well just because I'm gaining knowledge, it doesn't mean it's easy to apply to my own marriage ;)

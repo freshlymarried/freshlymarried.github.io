@@ -6,7 +6,7 @@ categories:
   - "friendship"
   - "goals"
   - "spotlights"
-coverImage: "fire-wife-life-spotlight-2.png"
+featured_image: "/images/fire-wife-life-spotlight-2.png"
 ---
 
 As we all know, there are different kinds of marital experiences! A few that I have received better insight into this year are marriages that have a spouse serving in the armed forces, police work, firefighters, or EMT's. Because of their job description and the sacrifice they make to help protect us, they face different challenges in their marriages than other couples might face. Since I do not have first-hand experience in this area, I asked someone who has absolute experience in this to help us understand better. I really appreciate her enlightening me with the struggles but also the benefits they have seen in their marriage!

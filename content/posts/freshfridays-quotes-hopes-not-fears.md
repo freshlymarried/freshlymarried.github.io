@@ -5,7 +5,7 @@ categories:
   - "freshfridays"
   - "all"
   - "quotes"
-coverImage: "IMG_0362.jpg"
+featured_image: "/images/IMG_0362.jpg"
 ---
 
 There are many choices and decisions to make that come throughout every marriage. Which is why I love this #freshfridays quote.

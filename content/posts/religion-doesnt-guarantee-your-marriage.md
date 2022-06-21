@@ -7,7 +7,7 @@ categories:
   - "goals"
   - "quotes"
   - "religious"
-coverImage: "blog-size-Religion-Doesnt-Guarantee-a-lasting-Marriage.png"
+featured_image: "/images/blog-size-Religion-Doesnt-Guarantee-a-lasting-Marriage.png"
 ---
 
 I was married in a Latter-Day Saint temple, where we believe allows your marriage to be eternal. However, simply having my marriage ceremony within my religion doesn't mean I'm guaranteed to have a happy and healthy marriage! Believing you'll have a forever marriage is different from actually creating one.

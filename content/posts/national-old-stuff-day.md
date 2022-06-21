@@ -6,7 +6,7 @@ categories:
   - "celebrate"
   - "funny"
   - "journal"
-coverImage: "trafalga.jpg"
+featured_image: "/images/trafalga.jpg"
 ---
 
 My twenty-second year was the best year of my life.

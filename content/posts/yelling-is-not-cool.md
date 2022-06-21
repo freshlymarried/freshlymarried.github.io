@@ -9,7 +9,7 @@ categories:
   - "goals"
   - "journal"
   - "quotes"
-coverImage: "avoid-yelling-in-your-marriage.png"
+featured_image: "/images/avoid-yelling-in-your-marriage.png"
 ---
 
 ### Story time

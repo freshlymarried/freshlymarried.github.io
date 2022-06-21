@@ -6,7 +6,7 @@ categories:
   - "goals"
   - "romance"
   - "sex"
-coverImage: "photo-1429080355161-3c071e2e27a6.jpeg"
+featured_image: "/images/photo-1429080355161-3c071e2e27a6.jpeg"
 ---
 
 Feel free to LISTEN to this blog post below!

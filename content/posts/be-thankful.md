@@ -6,7 +6,7 @@ categories:
   - "celebrate"
   - "conflict"
   - "journal"
-coverImage: "IMG_5571.jpg"
+featured_image: "/images/IMG_5571.jpg"
 ---
 
 Isn't it hard sometimes to be thankful in the midst of your trials? It's not easy trying to see the positive in every situation. That's why I felt like this new decor in our kitchen would be a helpful reminder to us that there is always something to be thankful, no matter what we experienced in the day! It helped even more to have pictures up representing things we are thankful for too.

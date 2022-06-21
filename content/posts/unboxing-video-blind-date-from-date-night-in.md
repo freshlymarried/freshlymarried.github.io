@@ -6,7 +6,7 @@ categories:
   - "dates"
   - "friendship"
   - "videos"
-coverImage: "IMG_2082.jpg"
+featured_image: "/images/IMG_2082.jpg"
 ---
 
 Date boxes have been a new thing the past few years, and I think are recently gaining more traction for couples, especially those with busy lives. Last year my husband and I experimented with date boxes to see what they are all about, and to see if they would give us added fun in our marriage :)

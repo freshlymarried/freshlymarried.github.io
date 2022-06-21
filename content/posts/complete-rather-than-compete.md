@@ -8,7 +8,7 @@ categories:
   - "conflict"
   - "journal"
   - "quotes"
-coverImage: "IMG_1681.jpg"
+featured_image: "/images/IMG_1681.jpg"
 ---
 
 I'm excited to say that this guy is starting a new job at DOMO tomorrow and I'm pretty proud of him! Getting this job is kind of a bittersweet story for us, and I want to share it because I think it's something every marriage will face on some level.

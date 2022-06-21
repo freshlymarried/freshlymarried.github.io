@@ -9,7 +9,7 @@ categories:
   - "quotes"
   - "techniques"
   - "videos"
-coverImage: "Copy-of-the-power-of-empathy.png"
+featured_image: "/images/Copy-of-the-power-of-empathy.png"
 ---
 
  

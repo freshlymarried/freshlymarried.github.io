@@ -7,7 +7,7 @@ categories:
   - "effort"
   - "goals"
   - "techniques"
-coverImage: "relationship-education-2.png"
+featured_image: "/images/relationship-education-2.png"
 ---
 
 Most people don't know the underlying reason for Freshly Married being here. It's because relationship education is important! And yet so many people have either never heard of it before, are intimidated by it, scared of it, or assume it means you have relationship problems you need help with. WELL NEWSFLASH, WE ALL HAVE PROBLEMS! haha. But really.

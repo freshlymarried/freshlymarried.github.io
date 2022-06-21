@@ -7,7 +7,7 @@ categories:
   - "finances"
   - "journal"
   - "romance"
-coverImage: "IMG_2747.jpg"
+featured_image: "/images/IMG_2747.jpg"
 ---
 
 Have you ever had a hard time buying a gift for your spouse while keeping it a surprise? I personally have a problem with it just solely on the fact that I just can't wait for them to enjoy what I got them! Well for this post I'm talking about keeping it a secret _financially_.

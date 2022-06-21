@@ -8,7 +8,7 @@ categories:
   - "friendship"
   - "quotes"
   - "techniques"
-coverImage: "matthew-kane-71727.jpg"
+featured_image: "/images/matthew-kane-71727.jpg"
 ---
 
 I just read an article about a national study that found 73% of Americans have given advice to a friend or family member about their relationships. Source is at the bottom because I don't want to bore you like a class lecture. However, **I do want to address this important role of being a confidant to others on their relationships, because these people can be a very influential lifeline to your marriage success, whether it's positive or negative.**

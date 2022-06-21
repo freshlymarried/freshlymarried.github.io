@@ -6,7 +6,7 @@ categories:
   - "celebrate"
   - "journal"
   - "romance"
-coverImage: "IMG_38511.jpg"
+featured_image: "/images/IMG_38511.jpg"
 ---
 
 During a typical week day, there's a time where my life becomes like an apron-wearing, oven-ready "50's housewife cliché". I love this time of the day.

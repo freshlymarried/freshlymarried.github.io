@@ -7,7 +7,7 @@ categories:
   - "effort"
   - "journal"
   - "romance"
-coverImage: "blog-size-First-3-months-being-married.png"
+featured_image: "/images/blog-size-First-3-months-being-married.png"
 ---
 
 ### In our first three months together, I learned:

@@ -6,7 +6,7 @@ categories:
   - "communication"
   - "effort"
   - "funny"
-coverImage: "TrevorAmy_reception_JDA_02901.jpg"
+featured_image: "/images/TrevorAmy_reception_JDA_02901.jpg"
 ---
 
 A few weeks ago, I heard a stupid song on the radio. Well, goodness, aren't most of the songs on the radio kind of stupid? At least the ones on the cheesy pop stations, are. (I really hate most of what is played on the radio and am baffled that our society actually enjoys them so much that they become a top 10 favorite, but that is an argument for some other time, haha.) Anyways, the song I heard really annoyed me for other reasons. The song was called "True Love" by Pink. Here are some of the lyrics from this song:

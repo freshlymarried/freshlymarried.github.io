@@ -6,7 +6,7 @@ categories:
   - "dates"
   - "friendship"
   - "romance"
-coverImage: "cheap.jpg"
+featured_image: "/images/cheap.jpg"
 ---
 
 ### Life is busy.

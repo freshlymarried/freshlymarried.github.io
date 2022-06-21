@@ -7,7 +7,7 @@ categories:
   - "friendship"
   - "journal"
   - "romance"
-coverImage: "IMG_0110.jpg"
+featured_image: "/images/IMG_0110.jpg"
 ---
 
 So I'm finally sharing our beautiful trip to Hawaii we took in May! Two phrases I remember saying multiple times out loud and in mind are: "Bucket list item - CHECK!" and "That's another new thing I can say I tried!" I liked being able to make those little steps of progression in life, but doing them felt a million times more special and held more purpose getting to do them with my husband :)

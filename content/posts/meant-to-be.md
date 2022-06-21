@@ -7,7 +7,7 @@ categories:
   - "goals"
   - "journal"
   - "romance"
-coverImage: "IMG_0561.jpg"
+featured_image: "/images/IMG_0561.jpg"
 ---
 
 #### Sharing time
