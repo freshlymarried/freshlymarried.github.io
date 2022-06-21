@@ -29,7 +29,3 @@ url = "https://www.facebook.com/freshlymarriedadventures/"
 [[params.ananke_socials]]
 name = "instagram"
 url = "https://instagram.com/freshlymarried"
-
-[[params.ananke_socials]]
-name = "twitter"
-url = "https://twitter.com/freshly_married"
