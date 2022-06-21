@@ -2,3 +2,5 @@ baseURL = 'https://freshlymarried.com'
 languageCode = 'en-us'
 title = 'Freshly Married'
 theme = "ananke"
+[permalinks]
+  posts = '/:title/'
