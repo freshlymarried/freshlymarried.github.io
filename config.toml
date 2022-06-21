@@ -8,6 +8,7 @@ theme = "ananke"
 
 sectionPagesMenu = "main"
 paginate = 20
+googleAnalytics = "UA-46767990-1"
 enableRobotsTXT = true
 
 [sitemap]
