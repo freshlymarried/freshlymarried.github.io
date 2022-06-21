@@ -25,6 +25,13 @@ enableRobotsTXT = true
   url = '/posts/'
   weight = 2
 
+[[menu.main]]
+  identifier = 'about'
+  name = 'About'
+  title = 'About'
+  url = '/about/'
+  weight = 3
+
 [sitemap]
   changefreq = "monthly"
   priority = 0.5
