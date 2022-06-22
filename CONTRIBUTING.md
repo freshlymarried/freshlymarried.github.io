@@ -36,4 +36,9 @@ The rest is minimal tooling that could be easily swapped out. It is currently us
 
 The repository is self-contained without runtime dependencies.
 
-The only exceptions are an analytics service (Google Analytics) and some external links - like the newsletter service (Mailchimp), social media, and Amazon Associates.
+The only exceptions are some external links. Including:
+
+- Analytics service (Google Analytics)
+- Affiliates service (Amazon Associates)
+- Newsletter service (Mailchimp)
+- Social media accounts (Facebook and Instagram)
