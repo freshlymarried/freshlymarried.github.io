@@ -24,6 +24,7 @@ jobs:
         env:
           DEFAULT_BRANCH: main
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          VALIDATE_MARKDOWN: true
 
       - name: Install
         uses: peaceiris/actions-hugo@v2
