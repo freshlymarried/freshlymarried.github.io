@@ -50,7 +50,7 @@ enableRobotsTXT = true
   site_logo = "/images/logo.png"
   description = "Keepin' marriage fresh"
   recent_posts_number = 20
-  body_classes = "avenir mw9 center"
+  body_classes = "avenir bg-near-white mw9 center"
   post_content_classes = "avenir"
   disclaimer = "This site does not provide medical or mental health counseling advice, diagnosis or treatment. Freshly Married is a for-profit website, meaning that it may contain paid advertisements, sponsored posts and giveaways, and affiliate links. Sponsored content will be labeled as such. The products and companies that I share are ones that can somehow benefit your family relationships, as that’s what Freshly Married’s mission is. Opinions are my own. Freshly Married is a participant in the Amazon Services LLC Associates Program, an affiliate advertising program designed to provide a means for sites to earn advertising fees by advertising and linking to amazon.com."
 
