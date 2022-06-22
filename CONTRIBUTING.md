@@ -1,10 +1,12 @@
 # Contributing
 
-## Content
+## Portable Content
 
-The content is designed to be portable. It is just standard markdown files in [`content/`](https://github.com/freshlymarried/freshlymarried.github.io/tree/main/content) and image files in [`static/images/`](https://github.com/freshlymarried/freshlymarried.github.io/tree/main/static/images).
+The content is designed to be portable. It is just standard markdown in [`content/`](https://github.com/freshlymarried/freshlymarried.github.io/tree/main/content) and images in [`static/images/`](https://github.com/freshlymarried/freshlymarried.github.io/tree/main/static/images).
 
-The only exceptions are the `_index.md` files that Hugo uses and front matter at the top of each markdown file which Hugo uses but could be used by other tools for programmatic pieces:
+The file names in `/content/posts/some-name.md` become permalinks at `https://freshlymarried.com/some-name`.
+
+The only exceptions are the `_index.md` files and front matter at the top of each markdown file which are used by tools for programmatic pieces:
 
 ```yaml
 ---
@@ -17,13 +19,33 @@ featured_image: "/images/some-file.png"
 ---
 ```
 
-## Permalinks
+## Production Dependencies
 
-The file names in `/content/posts/some-name.md` become permalinks at `https://freshlymarried.com/some-name`.
+The repository strives to be self-contained without production dependencies at runtime.
 
-## Tooling
+The only exceptions are some external links. Including:
 
-The rest is minimal tooling that could be easily swapped out. It is currently using Git, GitHub, and Hugo:
+- Newsletter service (Mailchimp)
+- Analytics service (Google Analytics)
+- Affiliates service (Amazon Associates)
+- Social media accounts (Facebook and Instagram)
+
+## Development Dependencies
+
+The rest is minimal development dependencies that could be easily swapped out. Including:
+
+- Version control (Git)
+- Remote repository (GitHub)
+- CI/CD (GitHub Actions)
+- Hosting (GitHub Pages)
+- Static site generator (Hugo)
+
+### Development Branches
+
+- The `main` branch is used as the source.
+- The branch `gh-pages` and the repository name `freshlymarried.github.io` are used by GitHub pages.
+
+### Development Files
 
 - `.git/` and [`.gitignore`](https://github.com/freshlymarried/freshlymarried.github.io/tree/main/.gitignore) hold version control history used by Git and GitHub.
 - [`README.md`](https://github.com/freshlymarried/freshlymarried.github.io/tree/main/README.md) and [`CONTRIBUTING.md`](https://github.com/freshlymarried/freshlymarried.github.io/tree/main/CONTRIBUTING.md) hold documentation used by GitHub.
@@ -31,14 +53,3 @@ The rest is minimal tooling that could be easily swapped out. It is currently us
 - [`.gitmodules`](https://github.com/freshlymarried/freshlymarried.github.io/tree/main/.gitmodules) and [`themes/`](https://github.com/freshlymarried/freshlymarried.github.io/tree/main/themes) hold the theme used by Hugo. It is [a fork](https://github.com/freshlymarried/gohugo-theme-ananke) so that the version is pinned without automatic breaking changes.
 - [`layouts/partials/`](https://github.com/freshlymarried/freshlymarried.github.io/tree/main/layouts/partials) holds theme overrides used by Hugo. These are avoided where possible.
 - [`.github/workflows/`](https://github.com/freshlymarried/freshlymarried.github.io/tree/main/.github/workflows) holds CI/CD configuration used by GitHub Actions. This uses pinned versions without automatic breaking changes.
-
-## Runtime Integrations
-
-The repository is self-contained without runtime dependencies.
-
-The only exceptions are some external links. Including:
-
-- Analytics service (Google Analytics)
-- Affiliates service (Amazon Associates)
-- Newsletter service (Mailchimp)
-- Social media accounts (Facebook and Instagram)
