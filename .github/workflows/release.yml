@@ -19,13 +19,6 @@ jobs:
           submodules: true # Fetch Hugo themes
           fetch-depth: 0 # Fetch all history for .GitInfo and .Lastmod
 
-      - name: Lint
-        uses: github/super-linter/slim@v4
-        env:
-          DEFAULT_BRANCH: main
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          VALIDATE_MARKDOWN: true
-
       - name: Install
         uses: peaceiris/actions-hugo@v2
         with:
