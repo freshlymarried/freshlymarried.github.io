@@ -32,6 +32,13 @@ enableRobotsTXT = true
   url = '/about/'
   weight = 3
 
+[[menu.main]]
+  identifier = 'newsletter'
+  name = 'Newsletter'
+  title = 'Newsletter'
+  url = 'https://mailchi.mp/bd78e63417c4/freshly-married-newsletter'
+  weight = 4
+
 [sitemap]
   changefreq = "monthly"
   priority = 0.5
