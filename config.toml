@@ -7,7 +7,7 @@ googleAnalytics = "UA-46767990-1"
 enableRobotsTXT = true
 
 [permalinks]
-  posts = '/:title/'
+  posts = '/:filename/'
 
 [menu]
 
