@@ -39,6 +39,7 @@ The rest is minimal development dependencies that could be easily swapped out. I
 - CI/CD (GitHub Actions)
 - Hosting (GitHub Pages)
 - Static site generator (Hugo)
+- Domain name registrar (Hover)
 
 ### Development Branches
 
@@ -53,3 +54,4 @@ The rest is minimal development dependencies that could be easily swapped out. I
 - [`.gitmodules`](https://github.com/freshlymarried/freshlymarried.github.io/tree/main/.gitmodules) and [`themes/`](https://github.com/freshlymarried/freshlymarried.github.io/tree/main/themes) hold the theme used by Hugo. It is [a fork](https://github.com/freshlymarried/gohugo-theme-ananke) so that the version is pinned without automatic breaking changes.
 - [`layouts/partials/`](https://github.com/freshlymarried/freshlymarried.github.io/tree/main/layouts/partials) holds theme overrides used by Hugo. These are avoided where possible.
 - [`.github/workflows/`](https://github.com/freshlymarried/freshlymarried.github.io/tree/main/.github/workflows) holds CI/CD configuration used by GitHub Actions. This uses pinned versions without automatic breaking changes.
+- [`static/CNAME`](https://github.com/freshlymarried/freshlymarried.github.io/tree/main/static/CNAME) holds custom domain configuration used by GitHub Pages along with DNS configuration in the domain name registrar settings.
