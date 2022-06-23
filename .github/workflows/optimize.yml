@@ -24,4 +24,4 @@ jobs:
           title: Compressed Images
           branch-suffix: timestamp
           commit-message: Compressed Images
-          body: Compresed Images
+          body: ${{ steps.calibre.outputs.markdown }}
