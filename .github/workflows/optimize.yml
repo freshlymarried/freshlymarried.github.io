@@ -1,3 +1,5 @@
+name: optimize
+
 on:
   workflow_dispatch:
 
